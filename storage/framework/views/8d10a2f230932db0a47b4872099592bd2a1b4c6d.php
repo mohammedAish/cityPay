@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-@if (app()->getLocale() == 'ar')
+<?php if(app()->getLocale() == 'ar'): ?>
 <html lang="en">
     <head>
         <meta charset="utf-8">
@@ -10,8 +10,8 @@
         <meta content="" name="keywords">
 
         <!-- Favicons -->
-        <link href="{{ asset('assets_v3/assets/img/favicon.png') }}" rel="icon">
-        <link href="{{ asset('assets_v3/assets/img/apple-touch-icon.png') }}" rel="apple-touch-icon">
+        <link href="<?php echo e(asset('assets_v3/assets/img/favicon.png')); ?>" rel="icon">
+        <link href="<?php echo e(asset('assets_v3/assets/img/apple-touch-icon.png')); ?>" rel="apple-touch-icon">
 
         <!-- Google Fonts -->
         <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -20,14 +20,14 @@
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css') }}">
 
         <!-- Vendor CSS Files -->
-        <link href="{{ asset('assets_v3/assets/vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
-        <link href="{{ asset('assets_v3/assets/vendor/bootstrap-icons/bootstrap-icons.css') }}" rel="stylesheet">
-        <link href="{{ asset('assets_v3/assets/vendor/boxicons/css/boxicons.min.css') }}" rel="stylesheet">
-        <link href="{{ asset('assets_v3/assets/vendor/glightbox/css/glightbox.min.css') }}" rel="stylesheet">
-        <link href="{{ asset('assets_v3/assets/vendor/swiper/swiper-bundle.min.css') }}" rel="stylesheet">
+        <link href="<?php echo e(asset('assets_v3/assets/vendor/bootstrap/css/bootstrap.min.css')); ?>" rel="stylesheet">
+        <link href="<?php echo e(asset('assets_v3/assets/vendor/bootstrap-icons/bootstrap-icons.css')); ?>" rel="stylesheet">
+        <link href="<?php echo e(asset('assets_v3/assets/vendor/boxicons/css/boxicons.min.css')); ?>" rel="stylesheet">
+        <link href="<?php echo e(asset('assets_v3/assets/vendor/glightbox/css/glightbox.min.css')); ?>" rel="stylesheet">
+        <link href="<?php echo e(asset('assets_v3/assets/vendor/swiper/swiper-bundle.min.css')); ?>" rel="stylesheet">
 
-        <link href="{{ asset('assets_v3/assets/css/style.css') }}" rel="stylesheet">
-        <link href="{{ asset('assets_v3/assets/css/login-ltr.css') }}" rel="stylesheet" />
+        <link href="<?php echo e(asset('assets_v3/assets/css/style.css')); ?>" rel="stylesheet">
+        <link href="<?php echo e(asset('assets_v3/assets/css/login-ltr.css')); ?>" rel="stylesheet" />
 
     </head>
 
@@ -63,13 +63,13 @@
                     <ul>
 
                         <li class="navLang">
-                            <a href="{{ LaravelLocalization::getLocalizedURL('ar') }}">
-                                <img src="{{asset('assets_v3/assets/img/icons/Language.png')}}" /> AR
+                            <a href="<?php echo e(LaravelLocalization::getLocalizedURL('ar')); ?>">
+                                <img src="<?php echo e(asset('assets_v3/assets/img/icons/Language.png')); ?>" /> AR
                             </a>
                         </li>
                         <li class="navLang">
-                            <a href="{{ LaravelLocalization::getLocalizedURL('en') }}">
-                                <img src="{{asset('assets_v3/assets/img/icons/Engilsh.png')}}" /> EN
+                            <a href="<?php echo e(LaravelLocalization::getLocalizedURL('en')); ?>">
+                                <img src="<?php echo e(asset('assets_v3/assets/img/icons/Engilsh.png')); ?>" /> EN
                             </a>
                         </li>
 
@@ -118,7 +118,7 @@
                     <div class="col-lg-3 style-right">
 
                         <a href="index.html">
-                            <img src="{{asset('assets_v3/assets/img/logoFooter.png')}}" alt="">
+                            <img src="<?php echo e(asset('assets_v3/assets/img/logoFooter.png')); ?>" alt="">
                         </a>
                         <h4 class="Title-Links">
                             الشركة
@@ -191,17 +191,17 @@
                                 </a>
                             </li>
                             <li class="Footer-Links">
-                                <a href="{{route('agreement')}}">
+                                <a href="<?php echo e(route('agreement')); ?>">
                                     اتفاقية المستخدم
                                 </a>
                             </li>
                             <li class="Footer-Links">
-                                <a href="{{route('privacy')}}">
+                                <a href="<?php echo e(route('privacy')); ?>">
                                     سياسة الامان والخصوصية
                                 </a>
                             </li>
                             <li class="Footer-Links">
-                                <a href="{{route('licenses')}}">
+                                <a href="<?php echo e(route('licenses')); ?>">
                                     التراخيص
                                 </a>
                             </li>
@@ -228,13 +228,13 @@
                         <ul class="Links pt-3" style="display:inline-flex!important;">
                             <li class="Footer-Links mx-1">
                                 <a href="#">
-                                    <img width="120" height="40" src="{{asset('assets_v3/assets/img/icons/app-1.png')}}" />
+                                    <img width="120" height="40" src="<?php echo e(asset('assets_v3/assets/img/icons/app-1.png')); ?>" />
 
                                 </a>
                             </li>
                             <li class="Footer-Links mx-1">
                                 <a href="#">
-                                    <img width="120" height="40" src="{{ asset('assets_v3/assets/img/icons/app-2.png')}}" />
+                                    <img width="120" height="40" src="<?php echo e(asset('assets_v3/assets/img/icons/app-2.png')); ?>" />
 
                                 </a>
                             </li>
@@ -259,20 +259,20 @@
     <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
 
-<script src="{{ asset('assets_v3/assets/vendor/purecounter/purecounter_vanilla.js') }}"></script>
-<script src="{{ asset('assets_v3/assets/vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
-<script src="{{ asset('assets_v3/assets/vendor/glightbox/js/glightbox.min.js') }}"></script>
-<script src="{{ asset('assets_v3/assets/vendor/isotope-layout/isotope.pkgd.min.js') }}"></script>
-<script src="{{ asset('assets_v3/assets/vendor/swiper/swiper-bundle.min.js') }}"></script>
-<script src="{{ asset('assets_v3/assets/vendor/php-email-form/validate.js') }}"></script>
+<script src="<?php echo e(asset('assets_v3/assets/vendor/purecounter/purecounter_vanilla.js')); ?>"></script>
+<script src="<?php echo e(asset('assets_v3/assets/vendor/bootstrap/js/bootstrap.bundle.min.js')); ?>"></script>
+<script src="<?php echo e(asset('assets_v3/assets/vendor/glightbox/js/glightbox.min.js')); ?>"></script>
+<script src="<?php echo e(asset('assets_v3/assets/vendor/isotope-layout/isotope.pkgd.min.js')); ?>"></script>
+<script src="<?php echo e(asset('assets_v3/assets/vendor/swiper/swiper-bundle.min.js')); ?>"></script>
+<script src="<?php echo e(asset('assets_v3/assets/vendor/php-email-form/validate.js')); ?>"></script>
 
 
-<script src="{{ asset('assets_v3/assets/js/main.js') }}"></script>
+<script src="<?php echo e(asset('assets_v3/assets/js/main.js')); ?>"></script>
 
 </body>
 
 </html>
-@else
+<?php else: ?>
 <html lang="en">
     <head>
         <meta charset="utf-8">
@@ -283,8 +283,8 @@
         <meta content="" name="keywords">
 
         <!-- Favicons -->
-        <link href="{{ asset('assets_v3/assets/img/favicon.png') }}" rel="icon">
-        <link href="{{ asset('assets_v3/assets/img/apple-touch-icon.png') }}" rel="apple-touch-icon">
+        <link href="<?php echo e(asset('assets_v3/assets/img/favicon.png')); ?>" rel="icon">
+        <link href="<?php echo e(asset('assets_v3/assets/img/apple-touch-icon.png')); ?>" rel="apple-touch-icon">
 
         <!-- Google Fonts -->
         <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -293,14 +293,14 @@
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css') }}">
 
         <!-- Vendor CSS Files -->
-        <link href="{{ asset('assets_v3/assets/vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
-        <link href="{{ asset('assets_v3/assets/vendor/bootstrap-icons/bootstrap-icons.css') }}" rel="stylesheet">
-        <link href="{{ asset('assets_v3/assets/vendor/boxicons/css/boxicons.min.css') }}" rel="stylesheet">
-        <link href="{{ asset('assets_v3/assets/vendor/glightbox/css/glightbox.min.css') }}" rel="stylesheet">
-        <link href="{{ asset('assets_v3/assets/vendor/swiper/swiper-bundle.min.css') }}" rel="stylesheet">
+        <link href="<?php echo e(asset('assets_v3/assets/vendor/bootstrap/css/bootstrap.min.css')); ?>" rel="stylesheet">
+        <link href="<?php echo e(asset('assets_v3/assets/vendor/bootstrap-icons/bootstrap-icons.css')); ?>" rel="stylesheet">
+        <link href="<?php echo e(asset('assets_v3/assets/vendor/boxicons/css/boxicons.min.css')); ?>" rel="stylesheet">
+        <link href="<?php echo e(asset('assets_v3/assets/vendor/glightbox/css/glightbox.min.css')); ?>" rel="stylesheet">
+        <link href="<?php echo e(asset('assets_v3/assets/vendor/swiper/swiper-bundle.min.css')); ?>" rel="stylesheet">
 
-        <link href="{{ asset('assets_v3/assets/css/Ltr.css') }}" rel="stylesheet">
-        <link href="{{ asset('assets_v3/assets/css/login-ltr.css') }}" rel="stylesheet" />
+        <link href="<?php echo e(asset('assets_v3/assets/css/Ltr.css')); ?>" rel="stylesheet">
+        <link href="<?php echo e(asset('assets_v3/assets/css/login-ltr.css')); ?>" rel="stylesheet" />
 
     </head>
 
@@ -337,13 +337,13 @@
 
 
                         <li class="navLang">
-                            <a href="{{ LaravelLocalization::getLocalizedURL('ar') }}">
-                                <img src="{{asset('assets_v3/assets/img/icons/Language.png')}}" /> AR
+                            <a href="<?php echo e(LaravelLocalization::getLocalizedURL('ar')); ?>">
+                                <img src="<?php echo e(asset('assets_v3/assets/img/icons/Language.png')); ?>" /> AR
                             </a>
                         </li>
                         <li class="navLang">
-                            <a href="{{ LaravelLocalization::getLocalizedURL('en') }}">
-                                <img src="{{asset('assets_v3/assets/img/icons/Engilsh.png')}}" /> EN
+                            <a href="<?php echo e(LaravelLocalization::getLocalizedURL('en')); ?>">
+                                <img src="<?php echo e(asset('assets_v3/assets/img/icons/Engilsh.png')); ?>" /> EN
                             </a>
                         </li>
 
@@ -394,7 +394,7 @@
                     <div class="col-lg-3 style-right">
 
                         <a href="index.html">
-                            <img src="{{asset('assets_v3/assets/img/logoFooter.png')}}" alt="">
+                            <img src="<?php echo e(asset('assets_v3/assets/img/logoFooter.png')); ?>" alt="">
                         </a>
                         <h4 class="Title-Links">
                             Company
@@ -470,17 +470,17 @@
                                 </a>
                             </li>
                             <li class="Footer-Links">
-                                <a href="{{route('agreement')}}">
+                                <a href="<?php echo e(route('agreement')); ?>">
                                     User Agreement
                                 </a>
                             </li>
                             <li class="Footer-Links">
-                                <a href="{{route('privacy')}}">
+                                <a href="<?php echo e(route('privacy')); ?>">
                                     Security and privacy policy
                                 </a>
                             </li>
                             <li class="Footer-Links">
-                                <a href="{{route('licenses')}}">
+                                <a href="<?php echo e(route('licenses')); ?>">
                                     Licenses
                                 </a>
                             </li>
@@ -508,13 +508,13 @@
                         <ul class="Links pt-3" style="display:inline-flex!important;">
                             <li class="Footer-Links mx-1">
                                 <a href="#">
-                                    <img width="120" height="40" src="{{asset('assets_v3/assets/img/icons/app-1.png')}}" />
+                                    <img width="120" height="40" src="<?php echo e(asset('assets_v3/assets/img/icons/app-1.png')); ?>" />
 
                                 </a>
                             </li>
                             <li class="Footer-Links mx-1">
                                 <a href="#">
-                                    <img width="120" height="40" src="{{ asset('assets_v3/assets/img/icons/app-2.png')}}" />
+                                    <img width="120" height="40" src="<?php echo e(asset('assets_v3/assets/img/icons/app-2.png')); ?>" />
 
                                 </a>
                             </li>
@@ -539,20 +539,21 @@
     <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
 
-<script src="{{ asset('assets_v3/assets/vendor/purecounter/purecounter_vanilla.js') }}"></script>
-<script src="{{ asset('assets_v3/assets/vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
-<script src="{{ asset('assets_v3/assets/vendor/glightbox/js/glightbox.min.js') }}"></script>
-<script src="{{ asset('assets_v3/assets/vendor/isotope-layout/isotope.pkgd.min.js') }}"></script>
-<script src="{{ asset('assets_v3/assets/vendor/swiper/swiper-bundle.min.js') }}"></script>
-<script src="{{ asset('assets_v3/assets/vendor/php-email-form/validate.js') }}"></script>
+<script src="<?php echo e(asset('assets_v3/assets/vendor/purecounter/purecounter_vanilla.js')); ?>"></script>
+<script src="<?php echo e(asset('assets_v3/assets/vendor/bootstrap/js/bootstrap.bundle.min.js')); ?>"></script>
+<script src="<?php echo e(asset('assets_v3/assets/vendor/glightbox/js/glightbox.min.js')); ?>"></script>
+<script src="<?php echo e(asset('assets_v3/assets/vendor/isotope-layout/isotope.pkgd.min.js')); ?>"></script>
+<script src="<?php echo e(asset('assets_v3/assets/vendor/swiper/swiper-bundle.min.js')); ?>"></script>
+<script src="<?php echo e(asset('assets_v3/assets/vendor/php-email-form/validate.js')); ?>"></script>
 
 
-<script src="{{ asset('assets_v3/assets/js/main.js') }}"></script>
+<script src="<?php echo e(asset('assets_v3/assets/js/main.js')); ?>"></script>
 
 </body>
 
 </html>
-@endif
+<?php endif; ?>
 
 
 
+<?php /**PATH /Users/mac/Documents/GitHub/cityPay/resources/views/home/licenses.blade.php ENDPATH**/ ?>

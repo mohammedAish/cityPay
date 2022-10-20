@@ -70,7 +70,7 @@ class NewHomeController extends BaseWebController
         return view('home.home', $data);
     }
     public function privacy() {
-        return view('layouts.home.privacy');
+        return view('home.privacyy');
     }
     public function agreement() {
         return view('home.agreement');
