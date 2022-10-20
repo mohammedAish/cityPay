@@ -1,0 +1,89 @@
+/* Reference import */
+@media screen and (max-width: 767px) {
+}
+@media (min-width: 768px) {
+}
+@media (min-width: 768px) {
+}
+@media (max-width: 767px) {
+}
+@media (min-width: 768px) {
+}
+@media (min-width: 768px) {
+}
+@media (max-width: 767px) {
+}
+@media (max-width: 767px) {
+}
+.app-table {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 20px;
+}
+.app-table > thead > tr > th,
+.app-table > tbody > tr > th,
+.app-table > tfoot > tr > th,
+.app-table > thead > tr > td,
+.app-table > tbody > tr > td,
+.app-table > tfoot > tr > td {
+  padding: 8px;
+  line-height: 1.42857143;
+  vertical-align: top;
+  border-top: 1px solid #ddd;
+}
+.app-table > thead > tr > th {
+  vertical-align: bottom;
+  border-bottom: 2px solid #ddd;
+}
+.app-table > caption + thead > tr:first-child > th,
+.app-table > colgroup + thead > tr:first-child > th,
+.app-table > thead:first-child > tr:first-child > th,
+.app-table > caption + thead > tr:first-child > td,
+.app-table > colgroup + thead > tr:first-child > td,
+.app-table > thead:first-child > tr:first-child > td {
+  border-top: 0;
+}
+.app-table > tbody + tbody {
+  border-top: 2px solid #ddd;
+}
+.app-table .table {
+  background-color: #fff;
+}
+.app-time-table {
+  position: relative;
+}
+.app-time-table th {
+  text-align: center;
+  vertical-align: middle !important;
+}
+.app-time-table tbody td,
+.app-time-table tbody th {
+  height: 60px;
+}
+.app-time-table tbody.x2 td,
+.app-time-table tbody.x2 th {
+  height: 120px;
+}
+.app-time-table tbody.x3 td,
+.app-time-table tbody.x3 th {
+  height: 180px;
+}
+.app-time-table .app-week-time-span {
+  position: absolute;
+  border: 1px solid #ccc;
+  background: #fff;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 2px;
+  overflow: hidden;
+  background: #ccc;
+}
+.app-time-table .table-bordered,
+.app-time-table .table-bordered > thead > tr > th,
+.app-time-table .table-bordered > tbody > tr > th,
+.app-time-table .table-bordered > tfoot > tr > th,
+.app-time-table .table-bordered > thead > tr > td,
+.app-time-table .table-bordered > tbody > tr > td,
+.app-time-table .table-bordered > tfoot > tr > td {
+  border: 1px solid #cfcfcf;
+}

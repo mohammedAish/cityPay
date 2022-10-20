@@ -1,0 +1,64 @@
+@media screen and (max-width: 767px){
+    .theme-orrange .header-box,
+    .theme-orrange .color-switcher .toggle-button{
+        background-color: #d47707;
+    }
+}
+.theme-orrange .wallet-area-warpper{
+    background-color: #d4770710;
+}
+.theme-orrange .wallet-top-header,
+.theme-orrange .transfer-coin-btn a.active, 
+.theme-orrange .transfer-coin-btn a:hover,
+.theme-orrange .theme-btn,
+.theme-orrange .edit-images .edit-label,
+.theme-orrange .notification-dropdown .notification-footer a,
+.theme-orrange .wallet-transaction-box .wallet-transaction-ico,
+.theme-orrange .theme-color-swith input:checked + .slider,
+.dark-mode.theme-orrange .color-switcher .toggle-button {
+    background-color: #d47707;
+}
+.theme-orrange .theme-btn{
+    border-color: #d47707;
+}
+.theme-orrange .header-logo,
+.theme-orrange .transfer-coin-btn a {
+    background-color: #ed9a36;
+}
+.theme-orrange .wallet-top-header-box .header-wallet-ico,
+.theme-orrange .wallet-top-header-box h3 {
+    color: #fff !important;
+}
+.theme-orrange .wallet-top-header-right .notification-box-area .notification-box .notification-active {
+    background-color: #fff;
+}
+.theme-orrange .color-switcher .color-theme-menu h4,
+.theme-orrange .wallet-bradcrumb h2,
+.theme-orrange .header-nav-menu ul li.active > a, 
+.theme-orrange .header-nav-menu ul li a:hover,
+.theme-orrange .dashboard-title,
+.theme-orrange .wallet-balance-box .wallet-balance-name h3, 
+.theme-orrange .wallet-balance-box .wallet-balance-amount h3,
+.theme-orrange .wallet-transaction-box .wallet-transaction-name h3, 
+.theme-orrange .wallet-transaction-balance h3,
+.theme-orrange .theme-input-box label,
+.theme-orrange .notification-header h3,
+.theme-orrange .wallet-top-header-box.user-top-detail ul li a,
+.theme-orrange .wallet-language-box .dropdown-menu li > a{
+    color: #d47707;
+}
+.theme-orrange .wallet-balance-area .wallet-balance-box h3{
+    color: #222;
+}
+.theme-orrange .header-nav-menu ul li.active{
+    border-left-color: #d47707;
+}
+.theme-orrange .header-nav-menu ul li a {
+    color: #d0a879;
+}
+.theme-orrange .apexcharts-series path {
+    fill: #d47707 !important;
+}
+.theme-orrange .apexcharts-series path{
+    stroke: #b17835 !important;
+}

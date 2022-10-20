@@ -1,0 +1,255 @@
+﻿/*.Labtop {
+    background-image: url('../img/Lgoinbg.jpg') !important;
+    background-size: cover;
+
+    background-repeat: no-repeat;
+}*/
+
+body {
+  /*  background-image: url('../img/bgbody.jpg') !important;
+    background-size: cover;
+    background-repeat: no-repeat;*/
+}
+
+.Mobile1 {
+    display: none;
+}
+
+.text-register{
+    font-weight:600!important;
+    font-size:14px!important;
+}
+
+.imageSection2 {
+    width: 700px;
+    margin-top: -150px;
+}
+
+.TitleSigin {
+    font-size: 22px;
+    font-family: Almarai;
+    font-weight: 600;
+    color: #1e3060;
+    text-align: center;
+}
+    .TitleSigin > span {
+        color:#e51d39!important;
+    }
+
+    .TitleText {
+        font-size: 20px;
+        font-family: Almarai;
+        font-weight: 600;
+        color: #1e3060;
+        text-align: center;
+    }
+
+.input-style {
+    border-radius: 5px !important;
+    height: 50px !important;
+    font-family: Almarai;
+    font-size: 16px;
+    color: #262626;
+}
+
+.style-quction-password {
+    font-weight: 600 !important;
+    font-size:13px;
+    color: #0099ff;
+}
+
+.style-quction-rember {
+    font-weight: 600 !important;
+    font-size: 13px;
+}
+
+    .form-control {
+        outline: none !important;
+        border-radius: 0;
+    }
+
+    .form-control:focus {
+        box-shadow: none !important;
+    }
+
+    .form-control:focus {
+        border-color: #e51d39;
+        border-width: 1.5px;
+    }
+
+    
+
+        .inner-addon {
+            position: relative;
+        }
+
+    /* style icon */
+    .inner-addon .glyphicon {
+        position: absolute;
+        padding: 15px;
+        pointer-events: none;
+    }
+
+/* align icon */
+.left-addon .glyphicon {
+    left: 0px;
+}
+
+.right-addon .glyphicon {
+    right: 0px;
+    color:#e51d39;
+  
+}
+
+/* add padding  */
+.left-addon input {
+    padding-left: 30px;
+}
+
+.right-addon input {
+    padding-right: 40px;
+}
+
+.stylebtnSignin {
+    background-image: linear-gradient(125deg,#e51d39,#e7324a,#ea485e);
+    border-radius: 5px;
+    font-size: 14px;
+    box-shadow: none;
+    color: #ffffff !important;
+    font-family: Almarai;
+    font-weight: 600;
+    display:block;
+    padding:10px 20px;
+    text-align:center!important;
+}
+
+    .stylebtnSignin:hover {
+        background-image: linear-gradient(125deg,#ea485e,#e7324a,#e51d39);
+    }
+
+.stylebtnNormal {
+    width: 150px;
+    font-size: 14px;
+    border-radius: 10px;
+    font-family: Almarai;
+    font-weight: 600;
+    color: #262626;
+    box-shadow: none !important;
+    background-image: linear-gradient(125deg,#F1F3F5,#F1F3F5);
+}
+
+    .stylebtnNormal:hover {
+        background-image: linear-gradient(125deg,#0AA7FA,#0AA7FA);
+        color: #ffffff !important;
+    }
+
+
+.stylebtnCard {
+    width: 150px;
+    font-size: 14px;
+    border-radius: 10px;
+    font-family: Almarai;
+    font-weight: 600;
+    color: #ffffff;
+    box-shadow: none !important;
+    background-image: linear-gradient(125deg,#0AA7FA,#5A6ADA);
+}
+
+    .stylebtnCard:hover {
+        background-image: linear-gradient(125deg,#0AA7FA,#0AA7FA);
+        color: #ffffff !important;
+    }
+
+
+.scialmedia {
+    margin-top: 500px;
+    text-align: center;
+}
+
+.bg {
+    background-image: url('../img/imagMobile.png') !important;
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    margin-top: -50px;
+}
+
+.styleform {
+    margin-top: 140px;
+}
+
+
+.TitleSiginMobile {
+    font-size: 22px;
+    font-family: Almarai;
+    font-weight: 600;
+    color: #1F98F2;
+    text-align: center;
+}
+
+.TitleTextMobile {
+    font-size: 20px;
+    font-family: Almarai;
+    font-weight: 600;
+    color: #555555;
+    text-align: center;
+}
+
+.imglogoMobile {
+    margin-top: -100px;
+}
+
+@media (max-width: 992px) {
+    .style-respinsvie {
+        display: none;
+    }
+
+    body {
+        background: none !important;
+    }
+
+    .style-container-form {
+        padding: 10px !important;
+    }
+
+}
+
+@media (max-width: 1024px) {
+    .style-respinsvie {
+        display: none;
+    }
+
+    body {
+        background: none !important;
+    }
+
+    .style-container-form {
+        padding: 10px !important;
+    }
+
+}
+
+@media (max-width: 854px) {
+    .style-respinsvie {
+        display: none;
+    }
+    body{
+        background:none!important;
+    }
+
+    .style-container-form {
+        padding: 10px!important;
+    }
+
+    .Mobile1 {
+        display: block;
+    }
+
+    .styleform {
+        margin-top: 200px;
+    }
+}
+
+.style-container-form{
+    padding:20px 50px;
+}

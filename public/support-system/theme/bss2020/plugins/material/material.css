@@ -1,0 +1,238 @@
+.form-group .material-switch {
+  margin-top: 0.45rem;
+  margin-left: 0.25rem;
+}
+.form-group .material-switch.inline {
+  display: inline-block;
+  vertical-align: -0.35rem;
+}
+.form-group .material-switch > input[type=checkbox] {
+  display: none;
+}
+.form-group .material-switch > label {
+  cursor: pointer;
+  height: 0px;
+  position: relative;
+  width: 40px;
+}
+.form-group .material-switch > label.bg-mat {
+  background-color: #1f6598 !important;
+}
+.form-group .material-switch > label::before {
+  background: black;
+  box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.5);
+  border-radius: 8px;
+  content: "";
+  height: 16px;
+  margin-top: -8px;
+  position: absolute;
+  opacity: 0.3;
+  transition: all 0.4s ease-in-out;
+  width: 40px;
+}
+.form-group .material-switch > label::after {
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+  content: "";
+  height: 24px;
+  left: -4px;
+  margin-top: -8px;
+  position: absolute;
+  top: -4px;
+  transition: all 0.3s ease-in-out;
+  width: 24px;
+}
+.form-group .material-switch > input[type=checkbox]:checked + label::before {
+  background: inherit;
+  opacity: 0.5;
+}
+.form-group .material-switch > input[type=checkbox]:checked + label::after {
+  background: inherit;
+  left: 20px;
+}
+.form-group .material-switch.material-switch-sm > label::before {
+  background: black;
+  box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.5);
+  border-radius: 8px;
+  content: "";
+  height: 12px;
+  margin-top: -6px;
+  position: absolute;
+  opacity: 0.3;
+  transition: all 0.4s ease-in-out;
+  width: 30px;
+}
+.form-group .material-switch.material-switch-sm > label::after {
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+  content: "";
+  height: 20px;
+  left: -4px;
+  margin-top: -8px;
+  position: absolute;
+  top: -2px;
+  transition: all 0.3s ease-in-out;
+  width: 20px;
+}
+.form-group .material-switch.material-switch-sm > input[type=checkbox]:checked + label::after {
+  background: inherit;
+  left: 16px;
+}
+@keyframes ripple {
+  0% {
+    box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 0);
+  }
+  50% {
+    box-shadow: 0px 0px 0px 15px rgba(0, 0, 0, 0.1);
+  }
+  100% {
+    box-shadow: 0px 0px 0px 15px rgba(0, 0, 0, 0);
+  }
+}
+.form-group .md-radio {
+  margin: 0.1rem 0;
+}
+.form-group .md-radio.md-radio-inline {
+  display: inline-block;
+}
+.form-group .md-radio input[type=radio] {
+  display: none;
+}
+.form-group .md-radio input[type=radio]:checked + label:before {
+  border-color: #1f6598;
+  animation: ripple 0.2s linear forwards;
+}
+.form-group .md-radio input[type=radio]:checked + label:after {
+  transform: scale(1);
+}
+.form-group .md-radio input[type=radio]:disabled + label:before {
+  border-color: rgba(0, 0, 0, 0.26);
+  animation: ripple 0.2s linear forwards;
+}
+.form-group .md-radio input[type=radio]:disabled + label:after {
+  transform: scale(1.8);
+  background: rgba(0, 0, 0, 0.14);
+}
+.form-group .md-radio label {
+  display: inline-block;
+  height: 20px;
+  position: relative;
+  padding: 0 15px 0 30px;
+  margin-bottom: 0;
+  cursor: pointer;
+  vertical-align: bottom;
+}
+.form-group .md-radio label:before, .form-group .md-radio label:after {
+  position: absolute;
+  content: "";
+  border-radius: 50%;
+  transition: all 0.3s ease;
+  transition-property: transform, border-color;
+}
+.form-group .md-radio label:before {
+  left: 0;
+  top: 0;
+  width: 20px;
+  height: 20px;
+  border: 2px solid rgba(29, 88, 133, 0.85);
+}
+.form-group .md-radio label:after {
+  top: 5px;
+  left: 5px;
+  width: 10px;
+  height: 10px;
+  transform: scale(0);
+  background: #1f6598;
+}
+.form-group .pt-1 > .md-radio {
+  margin: 0;
+}
+.form-group *, .form-group *:before, .form-group *:after {
+  box-sizing: border-box;
+}
+.form-group body {
+  background: #f0f0f0;
+  position: absolute;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  color: #333;
+}
+.form-group section {
+  background: white;
+  margin: 0 auto;
+  padding: 4em;
+  max-width: 800px;
+}
+.form-group section h1 {
+  margin: 0 0 2em;
+}
+.form-group .md-checkbox {
+  position: relative;
+  margin: 0 0.4rem;
+  text-align: left;
+}
+.form-group .md-checkbox.md-checkbox-inline {
+  display: inline-block;
+}
+.form-group .md-checkbox label {
+  cursor: pointer;
+  display: inline;
+  line-height: 1.35em;
+  vertical-align: top;
+  clear: both;
+  padding-left: 1px;
+}
+.form-group .md-checkbox label:not(:empty) {
+  padding-left: 0.75em;
+}
+.form-group .md-checkbox label:before, .form-group .md-checkbox label:after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.form-group .md-checkbox label:before {
+  width: 1.35em;
+  height: 1.35em;
+  background: #fff;
+  border: 2px solid rgba(29, 88, 133, 0.85);
+  border-radius: 0.125em;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+.form-group .md-checkbox input[type=checkbox] {
+  outline: 0;
+  visibility: hidden;
+  width: 1.35em;
+  margin: 0;
+  display: block;
+  float: left;
+  font-size: inherit;
+}
+.form-group .md-checkbox input[type=checkbox]:checked + label:before {
+  background: #1f6598;
+  border: none;
+}
+.form-group .md-checkbox input[type=checkbox]:checked + label:after {
+  transform: translate(0.25em, 0.3480769231em) rotate(-45deg);
+  width: 0.85em;
+  height: 0.425em;
+  border: 0.125em solid #fff;
+  border-top-style: none;
+  border-right-style: none;
+}
+.form-group .md-checkbox input[type=checkbox]:disabled + label:before {
+  border-color: rgba(0, 0, 0, 0.26);
+}
+.form-group .md-checkbox input[type=checkbox]:disabled:checked + label:before {
+  background: rgba(0, 0, 0, 0.14);
+}
+.form-group *, .form-group *:before, .form-group *:after {
+  box-sizing: border-box;
+}
+
+/*# sourceMappingURL=material.css.map */

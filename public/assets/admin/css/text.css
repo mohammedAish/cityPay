@@ -1,0 +1,12 @@
+
+.small-text {
+  font-size: 14px !important;
+}
+.preview-subject.ellipsis {
+  max-width: 200px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.icon-lg {
+  font-size: 28px;
+}

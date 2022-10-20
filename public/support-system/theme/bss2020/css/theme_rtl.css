@@ -1,0 +1,43 @@
+html {
+  direction: rtl;
+  font-family: "Droid Arabic Kufi", "Droid Sans", sans-serif;
+  font-size: 14px;
+}
+html section.home-header > img.home-right-img {
+  left: 74px;
+  right: unset;
+}
+html section.home-header p {
+  text-align: right;
+}
+html section.home-header > div .header-src-box .header-src-icon {
+  left: 10px;
+  right: unset;
+}
+html section.home-header > div .header-src-box .header-src-icon i {
+  margin-left: unset;
+  margin-right: -10px;
+}
+html section.home-header > div h1:first-child {
+  text-align: right;
+}
+html .article-container .article-box {
+  text-align: right;
+}
+html .btn-theme-light > i, html .btn-theme-bg > i {
+  margin-right: unset;
+  margin-left: 5px;
+}
+html .faq-section .faq-tab-container {
+  text-align: right;
+}
+html .faq-section .faq-tab-container .tab-content .faq-item .faq-qus::after {
+  right: unset;
+  left: 15px;
+  transform: rotate(90deg);
+}
+html .faq-section .faq-tab-container .tab-content .faq-item .faq-qus.collapsed::after {
+  transform: rotate(-90deg);
+}
+
+/*# sourceMappingURL=theme_rtl.css.map */

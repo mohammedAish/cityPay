@@ -1,0 +1,71 @@
+html {
+  direction:rtl;
+  font-family:"Droid Arabic Kufi", "Droid Sans", sans-serif;
+  font-size:14px;
+
+  section.home-header {
+    >img.home-right-img{
+      left: 74px;
+      right: unset;
+    }
+    p{
+      text-align: right;
+    }
+    >div .header-src-box {
+      .header-src-icon {
+        left: 10px;
+        right: unset;
+        i{
+          margin-left: unset;
+          margin-right: -10px;
+        }
+      }
+    }
+  }
+  section.home-header > div h1:first-child {
+    text-align: right;
+  }
+  .article-container{
+
+    .article-box{
+      text-align: right;
+      .art-title{
+
+      }
+      .art-list{
+
+        >ul{
+
+          >li {
+
+            a {
+
+            }
+          }
+        }
+      }
+    }
+
+  }
+  .btn-theme-light > i, .btn-theme-bg > i {
+    margin-right: unset;
+    margin-left: 5px;
+  }
+
+  .faq-section {
+    .faq-tab-container {
+      text-align: right;
+    }
+    .faq-tab-container .tab-content .faq-item .faq-qus {
+      &::after {
+        right: unset;
+        left: 15px;
+        transform: rotate(90deg);
+      }
+      &.collapsed::after {
+        transform: rotate(-90deg);
+      }
+    }
+
+  }
+}

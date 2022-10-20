@@ -1,0 +1,4972 @@
+msgid ""
+msgstr ""                   
+"Project-Id-Version: v1.0 \n"
+"POT-Creation-Date: 2016-10-29 01:29+0600\n"
+"PO-Revision-Date: 2016-10-29 01:29+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: UTF-8\n"
+"Language: ko-KR\n"
+"X-Generator: AppsBD Translator App\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+msgid "!! You need to click save button to complete"
+msgstr "!! !! 완료하려면 저장 버튼을 클릭해야합니다."
+
+
+msgid "%s Popular Knowledge"
+msgstr "인기있는 지식  %s 개"
+
+
+msgid "%s Settings"
+msgstr "%s 설정"
+
+
+msgid "%s is required"
+msgstr "%s이 (가) 필요합니다."
+
+
+msgid "ADMIN MENU"
+msgstr "관리자 메뉴"
+
+
+msgid "API Based"
+msgstr "API 기반"
+
+
+msgid "API Description"
+msgstr "API 설명"
+
+
+msgid "API Setting"
+msgstr "API 설정"
+
+
+msgid "API Settings"
+msgstr "API 설정"
+
+
+msgid "API Token"
+msgstr "API 토큰"
+
+
+msgid "API Type"
+msgstr "API 유형"
+
+
+msgid "APP User"
+msgstr "APP 사용자"
+
+
+msgid "About Support System"
+msgstr "지원 시스템에 대하여"
+
+
+msgid "Action"
+msgstr "동작"
+
+
+msgid "Action Required"
+msgstr "필요한 조치"
+
+
+msgid "Active"
+msgstr "유효한"
+
+
+msgid "Active Members"
+msgstr "활동적인 회원"
+
+
+msgid "Active Paid Ticket"
+msgstr "활성 유료 티켓"
+
+
+msgid "Active Paid Tickets"
+msgstr "활성 유료 티켓"
+
+
+msgid "Active Tickets"
+msgstr "활성 티켓"
+
+
+msgid "Add New"
+msgstr "새로운 걸 더하다"
+
+
+msgid "Added By"
+msgstr "추가 기능"
+
+
+msgid "Added On"
+msgstr "올린 날짜"
+
+
+msgid "Address"
+msgstr "주소"
+
+
+msgid "Address is required"
+msgstr "주소가 필요합니다."
+
+
+msgid "Admin Dashboard"
+msgstr "관리 대시 보드"
+
+
+msgid "Admin Report"
+msgstr "관리자 보고서"
+
+
+msgid "Admin Setting"
+msgstr "관리자 설정"
+
+
+msgid "Admin Settings"
+msgstr "관리자 설정"
+
+
+msgid "Admin User"
+msgstr "관리자"
+
+
+msgid "Admin User Login Security"
+msgstr "관리자 로그인 보안"
+
+
+msgid "Agent"
+msgstr "에이전트"
+
+
+msgid "Agent replied, needs your action"
+msgstr "에이전트가 당신의 행동이 필요하다고 대답했다."
+
+
+msgid "All Active Tickets"
+msgstr "모든 활성 티켓"
+
+
+msgid "All Closed Tickets"
+msgstr "모든 휴무일"
+
+
+msgid "All Paid Tickets"
+msgstr "모든 유료 티켓"
+
+
+msgid "All Unassigned Tickets"
+msgstr "할당되지 않은 모든 티켓"
+
+
+msgid "Amount"
+msgstr "양"
+
+
+msgid "Amount must be between %.2f and %.2f"
+msgstr "금액은  %.2f와  %.2f 사이 여야합니다."
+
+
+msgid "Announcements"
+msgstr "공지 사항"
+
+
+msgid "Announcements List"
+msgstr "공지 사항 목록"
+
+
+msgid "App Information"
+msgstr "앱 정보"
+
+
+msgid "App Logo"
+msgstr "앱 로고"
+
+
+msgid "App Update"
+msgstr "앱 업데이트"
+
+
+msgid "App White Logo"
+msgstr "앱 화이트 로고"
+
+
+msgid "App update information"
+msgstr "앱 업데이트 정보"
+
+
+msgid "Application Security Settings"
+msgstr "응용 프로그램 보안 설정"
+
+
+msgid "Application Theme Settings"
+msgstr "응용 프로그램 테마 설정"
+
+
+msgid "Are you sure to change?"
+msgstr "바꾸시겠습니까?"
+
+
+msgid "Are you sure to delete?"
+msgstr "삭제 하시겠습니까?"
+
+
+msgid "Assigned"
+msgstr "배정 된"
+
+
+msgid "Assigned On"
+msgstr "할당 된 날짜"
+
+
+msgid "Assigned Tickets"
+msgstr "지정된 티켓"
+
+
+msgid "Attach File"
+msgstr "파일을 첨부"
+
+
+msgid "Best size is 400px x 400px"
+msgstr "최적의 크기는 400x400 픽셀입니다."
+
+
+msgid "Birthday"
+msgstr "생일"
+
+
+msgid "Birthday is required"
+msgstr "생일이 필요합니다."
+
+
+msgid "Body"
+msgstr "신체"
+
+
+msgid "Body is required"
+msgstr "신체가 필요합니다."
+
+
+msgid "Cancel"
+msgstr "취소"
+
+
+msgid "Canned Message Fields"
+msgstr "미리 준비된 메시지 필드"
+
+
+msgid "Canned Message List"
+msgstr "미리 준비된 메시지 목록"
+
+
+msgid "Canned Messages"
+msgstr "미리 준비된 메시지"
+
+
+msgid "Canned Msg"
+msgstr "통조림 메시지"
+
+
+msgid "Canned Msg is required"
+msgstr "통조림 메시지가 필요합니다."
+
+
+msgid "Canned_msg"
+msgstr "Canned_msg"
+
+
+msgid "Categories"
+msgstr "카테고리"
+
+
+msgid "Category"
+msgstr "범주"
+
+
+msgid "Category List"
+msgstr "카테고리 목록"
+
+
+msgid "Category is required"
+msgstr "카테고리가 필요합니다."
+
+
+msgid "Change"
+msgstr "변화"
+
+
+msgid "Change Password"
+msgstr "비밀번호 변경"
+
+
+msgid "Change password of %s"
+msgstr "%s의 비밀번호 변경"
+
+
+msgid "Choose Homepage"
+msgstr "홈페이지 선택"
+
+
+msgid "Choose Theme"
+msgstr "주제 선택"
+
+
+msgid "City"
+msgstr "시티"
+
+
+msgid "City is required"
+msgstr "도시가 필요합니다."
+
+
+msgid "Click here"
+msgstr "여기를 클릭하십시오."
+
+
+msgid "Click on the Image to change"
+msgstr "변경할 이미지를 클릭하십시오."
+
+
+msgid "Click on the Image to change or upload."
+msgstr "변경하거나 업로드 할 이미지를 클릭하십시오."
+
+
+msgid "Click on the Image to change. Best size hight is 40px"
+msgstr "변경할 이미지를 클릭하십시오. 최고의 크기 높이는 40px입니다."
+
+
+msgid "Click on the Image to change. Best size is 75px x 75px"
+msgstr "변경할 이미지를 클릭하십시오. 최적의 크기는 75px x 75px입니다."
+
+
+msgid "Click to see details"
+msgstr "세부 정보를 보려면 클릭하십시오."
+
+
+msgid "Client"
+msgstr "고객"
+
+
+msgid "Client List"
+msgstr "클라이언트 목록"
+
+
+msgid "Close"
+msgstr "닫기"
+
+
+msgid "Close Tickets"
+msgstr "티켓 닫기"
+
+
+msgid "Closed Tickets"
+msgstr "휴관일"
+
+
+msgid "Contact Number"
+msgstr "연락 전화 번호"
+
+
+msgid "Controller Title"
+msgstr "컨트롤러 제목"
+
+
+msgid "Copy Cron Link"
+msgstr "크론 링크 복사"
+
+
+msgid "Copy callback url"
+msgstr "콜백 URL 복사"
+
+
+msgid "Country"
+msgstr "국가"
+
+
+msgid "Country Code"
+msgstr "국가 코드"
+
+
+msgid "Country Name"
+msgstr "나라 이름"
+
+
+msgid "Country is required"
+msgstr "국가가 필요합니다."
+
+
+msgid "Create Date"
+msgstr "날짜 만들기"
+
+
+msgid "Create Ticket"
+msgstr "티켓 만들기"
+
+
+msgid "Create Time"
+msgstr "시간 만들기"
+
+
+msgid "Created By"
+msgstr "작성자"
+
+
+msgid "Cron Job Command"
+msgstr "크론 작업 명령"
+
+
+msgid "Current Ticket Status"
+msgstr "현재 티켓 상태"
+
+
+msgid "Current version is : %s"
+msgstr "현재 버전 :  %s"
+
+
+msgid "Custom Field List"
+msgstr "사용자 정의 필드 목록"
+
+
+msgid "Custom Fields"
+msgstr "사용자 정의 필드"
+
+
+msgid "Dashboard"
+msgstr "계기반"
+
+
+msgid "Date of Birth"
+msgstr "생년월일"
+
+
+msgid "Debug Log"
+msgstr "디버그 로그"
+
+
+msgid "Debug Log List"
+msgstr "디버그 로그 목록"
+
+
+msgid "Delete"
+msgstr "지우다"
+
+
+msgid "Description"
+msgstr "기술"
+
+
+msgid "Description is required"
+msgstr "설명이 필요합니다."
+
+
+msgid "Details"
+msgstr "세부"
+
+
+msgid "Details Debug Log"
+msgstr "세부 정보 디버그 로그"
+
+
+msgid "Details Log"
+msgstr "세부 정보 로그"
+
+
+msgid "Details info of IP(192.168.10.71)"
+msgstr "IP 상세 정보 (192.168.10.71)"
+
+
+msgid "Disable this if you want real payment"
+msgstr "실제 지불을 원할 경우 사용 안함"
+
+
+msgid "DoS Attack Security"
+msgstr "DoS 공격 보안"
+
+
+msgid "Don't upload if you don't want"
+msgstr "원치 않는 경우 업로드하지 마세요."
+
+
+msgid "Edit"
+msgstr "편집하다"
+
+
+msgid "Edit Announcements"
+msgstr "공지 수정"
+
+
+msgid "Edit Canned Message"
+msgstr "통조림 메시지 편집"
+
+
+msgid "Edit Category"
+msgstr "카테고리 편집"
+
+
+msgid "Edit Client"
+msgstr "클라이언트 수정"
+
+
+msgid "Edit IP"
+msgstr "IP 편집"
+
+
+msgid "Edit Knowledge"
+msgstr "지식 편집"
+
+
+msgid "Edit Role"
+msgstr "역할 편집"
+
+
+msgid "Email"
+msgstr "이메일"
+
+
+msgid "Email Address"
+msgstr "이메일 주소"
+
+
+msgid "Email Outgoing Settings"
+msgstr "전자 메일 보내는 설정"
+
+
+msgid "Email Settings"
+msgstr "이메일 설정"
+
+
+msgid "Email Templates"
+msgstr "이메일 템플릿"
+
+
+msgid "Email Templates List"
+msgstr "이메일 템플릿 목록"
+
+
+msgid "Email To Ticket Settings"
+msgstr "전자 메일로 티켓 설정"
+
+
+msgid "Email is required"
+msgstr "이메일이 필요합니다."
+
+
+msgid "Email to Ticket Settings Form"
+msgstr "티켓 설정 양식에 전자 메일 보내기"
+
+
+msgid "Enable Auto Reload (every %d min)"
+msgstr "자동 다시로드 사용 ( %d 분마다)"
+
+
+msgid "Enable Email To Ticket/Reply"
+msgstr "티켓 받기 / 답장하기"
+
+
+msgid "Enable it if your protocol is secure"
+msgstr "프로토콜이 안전하다면 활성화하십시오."
+
+
+msgid "Enable it to secure admin/staff user"
+msgstr "관리자 / 스태프 사용자를 보호하도록 설정합니다."
+
+
+msgid "Enable this to enable paypal payment"
+msgstr "Paypal 결제를 사용하려면이 항목을 사용하십시오."
+
+
+msgid "Enable to convert email to ticket"
+msgstr "전자 메일을 티켓으로 변환 가능"
+
+
+msgid "End Date"
+msgstr "종료일"
+
+
+msgid "End Date is required"
+msgstr "종료일이 필요합니다."
+
+
+msgid "Entry Time"
+msgstr "입장 시간"
+
+
+msgid "Entry Type"
+msgstr "입력 유형"
+
+
+msgid "Envato"
+msgstr "엔바 토"
+
+
+msgid "Envato Setting"
+msgstr "환경 설정"
+
+
+msgid "Envato Username"
+msgstr "엔바토 사용자 이름"
+
+
+msgid "Ex. 192.168.10.1"
+msgstr "전의. 192.168.10.1"
+
+
+msgid "Example: Temporary lock admin or staff user if attempts 5 miss login in 30 minutes"
+msgstr "예 : 임시 잠금 관리자 또는 스태프 사용자가 시도 횟수 5 분이 로그인에 30 분이 걸린 경우"
+
+
+msgid "Example: if request more then 5 in 5 second then show captcha or block ip"
+msgstr "예 : 5 초에 5 번 이상 요청한 경우 captcha를 표시하거나 IP를 차단합니다."
+
+
+msgid "Featured Image"
+msgstr "나타난 그림"
+
+
+msgid "File Attached"
+msgstr "첨부 파일"
+
+
+msgid "File Type"
+msgstr "파일 형식"
+
+
+msgid "First Name"
+msgstr "이름"
+
+
+msgid "First Name is required"
+msgstr "이름이 필요합니다."
+
+
+msgid "From"
+msgstr "에서"
+
+
+msgid "From Email"
+msgstr "보낸 사람 이메일"
+
+
+msgid "From Email is required"
+msgstr "보낸 사람 이메일이 필요합니다."
+
+
+msgid "From Name"
+msgstr "이름에서"
+
+
+msgid "From Name is required"
+msgstr "From Name은 필수 항목입니다."
+
+
+msgid "Gender"
+msgstr "성별"
+
+
+msgid "General Settings"
+msgstr "일반 설정"
+
+
+msgid "Generate an API key in your envato account and enter here"
+msgstr "envato 계정에 API 키를 생성하고 여기에 입력하십시오."
+
+
+msgid "Has Super Power"
+msgstr "수퍼 파워를 가지고있다."
+
+
+msgid "Hello, %s"
+msgstr "안녕하세요,  %s"
+
+
+msgid "Helpfull"
+msgstr "도움이되는 사람"
+
+
+msgid "Home"
+msgstr "집"
+
+
+msgid "Host"
+msgstr "숙주"
+
+
+msgid "Host & Port"
+msgstr "호스트 및 포트"
+
+
+msgid "Host is required"
+msgstr "호스트가 필요합니다."
+
+
+msgid "IMAP Help"
+msgstr "IMAP 도움말"
+
+
+msgid "IMAP Settings"
+msgstr "IMAP 설정"
+
+
+msgid "IP"
+msgstr "IP"
+
+
+msgid "IP List"
+msgstr "IP 목록"
+
+
+msgid "IP is required"
+msgstr "IP는 필수 항목입니다."
+
+
+msgid "If request more than"
+msgstr "요청보다 많으면"
+
+
+msgid "If you don't choose the white logo then primary logo will be displayed in site header"
+msgstr "흰색 로고를 선택하지 않으면 기본 로고가 사이트 헤더에 표시됩니다."
+
+
+msgid "If you enable it then app prevent DoS Attack."
+msgstr "활성화하면 DoS 공격을 방지합니다."
+
+
+msgid "If you enable this then logo only show in site header"
+msgstr "이 기능을 사용하면 사이트 헤더에 로고 만 표시됩니다."
+
+
+msgid "If you enable this, then all payment will be in test mode. Don't do this if you want real payment"
+msgstr "이 기능을 사용하면 모든 지불이 테스트 모드가됩니다. 실제 지불을 원한다면 이러지 마라."
+
+
+msgid "If you want to remove license form this site then click"
+msgstr "라이센스 양식을 제거하려면이 사이트를 클릭하십시오."
+
+
+msgid "Inactive"
+msgstr "비활성"
+
+
+msgid "Invalid Information"
+msgstr "잘못된 정보"
+
+
+msgid "Invalid data"
+msgstr "유효하지 않은 데이터"
+
+
+msgid "Is Secure Protocol (SSL)"
+msgstr "Is 보안 프로토콜 (SSL)"
+
+
+msgid "Is Sticky/Pinned ?"
+msgstr "고정적입니까 / 고정입니까?"
+
+
+msgid "Is it helpfull?"
+msgstr "도움이 되니?"
+
+
+msgid "It won't show any where, It is just for track"
+msgstr "어디에도 표시되지 않습니다. 트랙 용입니다."
+
+
+msgid "Join : %s"
+msgstr "가입 :  %s"
+
+
+msgid "Join Date"
+msgstr "가입 날짜"
+
+
+msgid "Key is already exists"
+msgstr "키가 이미 있습니다."
+
+
+msgid "Knowledge"
+msgstr "지식"
+
+
+msgid "Knowledge List"
+msgstr "지식 목록"
+
+
+msgid "L.Reply Time"
+msgstr "L. 응답 시간"
+
+
+msgid "Label"
+msgstr "상표"
+
+
+msgid "Last Name"
+msgstr "성"
+
+
+msgid "Last Name is required"
+msgstr "성이 필요합니다."
+
+
+msgid "Last Replied"
+msgstr "마지막 회신"
+
+
+msgid "Last Reply"
+msgstr "마지막 답장"
+
+
+msgid "Last Reply Time"
+msgstr "마지막 회신 시간"
+
+
+msgid "Last updated on"
+msgstr "마지막 업데이트 날짜"
+
+
+msgid "Latitude"
+msgstr "위도"
+
+
+msgid "License"
+msgstr "특허"
+
+
+msgid "License Domain"
+msgstr "라이선스 도메인"
+
+
+msgid "License Info"
+msgstr "라이센스 정보"
+
+
+msgid "License Information"
+msgstr "라이센스 정보"
+
+
+msgid "License Key"
+msgstr "라이센스 키"
+
+
+msgid "License Title"
+msgstr "라이선스 제목"
+
+
+msgid "Link"
+msgstr "링크"
+
+
+msgid "Locked User"
+msgstr "잠긴 사용자"
+
+
+msgid "Locked User List"
+msgstr "잠긴 사용자 목록"
+
+
+msgid "Log Type"
+msgstr "로그 유형"
+
+
+msgid "Login"
+msgstr "로그인"
+
+
+msgid "Logout"
+msgstr "로그 아웃"
+
+
+msgid "Longitude"
+msgstr "경도"
+
+
+msgid "MENU"
+msgstr "메뉴"
+
+
+msgid "Max file size is  %s MB"
+msgstr "최대 파일 크기는  %sMB입니다."
+
+
+msgid "Max file size is %s MB"
+msgstr "최대 파일 크기는  %sMB입니다."
+
+
+msgid "Menu List"
+msgstr "메뉴 목록"
+
+
+msgid "Message"
+msgstr "메시지"
+
+
+msgid "Message Details"
+msgstr "메시지 세부 정보"
+
+
+msgid "Method"
+msgstr "방법"
+
+
+msgid "Miss Login Tried"
+msgstr "미스 로그인 시도"
+
+
+msgid "More homepage will be come in next version"
+msgstr "더 많은 홈페이지가 다음 버전에 올 것입니다."
+
+
+msgid "More theme will be come in next version"
+msgstr "더 많은 테마가 다음 버전에 나옵니다."
+
+
+msgid "Most Helpful Articles"
+msgstr "가장 유용한 기사"
+
+
+msgid "My Active Paid Tickets"
+msgstr "내 유료 유료 티켓"
+
+
+msgid "My Active Tickets"
+msgstr "나의 활성 티켓"
+
+
+msgid "My Assigned Tickets"
+msgstr "내 지정 티켓"
+
+
+msgid "My Closed Tickets"
+msgstr "내 휴무일"
+
+
+msgid "My Dashboard"
+msgstr "내 대시 보드"
+
+
+msgid "My Menu"
+msgstr "내 메뉴"
+
+
+msgid "My Message"
+msgstr "내 메시지"
+
+
+msgid "N"
+msgstr "엔"
+
+
+msgid "Name"
+msgstr "이름"
+
+
+msgid "New Announcements"
+msgstr "새로운 공지 사항"
+
+
+msgid "New Canned Message"
+msgstr "새 통조림 메시지"
+
+
+msgid "New Category"
+msgstr "새 분류"
+
+
+msgid "New Client"
+msgstr "새 고객"
+
+
+msgid "New Knowledge"
+msgstr "새로운 지식"
+
+
+msgid "New Role"
+msgstr "새로운 역할"
+
+
+msgid "New Ticket"
+msgstr "새 티켓"
+
+
+msgid "New Ticket Form"
+msgstr "새 티켓 양식"
+
+
+msgid "New Window"
+msgstr "새창"
+
+
+msgid "No"
+msgstr "아니"
+
+
+msgid "No active ticket found"
+msgstr "활성 티켓이 없습니다."
+
+
+msgid "No closed ticket found"
+msgstr "닫힌 티켓이 없습니다."
+
+
+msgid "Not Helpfull"
+msgstr "도움이되지 않음"
+
+
+msgid "Notice For"
+msgstr "공지 사항"
+
+
+msgid "Notice Text"
+msgstr "공지 사항 텍스트"
+
+
+msgid "Notice text is required"
+msgstr "공지 사항 텍스트가 필요합니다."
+
+
+msgid "Notification"
+msgstr "공고"
+
+
+msgid "Old Password"
+msgstr "기존 비밀번호"
+
+
+msgid "Open Ticket"
+msgstr "티켓 열기"
+
+
+msgid "Open Time"
+msgstr "오픈 타임"
+
+
+msgid "Opened"
+msgstr "열린"
+
+
+msgid "Opened Time"
+msgstr "열린 시간"
+
+
+msgid "Options"
+msgstr "옵션"
+
+
+msgid "Order"
+msgstr "주문"
+
+
+msgid "Page Name"
+msgstr "페이지 이름"
+
+
+msgid "Parent Category"
+msgstr "상위 카테고리"
+
+
+msgid "Parent Category is required"
+msgstr "학부모 카테고리가 필요합니다."
+
+
+msgid "Password"
+msgstr "암호"
+
+
+msgid "Password is required"
+msgstr "비밀번호가 필요합니다."
+
+
+msgid "Password reset"
+msgstr "비밀번호 초기화"
+
+
+msgid "Payer Email"
+msgstr "지불 자 이메일"
+
+
+msgid "Payment Amount"
+msgstr "결제 금액"
+
+
+msgid "Payment Amount is required"
+msgstr "지불 금액이 필요합니다."
+
+
+msgid "Payment Description"
+msgstr "지불 설명"
+
+
+msgid "Payment Details"
+msgstr "지불 세부 사항"
+
+
+msgid "Payment List"
+msgstr "지불 목록"
+
+
+msgid "Payment Method Status"
+msgstr "지불 방법 상태"
+
+
+msgid "Paypal Setting"
+msgstr "페이팔 설정"
+
+
+msgid "Paypal Settings"
+msgstr "페이팔 설정"
+
+
+msgid "Permission"
+msgstr "허가"
+
+
+msgid "Pinned Articles"
+msgstr "고정 된 기사"
+
+
+msgid "Popular Articles"
+msgstr "인기 기사"
+
+
+msgid "Port"
+msgstr "포트"
+
+
+msgid "Port is required"
+msgstr "항구가 필요합니다."
+
+
+msgid "Posted By"
+msgstr "게시자"
+
+
+msgid "Priroty"
+msgstr "우선 순위"
+
+
+msgid "Priroty is required"
+msgstr "우선 순위가 필요합니다."
+
+
+msgid "Process Date"
+msgstr "프로세스 날짜"
+
+
+msgid "Process Log"
+msgstr "프로세스 로그"
+
+
+msgid "Process Time"
+msgstr "처리 시간"
+
+
+msgid "Processing"
+msgstr "가공"
+
+
+msgid "Profile"
+msgstr "윤곽"
+
+
+msgid "Property"
+msgstr "재산"
+
+
+msgid "Re-Check Update"
+msgstr "재확인 업데이트"
+
+
+msgid "Re-Open"
+msgstr "다시 열다"
+
+
+msgid "Read article to provide best support"
+msgstr "최고의 지원을 제공하는 기사 읽기"
+
+
+msgid "Recent Articles"
+msgstr "최근 기사"
+
+
+msgid "Register"
+msgstr "레지스터"
+
+
+msgid "Remove"
+msgstr "풀다"
+
+
+msgid "Remove License"
+msgstr "라이선스 삭제"
+
+
+msgid "Replay"
+msgstr "다시 하다"
+
+
+msgid "Reply"
+msgstr "댓글"
+
+
+msgid "Reply To Ticket"
+msgstr "티켓에 회신"
+
+
+msgid "Reply is required"
+msgstr "답장이 필요합니다."
+
+
+msgid "Reply text is required"
+msgstr "답장 텍스트가 필요합니다."
+
+
+msgid "Reply user group"
+msgstr "사용자 그룹에 회신"
+
+
+msgid "Reply user name"
+msgstr "응답 사용자 이름"
+
+
+msgid "Request Count is required"
+msgstr "요청 수는 필수 항목입니다."
+
+
+msgid "Required"
+msgstr "필수"
+
+
+msgid "Reset"
+msgstr "다시 놓기"
+
+
+msgid "Reset link has been sent to the user"
+msgstr "재설정 링크가 사용자에게 전송되었습니다."
+
+
+msgid "Role"
+msgstr "역할"
+
+
+msgid "Role  List"
+msgstr "역할 목록"
+
+
+msgid "Role Access"
+msgstr "역할 액세스"
+
+
+msgid "Role List"
+msgstr "역할 목록"
+
+
+msgid "Role is required"
+msgstr "역할이 필요합니다."
+
+
+msgid "SMTP Settings"
+msgstr "SMTP 설정"
+
+
+msgid "STAFF MENU"
+msgstr "직원 메뉴"
+
+
+msgid "Save"
+msgstr "구하다"
+
+
+msgid "Schedule"
+msgstr "시간표"
+
+
+msgid "Search"
+msgstr "수색"
+
+
+msgid "Seconds is required"
+msgstr "초가 필요합니다."
+
+
+msgid "Security Settings"
+msgstr "보안 설정"
+
+
+msgid "Select"
+msgstr "고르다"
+
+
+msgid "Send"
+msgstr "보내다"
+
+
+msgid "Sendmail Path"
+msgstr "센드 메일 경로"
+
+
+msgid "Sendmail Path is required"
+msgstr "Sendmail 경로가 필요합니다."
+
+
+msgid "Sendmail or SMTP"
+msgstr "센드 메일 또는 SMTP"
+
+
+msgid "Sent Message"
+msgstr "보낸 메시지"
+
+
+msgid "Set Status"
+msgstr "상태 설정"
+
+
+msgid "Set this cron command into your server cron list, otherwise email to ticket won't work"
+msgstr "이 cron 명령을 서버 cron 목록에 설정하십시오. 그렇지 않으면 티켓을 전자 메일로 보내지 않습니다."
+
+
+msgid "Show IP List"
+msgstr "IP 목록 표시"
+
+
+msgid "Show List"
+msgstr "목록 표시"
+
+
+msgid "Show Locked User List"
+msgstr "잠긴 사용자 목록 표시"
+
+
+msgid "Show On"
+msgstr "보여주기"
+
+
+msgid "Show only logo in header"
+msgstr "머리글에만 로고 표시"
+
+
+msgid "Site Menu"
+msgstr "사이트 메뉴"
+
+
+msgid "Site Security"
+msgstr "사이트 보안"
+
+
+msgid "Social Setting"
+msgstr "사회 설정"
+
+
+msgid "Social Settings"
+msgstr "소셜 설정"
+
+
+msgid "Start Date"
+msgstr "시작 날짜"
+
+
+msgid "Start Date is required"
+msgstr "시작일은 필수입니다."
+
+
+msgid "Status"
+msgstr "지위"
+
+
+msgid "Status is required"
+msgstr "상태가 필요합니다."
+
+
+msgid "Sticky/Pinned"
+msgstr "고정 / 고정"
+
+
+msgid "Still Need Support?"
+msgstr "여전히 지원이 필요하십니까?"
+
+
+msgid "Sub Title"
+msgstr "부제목"
+
+
+msgid "Subject"
+msgstr "제목"
+
+
+msgid "Successfully Updated"
+msgstr "성공적으로 업데이트 됨"
+
+
+msgid "Suggested Knowledge"
+msgstr "제안 된 지식"
+
+
+msgid "Super Admin"
+msgstr "수퍼 관리자"
+
+
+msgid "Supervisor"
+msgstr "감독자"
+
+
+msgid "Support System"
+msgstr "지원 시스템"
+
+
+msgid "System Update"
+msgstr "시스템 업데이트"
+
+
+msgid "Tag"
+msgstr "꼬리표"
+
+
+msgid "Tag is required"
+msgstr "태그가 필요합니다."
+
+
+msgid "Temporary lock admin or staff user, if attempts"
+msgstr "시도가있는 경우 임시 관리자 또는 스탭 사용자를 잠급니다."
+
+
+msgid "Text must be less then %d characters length"
+msgstr "텍스트는  %d 자 길이보다 작아야합니다."
+
+
+msgid "Thank you for being with us"
+msgstr "우리와 함께 해주셔서 감사합니다."
+
+
+msgid "The time is base on %s timezone"
+msgstr "시간은  %s 시간대의 기준입니다."
+
+
+msgid "The user who has opened ticket"
+msgstr "티켓을 연 사용자"
+
+
+msgid "Theme Settings"
+msgstr "주제 설정"
+
+
+msgid "This email address is already exist"
+msgstr "이 이메일 주소는 이미 존재합니다."
+
+
+msgid "Ticket"
+msgstr "티켓"
+
+
+msgid "Ticket Body"
+msgstr "티켓 바디"
+
+
+msgid "Ticket Body is required"
+msgstr "티켓 바디 필요"
+
+
+msgid "Ticket Category"
+msgstr "티켓 카테고리"
+
+
+msgid "Ticket Details"
+msgstr "티켓 세부 정보"
+
+
+msgid "Ticket Feedback"
+msgstr "티켓 피드백"
+
+
+msgid "Ticket Feedback List"
+msgstr "티켓 피드백 목록"
+
+
+msgid "Ticket History"
+msgstr "티켓 기록"
+
+
+msgid "Ticket Information"
+msgstr "티켓 정보"
+
+
+msgid "Ticket Payment Details"
+msgstr "티켓 지불 세부 사항"
+
+
+msgid "Ticket Payment List"
+msgstr "티켓 지불 목록"
+
+
+msgid "Ticket Priroty"
+msgstr "티켓 우선 순위"
+
+
+msgid "Ticket Status"
+msgstr "티켓 상태"
+
+
+msgid "Ticket Subject"
+msgstr "티켓 제목"
+
+
+msgid "Ticket Title"
+msgstr "티켓 제목"
+
+
+msgid "Ticket Track ID"
+msgstr "티켓 트랙 ID"
+
+
+msgid "Ticket User"
+msgstr "티켓 사용자"
+
+
+msgid "Ticket closed do you want to re-open?"
+msgstr "티켓을 다시여시겠습니까?"
+
+
+msgid "Ticket subject is required"
+msgstr "티켓 제목은 필수 항목입니다."
+
+
+msgid "Tickets"
+msgstr "티켓"
+
+
+msgid "Time"
+msgstr "시각"
+
+
+msgid "Timezone"
+msgstr "시간대"
+
+
+msgid "Title"
+msgstr "표제"
+
+
+msgid "Title is required"
+msgstr "제목은 필수 항목입니다."
+
+
+msgid "To"
+msgstr "에"
+
+
+msgid "Today's"
+msgstr "오늘의"
+
+
+msgid "Topbar Icon"
+msgstr "톱 바 아이콘"
+
+
+msgid "Topbar Icon List"
+msgstr "톱 바 아이콘 목록"
+
+
+msgid "Total"
+msgstr "합계"
+
+
+msgid "Total Closed Ticket"
+msgstr "총 휴무일"
+
+
+msgid "Total Closed Tickets"
+msgstr "총 휴무일"
+
+
+msgid "Transction ID"
+msgstr "거래 ID"
+
+
+msgid "Type"
+msgstr "유형"
+
+
+msgid "Tzone is required"
+msgstr "Tzone이 필요합니다."
+
+
+msgid "USER MENU"
+msgstr "사용자 메뉴"
+
+
+msgid "Unassigned Tickets"
+msgstr "할당되지 않은 티켓"
+
+
+msgid "Update"
+msgstr "최신 정보"
+
+
+msgid "Update User"
+msgstr "사용자 업데이트"
+
+
+msgid "Uploaded file is not  supported"
+msgstr "업로드 된 파일이 지원되지 않습니다."
+
+
+msgid "Use this as your callback url into facebook developer panel"
+msgstr "페이스 북 개발자 패널에 콜백 URL로 사용"
+
+
+msgid "Use this as your callback url into twitter developer panel"
+msgstr "트위터 개발자 패널에 콜백 URL로 사용"
+
+
+msgid "Use this as your callback url into your google developer console"
+msgstr "Google 개발자 콘솔에 콜백 URL로 사용"
+
+
+msgid "User"
+msgstr "사용자"
+
+
+msgid "User (Email)"
+msgstr "사용자 (이메일)"
+
+
+msgid "User (Email) is required"
+msgstr "사용자 (이메일)가 필요합니다."
+
+
+msgid "User Id"
+msgstr "사용자 ID"
+
+
+msgid "User List"
+msgstr "사용자 목록"
+
+
+msgid "User Panel"
+msgstr "사용자 패널"
+
+
+msgid "User Settings"
+msgstr "사용자 설정"
+
+
+msgid "User is required"
+msgstr "사용자는 필수 항목입니다."
+
+
+msgid "Username"
+msgstr "사용자 이름"
+
+
+msgid "Value"
+msgstr "값"
+
+
+msgid "Verified"
+msgstr "검증 됨"
+
+
+msgid "View Details"
+msgstr "세부 정보보기"
+
+
+msgid "View Knowledge"
+msgstr "지식보기"
+
+
+msgid "View Site"
+msgstr "사이트보기"
+
+
+msgid "View all"
+msgstr "모두보기"
+
+
+msgid "Views"
+msgstr "조회수"
+
+
+msgid "Write here.."
+msgstr "여기 쓰시 오.."
+
+
+msgid "Write reply here.."
+msgstr "여기에 답글 쓰기."
+
+
+msgid "Yes"
+msgstr "예"
+
+
+msgid "You think it is helpfull"
+msgstr "도움이된다고 생각하니?"
+
+
+msgid "You think it is not helpfull"
+msgstr "너는 그것이 도움이되지 않는다고 생각한다."
+
+
+msgid "Your Site URL"
+msgstr "귀하의 사이트 URL"
+
+
+msgid "Your application is up to date"
+msgstr "신청서가 최신 버전입니다."
+
+
+msgid "Your closed ticket list"
+msgstr "닫힌 티켓 목록"
+
+
+msgid "Your current ticket status"
+msgstr "현재 티켓 상태"
+
+
+msgid "Your envato(CodeCanyon, Themeforest,etc) username"
+msgstr "envato (CodeCanyon, Themeforest 등) 사용자 이름"
+
+
+msgid "Your site name"
+msgstr "귀하의 사이트 이름"
+
+
+msgid "Your total active tickets"
+msgstr "총 유효 티켓"
+
+
+msgid "Youtube Accounts"
+msgstr "YouTube 계정"
+
+
+msgid "Zip"
+msgstr "지퍼"
+
+
+msgid "Zip is required"
+msgstr "우편 번호 필요"
+
+
+msgid "by"
+msgstr "으로"
+
+
+msgid "ex.5"
+msgstr "예 5"
+
+
+msgid "is required"
+msgstr "필요하다"
+
+
+msgid "minuites"
+msgstr "의사록"
+
+
+msgid "miss login in"
+msgstr "로그인을 놓친"
+
+
+msgid "on"
+msgstr "...에"
+
+
+msgid "seconds, then"
+msgstr "초, 다음"
+
+
+msgid "setup for Social Login"
+msgstr "소셜 로그인 설정"
+
+
+msgid "to get custom payment"
+msgstr "맞춤 결제를 받으려면"
+
+
+msgid "Already registered?"
+msgstr "이미 등록?"
+
+
+msgid "E-mail"
+msgstr "이메일"
+
+
+msgid "Email address is alreay exists"
+msgstr "이메일 주소가 이미 있습니다."
+
+
+msgid "Forgot password?"
+msgstr "비밀번호를 잊으 셨나요?"
+
+
+msgid "Guest Ticket"
+msgstr "게스트 티켓"
+
+
+msgid "Low Priroty"
+msgstr "낮은 우선 순위"
+
+
+msgid "Not member yet ?"
+msgstr "아직 회원이 아니십니까?"
+
+
+msgid "Open Ticket With Less Priroty"
+msgstr "우선권이 적은 티켓 열기"
+
+
+msgid "Open ticket after login"
+msgstr "로그인 후 티켓 열기"
+
+
+msgid "Open ticket after register"
+msgstr "등록 후 티켓 열기"
+
+
+msgid "Or Login Using"
+msgstr "또는 로그인 사용"
+
+
+msgid "Or Register Using"
+msgstr "또는 사용 등록"
+
+
+msgid "Or open ticket using"
+msgstr "또는 다음을 사용하여 티켓을 엽니 다."
+
+
+msgid "Submit"
+msgstr "제출"
+
+
+msgid "Top Priroty"
+msgstr "최우선"
+
+
+msgid "User Login"
+msgstr "사용자 로그인"
+
+
+msgid "User Registration"
+msgstr "사용자 등록"
+
+
+msgid "You are not logged in. What would you like do now?"
+msgstr "로그인하지 않았습니다. 지금 무엇을 하시겠습니까?"
+
+
+msgid "fields are required"
+msgstr "필드가 필요합니다."
+
+
+msgid "Confirm Password"
+msgstr "비밀번호 확인"
+
+
+msgid "Back"
+msgstr "뒤로"
+
+
+msgid "%s is not same"
+msgstr "%s은 (는) 동일하지 않습니다."
+
+
+msgid "Captcha"
+msgstr "보안 문자"
+
+
+msgid "Invalid email address."
+msgstr "잘못된 이메일 주소."
+
+
+msgid "New Password"
+msgstr "새 비밀번호"
+
+
+msgid "The email address is already registered. To login"
+msgstr "이메일 주소가 이미 등록되었습니다. 로그인하기"
+
+
+msgid "The value is not a valid %s"
+msgstr "값은 유효한  %s이 (가) 아닙니다."
+
+
+msgid "Uncategories"
+msgstr "카테고리"
+
+
+msgid "Assigned & Closed"
+msgstr "할당 됨 & 종료 됨"
+
+
+msgid "CSV Downloaded"
+msgstr "CSV 다운로드 됨"
+
+
+msgid "Change Timezone"
+msgstr "시간대 변경"
+
+
+msgid "Change padssword of %s"
+msgstr "%s의 비밀번호 변경"
+
+
+msgid "Change password of Admin User"
+msgstr "관리자의 비밀번호 변경"
+
+
+msgid "Day Report"
+msgstr "일보"
+
+
+msgid "Member since"
+msgstr "회원 가입일"
+
+
+msgid "Month Report"
+msgstr "월 보고서"
+
+
+msgid "New User"
+msgstr "새로운 사용자"
+
+
+msgid "Opened & Closed"
+msgstr "개설 및 휴무"
+
+
+msgid "Timezone is required"
+msgstr "시간대가 필요합니다."
+
+
+msgid "Tzone"
+msgstr "Tzone"
+
+
+msgid "Sign out"
+msgstr "로그 아웃"
+
+
+msgid "Please login to set priroty"
+msgstr "우선 순위를 설정하려면 로그인하십시오."
+
+
+msgid "email address"
+msgstr "이메일 주소"
+
+
+msgid "Allowed File Types"
+msgstr "허용 된 파일 형식"
+
+
+msgid "Any Staff Can Reply"
+msgstr "모든 직원이 답변 할 수 있습니다."
+
+
+msgid "App Email"
+msgstr "앱 이메일"
+
+
+msgid "App Language"
+msgstr "앱 언어"
+
+
+msgid "App Title"
+msgstr "앱 제목"
+
+
+msgid "Application General Settings"
+msgstr "응용 프로그램 일반 설정"
+
+
+msgid "Application Layout"
+msgstr "신청서 레이아웃"
+
+
+msgid "Auto Others Color"
+msgstr "자동차 기타 색상"
+
+
+msgid "Basic Settings"
+msgstr "기본 설정"
+
+
+msgid "CSS ( Style)"
+msgstr "CSS (스타일)"
+
+
+msgid "Captcha Length"
+msgstr "보안 문자 길이"
+
+
+msgid "Captcha Settings"
+msgstr "보안 문자 설정"
+
+
+msgid "Captcha String Type"
+msgstr "보안 문자 문자열 유형"
+
+
+msgid "Captcha Type"
+msgstr "보안 문자 유형"
+
+
+msgid "Charecter Lenght of default captcha"
+msgstr "기본 captcha의 문자 길이"
+
+
+msgid "Choose HTML Editor"
+msgstr "HTML 편집기 선택"
+
+
+msgid "Client ID"
+msgstr "클라이언트 ID"
+
+
+msgid "Client Photo Upload"
+msgstr "고객 사진 업로드"
+
+
+msgid "Copyright Text"
+msgstr "저작권 텍스트"
+
+
+msgid "Custom CSS & JavaScript"
+msgstr "맞춤 CSS 및 자바 스크립트"
+
+
+msgid "Custom JavaScript"
+msgstr "맞춤 자바 스크립트"
+
+
+msgid "Date Format"
+msgstr "날짜 형식"
+
+
+msgid "Disable Registration"
+msgstr "등록 해제"
+
+
+msgid "Email Footer Text"
+msgstr "이메일 바닥 글 텍스트"
+
+
+msgid "Email Reply Start Text"
+msgstr "이메일 답장 텍스트 시작"
+
+
+msgid "Enable Force SSL"
+msgstr "강제 SSL 사용"
+
+
+msgid "Enable Guest Ticket"
+msgstr "게스트 티켓 사용"
+
+
+msgid "Enable HTML Input"
+msgstr "HTML 입력 사용"
+
+
+msgid "Enable Public Ticket"
+msgstr "공개 티켓 사용"
+
+
+msgid "Enable Ticket Feedback"
+msgstr "티켓 피드백 사용"
+
+
+msgid "Enable User Online Check"
+msgstr "사용자 온라인 확인 사용"
+
+
+msgid "Ex. Google analytics code, Do not add any tag  like %s"
+msgstr "전의. Google 애널리틱스 코드,  %s와 (과) 같은 태그를 추가하지 마세요."
+
+
+msgid "Feedback Email Title"
+msgstr "피드백 이메일 제목"
+
+
+msgid "Field"
+msgstr "들"
+
+
+msgid "File Upload Settings"
+msgstr "파일 업로드 설정"
+
+
+msgid "Footer Background"
+msgstr "바닥 글 배경"
+
+
+msgid "Footer Text"
+msgstr "꼬리말 텍스트"
+
+
+msgid "Header Color"
+msgstr "머리글 색상"
+
+
+msgid "Header Gradient"
+msgstr "헤더 기울기"
+
+
+msgid "If enable this then other color will be auto generate based on main color"
+msgstr "이 기능을 켜면 다른 색상이 기본 색상을 기반으로 자동 생성됩니다."
+
+
+msgid "If enable this then the header background will be gradient"
+msgstr "이것을 유효하게하면, 헤더의 배경이 그라데이션이됩니다."
+
+
+msgid "If you disable this then your will get normal text area box insted of html editor"
+msgstr "이 기능을 해제하면 html 편집기 대신 일반 텍스트 영역 상자가 나타납니다."
+
+
+msgid "If you enable it a feedback email will be sent to ticket user email address after closing ticket"
+msgstr "이 기능을 사용하면 티켓을 닫은 후 피드백 전자 메일이 티켓 사용자 전자 메일 주소로 전송됩니다."
+
+
+msgid "If you enable it then any visitor can open ticket without registration"
+msgstr "이 기능을 사용하면 방문자가 등록하지 않고도 티켓을 열 수 있습니다."
+
+
+msgid "If you enable it then captcha will show in admin login form"
+msgstr "이 기능을 사용하면 관리자 로그인 양식에 captcha가 표시됩니다."
+
+
+msgid "If you enable it then captcha will show in client login form"
+msgstr "이 기능을 사용하면 captcha가 클라이언트 로그인 양식으로 표시됩니다."
+
+
+msgid "If you enable it then captcha will show in client registration form"
+msgstr "이 기능을 사용하면 클라이언트 등록 양식에 captcha가 표시됩니다."
+
+
+msgid "If you enable it then captcha will show in guest ticket opening form"
+msgstr "이 기능을 활성화하면 보안 문자 입력 창에 captcha가 표시됩니다."
+
+
+msgid "If you enable it then user can open their ticket as public mode. Where any user can replay"
+msgstr "이 기능을 사용하면 사용자는 공개 모드로 티켓을 열 수 있습니다. 모든 사용자가 재생할 수있는 위치"
+
+
+msgid "If you enable it then user can upload file when they open ticket and reply any ticket"
+msgstr "활성화하면 티켓을 열고 티켓을 회신 할 때 파일을 업로드 할 수 있습니다."
+
+
+msgid "If you enable it, then any staff can reply on any ticket, if disable then only assigned staff can reply."
+msgstr "이 기능을 사용하면 모든 직원이 티켓에 대해 응답 할 수 있습니다. 사용하지 않으면 할당 된 직원 만 응답 할 수 있습니다."
+
+
+msgid "If you enable it, then you can able to upload their profile photo"
+msgstr "사용하도록 설정하면 프로필 사진을 업로드 할 수 있습니다."
+
+
+msgid "If you enable this then this app will check SSL Request, if not then it will redirect to SSL URL."
+msgstr "이 기능을 사용하면이 앱은 SSL 요청을 확인하고 그렇지 않은 경우 SSL URL로 리디렉션합니다."
+
+
+msgid "If you enable this then this app will check and show user online status."
+msgstr "이 기능을 사용하면이 앱이 사용자의 온라인 상태를 확인하고 표시합니다."
+
+
+msgid "It will effect in next reload. If you want to now then refresh after save."
+msgstr "그것은 다음 reload에서 효과가 있습니다. 원할 경우 저장 후 새로 고침하십시오."
+
+
+msgid "It's background color of footer. Empty value will be auto from main color"
+msgstr "꼬리말의 배경색입니다. 빈 값은 주 색상에서 자동입니다."
+
+
+msgid "It's background color of menu bar. Empty value will be auto from main color"
+msgstr "메뉴 막대의 배경색입니다. 빈 값은 주 색상에서 자동입니다."
+
+
+msgid "It's background color of menu text color when active. Empty value will be auto from main color"
+msgstr "활성 상태 일 때 메뉴 텍스트 색상의 배경색입니다. 빈 값은 주 색상에서 자동입니다."
+
+
+msgid "It's text color of footer. Empty value will be auto from main color"
+msgstr "꼬리말의 텍스트 색상입니다. 빈 값은 주 색상에서 자동입니다."
+
+
+msgid "It's the background color of welcome message. But you can choose any text color on any text of welcome message using editor. Empty value will be auto from main color"
+msgstr "환영 메시지의 배경색입니다. 그러나 편집기를 사용하여 모든 환영 메시지 텍스트에서 텍스트 색을 선택할 수 있습니다. 빈 값은 주 색상에서 자동입니다."
+
+
+msgid "It's the color of anchor link and heading(h1,h2,h3,h4) Color. Empty value will be auto from main color"
+msgstr "이것은 앵커 링크 및 표제 (h1, h2, h3, h4) 색상의 색상입니다. 빈 값은 주 색상에서 자동입니다."
+
+
+msgid "Its background color of header"
+msgstr "헤더의 배경색"
+
+
+msgid "Keep empty if you don't want to show any footer"
+msgstr "꼬리말을 표시하지 않으려면 비워 두십시오."
+
+
+msgid "Keep empty if you don't want to show any footer on email"
+msgstr "이메일에 꼬리말을 표시하지 않으려면 비워 두십시오."
+
+
+msgid "Keep empty if you don't want to show any footer on site copy write text"
+msgstr "사이트 사본 쓰기 텍스트에 꼬리말을 표시하지 않으려면 비워 두십시오."
+
+
+msgid "Keep empty if you don't want to show any message"
+msgstr "메시지를 표시하지 않으려면 비워 두십시오."
+
+
+msgid "Layout & Color Settings"
+msgstr "레이아웃 및 색상 설정"
+
+
+msgid "Link And Heading Text"
+msgstr "텍스트 링크 및 제목"
+
+
+msgid "Main Color"
+msgstr "주요 색"
+
+
+msgid "Main site color is defined for application main color of client site."
+msgstr "주요 사이트 색상은 클라이언트 사이트의 응용 프로그램 주 색상에 대해 정의됩니다."
+
+
+msgid "Max Upload File Size"
+msgstr "최대 업로드 파일 크기"
+
+
+msgid "Menu Active Text Color"
+msgstr "메뉴 활성 텍스트 색상"
+
+
+msgid "Menu Background"
+msgstr "메뉴 배경"
+
+
+msgid "Nagative Feedback Message"
+msgstr "부정적인 피드백 메시지"
+
+
+msgid "Nagative Message"
+msgstr "부정적인 메시지"
+
+
+msgid "On Admin Login"
+msgstr "관리자 로그인시"
+
+
+msgid "On Client Login"
+msgstr "클라이언트 로그인"
+
+
+msgid "On Client Registration"
+msgstr "고객 등록시"
+
+
+msgid "On Guest Ticket"
+msgstr "게스트 티켓"
+
+
+msgid "Only enter css code. Do not add any tag like %s"
+msgstr "오직 css 코드를 입력하십시오.  %s와 (과) 같은 태그를 추가하지 마십시오."
+
+
+msgid "Positive Feedback Message"
+msgstr "긍정적 인 피드백 메시지"
+
+
+msgid "Positive Message"
+msgstr "긍정적 인 메시지"
+
+
+msgid "Registration  of visitor. If you disable this then visitor can't register. Only registered client can open ticket after login"
+msgstr "방문객 등록. 이 기능을 사용 중지하면 방문자가 등록 할 수 없습니다. 등록 된 클라이언트 만 로그인 후 티켓을 열 수 있습니다."
+
+
+msgid "Site Copyright Text"
+msgstr "사이트 저작권 텍스트"
+
+
+msgid "Site Key"
+msgstr "사이트 키"
+
+
+msgid "The value is not a numeric"
+msgstr "값이 숫자가 아닙니다."
+
+
+msgid "Ticket File Upload"
+msgstr "티켓 파일 업로드"
+
+
+msgid "Ticket Settings"
+msgstr "티켓 설정"
+
+
+msgid "Time Format"
+msgstr "시간 형식"
+
+
+msgid "Value must be between 1 to 99"
+msgstr "값은 1에서 99 사이 여야합니다."
+
+
+msgid "Welcome & Footer Text"
+msgstr "환영 & 꼬리말 텍스트"
+
+
+msgid "Welcome Background"
+msgstr "환영 배경"
+
+
+msgid "Welcome Message"
+msgstr "환영 메시지"
+
+
+msgid "Welcome Text"
+msgstr "환영 텍스트"
+
+
+msgid "ex. 2"
+msgstr "전의. 2"
+
+
+msgid "Successfully updated"
+msgstr "성공적으로 업데이트되었습니다."
+
+
+msgid "Language changed. Reloading"
+msgstr "언어가 변경되었습니다. 다시로드 중"
+
+
+msgid "Download CSV"
+msgstr "CSV 다운로드"
+
+
+msgid "No Record Found"
+msgstr "기록을 찾을 수 없습니다"
+
+
+msgid "Reload"
+msgstr "다시로드"
+
+
+msgid "Sign In"
+msgstr "로그인"
+
+
+msgid "Sign in to start your session"
+msgstr "세션을 시작하려면 로그인하십시오."
+
+
+msgid "Admin Panel"
+msgstr "관리자 패널"
+
+
+msgid "%s is invalid"
+msgstr "%s은 (는) 잘못되었습니다."
+
+
+msgid "A ticket email has been sent to your email. Please check that"
+msgstr "귀하의 이메일로 티켓 이메일이 발송되었습니다. 그걸 확인해주세요."
+
+
+msgid "Admin Notification Settings"
+msgstr "관리자 알림 설정"
+
+
+msgid "Are you sure to assign yourself?"
+msgstr "너 자신을 배정 해 줄 수 있니?"
+
+
+msgid "Are you sure to assign?"
+msgstr "배정 해 주시겠습니까?"
+
+
+msgid "Assign Me"
+msgstr "나에게 할당"
+
+
+msgid "Captcha Success"
+msgstr "보안 문자 성공"
+
+
+msgid "Content"
+msgstr "함유량"
+
+
+msgid "Controller"
+msgstr "제어 장치"
+
+
+msgid "Email Field Details"
+msgstr "전자 메일 필드 세부 정보"
+
+
+msgid "Email Notification Settings"
+msgstr "전자 메일 알림 설정"
+
+
+msgid "Email Notification Settions"
+msgstr "전자 메일 알림 설정"
+
+
+msgid "Email Template updated successfully"
+msgstr "이메일 템플릿이 성공적으로 업데이트되었습니다."
+
+
+msgid "Email template for  ANR"
+msgstr "ANR 용 이메일 템플릿"
+
+
+msgid "Enable Admin Notificaiton"
+msgstr "관리자 알림 사용"
+
+
+msgid "File Size"
+msgstr "파일 크기"
+
+
+msgid "If you enable this then admin will get notification"
+msgstr "이 기능을 사용하면 관리자가 알림을받습니다."
+
+
+msgid "If you enable this then admin will get notification on ticket open"
+msgstr "이 기능을 사용하면 관리자가 티켓을 열 때 알림을받습니다."
+
+
+msgid "If you enable this then admin will get notification on ticket user reply"
+msgstr "이 기능을 사용하면 관리자가 티켓 사용자 응답에 대한 알림을받습니다."
+
+
+msgid "Logging in.."
+msgstr "로그인 중 .."
+
+
+msgid "Name of ticket user"
+msgstr "티켓 사용자의 이름"
+
+
+msgid "New Ticket Opened"
+msgstr "새로운 티켓 개설"
+
+
+msgid "Notification Email"
+msgstr "알림 이메일"
+
+
+msgid "Notification Settings"
+msgstr "알림 설정"
+
+
+msgid "Notification Settions"
+msgstr "알림 설정"
+
+
+msgid "On Admin/staff Reply"
+msgstr "관리자 / 직원에게 응답"
+
+
+msgid "On Screen Notificaiton Settings"
+msgstr "온 스크린 알림 설정"
+
+
+msgid "On Ticket Open"
+msgstr "티켓 오픈시"
+
+
+msgid "On Ticket User Reply"
+msgstr "Ticket User Reply"
+
+
+msgid "Page List"
+msgstr "페이지 목록"
+
+
+msgid "Please wait"
+msgstr "기다려주십시오."
+
+
+msgid "Replied Text"
+msgstr "답글 텍스트"
+
+
+msgid "Reply text"
+msgstr "응답 텍스트"
+
+
+msgid "Resource"
+msgstr "의지"
+
+
+msgid "Set Assign"
+msgstr "할당 설정"
+
+
+msgid "Successfully added"
+msgstr "성공적으로 추가되었습니다."
+
+
+msgid "Template List"
+msgstr "템플릿 목록"
+
+
+msgid "Thank you, your ticket has been opened successfully"
+msgstr "감사합니다. 티켓이 성공적으로 열렸습니다."
+
+
+msgid "Ticket Open By Guest"
+msgstr "게스트가 개장 한 티켓"
+
+
+msgid "Ticket Other's Info"
+msgstr "티켓 기타 정보"
+
+
+msgid "Ticket Replied by : %s"
+msgstr "티켓 회신 :  %s"
+
+
+msgid "Ticket cateroty"
+msgstr "표 희석"
+
+
+msgid "Ticket link"
+msgstr "티켓 링크"
+
+
+msgid "Ticket open or reply notification settings"
+msgstr "티켓 열기 또는 회신 알림 설정"
+
+
+msgid "Update Email Template"
+msgstr "이메일 템플릿 업데이트"
+
+
+msgid "User Ticket"
+msgstr "사용자 티켓"
+
+
+msgid "User who replied"
+msgstr "응답 한 사용자"
+
+
+msgid "View Ticket Details"
+msgstr "티켓 세부 정보보기"
+
+
+msgid "ex. email@domain.com"
+msgstr "전의. email@domain.com"
+
+
+msgid "updated"
+msgstr "업데이트 된"
+
+
+msgid "%s is not a valid URL"
+msgstr "%s은 (는) 유효한 URL이 아닙니다."
+
+
+msgid "Admin Panel Language"
+msgstr "관리자 패널 언어"
+
+
+msgid "Admin will hear tone on notification if enabled"
+msgstr "사용 설정되면 관리자는 알림 음이 들립니다."
+
+
+msgid "App Settings"
+msgstr "앱 설정"
+
+
+msgid "Application All Settings"
+msgstr "응용 프로그램 모든 설정"
+
+
+msgid "Are you sure to dismiss?"
+msgstr "해산 할 수 있습니까?"
+
+
+msgid "Authentication failed!. May be remote server rejected."
+msgstr "인증 실패!. 원격 서버가 거부되었을 수 있습니다."
+
+
+msgid "Button Color"
+msgstr "버튼 색상"
+
+
+msgid "Button Text"
+msgstr "버튼 텍스트"
+
+
+msgid "Button Text Color"
+msgstr "버튼 텍스트 색상"
+
+
+msgid "Button Txt"
+msgstr "버튼 텍스트"
+
+
+msgid "Button View"
+msgstr "버튼보기"
+
+
+msgid "Button image updated successfully"
+msgstr "버튼 이미지가 성공적으로 업데이트되었습니다."
+
+
+msgid "Captcha is required"
+msgstr "보안 문자 필요"
+
+
+msgid "Closed On"
+msgstr "휴무일"
+
+
+msgid "Current Status"
+msgstr "현재 상태"
+
+
+msgid "Custom %s"
+msgstr "맞춤  %s"
+
+
+msgid "Default login system form won't not show if it enabled"
+msgstr "기본 로그인 시스템 양식이 활성화 된 경우 표시되지 않습니다."
+
+
+msgid "Default login system form won't not show if it enabled, but Remote Login & Social login will show if those are enabled"
+msgstr "기본 로그인 시스템 양식이 사용 설정되면 표시되지 않지만 원격 로그인 및 소셜 로그인이 사용 설정되면 표시됩니다."
+
+
+msgid "Disable Default Login"
+msgstr "기본 로그인 사용 중지"
+
+
+msgid "Disable Guest Open Popup"
+msgstr "게스트 열기 팝업 사용 안 함"
+
+
+msgid "Edit Remote Login"
+msgstr "원격 로그인 편집"
+
+
+msgid "Email to Ticket"
+msgstr "티켓 전자 메일"
+
+
+msgid "Enable Tone (Sound)"
+msgstr "톤 사용 (사운드)"
+
+
+msgid "Featured Video"
+msgstr "인기있는 영상"
+
+
+msgid "File Upload"
+msgstr "파일 업로드"
+
+
+msgid "If you enable this then admin will hear tone on notification"
+msgstr "이 기능을 사용하면 관리자가 알림 음이 들립니다."
+
+
+msgid "If you enable this then guest user also get all priroty as dropdown option"
+msgstr "이 기능을 사용하면 게스트 사용자는 드롭 다운 옵션으로 모든 우선 순위를 얻습니다."
+
+
+msgid "It is your remote server login URL. You can add extra parameter to detect, %s"
+msgstr "원격 서버 로그인 URL입니다. 추가 매개 변수를 추가하여  %s을 (를) 감지 할 수 있습니다."
+
+
+msgid "It is your remote server login URL. You can add extra parameter to detect, ex. %s"
+msgstr "원격 서버 로그인 URL입니다. 예를 들어 추가 매개 변수를 추가하여 검색 할 수 있습니다.  %에스"
+
+
+msgid "It is your remote server login URL. You can add extra parameter to detect, ex. http://zyz.com?from=support-system"
+msgstr "원격 서버 로그인 URL입니다. 예를 들어 추가 매개 변수를 추가하여 검색 할 수 있습니다. http://zyz.com?from=support-system"
+
+
+msgid "It will redirect to home page within"
+msgstr "홈 페이지로 리디렉션됩니다."
+
+
+msgid "It will send this key in verification process as param"
+msgstr "확인 과정에서이 키를 매개 변수로 전송합니다."
+
+
+msgid "Keep empty if you don't want show any video"
+msgstr "동영상을 표시하지 않으려면 비워 두십시오."
+
+
+msgid "Last Replied On"
+msgstr "마지막으로 응답 함"
+
+
+msgid "Layout & Color"
+msgstr "레이아웃 및 색상"
+
+
+msgid "Log uploaded"
+msgstr "업로드 된 로그"
+
+
+msgid "Login Email"
+msgstr "로그인 이메일"
+
+
+msgid "Login Link"
+msgstr "로그인 링크"
+
+
+msgid "Login URL"
+msgstr "로그인 URL"
+
+
+msgid "Login Using"
+msgstr "로그인 사용"
+
+
+msgid "NB. %s will be your server's api key, by this we validate the response"
+msgstr "NB.  %s이 (가) 서버의 api 키가됩니다. 이렇게하면 응답이 유효합니다."
+
+
+msgid "NB. %s will be your server's login token, by this it can validated the user"
+msgstr "NB.  %s이 (가) 서버의 로그인 토큰이됩니다. 이로써 사용자의 유효성을 검사 할 수 있습니다."
+
+
+msgid "New Remote Login"
+msgstr "새로운 원격 로그인"
+
+
+msgid "Normally visitor will show a popup it s/he doesn't logged in. If you don't want to show that then enable it"
+msgstr "일반적으로 방문자는 로그인하지 않은 팝업을 표시합니다. 표시하지 않으려면 활성화하십시오."
+
+
+msgid "Notification Tone (Sound)"
+msgstr "알림 음 (소리)"
+
+
+msgid "Opened On"
+msgstr "개설"
+
+
+msgid "Our server will post to this URL with the response token.%s Post paramater will be look like %s"
+msgstr "우리 서버가 응답 토큰을 사용하여이 URL에 게시합니다.  %s 게시 매개 변수는  %s처럼 보입니다."
+
+
+msgid "Pay Now"
+msgstr "지금 지불하세요"
+
+
+msgid "Payment Added"
+msgstr "지불이 추가됨"
+
+
+msgid "Preview"
+msgstr "시사"
+
+
+msgid "Private Key"
+msgstr "비공개 키"
+
+
+msgid "Remote Login"
+msgstr "원격 로그인"
+
+
+msgid "Remote Login Error"
+msgstr "원격 로그인 오류"
+
+
+msgid "Remote Login List"
+msgstr "원격 로그인 목록"
+
+
+msgid "Remote Server Login"
+msgstr "원격 서버 로그인"
+
+
+msgid "Remote_server"
+msgstr "Remote_server"
+
+
+msgid "Request Count"
+msgstr "요청 수"
+
+
+msgid "Response Data Error"
+msgstr "응답 데이터 오류"
+
+
+msgid "Response URL"
+msgstr "응답 URL"
+
+
+msgid "Same As Admin"
+msgstr "관리자와 동일"
+
+
+msgid "Seconds"
+msgstr "초"
+
+
+msgid "Select icon"
+msgstr "아이콘 선택"
+
+
+msgid "Server Type"
+msgstr "서버 유형"
+
+
+msgid "Show all priroty on Guest Ticket"
+msgstr "게스트 티켓의 모든 우선 순위 표시"
+
+
+msgid "Site Language"
+msgstr "사이트 언어"
+
+
+msgid "Site Theme Settings"
+msgstr "사이트 테마 설정"
+
+
+msgid "Social Login Setting"
+msgstr "소셜 로그인 설정"
+
+
+msgid "Successfully Dismissed"
+msgstr "성공적으로 해산 됨"
+
+
+msgid "Successfully deleted"
+msgstr "성공적으로 삭제되었습니다."
+
+
+msgid "Successfully logged in"
+msgstr "성공적으로 로그인했습니다."
+
+
+msgid "Successfully saved"
+msgstr "저장되었습니다."
+
+
+msgid "Thank you for registering with us"
+msgstr "우리와 함께 등록 해주셔서 감사합니다."
+
+
+msgid "Theme"
+msgstr "테마"
+
+
+msgid "This account has been temporary locked for 30 minutes, try again later or contact with admin to unlock"
+msgstr "이 계정은 30 분 동안 일시적으로 잠겼습니다. 나중에 다시 시도하거나 관리자에게 문의하여 잠금 해제하십시오."
+
+
+msgid "This servers's configuration"
+msgstr "이 서버의 구성"
+
+
+msgid "Ticket Email"
+msgstr "티켓 이메일"
+
+
+msgid "Ticket Re-Opened"
+msgstr "티켓 재개"
+
+
+msgid "Unknown"
+msgstr "알 수 없는"
+
+
+msgid "User Login Using"
+msgstr "사용자 로그인 사용"
+
+
+msgid "Valid Url"
+msgstr "유효한 URL"
+
+
+msgid "Validation URL"
+msgstr "확인 URL"
+
+
+msgid "Video"
+msgstr "비디오"
+
+
+msgid "View Update Details"
+msgstr "업데이트 세부 정보보기"
+
+
+msgid "Welcome to"
+msgstr "에 오신 것을 환영합니다"
+
+
+msgid "Your server's redirect URL"
+msgstr "서버의 리디렉션 URL"
+
+
+msgid "View All"
+msgstr "모두보기"
+
+
+msgid "%s replied a message"
+msgstr "%s 님이 메시지에 응답했습니다."
+
+
+msgid "API Name"
+msgstr "API 이름"
+
+
+msgid "About Support System-help"
+msgstr "지원 정보 시스템 도움말"
+
+
+msgid "Agent Welcome Text"
+msgstr "요원 환영 텍스트"
+
+
+msgid "All Paid Ticket"
+msgstr "모든 유료 항공권"
+
+
+msgid "Analytics Gtag ID"
+msgstr "웹 로그 분석 Gtag ID"
+
+
+msgid "App User Details"
+msgstr "앱 사용자 세부 정보"
+
+
+msgid "Archive"
+msgstr "아카이브"
+
+
+msgid "Are you sure to archive?"
+msgstr "보관 하시겠습니까?"
+
+
+msgid "Are you sure to archive? Archive is like Delete. You can inactive for temporary basis"
+msgstr "보관 하시겠습니까? 보관은 삭제와 같습니다. 일시적으로 비활성 상태로 유지할 수 있습니다."
+
+
+msgid "Are you sure to archive? Archive is like as delete. If you want to do it for temporary, then set inactive status instead of archive. You cann&#96;t revert if you process it."
+msgstr "보관 하시겠습니까? 아카이브는 삭제와 같습니다. 임시로 사용하려면 아카이브 대신 비활성 상태로 설정하십시오. 처리하는 경우 되돌릴 수 없습니다."
+
+
+msgid "Are you sure to archive? Archive is like as delete. If you want to do it for temporary, then you can inactive this user."
+msgstr "보관 하시겠습니까? 아카이브는 삭제와 같습니다. 임시로 사용하려는 경우이 사용자를 비활성화 할 수 있습니다."
+
+
+msgid "Are you sure to archive? Archive is like as delete. It you want do it for temporary then you can inactive this user."
+msgstr "보관 하시겠습니까? 아카이브는 삭제와 같습니다. 일시 중지를 원할 경우이 사용자를 비활성화 할 수 있습니다."
+
+
+msgid "Are you sure to archive? Archive is like as delete. You can inactive for temporary basis"
+msgstr "보관 하시겠습니까? 아카이브는 삭제와 같습니다. 일시적으로 비활성 상태로 유지할 수 있습니다."
+
+
+msgid "Are you sure to change chat status?"
+msgstr "채팅 상태를 변경 하시겠습니까?"
+
+
+msgid "Are you sure to unlock?"
+msgstr "잠금을 해제 하시겠습니까?"
+
+
+msgid "Asigned By"
+msgstr "배정 된 사람"
+
+
+msgid "Authentication failed!. May be you didn't authenticate."
+msgstr "인증 실패!. 인증하지 않았습니까?"
+
+
+msgid "Best Ranker Wordpress tool"
+msgstr "최고의 순위 Wordpress 도구"
+
+
+msgid "Browser"
+msgstr "브라우저"
+
+
+msgid "Canned Message"
+msgstr "미리 준비된 메시지"
+
+
+msgid "Change Profile Photo"
+msgstr "프로필 사진 변경"
+
+
+msgid "Chat Canned Message"
+msgstr "통조림 메시지 채팅"
+
+
+msgid "Chat Canned Msg List"
+msgstr "채팅 통조 메일 목록"
+
+
+msgid "Chat Online Status"
+msgstr "채팅 온라인 상태"
+
+
+msgid "Chat Opening Text"
+msgstr "채팅 텍스트 열기"
+
+
+msgid "Chat Panel"
+msgstr "채팅 패널"
+
+
+msgid "Chat Receive Status"
+msgstr "채팅 수신 상태"
+
+
+msgid "Chat Settings"
+msgstr "채팅 설정"
+
+
+msgid "Chat Status"
+msgstr "채팅 상태"
+
+
+msgid "Check On Submit"
+msgstr "제출 확인"
+
+
+msgid "Choose API"
+msgstr "Choose API"
+
+
+msgid "Choose API from available APIs"
+msgstr "사용 가능한 API에서 API 선택"
+
+
+msgid "Choose Chat Type"
+msgstr "채팅 유형 선택"
+
+
+msgid "Choose Type or Category"
+msgstr "유형 또는 카테고리 선택"
+
+
+msgid "Click here to watch the video tutorial"
+msgstr "비디오 자습서를 보려면 여기를 클릭하십시오."
+
+
+msgid "Click on the Image to change. Best size is 250px x 200px"
+msgstr "변경할 이미지를 클릭하십시오. 최적의 크기는 250px x 200px입니다."
+
+
+msgid "Client Profile"
+msgstr "고객 프로필"
+
+
+msgid "Close Chat Status"
+msgstr "채팅 상태 닫기"
+
+
+msgid "Closed Chat List"
+msgstr "닫힌 채팅 목록"
+
+
+msgid "Closed Failed"
+msgstr "폐쇄 실패"
+
+
+msgid "Closed Successfully"
+msgstr "성공적으로 마감 됨"
+
+
+msgid "Color Settings"
+msgstr "색상 설정"
+
+
+msgid "Comma( , ) separated. Ex: OptionA,OptionB,OptionC"
+msgstr "쉼표 (,)가 구분됩니다. 예 : OptionA, OptionB, OptionC"
+
+
+msgid "Do you want to take?"
+msgstr "가져 가고 싶니?"
+
+
+msgid "Download"
+msgstr "다운로드"
+
+
+msgid "Edit Ticket Reply"
+msgstr "티켓 응답 수정"
+
+
+msgid "Email Password Reset Link"
+msgstr "이메일 비밀번호 재설정 링크"
+
+
+msgid "Enable"
+msgstr "사용"
+
+
+msgid "Enable API Validation"
+msgstr "API 유효성 검사 사용"
+
+
+msgid "End Time"
+msgstr "종료 시간"
+
+
+msgid "Enter License Info"
+msgstr "라이센스 정보 입력"
+
+
+msgid "Entry Date"
+msgstr "참가 날짜"
+
+
+msgid "Envato Settings"
+msgstr "환경 설정"
+
+
+msgid "Facebook Chat"
+msgstr "페이스 북의 채팅"
+
+
+msgid "Facebook Chat Settings"
+msgstr "Facebook 채팅 설정"
+
+
+msgid "Facebook Page ID"
+msgstr "페이스 북 페이지 ID"
+
+
+msgid "Failed to assigning you on this chat"
+msgstr "이 채팅에서 나를 할당하지 못했습니다."
+
+
+msgid "Failed to update"
+msgstr "업데이트하지 못했습니다."
+
+
+msgid "Field Label"
+msgstr "필드 레이블"
+
+
+msgid "File Settings"
+msgstr "파일 설정"
+
+
+msgid "GUEST USER"
+msgstr "손님"
+
+
+msgid "Genaral"
+msgstr "일반"
+
+
+msgid "Google Analytics"
+msgstr "Google 애널리틱스"
+
+
+msgid "Google Analytics Gtag ID"
+msgstr "Google 웹 로그 분석 Gtag ID"
+
+
+msgid "Google Analytics Settings"
+msgstr "Google 애널리틱스 설정"
+
+
+msgid "Gtag ID"
+msgstr "Gtag ID"
+
+
+msgid "Help Text"
+msgstr "도움말 텍스트"
+
+
+msgid "How to use all feature of this support system"
+msgstr "이 지원 시스템의 모든 기능을 사용하는 방법"
+
+
+msgid "IMAP module is not activated in you php"
+msgstr "IMAP 모듈이 PHP에서 활성화되지 않았습니다."
+
+
+msgid "If you choose this then this field will be displayed on choosen category only"
+msgstr "이 필드를 선택하면이 필드가 선택한 카테고리에만 표시됩니다"
+
+
+msgid "If you enable this then the field will be check using selected API"
+msgstr "이 기능을 사용하면 선택한 API를 사용하여 필드가 점검됩니다."
+
+
+msgid "If you enable this then the value of this field is always be private"
+msgstr "이 기능을 사용하면이 필드의 값은 항상 비공개입니다."
+
+
+msgid "If you enable this, the field value need to be valid on form submission. Otherwise you will get a button to check manually"
+msgstr "이 기능을 사용하면 양식 제출시 필드 값이 유효해야합니다. 그렇지 않으면 수동으로 확인하는 버튼이 표시됩니다."
+
+
+msgid "If you want to set %s. Then please go to %s or  %s"
+msgstr "%s을 (를) 설정하려고합니다. 그런 다음  %s 또는  %s (으)로 이동하십시오."
+
+
+msgid "Is Private"
+msgstr "비공개인가?"
+
+
+msgid "It set a limit,how many chat a agent(Admin User) can take  simultaneously"
+msgstr "한도 (상담원 사용자)가 동시에 걸릴 수있는 채팅 수 제한을 설정합니다."
+
+
+msgid "It will show when a agent start a chat session."
+msgstr "상담원이 채팅 세션을 시작할 때 표시됩니다."
+
+
+msgid "It will show when a agent start a chat session. You can use some property which is given bello:"
+msgstr "상담원이 채팅 세션을 시작할 때 표시됩니다. bello가 주어진 속성을 사용할 수 있습니다."
+
+
+msgid "It will show when a agent start a chat session. You can use some property which is given bellow:"
+msgstr "상담원이 채팅 세션을 시작할 때 표시됩니다. 당신은 아래 주어진 몇 가지 속성을 사용할 수 있습니다 :"
+
+
+msgid "It will show when a user want to start chat"
+msgstr "사용자가 채팅을 시작하려고 할 때 표시됩니다."
+
+
+msgid "It will show when all user are offline"
+msgstr "모든 사용자가 오프라인 일 때 표시됩니다."
+
+
+msgid "It will show when all user busy,"
+msgstr "그것은 모든 사용자가 통화 중일 때,"
+
+
+msgid "Item Purchase Code"
+msgstr "상품 구매 코드"
+
+
+msgid "Its the field label"
+msgstr "그것의 필드 라벨"
+
+
+msgid "Knowledge Search"
+msgstr "지식 검색"
+
+
+msgid "Last 5 Closed Chat"
+msgstr "마지막 5 개의 닫힌 채팅"
+
+
+msgid "Last Change Date"
+msgstr "최종 변경 날짜"
+
+
+msgid "Last Date"
+msgstr "마지막 날짜"
+
+
+msgid "Latest Knowledge"
+msgstr "최신 지식"
+
+
+msgid "Load More"
+msgstr "더로드하기"
+
+
+msgid "Loading Chat Data Please wait.."
+msgstr "채팅 데이터로드 중 잠시 기다려주십시오 .."
+
+
+msgid "Locked_user_confirm"
+msgstr "Locked_user_confirm"
+
+
+msgid "Login using social"
+msgstr "소셜을 사용하여 로그인"
+
+
+msgid "Low Priority"
+msgstr "낮은 우선 순위"
+
+
+msgid "Max chat count"
+msgstr "채팅 최대 횟수"
+
+
+msgid "Max. Chat Per Agent"
+msgstr "맥스. 에이전트 별 채팅"
+
+
+msgid "Max. Chat Per Agent %s"
+msgstr "맥스. 상담원  %s 명의 채팅"
+
+
+msgid "Max. Chat Per Agent(simultaneously)"
+msgstr "맥스. 에이전트 별 채팅 (동시에)"
+
+
+msgid "Message List"
+msgstr "메시지 목록"
+
+
+msgid "Missing chat id"
+msgstr "누락 된 채팅 ID"
+
+
+msgid "My Closed Ticket"
+msgstr "내 휴무일"
+
+
+msgid "My Paid Tickets"
+msgstr "유료 티켓"
+
+
+msgid "Name of user"
+msgstr "사용자 이름"
+
+
+msgid "Need Support? Create a Ticket."
+msgstr "지원이 필요하십니까? 티켓을 만드십시오."
+
+
+msgid "New Chat Canned Message"
+msgstr "새 채팅 미리 준비된 메시지"
+
+
+msgid "New Chat Canned Msg"
+msgstr "새 채팅 통조림 메시지"
+
+
+msgid "New Chat Request"
+msgstr "새 채팅 요청"
+
+
+msgid "New Custom Field"
+msgstr "새 사용자 정의 필드"
+
+
+msgid "New Product"
+msgstr "새로운 제품"
+
+
+msgid "No result found"
+msgstr "결과가 없습니다."
+
+
+msgid "Offline Text"
+msgstr "오프라인 텍스트"
+
+
+msgid "On Screeen Notification Settings"
+msgstr "온 스크린 알림 설정"
+
+
+msgid "On Screeen Notification Settions"
+msgstr "온 스크린 알림 설정"
+
+
+msgid "Only profile image updated"
+msgstr "프로필 사진 만 업데이트 됨"
+
+
+msgid "Open Text"
+msgstr "열린 텍스트"
+
+
+msgid "Open Ticket With Less Priority"
+msgstr "우선권이 적은 티켓 열기"
+
+
+msgid "Page Builder"
+msgstr "페이지 빌더"
+
+
+msgid "Page Editor"
+msgstr "페이지 편집기"
+
+
+msgid "Password 18DDC9E196"
+msgstr "암호 18DDC9E196"
+
+
+msgid "Password Successfully Updated"
+msgstr "비밀번호가 성공적으로 업데이트되었습니다."
+
+
+msgid "Please Rate it !!"
+msgstr "평가 해주세요 !!"
+
+
+msgid "Please put this into your facebook page settings"
+msgstr "이것을 페이스 북 페이지 설정에 넣으십시오."
+
+
+msgid "Priority"
+msgstr "우선 순위"
+
+
+msgid "Products"
+msgstr "제작품"
+
+
+msgid "Profile Photo"
+msgstr "프로필 사진"
+
+
+msgid "Queue Text"
+msgstr "대기열 텍스트"
+
+
+msgid "Rate it"
+msgstr "평점"
+
+
+msgid "Replied"
+msgstr "회신"
+
+
+msgid "Replied By"
+msgstr "응답자"
+
+
+msgid "Replied By Type"
+msgstr "응답 유형"
+
+
+msgid "Replied Successfully"
+msgstr "성공적으로 회신"
+
+
+msgid "Reply Time"
+msgstr "응답 시간"
+
+
+msgid "Reset Password"
+msgstr "암호를 재설정"
+
+
+msgid "Screen Notificaiton Settings"
+msgstr "화면 알림 설정"
+
+
+msgid "Search Result"
+msgstr "검색 결과"
+
+
+msgid "Seen by ticket owner"
+msgstr "티켓 소유자가 본다."
+
+
+msgid "Set Category"
+msgstr "범주 설정"
+
+
+msgid "Set New Password"
+msgstr "새 암호 설정"
+
+
+msgid "Set Passowrd"
+msgstr "암호를 설정하세요"
+
+
+msgid "Set Password"
+msgstr "암호를 설정하세요"
+
+
+msgid "Set User Password"
+msgstr "사용자 암호 설정"
+
+
+msgid "Site Info"
+msgstr "사이트 정보"
+
+
+msgid "Social Login Error"
+msgstr "소셜 로그인 오류"
+
+
+msgid "Start Time"
+msgstr "시작 시간"
+
+
+msgid "Successfully Archived"
+msgstr "성공적으로 보관 됨"
+
+
+msgid "Successfully assign"
+msgstr "성공적으로 할당"
+
+
+msgid "Successfully assigned you"
+msgstr "귀하에게 할당되었습니다."
+
+
+msgid "Successfully closed"
+msgstr "성공적으로 폐쇄 됨"
+
+
+msgid "Successfully unlocked"
+msgstr "성공적으로 잠금 해제 됨"
+
+
+msgid "The text will be show like this text after the field"
+msgstr "필드 뒤에이 텍스트처럼 텍스트가 표시됩니다."
+
+
+msgid "The user is already archived. You can't active or inactive"
+msgstr "사용자가 이미 보관 처리되었습니다. 활성 또는 비활성"
+
+
+msgid "The user who replaied last"
+msgstr "마지막으로 리플렉션 한 사용자"
+
+
+msgid "This chat request has been accepted by %s"
+msgstr "%s 님이이 채팅 요청을 수락했습니다."
+
+
+msgid "This chat request has been accepted by Sarwar Hasan"
+msgstr "Sarwar Hasan이 (가)이 채팅 요청을 수락했습니다."
+
+
+msgid "Ticket Form Category"
+msgstr "티켓 폼 카테고리"
+
+
+msgid "Ticket Opened"
+msgstr "티켓 개설"
+
+
+msgid "Ticket Payment"
+msgstr "항공권 지불"
+
+
+msgid "Ticket Priority"
+msgstr "티켓 우선 순위"
+
+
+msgid "Ticket open time in app timezone (UTC)"
+msgstr "앱 시간대 (UTC)의 티켓 열기 시간"
+
+
+msgid "Ticket owner doesn't seen"
+msgstr "티켓 소유자가 보이지 않습니다."
+
+
+msgid "Ticket owner seen"
+msgstr "본 티켓 소유자"
+
+
+msgid "Ticket reply saved error"
+msgstr "티켓 회신 저장 오류"
+
+
+msgid "Ticket_confirm"
+msgstr "티켓 확인"
+
+
+msgid "To enable chat"
+msgstr "채팅을 사용하도록 설정하려면"
+
+
+msgid "To enable facebook messenger chat"
+msgstr "facebook messenger 채팅을 사용하려면"
+
+
+msgid "Top Priority"
+msgstr "최우선"
+
+
+msgid "Unlock"
+msgstr "터놓다"
+
+
+msgid "Unseened by ticket owner"
+msgstr "티켓 소유자가 확인하지 못함"
+
+
+msgid "Updated successfully"
+msgstr "업데이트 완료"
+
+
+msgid "Use this as your confirmation url into your envato app register page."
+msgstr "envato 앱 등록 페이지로 확인 URL로 사용하십시오."
+
+
+msgid "User Info"
+msgstr "사용자 정보"
+
+
+msgid "User Password"
+msgstr "사용자 암호"
+
+
+msgid "User login information"
+msgstr "사용자 로그인 정보"
+
+
+msgid "View"
+msgstr "전망"
+
+
+msgid "WP Best Ranker"
+msgstr "WP 베스트 랭커"
+
+
+msgid "WP Rank Ninja"
+msgstr "WP 순위 닌자"
+
+
+msgid "Web Chat"
+msgstr "웹 채팅"
+
+
+msgid "Web Chat Settings"
+msgstr "웹 채팅 설정"
+
+
+msgid "Would You Please Rate it?"
+msgstr "평가 해 주시겠습니까?"
+
+
+msgid "Write here"
+msgstr "여기 쓰시 오"
+
+
+msgid "YYYY-MM-DD"
+msgstr "YYYY-MM-DD"
+
+
+msgid "You can use some property which is given bellow:"
+msgstr "당신은 아래 주어진 몇 가지 속성을 사용할 수 있습니다 :"
+
+
+msgid "You can't set pro version now. Pro version is coming soon. Please choose default chat now"
+msgstr "지금 프로 버전을 설정할 수 없습니다. 프로 버전이 곧 제공 될 예정입니다. 기본 채팅을 선택하십시오."
+
+
+msgid "You have no notifications right now"
+msgstr "지금 알림이 없습니다."
+
+
+msgid "Your Domain URL"
+msgstr "도메인 URL"
+
+
+msgid "[GUEST USER]"
+msgstr "[손님]"
+
+
+msgid "agent_welcome_text"
+msgstr "agent_welcome_text"
+
+
+msgid "e"
+msgstr "이자형"
+
+
+msgid "ex. 5"
+msgstr "전의. 5"
+
+
+msgid "snippets"
+msgstr "짧은 발췌"
+
+
+msgid "to see the video tutorial"
+msgstr "비디오 자습서보기"
+
+
+msgid "typing"
+msgstr "타자"
+
+
+msgid "%.2f"
+msgstr "%.2f"
+
+
+msgid "%s is already exists"
+msgstr "%s은 (는) 이미 존재합니다"
+
+
+msgid "A  ticket reply has been received from ticket user"
+msgstr "티켓 사용자로부터 티켓 응답을 받았습니다."
+
+
+msgid "A new ticket is assigned to you"
+msgstr "새로운 티켓이 할당되었습니다."
+
+
+msgid "A new ticket is received please assign"
+msgstr "새로운 티켓이 도착했습니다."
+
+
+msgid "A reset link has been sent to your email address. Please check that"
+msgstr "재설정 링크가 귀하의 이메일 주소로 발송되었습니다. 그걸 확인해주세요."
+
+
+msgid "Add"
+msgstr "더하다"
+
+
+msgid "Add Another File"
+msgstr "다른 파일 추가"
+
+
+msgid "Add Note"
+msgstr "메모를 추가"
+
+
+msgid "Admin Notes"
+msgstr "관리자 메모"
+
+
+msgid "Admin ticket creation"
+msgstr "관리자 티켓 생성"
+
+
+msgid "All Categories"
+msgstr "모든 카테고리"
+
+
+msgid "All Category"
+msgstr "전체 카테고리"
+
+
+msgid "Application"
+msgstr "신청"
+
+
+msgid "Are you sure to delete attached file (%s)?"
+msgstr "첨부 된 파일 ( %s)을 삭제 하시겠습니까?"
+
+
+msgid "Are you sure to delete attached file?"
+msgstr "첨부 파일을 삭제 하시겠습니까?"
+
+
+msgid "Are you sure to delete feature image?"
+msgstr "지형지 물 이미지를 삭제 하시겠습니까?"
+
+
+msgid "Assign On Ticket"
+msgstr "티켓에 지정"
+
+
+msgid "Attach more file"
+msgstr "추가 파일 첨부"
+
+
+msgid "Attached"
+msgstr "붙여진"
+
+
+msgid "Attached file"
+msgstr "첨부 파일"
+
+
+msgid "Authentication Error"
+msgstr "인증 오류"
+
+
+msgid "Auto Closing Rule"
+msgstr "자동 결산 규칙"
+
+
+msgid "Auto assign equally based on current month assigning"
+msgstr "현재 달 지정에 따라 자동 할당"
+
+
+msgid "Based on ticket assigning rule"
+msgstr "티켓 지정 규칙에 따라"
+
+
+msgid "Button Icon"
+msgstr "버튼 아이콘"
+
+
+msgid "Cat Ids"
+msgstr "고양이 ID"
+
+
+msgid "Change Category"
+msgstr "카테고리 변경"
+
+
+msgid "Change Category of ticket: T6DD28E9B-012-1P9"
+msgstr "항공권 카테고리 변경 : T6DD28E9B-012-1P9"
+
+
+msgid "Change Category of ticket: T84B12BAE-001-ZCO"
+msgstr "항공권 카테고리 변경 : T84B12BAE-001-ZCO"
+
+
+msgid "Chat Auto Close"
+msgstr "채팅 자동 닫기"
+
+
+msgid "Chat Auto Close Interval"
+msgstr "채팅 자동 닫기 간격"
+
+
+msgid "Chat Background Pattern"
+msgstr "채팅 배경 패턴"
+
+
+msgid "Chat Button Icon"
+msgstr "채팅 버튼 아이콘"
+
+
+msgid "Chat Closing Text"
+msgstr "채팅 종료 텍스트"
+
+
+msgid "Chat Logo"
+msgstr "채팅 로고"
+
+
+msgid "Chat Tag Line"
+msgstr "채팅 태그 행"
+
+
+msgid "Chat Title"
+msgstr "채팅 제목"
+
+
+msgid "Chat Window and Button Color"
+msgstr "채팅 창 및 버튼 색상"
+
+
+msgid "Chat closing interval"
+msgstr "채팅 종료 간격"
+
+
+msgid "Chat has been auto closed by system"
+msgstr "채팅이 시스템에 의해 자동 폐쇄되었습니다."
+
+
+msgid "Chat main color"
+msgstr "채팅 기본 색상"
+
+
+msgid "Chat will be closed which is inactive for entered value. Enter 0 to disable auto close"
+msgstr "입력 된 값에 대해 비활성 인 채팅이 닫힙니다. 자동 닫기를 비활성화하려면 0을 입력하십시오."
+
+
+msgid "Choose Category"
+msgstr "카테고리 선택"
+
+
+msgid "Choose Pattern"
+msgstr "패턴 선택"
+
+
+msgid "Choose Staff"
+msgstr "직원 선택"
+
+
+msgid "Choose chat button icon"
+msgstr "채팅 버튼 아이콘 선택"
+
+
+msgid "Close ticket which has been inactive for"
+msgstr "비활성 상태 인 티켓을 닫습니다."
+
+
+msgid "Close ticket which is inactivated for"
+msgstr "비활성화 된 티켓 닫기"
+
+
+msgid "Closing Message"
+msgstr "메시지 닫기"
+
+
+msgid "Closing Rule"
+msgstr "결산 규칙"
+
+
+msgid "Closing Text"
+msgstr "텍스트 닫기"
+
+
+msgid "Currency"
+msgstr "통화"
+
+
+msgid "Custom_field"
+msgstr "사용자 정의 필드"
+
+
+msgid "Delete failed"
+msgstr "삭제 실패"
+
+
+msgid "Demo Mode"
+msgstr "데모 모드"
+
+
+msgid "Disable Knowledge Stat In Homepage"
+msgstr "홈페이지에서 지식 통계 비활성화"
+
+
+msgid "Disable knowledge statistics in home page"
+msgstr "홈페이지에서 지식 통계 사용 중지"
+
+
+msgid "Edit Ticket Assign Rule"
+msgstr "티켓 할당 규칙 편집"
+
+
+msgid "Email template for  AAT"
+msgstr "AAT 용 이메일 템플릿"
+
+
+msgid "Email template for  TAC"
+msgstr "TAC 용 이메일 템플릿"
+
+
+msgid "Enable Auto Close"
+msgstr "자동 닫기 사용"
+
+
+msgid "Enable this to disable %s,%s,%s in homepage"
+msgstr "홈페이지에서  %s,  %s,  %s을 (를) 사용 중지하려면 사용"
+
+
+msgid "Files:"
+msgstr "파일 :"
+
+
+msgid "Forgot Password"
+msgstr "비밀번호를 잊으 셨나요"
+
+
+msgid "Go to Login"
+msgstr "로그인으로 이동"
+
+
+msgid "Hour"
+msgstr "시간"
+
+
+msgid "If you don't know how you will configure the Facebook Page settings then"
+msgstr "Facebook 페이지 설정을 구성하는 방법을 모른다면"
+
+
+msgid "If you enable it, then inactive ticket will be closed automatically by auto closing rule"
+msgstr "활성화하면 자동 닫기 규칙에 의해 비활성 티켓이 자동으로 닫힙니다."
+
+
+msgid "If you enable this then assigned user will get notification on ticket assigning"
+msgstr "이 기능을 사용하면 할당 된 사용자는 티켓 할당에 대한 알림을받습니다."
+
+
+msgid "Inactive Interval"
+msgstr "비활성 간격"
+
+
+msgid "Inactive Interval min"
+msgstr "비활성 간격 (분)"
+
+
+msgid "It set a limit,how many chat per agent(Admin User) can take  simultaneously"
+msgstr "한도 (관리자 당 관리 사용자 수)를 동시에 사용할 수있는 수를 설정합니다."
+
+
+msgid "It will display in chat window"
+msgstr "채팅 창에 표시됩니다."
+
+
+msgid "It will redirect within"
+msgstr "내에서 리디렉션됩니다."
+
+
+msgid "It will show when all agent close the chat,"
+msgstr "모든 상담원이 채팅을 닫을 때 표시되며,"
+
+
+msgid "Knowledge Categories"
+msgstr "지식 카테고리"
+
+
+msgid "Knowledge attached file"
+msgstr "지식 첨부 파일"
+
+
+msgid "Knowledge feature image"
+msgstr "지식 기능 이미지"
+
+
+msgid "Main color of chat window."
+msgstr "채팅 창의 주요 색상."
+
+
+msgid "N B. If you select Facebook Chat then you have to reply form Facebook Page Manager App or from Facebook. You can't reply from this app"
+msgstr "N B. Facebook Chat을 선택하면 Facebook Facebook Manager App 또는 Facebook에서 답장을해야합니다. 이 앱에서 답장을 보낼 수 없습니다."
+
+
+msgid "Name of ticket assigned user"
+msgstr "티켓 할당 사용자 이름"
+
+
+msgid "New Admin Note"
+msgstr "새 관리자 메모"
+
+
+msgid "New Ticket Assign Rule"
+msgstr "새 티켓 할당 규칙"
+
+
+msgid "New message or chat"
+msgstr "새 메시지 또는 채팅"
+
+
+msgid "New ticket assigned"
+msgstr "새 티켓이 지정되었습니다."
+
+
+msgid "New ticket assigned by you"
+msgstr "새로운 티켓이 지정되었습니다."
+
+
+msgid "New ticket received"
+msgstr "새 티켓을 받았다."
+
+
+msgid "No note founds"
+msgstr "메모 없음"
+
+
+msgid "No ticket open by %s"
+msgstr "%s 님이 열어 본 티켓이 없습니다"
+
+
+msgid "Note"
+msgstr "노트"
+
+
+msgid "Note On"
+msgstr "참고 사항"
+
+
+msgid "Notification List"
+msgstr "알림 목록"
+
+
+msgid "On Ticket Assign"
+msgstr "티켓 지정시"
+
+
+msgid "Password changed successfully"
+msgstr "암호가 성공적으로 변경되었습니다."
+
+
+msgid "Password info"
+msgstr "암호 정보"
+
+
+msgid "Payment Amount (%s)"
+msgstr "지불 금액 ( %s)"
+
+
+msgid "Payment Amount(%s)"
+msgstr "지불 금액 ( %s)"
+
+
+msgid "Permission Denied or logged out."
+msgstr "사용 권한이 거부되거나 로그 아웃되었습니다."
+
+
+msgid "Please read it first"
+msgstr "먼저 읽으십시오."
+
+
+msgid "Popular Knowledge"
+msgstr "인기있는 지식"
+
+
+msgid "Recover Password"
+msgstr "비밀 번호 복구"
+
+
+msgid "Ref Id"
+msgstr "참조 ID"
+
+
+msgid "Ref Type"
+msgstr "참조 유형"
+
+
+msgid "Reset failed try again"
+msgstr "다시 설정하지 못했습니다. 다시 시도하십시오."
+
+
+msgid "Rule Id"
+msgstr "규칙 ID"
+
+
+msgid "Rule Type"
+msgstr "규칙 유형"
+
+
+msgid "SYSTEM"
+msgstr "체계"
+
+
+msgid "Select Category"
+msgstr "카테고리 선택"
+
+
+msgid "Select Role"
+msgstr "역할 선택"
+
+
+msgid "Select User"
+msgstr "사용자 선택"
+
+
+msgid "Select User/Agent/Supervisor"
+msgstr "사용자 / 에이전트 / 관리자 선택"
+
+
+msgid "Selected agent/supervisor/admin will be notified on new ticket"
+msgstr "선택한 에이전트 / 감독자 / 관리자에게 새 티켓에 대한 알림이 전송됩니다."
+
+
+msgid "Selected agent/supervisor/admin will be notified on new ticket assigning"
+msgstr "선택한 에이전트 / 감독자 / 관리자에게 새 티켓 할당에 대한 알림이 전송됩니다."
+
+
+msgid "Successfully assigned"
+msgstr "할당 됨"
+
+
+msgid "Test Knowledge"
+msgstr "지식 테스트"
+
+
+msgid "Test attachedxcx"
+msgstr "첨부 파일 테스트 xx"
+
+
+msgid "The ticket will be close which is inactive for client response"
+msgstr "고객 응답을 위해 비활성 상태 인 티켓이 닫힙니다."
+
+
+msgid "The update has been disabled in DEMO MODE"
+msgstr "DEMO MODE에서 업데이트가 비활성화되었습니다."
+
+
+msgid "The user who reopen this ticket"
+msgstr "이 티켓을 다시 여는 사용자"
+
+
+msgid "This user can be agent/supervisor/admin"
+msgstr "이 사용자는 상담원 / 감독자 / 관리자가 될 수 있습니다."
+
+
+msgid "Ticket Assign Rule"
+msgstr "티켓 할당 규칙"
+
+
+msgid "Ticket Assign Rule List"
+msgstr "티켓 할당 규칙 목록"
+
+
+msgid "Ticket Closing Message"
+msgstr "티켓 폐지 메시지"
+
+
+msgid "Ticket Closing Message defined in Ticket settings"
+msgstr "티켓 설정에 정의 된 티켓 종료 메시지"
+
+
+msgid "Ticket Feedback Buttons"
+msgstr "티켓 피드백 버튼"
+
+
+msgid "Ticket Open By Admin"
+msgstr "관리자가 열어 티켓"
+
+
+msgid "Ticket Payment Process"
+msgstr "티켓 지불 프로세스"
+
+
+msgid "Ticket user  replied"
+msgstr "티켓 사용자가 응답 함"
+
+
+msgid "Ticket_assign_rule"
+msgstr "Ticket_assign_rule"
+
+
+msgid "Timezone updated successfully"
+msgstr "시간대가 성공적으로 업데이트되었습니다."
+
+
+msgid "Title :"
+msgstr "제목 :"
+
+
+msgid "To see all settings effect on site, Please logout this session or try with other bowser. If admin logged in then you won't see the chat button"
+msgstr "사이트의 모든 설정 효과를 보려면이 세션을 로그 아웃하거나 다른 bowser로 시도하십시오. 관리자가 로그인하면 채팅 버튼이 표시되지 않습니다."
+
+
+msgid "To see all settings effect on site, please logout admin user or try with other browser. If admin logged in then you won't see the chat button"
+msgstr "사이트의 모든 설정 효과를 보려면 관리자 사용자를 로그 아웃하거나 다른 브라우저로 시도하십시오. 관리자가 로그인하면 채팅 버튼이 표시되지 않습니다."
+
+
+msgid "User Or Role"
+msgstr "사용자 또는 역할"
+
+
+msgid "View Closing Email Template"
+msgstr "닫기 이메일 템플릿보기"
+
+
+msgid "You have assigned self to a ticket"
+msgstr "티켓에 자기를 지정했습니다."
+
+
+msgid "You have been replied a ticket"
+msgstr "너는 표로 대답했다."
+
+
+msgid "You replied a ticket"
+msgstr "너는 표를 대답했다."
+
+
+msgid "Your password has been changed successfully"
+msgstr "비밀번호가 성공적으로 변경되었습니다"
+
+
+msgid "hours"
+msgstr "시간"
+
+
+msgid "second(s)"
+msgstr "초"
+
+
+msgid "to view the ticket assigning rule"
+msgstr "티켓 할당 규칙을 보는 방법"
+
+
+msgid "Assign user"
+msgstr "사용자 지정"
+
+
+msgid "Bad, dissatisfied"
+msgstr "불만족 스럽다."
+
+
+msgid "Both"
+msgstr "양자 모두"
+
+
+msgid "Closed"
+msgstr "닫은"
+
+
+msgid "DB Query"
+msgstr "DB 쿼리"
+
+
+msgid "Edit Chat Canned Message"
+msgstr "채팅 미리 준비된 메시지 편집"
+
+
+msgid "Edit Menu"
+msgstr "편집 메뉴"
+
+
+msgid "Ex. http://xyz.com"
+msgstr "전의. http://xyz.com"
+
+
+msgid "Failed"
+msgstr "실패한"
+
+
+msgid "Feedback message"
+msgstr "피드백 메시지"
+
+
+msgid "Guest"
+msgstr "손님"
+
+
+msgid "Guest Ticket User"
+msgstr "게스트 티켓 사용자"
+
+
+msgid "High"
+msgstr "높은"
+
+
+msgid "Icon"
+msgstr "상"
+
+
+msgid "In Progress"
+msgstr "진행 중"
+
+
+msgid "Is New Window"
+msgstr "새창인가"
+
+
+msgid "Leave as Current"
+msgstr "현재로 남기십시오."
+
+
+msgid "Loading"
+msgstr "로드 중"
+
+
+msgid "Low"
+msgstr "낮은"
+
+
+msgid "Medium"
+msgstr "매질"
+
+
+msgid "My Assigned All Tickets"
+msgstr "내 할당 된 모든 티켓"
+
+
+msgid "New"
+msgstr "새로운"
+
+
+msgid "New Menu"
+msgstr "새 메뉴"
+
+
+msgid "No search result found"
+msgstr "검색 결과가 없습니다."
+
+
+msgid "Not Found"
+msgstr "찾을 수 없음"
+
+
+msgid "Notice_confirm"
+msgstr "Notice_confirm"
+
+
+msgid "Only On Knowledge"
+msgstr "지식에 대해서만"
+
+
+msgid "Only on Ticket"
+msgstr "티켓에서만"
+
+
+msgid "Page %s of %s"
+msgstr "%s /  %s 페이지"
+
+
+msgid "Paid"
+msgstr "유료"
+
+
+msgid "Pending"
+msgstr "대기중인"
+
+
+msgid "Please write a comment on us here"
+msgstr "여기에 의견을 남겨주세요."
+
+
+msgid "Refunded"
+msgstr "환불 됨"
+
+
+msgid "Show Ticket"
+msgstr "티켓보기"
+
+
+msgid "Staff"
+msgstr "직원"
+
+
+msgid "Text Icon"
+msgstr "텍스트 아이콘"
+
+
+msgid "Thank you for your feedback"
+msgstr "의견을 보내 주셔서 감사합니다"
+
+
+msgid "Thank you for your feedback. It will help us."
+msgstr "의견을 보내 주셔서 감사합니다. 그것은 우리를 도울 것입니다."
+
+
+msgid "The website address is not valid"
+msgstr "웹 사이트 주소가 유효하지 않습니다."
+
+
+msgid "URL"
+msgstr "URL"
+
+
+msgid "Urgent"
+msgstr "긴급한"
+
+
+msgid "View %s - %s of %s"
+msgstr "%s -  %s /  %s보기"
+
+
+msgid "Well, satisfied"
+msgstr "음, 만족"
+
+
+msgid "Would you please share your experience with us?"
+msgstr "우리와 함께 경험을 나누시겠습니까?"
+
+
+msgid "You are not authorizse to see this ticket"
+msgstr "이 티켓을 볼 수있는 권한이 없습니다."
+
+
+msgid "day"
+msgstr "일"
+
+
+msgid "days"
+msgstr "일"
+
+
+msgid "minute"
+msgstr "분"
+
+
+msgid "minutes"
+msgstr "의사록"
+
+
+msgid "month"
+msgstr "달"
+
+
+msgid "months"
+msgstr "개월"
+
+
+msgid "second"
+msgstr "둘째"
+
+
+msgid "week"
+msgstr "주"
+
+
+msgid "weeks"
+msgstr "주"
+
+
+msgid "year"
+msgstr "년"
+
+
+msgid "years"
+msgstr "연령"
+
+
+msgid "ago"
+msgstr "...전에"
+
+
+msgid "Ticket user(%s) replied"
+msgstr "티켓 사용자 ( %s)가 대답했습니다."
+
+
+msgid "No category found"
+msgstr "카테고리가 없습니다."
+
+
+msgid "Ticket Reply"
+msgstr "티켓 회신"
+
+
+msgid "Invalid Information"
+msgstr "잘못된 정보"
+
+
+msgid "Captcha Error"
+msgstr "보안 문자 오류"
+
+
+msgid "Assign self"
+msgstr "자기 할당"
+
+
+msgid "Assign user %s"
+msgstr "사용자  %s 할당"
+
+
+msgid "Choose country block rule"
+msgstr "국가 차단 규칙 선택"
+
+
+msgid "Choose.."
+msgstr "고르다.."
+
+
+msgid "Country Block Rule"
+msgstr "국가 차단 규칙"
+
+
+msgid "Country Block Settings"
+msgstr "국가 차단 설정"
+
+
+msgid "Country List"
+msgstr "국가 목록"
+
+
+msgid "Enter 2 digit Country Code(ex. US,CA,BD), Separated by comma"
+msgstr "2 자리 국가 코드 (예 : US, CA, BD)를 입력하고 쉼표로 구분하십시오"
+
+
+msgid "If you enable it then app check country for allow or block."
+msgstr "이 기능을 사용하면 허용 또는 차단을 위해 국가를 확인하십시오."
+
+
+msgid "No user found with this email address"
+msgstr "이 이메일 주소가있는 사용자가 없습니다."
+
+
+msgid "Separated by comma"
+msgstr "쉼표로 구분"
+
+
+msgid "Seperated by comma"
+msgstr "쉼표로 구분"
+
+
+msgid "simultaneously"
+msgstr "동시에"
+
+
+msgid "%d MIN"
+msgstr "%d MIN"
+
+
+msgid "Accept"
+msgstr "동의"
+
+
+msgid "Access denied for hacking attempts"
+msgstr "해킹 시도에 대한 액세스가 거부되었습니다."
+
+
+msgid "Admin Work Log"
+msgstr "관리 작업 로그"
+
+
+msgid "Allow User Own Account Delete Option"
+msgstr "사용자 소유 계정 삭제 옵션 허용"
+
+
+msgid "Allow User To Download Their User Data"
+msgstr "사용자가 사용자 데이터를 다운로드하도록 허용"
+
+
+msgid "Are you sure to delete your account?"
+msgstr "계정을 삭제 하시겠습니까?"
+
+
+msgid "Are you sure to reset?"
+msgstr "다시 설정 하시겠습니까?"
+
+
+msgid "Assign"
+msgstr "양수인"
+
+
+msgid "Auto"
+msgstr "자동"
+
+
+msgid "Auto Assigned"
+msgstr "자동 할당 됨"
+
+
+msgid "Background Color"
+msgstr "배경색"
+
+
+msgid "Background Opacity"
+msgstr "배경 불투명도"
+
+
+msgid "Background Opacity is required"
+msgstr "배경 불투명도가 필요합니다."
+
+
+msgid "Choose Bar Close Animation"
+msgstr "막대 닫기 애니메이션 선택 닫기"
+
+
+msgid "Choose Bar Open Animation"
+msgstr "바 애니메이션 열기를 선택하십시오."
+
+
+msgid "Choose Display Event"
+msgstr "이벤트 표시를 선택하십시오."
+
+
+msgid "Choose Policy Page"
+msgstr "정책 페이지 선택"
+
+
+msgid "Cookie Bar Background Color"
+msgstr "쿠키 바 배경색"
+
+
+msgid "Cookie Message"
+msgstr "쿠키 메시지"
+
+
+msgid "Cookie bar text color"
+msgstr "쿠키 바 텍스트 색상"
+
+
+msgid "Copy Link"
+msgstr "복사 링크"
+
+
+msgid "Date"
+msgstr "날짜"
+
+
+msgid "Default Value"
+msgstr "기본값"
+
+
+msgid "Delete my account"
+msgstr "계정을 삭제하다"
+
+
+msgid "Deleted"
+msgstr "삭제됨"
+
+
+msgid "Download this account data"
+msgstr "이 계정 데이터 다운로드"
+
+
+msgid "Dropdown"
+msgstr "쓰러지 다"
+
+
+msgid "Edit Custom Field"
+msgstr "사용자 정의 필드 편집"
+
+
+msgid "Edit Page"
+msgstr "페이지 편집"
+
+
+msgid "Error"
+msgstr "오류"
+
+
+msgid "Field Validation"
+msgstr "필드 유효성 검사"
+
+
+msgid "GDPR Settings"
+msgstr "GDPR 설정"
+
+
+msgid "General"
+msgstr "일반"
+
+
+msgid "Go Home Page"
+msgstr "Go Home Page"
+
+
+msgid "If you enable it, then app will show a notification bar for cookie message"
+msgstr "사용 설정하면 앱에서 쿠키 메시지 알림 표시 줄을 표시합니다."
+
+
+msgid "If you enable it, then site user or visitor can delete their account from their panel"
+msgstr "사용 설정하면 사이트 사용자 또는 방문자가 패널에서 계정을 삭제할 수 있습니다."
+
+
+msgid "If you enable it, then site user or visitor can download their account data from their panel"
+msgstr "사용하도록 설정하면 사이트 사용자 또는 방문자가 패널에서 계정 데이터를 다운로드 할 수 있습니다."
+
+
+msgid "If you enable it, then when visitor click the privacy policy then that will be show in lighbox window"
+msgstr "이 기능을 사용하면 방문객이 개인 정보 취급 방침을 클릭하면 해당 내용이 라이 박스 창에 표시됩니다"
+
+
+msgid "If you enable this then it field show in All Ticket list as column in admin panel"
+msgstr "이 기능을 사용하면 관리 패널의 모든 티켓 목록에이 필드가 표시됩니다"
+
+
+msgid "In Form"
+msgstr "양식 있음"
+
+
+msgid "Is Api Based"
+msgstr "Api 기반인가요?"
+
+
+msgid "Is On Grid"
+msgstr "그리드에있다"
+
+
+msgid "It is the cookie bar background color"
+msgstr "쿠키 막대 배경색입니다."
+
+
+msgid "It will control the opacity or background transparency of cookie bar background"
+msgstr "쿠키 막대 배경의 불투명도 또는 배경 투명도를 제어합니다."
+
+
+msgid "Locked"
+msgstr "잠김"
+
+
+msgid "Locked(Hack)"
+msgstr "잠김 (해킹)"
+
+
+msgid "Login Server"
+msgstr "로그인 서버"
+
+
+msgid "Malicious Attempt on attached file. Attached file(s) has been skipped"
+msgstr "첨부 파일에 대한 악의적 인 시도. 첨부 파일을 건너 뛰었습니다."
+
+
+msgid "Manual"
+msgstr "조작"
+
+
+msgid "New IP"
+msgstr "새로운 IP"
+
+
+msgid "New Page"
+msgstr "새 페이지"
+
+
+msgid "New Work Log"
+msgstr "새로운 작업 일지"
+
+
+msgid "No work log founds"
+msgstr "작업 로그를 찾지 못했습니다."
+
+
+msgid "Normal"
+msgstr "표준"
+
+
+msgid "Notifiy"
+msgstr "알림"
+
+
+msgid "Numeric"
+msgstr "숫자"
+
+
+msgid "On Submit Api Check"
+msgstr "Submit Api Check에서"
+
+
+msgid "On Ticket Opening Form Category"
+msgstr "티켓 개설 양식 카테고리"
+
+
+msgid "Others"
+msgstr "기타"
+
+
+msgid "Page"
+msgstr "페이지"
+
+
+msgid "Page Body"
+msgstr "페이지 본문"
+
+
+msgid "Pages"
+msgstr "페이지"
+
+
+msgid "Policy Page is required"
+msgstr "정책 페이지가 필요합니다."
+
+
+msgid "Published"
+msgstr "게시 됨"
+
+
+msgid "Radio"
+msgstr "라디오"
+
+
+msgid "Read"
+msgstr "독서"
+
+
+msgid "Reset IP"
+msgstr "IP 재설정"
+
+
+msgid "Select page"
+msgstr "페이지 선택"
+
+
+msgid "Show on Table Data List"
+msgstr "표 데이터 목록에 표시"
+
+
+msgid "Slag Title"
+msgstr "슬래그 제목"
+
+
+msgid "Success"
+msgstr "성공"
+
+
+msgid "Suspicious : Malicious attempt  on attached file: %s"
+msgstr "의심스러운 파일 : 첨부 파일에 대한 악의적 인 시도 :  %s"
+
+
+msgid "Suspicious: Malicious File Upload Attempts. If you tried to upload again then your ip will be blocked automatically"
+msgstr "의심스러운 파일 : 악의적 인 파일 업로드 시도. 다시 올리려고하면 IP가 자동으로 차단됩니다."
+
+
+msgid "Switch"
+msgstr "스위치"
+
+
+msgid "Textbox"
+msgstr "텍스트 상자"
+
+
+msgid "This key is already used in another site. contact support team"
+msgstr "이 키는 이미 다른 사이트에서 사용됩니다. 지원 팀에 문의"
+
+
+msgid "Ticket Id"
+msgstr "티켓 ID"
+
+
+msgid "Ticket Re-Open"
+msgstr "티켓 재개"
+
+
+msgid "Ticket user has been data deleted"
+msgstr "티켓 사용자가 데이터가 삭제되었습니다."
+
+
+msgid "Undefined page"
+msgstr "정의되지 않은 페이지"
+
+
+msgid "Unpublished"
+msgstr "널리 알려지지 않은"
+
+
+msgid "View Cookie Notification Bar"
+msgstr "쿠키 알림 표시 줄보기"
+
+
+msgid "View Page"
+msgstr "페이지보기"
+
+
+msgid "View Policy In POP UP window(Lightbox)"
+msgstr "정책보기 POP UP 창 (라이트 박스)"
+
+
+msgid "Viewed"
+msgstr "조회수"
+
+
+msgid "Work Time"
+msgstr "근무 시간"
+
+
+msgid "Write %s for Policy Link and %s for only policy URL"
+msgstr "정책 링크에만  %s를 쓰고 정책 URL에만  %s을 (를) 씁니다."
+
+
+msgid "Write {{PolicyLink}} for Policy Link and {{PolicyURL}} for only policy URL"
+msgstr "정책 링크 만 {{PolicyLink}}, 정책 URL 만 {{PolicyURL}}으로 작성하십시오."
+
+
+msgid "You can create many page in page menu. Go to Admin Settings > Pages or %s"
+msgstr "페이지 메뉴에서 많은 페이지를 생성 할 수 있습니다. 관리자 설정> 페이지 또는  %s (으)로 이동하십시오."
+
+
+msgid "You logged in using %s"
+msgstr "%s을 사용하여 로그인했습니다."
+
+
+msgid "Disable Counter Icon"
+msgstr "카운터 아이콘 비활성화"
+
+
+msgid "Disable Knowledge Like/Dislike Button"
+msgstr "지식 Like / Dislike 버튼 비활성화"
+
+
+msgid "Disable knowledge like and dislike button"
+msgstr "좋아요 및 싫어요 버튼 사용 안 함 버튼"
+
+
+msgid "Do Not Show Last Update Date"
+msgstr "마지막 업데이트 날짜 표시 안 함"
+
+
+msgid "Do Not Show Last Update Date on Knowledge Details"
+msgstr "지식 정보에 대한 최종 업데이트 날짜 표시 안 함"
+
+
+msgid "Do Not Show counter icon with knowledge"
+msgstr "지식이있는 카운터 아이콘 표시 안 함"
+
+
+msgid "Do Not Show counter with knowledge"
+msgstr "지식이있는 카운터 보이지 않기"
+
+
+msgid "If you enable this then it won't show the like or dislike button on knowledge details."
+msgstr "이 기능을 사용하면 지식 정보에 대해 좋아요 또는 싫어요 버튼이 표시되지 않습니다."
+
+
+msgid "If you enable this then, it won't show the last update date on knowledge details."
+msgstr "이 기능을 사용하면 지식 정보의 마지막 업데이트 날짜가 표시되지 않습니다."
+
+
+msgid "If you enable this then, it won't show the view/rate counter."
+msgstr "이 기능을 사용하면보기 / 비율 카운터가 표시되지 않습니다."
+
+
+msgid "Last Update Date"
+msgstr "마지막 업데이트 날짜"
+
+
+msgid "Login Required, Please login"
+msgstr "로그인 필요, 로그인하십시오"
+
+
+msgid "OR"
+msgstr "또는"
+

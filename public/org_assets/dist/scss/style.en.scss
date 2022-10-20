@@ -1,0 +1,287 @@
+html{
+    direction: ltr;
+}
+
+body{
+    direction: ltr;
+    text-align: left;
+}
+.navbars-container{
+    .sec-nav{
+        .form-inline{
+            input[type=search]{
+                padding-left: 45px;
+                padding-right: unset;
+            }
+            .fa-search{
+                left: 15px;
+                right: unset;
+            }
+        }
+    }
+
+    .main-nav.navbar{
+        & .navbar{
+            .form-inline{
+                direction: rtl;
+                input[type=search]{
+                    border-radius: 0.25rem;
+                    border-top-right-radius: 0;
+                    border-bottom-right-radius: 0;
+                    transition: width 0.4s ease-in-out;
+                    &:focus {
+                        direction: ltr;
+                    }
+                }
+                .fa-search{
+                    left: unset;
+                    right: 15px;
+                }
+            }
+            .navbar-toggler{
+                border-radius: 0.25rem;
+                border-top-left-radius: 0;
+                border-bottom-left-radius: 0;
+            }
+        }
+    }
+}
+
+
+
+.offer-container{
+    .offer-header{
+        .offer-amount{
+            &.offer-badge1{
+                width: 15rem;
+                margin-left: -20px;
+                border-top: 30px solid transparent;
+                border-bottom: 30px solid transparent;
+                border-right: 20px solid #ebf2f9;
+                border-left: none;
+            }
+            .offer-no{
+                span{
+                    &.no{
+                        margin-left: 0;
+                        margin-right: 1rem;
+                    }
+
+                }
+            }
+        }
+    }
+}
+
+#offers{
+    .modal{
+        .modal-content{
+            .modal-body{
+                text-align: left;
+                .offer-details{
+                    .offer-end-date{
+                        width: fit-content;
+                    }
+                }
+            }
+        }
+    }
+}
+
+.log-container{
+    .form-type{
+        text-align: left;
+    }
+}
+
+.modal{
+    &.formModal{
+        .modal-body{
+            form{
+                text-align: left;
+                .form-group{
+                    .form-control{
+                        text-align: left;
+                    }
+                }
+            }
+        }
+    }
+}
+
+.mapBroken{
+    .container{
+        .text{
+            .content{
+                p{
+                    text-align: left;
+                }
+                .fa-envelope{
+                    margin-left: 0;
+                    margin-right: 0.5rem;
+                }
+            }
+        }
+    }
+}
+
+.circled-img{
+    left: unset;
+    right: -15px;
+    img{
+        left: unset;
+        right: 30px;
+    }
+}
+
+.post-body{
+    .share-links{
+        & .item{
+            width: 100px;
+        }
+    }
+    .post-comment-section{
+        form{
+            .btn{
+                float: right;
+            }
+        }
+    }
+}
+
+form{
+    .check{
+        .form-check{
+            .form-check-input{
+                margin-top: 0.15rem;
+                margin-left: 0;
+            }
+            .form-check-label{
+                margin: 0;
+                margin-left: 1.5rem;
+            }
+        }
+    }
+}
+
+footer{
+    .container{
+        .newsletter{
+            .input-group{
+                & .form-control{
+                    border-radius: 0;
+                    border-top-left-radius: 5px !important;
+                    border-bottom-left-radius: 5px !important;
+                }
+                .btn{
+                    border-radius: 0;
+                    border-top-right-radius: 5px;
+                    border-bottom-right-radius: 5px;
+                }
+            }
+        }
+    }
+}
+
+
+.courseContent{
+    .container{
+        .content-col{
+            section#content {
+                .accordion{
+                    .card{
+                        .card-header{
+                            h2 {
+                                .btn{
+                                    text-align: left !important;
+                                }
+                            }
+                        } 
+                    } 
+                } 
+            }
+        } 
+    } 
+} 
+
+.course-card{
+    .course-card-content{
+        text-align: left;
+    }
+}
+
+
+// Responsive
+@media (min-width: 576px){
+    .offer-container{
+        .offer-content{
+            text-align: left;
+        }
+        .offer-footer{
+            text-align: left;
+        }
+    }
+}
+
+@media (min-width: 768px){
+    .policy{
+        .container{
+            .policy-content{
+                h4, h6{
+                    text-align: right;
+                }
+            }
+        }
+    }
+    
+    footer{
+        text-align: left;
+        .container{
+            .company{
+                .logo-title{
+                    text-align: left;
+                }
+            }
+            .newsletter{
+                text-align: left;
+            }
+        }
+    }
+}
+
+@media (min-width: 992px){
+    .services{
+        .services-slider{
+            .slider-item{
+                & .row{
+                    .item-content{
+                        text-align: left;
+                    }
+                }
+            }
+        }
+    }
+    .main-page-header{
+        .hero-header{
+            text-align: left;
+        }
+    }
+
+    .circled-img{
+        left: unset;
+        right: -50px;
+        img{
+            left: unset;
+            right: 50px;
+        }
+    }
+
+    .mapBroken{
+        .container{
+            .map{
+                right: 0;
+                left: unset;
+            }
+        }
+    }
+}

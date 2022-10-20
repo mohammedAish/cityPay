@@ -1,0 +1,54 @@
+.btn-icon-list {
+  .card {
+    .card-body {
+      text-align: center;
+      overflow: hidden;
+      position: relative;
+      .tag-note {
+        width: 100px;
+        /* height: 20px; */
+        position: absolute;
+        left: -23px;
+        top: 15px;
+        transform: rotate(-45deg);
+        font-size: 8px;
+        line-height: 20px;
+        font-weight: bold;
+        color: #fff;
+        text-transform: uppercase;
+        background: darken($app_base_color,10);
+        color:#fff;
+        &.less-priroty{
+          background: #cccccc;
+        }
+      }
+      a {
+        text-decoration: none;
+        color: $app_base_color;
+        &:hover{
+          color: darken($app_base_color,10);
+        }
+        >i {
+          font-size: 65px;
+
+        }
+        .app-icon-title {
+          font-size: 24px;
+
+        }
+        .app-icon-sub-title {
+          font-size: 10px;
+          color: #000;
+        }
+        >span {
+          font-size: 12px;
+          display: block;
+          text-transform: uppercase;
+        }
+        .info {
+          font-size: 12px;
+        }
+      }
+    }
+  }
+}

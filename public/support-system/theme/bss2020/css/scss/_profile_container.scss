@@ -1,0 +1,391 @@
+.card.card-default{
+  -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+  -moz-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+  box-shadow: 0 1px 1px rgba(0,0,0,.05);
+  margin-bottom: 1rem;
+  .card-header{
+    background: #fff;
+    h4{
+      font-size: 14px;
+    }
+  }
+  .card-body{
+    font-size: 12px;
+    th{
+      font-size: 12px;
+    }
+  }
+}
+.client-my-menu {
+  navbar-client-menu {
+    .navbar-header {
+      .navbar-toggle{
+        background: none;
+      }
+      .navbar-brand {
+
+      }
+    }
+  }
+  li {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    &:first-child {
+      border-top-left-radius: 4px;
+      border-top-right-radius: 4px;
+      overflow: hidden;
+      .profile-container {
+        border-top-left-radius: 4px;
+        border-top-right-radius: 4px;
+      }
+    }
+    &:last-child {
+      margin-bottom: 0;
+      border-bottom-right-radius: 4px;
+      border-bottom-left-radius: 4px;
+    }
+  }
+}
+.content-spacer{
+  margin-top: 30px;
+}
+.client-dashboard {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  a{
+    text-decoration: none;
+  }
+  .active-text {
+    color: #0d90b8;
+    &:hover{
+      color: #0d84aa;
+    }
+  }
+  .closed-text {
+    color: rgb(23, 184, 44);
+    &:hover{
+      color: rgb(21, 162, 40);
+    }
+  }
+  .action-req-text {
+    color: rgb(179, 10, 32);
+    &:hover{
+      color: rgb(155, 10, 29);
+    }
+  }
+  .card-body {
+    font-size: 14px;
+    min-height: 50px;
+    text-align: center;
+    .data-counter {
+      font-size: 65px;
+
+    }
+    .data-text {
+      font-size: 20px;
+    }
+
+  }
+}
+
+.profile-container {
+  $profile_color1: lighten($app_main_color, 70);
+  $profile_color2: lighten($app_main_color, 59);
+  background: $profile_color1;
+  background: -moz-linear-gradient(top, $profile_color1 0%, $profile_color2 100%);
+  background: -webkit-linear-gradient(top, $profile_color1 0%, $profile_color2 100%);
+  background: linear-gradient(to bottom, $profile_color1 0%, $profile_color2 100%);
+
+
+  .outer-w {
+    margin: 10px auto;
+    width: 150px;
+    height: 150px;
+    padding: 0px;
+  }
+  .profile-img {
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    position: relative;
+    overflow: hidden;
+    border: 2px solid #000;
+    border: 4px solid rgba(0, 0, 0, 0.26);
+    .app-change-photo {
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: -4px;
+      opacity: 0.8;
+      height: 35px;
+      line-height: 5px;
+      z-index: 2;
+      display: none;
+    }
+    &:hover{
+      .app-change-photo{
+        display: unset;
+      }
+    }
+  }
+  .outer-w img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+  }
+}
+@media all and (max-width: 640px) {
+  .navbar-client-menu {
+    position: relative;
+    margin-bottom: 0;
+    box-shadow: 0 1px 3px -2px #000;
+    height: auto;
+    min-height: 30px !important;
+    margin-bottom: 30px;
+    .navbar-header {
+      background: lighten($app_main_color, 30);
+      border: 1px solid #f1f1f1;
+      height: 40px;
+      overflow: hidden;
+      position: relative;
+      margin-bottom: -2px;
+      width: 100%;
+
+      .navbar-brand {
+        float: left;
+        height: 45px;
+        padding: 6px 15px;
+        font-size: 15px !important;
+        line-height: 30px;
+        font-weight: bold;
+        color: darken($app_main_color, 60);
+        z-index: 10;
+        text-transform: uppercase;
+        margin-bottom: -2px;
+
+        >img {
+          border-radius: 50%;
+          border: 2px solid darken($app_main_color, 60);
+          max-width: 27px;
+          min-height: 27px;
+          border-radius: 50%;
+          float: left;
+          margin-right: 5px;
+          ::after {
+            content: ' ';
+            clear: both;
+          }
+        }
+      }
+      .navbar-toggle {
+
+        background: transparent;
+        color: $app_text_color;
+        border: none;
+
+        padding: 6px 10px;
+        margin-top: 5px;
+        margin-right: 15px;
+        margin-bottom: 8px;
+        .icon-bar {
+          background-color: #888;
+        }
+      }
+    }
+    .navbar-collapse,
+    .sidebar-navbar-collaps {
+      padding: 0;
+      z-index: 9;
+      position: relative;
+    }
+  }
+  .client-my-menu.list-group {
+    margin-bottom: 0;
+    li:nth-child(2) {
+      border-top: 2px solid darken($app_main_color, 60);
+    }
+    li:last-child {
+      border-radius: 0;
+      border-bottom: none; //2px solid darken($app_main_color,10);
+      margin-bottom: -1px;
+    }
+  }
+}
+.kn-list {
+  margin: 0;
+  padding: 0;
+  >li{
+    border-bottom: 1px dashed rgba(18, 17, 17, 0.11);
+    list-style: outside none none;
+    padding: 10px 15px;
+    position: relative;
+    overflow: hidden;
+    .kn-title {
+      h3 {
+        > a {
+          text-decoration: none;
+          font-size: 14px;
+          font-family: "Open Sans", Arial, Helvetica, sans-serif;
+        }
+      }
+    }
+    label{
+      font-weight: bold;
+      text-align: left;
+      padding: 2px;
+    }
+    .kn-details {
+      font-size: 12px;
+      a{
+        text-decoration: none;
+      }
+      a:focus{
+        outline: none !important;
+      }
+    }
+  }
+  >li:last-child{
+    border-bottom: none;
+  }
+  >li.is-sticky::before{
+    content: '\f0d8';
+    color: #0f6a1e;
+    font-family: FontAwesome;
+    font-size: 51px;
+    left: -13px;
+    position: absolute;
+    top: -34px;
+    transform: rotate(-45deg);
+
+  }
+  >li.is-sticky::after{
+    content: '\f2A6';
+    color: rgba(255, 255, 255, 0.71);
+    font-family: "Ionicons";
+    font-size: 10px;
+    left: 3px;
+    position: absolute;
+    top: 2px;
+
+  }
+}
+.ticket-item {
+
+  .row {
+    >label {
+      font-size: 12px;
+      padding: 5px 0px 0px 0px;
+      position: relative;
+      font-weight: bold;
+      line-height: 10px;
+      &::after {
+        content: ':';
+        position: absolute;
+        right: 0;
+      }
+      &,
+      &+div {
+        line-height: 10px;
+      }
+      +div {
+        font-size: 12px;
+        padding: 5px 0px 0 5px;
+      }
+    }
+  }
+}
+.ticket-reply {
+
+  .card-body{
+    padding: 5px !important;
+    overflow: hidden;
+    position: relative;
+    &.admin-user{
+      background: rgba(248, 255, 249, 0.7);
+      .user-type{
+        position: absolute;
+        top: 15px;
+        transform: rotate(-45deg);
+        background: #ccc;
+        min-width: 90px;
+        text-align: center;
+        left: -20px;
+        font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
+        text-transform: uppercase;
+        font-size: 10px;
+        line-height: 19px;
+        background: rgba(5, 5, 5, 0.09);
+      }
+    }
+    .reply-text{
+      min-height: 100px;
+      margin-top: -6px;
+      margin-bottom: -6px;
+      margin-right: -6px;
+      background: rgb(255, 255, 255);
+      border-left: 1px solid rgb(221, 221, 221);
+      padding: 10px;
+      border-top-right-radius: 7px;
+
+    }
+    .ticket-footer-info{
+      border-left: 1px solid rgb(221, 221, 221);
+      background: rgb(255, 255, 255);
+      border-top: 1px solid rgba(227, 227, 227, 0.14);
+      min-height: 30px;
+      padding: 5px 10px;
+      border-bottom-right-radius: 7px;
+      margin-bottom: -5px;
+      margin-right: -5px;
+      font-size: 12px;
+
+
+    }
+
+  }
+  .panel-footer{
+    &.admin-user{
+      background: rgba(248, 255, 249, 0.7);
+    }
+
+    padding: 0;
+    .row{
+      margin: 0 0px 0 10px;
+    }
+    border-top: none;
+
+  }
+
+}
+
+.user-profile{
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-right: 0;
+  .r-user-title{
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+    font-size: 10px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+}
+
+.pro-title{
+  display: inline-block;
+  vertical-align: top;
+  &::after{
+    content: ':';
+
+  }
+}
+.pro-value{
+  display: inline-block;
+  vertical-align: top;
+}
+

@@ -1,0 +1,93 @@
+.payment-panel{
+  .card-header{
+    font-size: 12px;
+    font-weight: bold;
+    padding: 5px 15px;
+    .payment-btn.pull-right{
+      margin-top: -2px;
+    }
+  }
+  .card-body{
+    padding: 5px 15px;
+  }
+  /*.payment-btn{
+
+  }*/
+}
+.payment-ul{
+  li * {
+    font-size: 12px !important;
+    line-height: 12px !important;
+  }
+}
+
+.paid-panel > .card-header {
+  background: #54ffb0;
+  color: #0c7d14 !important;
+}
+
+.app-ul-properties{
+  padding: 0px;
+  margin: 0;
+  li{
+    list-style: none;
+    display: -webkit-flex;
+    display: flex;
+    *{
+      width: 100%;
+      font-size: 16px;
+      line-height: 26px;
+      text-align: left;
+      i{
+        display: inline;
+      }
+    }
+    label{
+
+      font-weight: bold;
+      padding-right: 10px;
+      position: relative;
+      color: rgba(0, 0, 0, 0.72);
+      &.title{
+        border-bottom: 2px solid rgba(193, 193, 193, 0.25);
+        font-size: 20px !important;
+        width: 98% !important;
+        -webkit-border-image: -webkit-linear-gradient(left, rgba(95, 95, 95, 0.98) 0%, rgba(154, 152, 152, 0.18) 40%, rgba(0, 0, 0, 0) 100%) 0 0 1 1;
+        -moz-border-image: -moz-linear-gradient(left, rgba(95, 95, 95, 0.98) 0%, rgba(154, 152, 152, 0.18) 40%, rgba(0, 0, 0, 0) 100%) 0 0 1 1;
+        -o-border-image: -o-linear-gradient(left, rgba(95, 95, 95, 0.98) 0%, rgba(154, 152, 152, 0.18) 40%, rgba(0, 0, 0, 0) 100%) 0 0 1 1;
+        border-image: linear-gradient(to right, rgba(95, 95, 95, 0.98) 0%, rgba(154, 152, 152, 0.18) 40%, rgba(0, 0, 0, 0) 100%) 0 0 1 1;
+      }
+
+
+      &.w-clone{
+        padding-right: 20px;
+      }
+      &.w-clone::after{
+        content: ":";
+        position: absolute;
+        right: 15px;
+
+      }
+    }
+  }
+  li::after{
+    clear: both;
+  }
+  &::after,  &::before {
+    content: " ";
+    display: table;
+    clear: both;
+  }
+}
+.f-w-1{  display: inline-block; width: 8.333333% !important;}
+.f-w-2{  display: inline-block; width: 16.666667% !important;}
+.f-w-3{  display: inline-block; width: 25% !important;}
+.f-w-4{  display: inline-block; width: 33.333333% !important;}
+.f-w-5{  display: inline-block; width: 41.666667% !important;}
+.f-w-6{  display: inline-block; width: 50% !important;;}
+.f-w-7{  display: inline-block; width: 58.333333% !important;;}
+.f-w-8{  display: inline-block; width: 66.666667% !important;;}
+.f-w-9{  display: inline-block; width: 75% !important;;}
+.f-w-10{  display: inline-block; width: 83.333333% !important;;}
+.f-w-11{  display: inline-block; width: 91.666667% !important;;}
+.f-w-12{  display: inline-block; width: 100% !important;;}

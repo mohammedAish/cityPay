@@ -1,0 +1,54 @@
+.app-file-upload-container{
+  .hidden{
+    display: none;
+  }
+  .app-file-input-conteiner{
+    overflow: hidden;
+    .form-group-help-block{
+      display: block;
+    }
+  }
+  input[type=file]{
+    text-overflow: ellipsis;
+  }
+  .file-preview-img{
+    text-align: right;
+    dl{
+      margin-bottom: 0;
+      dt{
+        text-align: left;
+        width: 80px;
+        position: relative;
+        float: left;
+        &::after{
+          content: ":";
+          padding: 0 5px;
+          position: absolute;
+          right: 0;
+          top: 0;
+        }
+      }
+      dd{
+        text-align: left;
+        margin-left: 90px;
+
+      }
+    }
+    i{
+
+      font-size: 53px;
+      line-height: 20px;
+      margin-top: 10px;
+      margin-bottom: -10px;
+
+    }
+    img{
+
+      max-height: 46px;
+      border: 1px solid #ccc;
+      border-radius: 3px;
+      margin-top: -7px;
+
+    }
+  }
+}

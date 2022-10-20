@@ -1,0 +1,45 @@
+// out: timetable.css, compress: false, sourceMap: false
+/* Reference import */
+@import (reference) "E:\bootstrap-3.3.7\less\bootstrap.less";
+.app-table{
+   .table;
+}
+
+.app-time-table{
+    position: relative;	
+    th{
+       text-align:center; 
+        vertical-align:middle !important;  
+    }
+    tbody{
+        td,th{
+            height: 60px;
+               
+        }
+        &.x2{
+               td,th{
+                    height: 120px;              
+                }
+            }  
+        &.x3{
+            td,th{
+            height: 180px;               
+            } 
+        }    
+        
+
+    } 
+    .app-week-time-span{
+        position: absolute;;
+        border: 1px solid #ccc;
+        background: #fff;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        border-radius: 2px;
+        overflow: hidden;
+        background: #ccc;
+    }
+    .table-bordered,.table-bordered > thead > tr > th, .table-bordered > tbody > tr > th, .table-bordered > tfoot > tr > th, .table-bordered > thead > tr > td, .table-bordered > tbody > tr > td, .table-bordered > tfoot > tr > td {
+        border: 1px solid #cfcfcf;
+    }    
+}

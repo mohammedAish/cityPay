@@ -1,0 +1,77 @@
+#APPSBDWP .material-switch .inline, .mfp-wrap .material-switch .inline {
+  display: inline-block;
+  vertical-align: -0.35rem;
+}
+#APPSBDWP .material-switch > input[type=checkbox], .mfp-wrap .material-switch > input[type=checkbox] {
+  display: none;
+}
+#APPSBDWP .material-switch > label, .mfp-wrap .material-switch > label {
+  cursor: pointer;
+  height: 0px;
+  position: relative;
+  width: 40px;
+}
+#APPSBDWP .material-switch > label::before, .mfp-wrap .material-switch > label::before {
+  background: black;
+  box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.5);
+  border-radius: 8px;
+  content: "";
+  height: 16px;
+  margin-top: -8px;
+  position: absolute;
+  opacity: 0.3;
+  transition: all 0.4s ease-in-out;
+  width: 40px;
+}
+#APPSBDWP .material-switch > label::after, .mfp-wrap .material-switch > label::after {
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+  content: "";
+  height: 24px;
+  left: -4px;
+  margin-top: -8px;
+  position: absolute;
+  top: -4px;
+  transition: all 0.3s ease-in-out;
+  width: 24px;
+}
+#APPSBDWP .material-switch > input[type=checkbox]:checked + label::before, .mfp-wrap .material-switch > input[type=checkbox]:checked + label::before {
+  background: inherit;
+  opacity: 0.5;
+}
+#APPSBDWP .material-switch > input[type=checkbox]:checked + label::after, .mfp-wrap .material-switch > input[type=checkbox]:checked + label::after {
+  background: inherit;
+  left: 20px;
+}
+#APPSBDWP .material-switch.material-switch-sm > label::before, .mfp-wrap .material-switch.material-switch-sm > label::before {
+  background: black;
+  box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.5);
+  border-radius: 8px;
+  content: "";
+  height: 12px;
+  margin-top: -6px;
+  position: absolute;
+  opacity: 0.3;
+  transition: all 0.4s ease-in-out;
+  width: 30px;
+}
+#APPSBDWP .material-switch.material-switch-sm > label::after, .mfp-wrap .material-switch.material-switch-sm > label::after {
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+  content: "";
+  height: 20px;
+  left: -4px;
+  margin-top: -8px;
+  position: absolute;
+  top: -2px;
+  transition: all 0.3s ease-in-out;
+  width: 20px;
+}
+#APPSBDWP .material-switch.material-switch-sm > input[type=checkbox]:checked + label::after, .mfp-wrap .material-switch.material-switch-sm > input[type=checkbox]:checked + label::after {
+  background: inherit;
+  left: 16px;
+}
+
+/*# sourceMappingURL=style.css.map */

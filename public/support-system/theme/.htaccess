@@ -1,0 +1,5 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteCond %{REQUEST_URI} !\.(?:jpg|gif|png|js|css|font|eot|ttf|svg|webp|woff|woff2)$ [NC]
+RewriteRule ^ - [L,F]
+</IfModule>

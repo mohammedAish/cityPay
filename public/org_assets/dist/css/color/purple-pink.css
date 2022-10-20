@@ -1,0 +1,63 @@
+@media screen and (max-width: 767px){
+    .purple-pink .header-box,
+    .purple-pink .color-switcher .toggle-button{
+        background-color: #862b6a;
+    }
+}
+.purple-pink .wallet-area-warpper{
+    background-color: #862b6a10;
+}
+.purple-pink .wallet-top-header,
+.purple-pink .transfer-coin-btn a.active, 
+.purple-pink .transfer-coin-btn a:hover,
+.purple-pink .theme-btn,
+.purple-pink .edit-images .edit-label,
+.purple-pink .notification-dropdown .notification-footer a,
+.purple-pink .wallet-transaction-box .wallet-transaction-ico,
+.purple-pink .theme-color-swith input:checked + .slider {
+    background-color: #862b6a;
+}
+.purple-pink .theme-btn{
+    border-color: #862b6a;
+}
+.purple-pink .header-logo,
+.purple-pink .transfer-coin-btn a {
+    background-color: #a94d8d;
+}
+.purple-pink .wallet-top-header-box .header-wallet-ico,
+.purple-pink .wallet-top-header-box h3 {
+    color: #fff !important;
+}
+.purple-pink .wallet-top-header-right .notification-box-area .notification-box .notification-active {
+    background-color: #fff;
+}
+.purple-pink .color-switcher .color-theme-menu h4,
+.purple-pink .wallet-bradcrumb h2,
+.purple-pink .header-nav-menu ul li.active > a, 
+.purple-pink .header-nav-menu ul li a:hover,
+.purple-pink .dashboard-title,
+.purple-pink .wallet-balance-box .wallet-balance-name h3, 
+.purple-pink .wallet-balance-box .wallet-balance-amount h3,
+.purple-pink .wallet-transaction-box .wallet-transaction-name h3, 
+.purple-pink .wallet-transaction-balance h3,
+.purple-pink .theme-input-box label,
+.purple-pink .notification-header h3,
+.purple-pink .wallet-top-header-box.user-top-detail ul li a,
+.purple-pink .wallet-language-box .dropdown-menu li > a{
+    color: #862b6a;
+}
+.purple-pink .wallet-balance-area .wallet-balance-box h3{
+    color: #222;
+}
+.purple-pink .header-nav-menu ul li.active{
+    border-left-color: #862b6a;
+}
+.purple-pink .header-nav-menu ul li a {
+    color: #ce8ebb;
+}
+.purple-pink .apexcharts-series path {
+    fill: #862b6a !important;
+}
+.purple-pink .apexcharts-series path{
+    stroke: #a94d8d !important;
+}

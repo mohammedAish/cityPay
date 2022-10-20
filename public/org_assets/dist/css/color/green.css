@@ -1,0 +1,63 @@
+@media screen and (max-width: 767px){
+    .theme-green .header-box,
+    .theme-green .color-switcher .toggle-button{
+        background-color: #0d653d;
+    }
+}
+.theme-green .wallet-area-warpper{
+    background-color: #0d653d10;
+}
+.theme-green .wallet-top-header,
+.theme-green .transfer-coin-btn a.active, 
+.theme-green .transfer-coin-btn a:hover,
+.theme-green .theme-btn,
+.theme-green .edit-images .edit-label,
+.theme-green .notification-dropdown .notification-footer a,
+.theme-green .wallet-transaction-box .wallet-transaction-ico,
+.theme-green .theme-color-swith input:checked + .slider {
+    background-color: #0d653d;
+}
+.theme-green .theme-btn{
+    border-color: #0d653d;
+}
+.theme-green .header-logo,
+.theme-green .transfer-coin-btn a {
+    background-color: #188654;
+}
+.theme-green .wallet-top-header-box .header-wallet-ico,
+.theme-green .wallet-top-header-box h3 {
+    color: #fff !important;
+}
+.theme-green .wallet-top-header-right .notification-box-area .notification-box .notification-active {
+    background-color: #fff;
+}
+.theme-green .color-switcher .color-theme-menu h4,
+.theme-green .wallet-bradcrumb h2,
+.theme-green .header-nav-menu ul li.active > a, 
+.theme-green .header-nav-menu ul li a:hover,
+.theme-green .dashboard-title,
+.theme-green .wallet-balance-box .wallet-balance-name h3, 
+.theme-green .wallet-balance-box .wallet-balance-amount h3,
+.theme-green .wallet-transaction-box .wallet-transaction-name h3, 
+.theme-green .wallet-transaction-balance h3,
+.theme-green .theme-input-box label,
+.theme-green .notification-header h3,
+.theme-green .wallet-top-header-box.user-top-detail ul li a,
+.theme-green .wallet-language-box .dropdown-menu li > a{
+    color: #0d653d;
+}
+.theme-green .wallet-balance-area .wallet-balance-box h3{
+    color: #222;
+}
+.theme-green .header-nav-menu ul li.active{
+    border-left-color: #0d653d;
+}
+.theme-green .header-nav-menu ul li a {
+    color: #88c4a9;
+}
+.theme-green .apexcharts-series path {
+    fill: #0d653d !important;
+}
+.theme-green .apexcharts-series path{
+    stroke: #188654 !important;
+}

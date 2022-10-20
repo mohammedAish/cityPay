@@ -1,0 +1,4972 @@
+msgid ""
+msgstr ""                   
+"Project-Id-Version: v1.0 \n"
+"POT-Creation-Date: 2016-10-29 01:29+0600\n"
+"PO-Revision-Date: 2016-10-29 01:29+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: UTF-8\n"
+"Language: hi\n"
+"X-Generator: AppsBD Translator App\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+msgid "!! You need to click save button to complete"
+msgstr "!! आपको पूरा करने के लिए सहेजें बटन पर क्लिक करना होगा"
+
+
+msgid "%s Popular Knowledge"
+msgstr "%s लोकप्रिय ज्ञान"
+
+
+msgid "%s Settings"
+msgstr "%s सेटिंग्स"
+
+
+msgid "%s is required"
+msgstr "%s आवश्यक है"
+
+
+msgid "ADMIN MENU"
+msgstr "व्यवस्थापक मेनू"
+
+
+msgid "API Based"
+msgstr "एपीआई आधारित"
+
+
+msgid "API Description"
+msgstr "एपीआई विवरण"
+
+
+msgid "API Setting"
+msgstr "एपीआई सेटिंग"
+
+
+msgid "API Settings"
+msgstr "एपीआई सेटिंग्स"
+
+
+msgid "API Token"
+msgstr "एपीआई टोकन"
+
+
+msgid "API Type"
+msgstr "एपीआई टाइप"
+
+
+msgid "APP User"
+msgstr "एपीपी उपयोगकर्ता"
+
+
+msgid "About Support System"
+msgstr "सहायता प्रणाली के बारे में"
+
+
+msgid "Action"
+msgstr "कार्य"
+
+
+msgid "Action Required"
+msgstr "कार्यवाई की आवश्यकता"
+
+
+msgid "Active"
+msgstr "सक्रिय"
+
+
+msgid "Active Members"
+msgstr "सक्रिय सदस्य"
+
+
+msgid "Active Paid Ticket"
+msgstr "सक्रिय पेड टिकट"
+
+
+msgid "Active Paid Tickets"
+msgstr "सक्रिय भुगतान टिकट"
+
+
+msgid "Active Tickets"
+msgstr "सक्रिय टिकट"
+
+
+msgid "Add New"
+msgstr "नया जोड़ें"
+
+
+msgid "Added By"
+msgstr "द्वारा जोड़ा"
+
+
+msgid "Added On"
+msgstr "पर जोड़ा"
+
+
+msgid "Address"
+msgstr "पता"
+
+
+msgid "Address is required"
+msgstr "पता आवश्यक है"
+
+
+msgid "Admin Dashboard"
+msgstr "व्यवस्थापक डैशबोर्ड"
+
+
+msgid "Admin Report"
+msgstr "व्यवस्थापक रिपोर्ट"
+
+
+msgid "Admin Setting"
+msgstr "व्यवस्थापक सेटिंग"
+
+
+msgid "Admin Settings"
+msgstr "व्यवस्थापक सेटिंग"
+
+
+msgid "Admin User"
+msgstr "व्यवस्थापक उपयोगकर्ता"
+
+
+msgid "Admin User Login Security"
+msgstr "व्यवस्थापक उपयोगकर्ता लॉगिन सुरक्षा"
+
+
+msgid "Agent"
+msgstr "एजेंट"
+
+
+msgid "Agent replied, needs your action"
+msgstr "एजेंट ने जवाब दिया, आपकी कार्रवाई की आवश्यकता है"
+
+
+msgid "All Active Tickets"
+msgstr "सभी सक्रिय टिकट"
+
+
+msgid "All Closed Tickets"
+msgstr "सभी बंद टिकट"
+
+
+msgid "All Paid Tickets"
+msgstr "सभी भुगतान किए गए टिकट"
+
+
+msgid "All Unassigned Tickets"
+msgstr "सभी अनसाइन्ड टिकट"
+
+
+msgid "Amount"
+msgstr "रकम"
+
+
+msgid "Amount must be between %.2f and %.2f"
+msgstr "राशि %.2f और %.2f के बीच होना चाहिए"
+
+
+msgid "Announcements"
+msgstr "घोषणाएँ"
+
+
+msgid "Announcements List"
+msgstr "घोषणाएं सूची"
+
+
+msgid "App Information"
+msgstr "ऐप सूचना"
+
+
+msgid "App Logo"
+msgstr "ऐप लोगो"
+
+
+msgid "App Update"
+msgstr "ऐप अपडेट"
+
+
+msgid "App White Logo"
+msgstr "ऐप व्हाइट लोगो"
+
+
+msgid "App update information"
+msgstr "ऐप अद्यतन जानकारी"
+
+
+msgid "Application Security Settings"
+msgstr "एप्लिकेशन सुरक्षा सेटिंग्स"
+
+
+msgid "Application Theme Settings"
+msgstr "अनुप्रयोग थीम सेटिंग्स"
+
+
+msgid "Are you sure to change?"
+msgstr "क्या आप बदलना चाहते हैं?"
+
+
+msgid "Are you sure to delete?"
+msgstr "क्या वाकई हटाना है?"
+
+
+msgid "Assigned"
+msgstr "निरुपित"
+
+
+msgid "Assigned On"
+msgstr "पर नियुक्त"
+
+
+msgid "Assigned Tickets"
+msgstr "असाइन किए गए टिकट"
+
+
+msgid "Attach File"
+msgstr "फ़ाइल जोड़ें"
+
+
+msgid "Best size is 400px x 400px"
+msgstr "सर्वश्रेष्ठ आकार 400px x 400px है"
+
+
+msgid "Birthday"
+msgstr "जन्मदिन"
+
+
+msgid "Birthday is required"
+msgstr "जन्मदिन की आवश्यकता है"
+
+
+msgid "Body"
+msgstr "तन"
+
+
+msgid "Body is required"
+msgstr "शरीर की आवश्यकता है"
+
+
+msgid "Cancel"
+msgstr "रद्द करना"
+
+
+msgid "Canned Message Fields"
+msgstr "डिब्बाबंद संदेश फ़ील्ड"
+
+
+msgid "Canned Message List"
+msgstr "कैन्ड संदेश सूची"
+
+
+msgid "Canned Messages"
+msgstr "डिब्बाबंद संदेश"
+
+
+msgid "Canned Msg"
+msgstr "डिब्बाबंद संदेश"
+
+
+msgid "Canned Msg is required"
+msgstr "डिब्बाबंद संदेश आवश्यक है"
+
+
+msgid "Canned_msg"
+msgstr "Canned_msg"
+
+
+msgid "Categories"
+msgstr "श्रेणियाँ"
+
+
+msgid "Category"
+msgstr "वर्ग"
+
+
+msgid "Category List"
+msgstr "श्रेणी सूची"
+
+
+msgid "Category is required"
+msgstr "श्रेणी आवश्यक है"
+
+
+msgid "Change"
+msgstr "परिवर्तन"
+
+
+msgid "Change Password"
+msgstr "पासवर्ड बदलें"
+
+
+msgid "Change password of %s"
+msgstr "%s का पासवर्ड बदलें"
+
+
+msgid "Choose Homepage"
+msgstr "होमपेज चुनें"
+
+
+msgid "Choose Theme"
+msgstr "थीम चुनें"
+
+
+msgid "City"
+msgstr "शहर"
+
+
+msgid "City is required"
+msgstr "शहर की आवश्यकता है"
+
+
+msgid "Click here"
+msgstr "यहां क्लिक करे"
+
+
+msgid "Click on the Image to change"
+msgstr "बदलने के लिए चित्र पर क्लिक करें"
+
+
+msgid "Click on the Image to change or upload."
+msgstr "बदलने या अपलोड करने के लिए छवि पर क्लिक करें।"
+
+
+msgid "Click on the Image to change. Best size hight is 40px"
+msgstr "बदलने के लिए चित्र पर क्लिक करें। सर्वश्रेष्ठ आकार की ऊंचाई 40px है"
+
+
+msgid "Click on the Image to change. Best size is 75px x 75px"
+msgstr "बदलने के लिए चित्र पर क्लिक करें। सर्वश्रेष्ठ आकार 75px x 75px है"
+
+
+msgid "Click to see details"
+msgstr "विवरण देखने के लिए क्लिक करें"
+
+
+msgid "Client"
+msgstr "ग्राहक"
+
+
+msgid "Client List"
+msgstr "ग्राहक सूची"
+
+
+msgid "Close"
+msgstr "बंद करे"
+
+
+msgid "Close Tickets"
+msgstr "टिकट बंद करें"
+
+
+msgid "Closed Tickets"
+msgstr "बंद टिकट"
+
+
+msgid "Contact Number"
+msgstr "संपर्क संख्या"
+
+
+msgid "Controller Title"
+msgstr "नियंत्रक शीर्षक"
+
+
+msgid "Copy Cron Link"
+msgstr "कॉपी क्रॉन लिंक"
+
+
+msgid "Copy callback url"
+msgstr "कॉलबैक यूआरएल कॉपी करें"
+
+
+msgid "Country"
+msgstr "देश"
+
+
+msgid "Country Code"
+msgstr "देश कोड"
+
+
+msgid "Country Name"
+msgstr "देश का नाम"
+
+
+msgid "Country is required"
+msgstr "देश की आवश्यकता है"
+
+
+msgid "Create Date"
+msgstr "तारीख बनाना"
+
+
+msgid "Create Ticket"
+msgstr "टिकट बनाएं"
+
+
+msgid "Create Time"
+msgstr "निर्माण का समय"
+
+
+msgid "Created By"
+msgstr "के द्वारा बनाई गई"
+
+
+msgid "Cron Job Command"
+msgstr "क्रोन जॉब कमांड"
+
+
+msgid "Current Ticket Status"
+msgstr "वर्तमान टिकट स्थिति"
+
+
+msgid "Current version is : %s"
+msgstr "वर्तमान संस्करण है: %s"
+
+
+msgid "Custom Field List"
+msgstr "कस्टम फ़ील्ड सूची"
+
+
+msgid "Custom Fields"
+msgstr "कस्टम फील्ड्स"
+
+
+msgid "Dashboard"
+msgstr "डैशबोर्ड"
+
+
+msgid "Date of Birth"
+msgstr "जन्म की तारीख"
+
+
+msgid "Debug Log"
+msgstr "लॉग को डीबग करें"
+
+
+msgid "Debug Log List"
+msgstr "डीबग लॉग सूची"
+
+
+msgid "Delete"
+msgstr "हटाना"
+
+
+msgid "Description"
+msgstr "विवरण"
+
+
+msgid "Description is required"
+msgstr "विवरण आवश्यक है"
+
+
+msgid "Details"
+msgstr "विवरण"
+
+
+msgid "Details Debug Log"
+msgstr "विवरण डीबग लॉग"
+
+
+msgid "Details Log"
+msgstr "विवरण लॉग इन करें"
+
+
+msgid "Details info of IP(192.168.10.71)"
+msgstr "आईपी ​​का विवरण जानकारी (1 9 02 .68.10.71)"
+
+
+msgid "Disable this if you want real payment"
+msgstr "यदि आप वास्तविक भुगतान चाहते हैं तो इसे अक्षम करें"
+
+
+msgid "DoS Attack Security"
+msgstr "DoS हमला सुरक्षा"
+
+
+msgid "Don't upload if you don't want"
+msgstr "यदि आप नहीं चाहते हैं तो अपलोड न करें"
+
+
+msgid "Edit"
+msgstr "संपादित करें"
+
+
+msgid "Edit Announcements"
+msgstr "घोषणाएं संपादित करें"
+
+
+msgid "Edit Canned Message"
+msgstr "डिब्बाबंद संदेश संपादित करें"
+
+
+msgid "Edit Category"
+msgstr "श्रेणी संपादित करें"
+
+
+msgid "Edit Client"
+msgstr "क्लाइंट संपादित करें"
+
+
+msgid "Edit IP"
+msgstr "आईपी ​​संपादित करें"
+
+
+msgid "Edit Knowledge"
+msgstr "ज्ञान को संपादित करें"
+
+
+msgid "Edit Role"
+msgstr "भूमिका संपादित करें"
+
+
+msgid "Email"
+msgstr "ईमेल"
+
+
+msgid "Email Address"
+msgstr "ईमेल पता"
+
+
+msgid "Email Outgoing Settings"
+msgstr "जावक सेटिंग्स ईमेल करें"
+
+
+msgid "Email Settings"
+msgstr "ईमेल सेटिंग"
+
+
+msgid "Email Templates"
+msgstr "ईमेल टेम्पलेट्स"
+
+
+msgid "Email Templates List"
+msgstr "ईमेल टेम्प्लेट सूची"
+
+
+msgid "Email To Ticket Settings"
+msgstr "टिकट सेटिंग में ईमेल करें"
+
+
+msgid "Email is required"
+msgstr "ईमेल जरुरी है"
+
+
+msgid "Email to Ticket Settings Form"
+msgstr "टिकट सेटिंग फ़ॉर्म में ईमेल"
+
+
+msgid "Enable Auto Reload (every %d min)"
+msgstr "स्वत: रीलोड को सक्षम करें (प्रत्येक %d मिनट)"
+
+
+msgid "Enable Email To Ticket/Reply"
+msgstr "ईमेल को टिकट / उत्तर दें सक्षम करें"
+
+
+msgid "Enable it if your protocol is secure"
+msgstr "अगर आपका प्रोटोकॉल सुरक्षित है तो इसे सक्षम करें"
+
+
+msgid "Enable it to secure admin/staff user"
+msgstr "व्यवस्थापक / कर्मचारी उपयोगकर्ता को सुरक्षित करने के लिए इसे सक्षम करें"
+
+
+msgid "Enable this to enable paypal payment"
+msgstr "पेपैल भुगतान को सक्षम करने के लिए इसे सक्षम करें"
+
+
+msgid "Enable to convert email to ticket"
+msgstr "ईमेल को टिकट में बदलने में सक्षम करें"
+
+
+msgid "End Date"
+msgstr "अंतिम तिथि"
+
+
+msgid "End Date is required"
+msgstr "समाप्ति तिथि आवश्यक है"
+
+
+msgid "Entry Time"
+msgstr "प्रवेश समय"
+
+
+msgid "Entry Type"
+msgstr "प्रवेश प्रकार"
+
+
+msgid "Envato"
+msgstr "Envato"
+
+
+msgid "Envato Setting"
+msgstr "Envato सेटिंग"
+
+
+msgid "Envato Username"
+msgstr "Envato उपयोगकर्ता नाम"
+
+
+msgid "Ex. 192.168.10.1"
+msgstr "पूर्व। 192.168.10.1"
+
+
+msgid "Example: Temporary lock admin or staff user if attempts 5 miss login in 30 minutes"
+msgstr "उदाहरण: यदि तात्कालिक लॉक व्यवस्थापक या स्टाफ़ उपयोगकर्ता 30 मिनट में लॉगिन की कोशिश करता है"
+
+
+msgid "Example: if request more then 5 in 5 second then show captcha or block ip"
+msgstr "उदाहरण: अगर अनुरोध 5 से 5 सेकंड में अधिक होता है तो कैप्चा या ब्लॉक आईपी दिखाएं"
+
+
+msgid "Featured Image"
+msgstr "निरूपित चित्र"
+
+
+msgid "File Attached"
+msgstr "संचिका संलग्न है"
+
+
+msgid "File Type"
+msgstr "फाइल का प्रकार"
+
+
+msgid "First Name"
+msgstr "पहला नाम"
+
+
+msgid "First Name is required"
+msgstr "पहला नाम आवश्यक है"
+
+
+msgid "From"
+msgstr "से"
+
+
+msgid "From Email"
+msgstr "ई - मेल से"
+
+
+msgid "From Email is required"
+msgstr "ईमेल से आवश्यक है"
+
+
+msgid "From Name"
+msgstr "नाम से"
+
+
+msgid "From Name is required"
+msgstr "नाम से आवश्यक है"
+
+
+msgid "Gender"
+msgstr "लिंग"
+
+
+msgid "General Settings"
+msgstr "सामान्य सेटिंग्स"
+
+
+msgid "Generate an API key in your envato account and enter here"
+msgstr "अपने envato खाते में एक एपीआई कुंजी उत्पन्न करें और यहां दर्ज करें"
+
+
+msgid "Has Super Power"
+msgstr "सुपर पावर है"
+
+
+msgid "Hello, %s"
+msgstr "नमस्कार, %s"
+
+
+msgid "Helpfull"
+msgstr "मददगार"
+
+
+msgid "Home"
+msgstr "होम"
+
+
+msgid "Host"
+msgstr "मेज़बान"
+
+
+msgid "Host & Port"
+msgstr "होस्ट पोर्ट"
+
+
+msgid "Host is required"
+msgstr "होस्ट की आवश्यकता है"
+
+
+msgid "IMAP Help"
+msgstr "IMAP सहायता"
+
+
+msgid "IMAP Settings"
+msgstr "IMAP सेटिंग्स"
+
+
+msgid "IP"
+msgstr "आईपी"
+
+
+msgid "IP List"
+msgstr "आईपी ​​सूची"
+
+
+msgid "IP is required"
+msgstr "आईपी ​​आवश्यक है"
+
+
+msgid "If request more than"
+msgstr "यदि अधिक से अधिक अनुरोध"
+
+
+msgid "If you don't choose the white logo then primary logo will be displayed in site header"
+msgstr "यदि आप सफेद लोगो का चयन नहीं करते हैं तो प्राथमिक लोगो साइट हैडर में प्रदर्शित किया जाएगा"
+
+
+msgid "If you enable it then app prevent DoS Attack."
+msgstr "यदि आप इसे सक्षम करते हैं तो ऐप DoS Attack को रोका जा सकता है।"
+
+
+msgid "If you enable this then logo only show in site header"
+msgstr "यदि आप इसे सक्षम करते हैं तो लोगो केवल साइट शीर्ष लेख में दिखाए जा सकते हैं"
+
+
+msgid "If you enable this, then all payment will be in test mode. Don't do this if you want real payment"
+msgstr "यदि आप इसे सक्षम करते हैं, तो सभी भुगतान परीक्षण मोड में होंगे। यदि आप असली भुगतान चाहते हैं तो ऐसा"
+
+
+msgid "If you want to remove license form this site then click"
+msgstr "यदि आप इस साइट का लाइसेंस फ़ॉर्म निकालना चाहते हैं तो फिर क्लिक करें"
+
+
+msgid "Inactive"
+msgstr "निष्क्रिय"
+
+
+msgid "Invalid Information"
+msgstr "अमान्य जानकारी"
+
+
+msgid "Invalid data"
+msgstr "अमान्य तथ्य"
+
+
+msgid "Is Secure Protocol (SSL)"
+msgstr "सुरक्षित प्रोटोकॉल (SSL) है"
+
+
+msgid "Is Sticky/Pinned ?"
+msgstr "स्टिकी / पिन किया गया है?"
+
+
+msgid "Is it helpfull?"
+msgstr "क्या यह सहायक है?"
+
+
+msgid "It won't show any where, It is just for track"
+msgstr "यह किसी भी जगह नहीं दिखाएगा, यह सिर्फ ट्रैक के लिए है"
+
+
+msgid "Join : %s"
+msgstr "शामिल हों: %s"
+
+
+msgid "Join Date"
+msgstr "शामिल होने की तारीख"
+
+
+msgid "Key is already exists"
+msgstr "कुंजी पहले से मौजूद है"
+
+
+msgid "Knowledge"
+msgstr "ज्ञान"
+
+
+msgid "Knowledge List"
+msgstr "ज्ञान सूची"
+
+
+msgid "L.Reply Time"
+msgstr "एल रिप्ली टाइम"
+
+
+msgid "Label"
+msgstr "लेबल"
+
+
+msgid "Last Name"
+msgstr "अंतिम नाम"
+
+
+msgid "Last Name is required"
+msgstr "अंतिम नाम आवश्यक है"
+
+
+msgid "Last Replied"
+msgstr "अंतिम उत्तर दिया"
+
+
+msgid "Last Reply"
+msgstr "अंतिम उत्तर"
+
+
+msgid "Last Reply Time"
+msgstr "अंतिम उत्तर समय"
+
+
+msgid "Last updated on"
+msgstr "पिछला नवीनीकरण"
+
+
+msgid "Latitude"
+msgstr "अक्षांश"
+
+
+msgid "License"
+msgstr "लाइसेंस"
+
+
+msgid "License Domain"
+msgstr "लाइसेंस डोमेन"
+
+
+msgid "License Info"
+msgstr "लाइसेंस जानकारी"
+
+
+msgid "License Information"
+msgstr "लाइसेंस जानकारी"
+
+
+msgid "License Key"
+msgstr "लाइसेंस कुंजी"
+
+
+msgid "License Title"
+msgstr "लाइसेंस शीर्षक"
+
+
+msgid "Link"
+msgstr "संपर्क"
+
+
+msgid "Locked User"
+msgstr "लॉक यूजर"
+
+
+msgid "Locked User List"
+msgstr "लॉक उपयोगकर्ता सूची"
+
+
+msgid "Log Type"
+msgstr "लॉग प्रकार"
+
+
+msgid "Login"
+msgstr "लॉग इन करें"
+
+
+msgid "Logout"
+msgstr "लोग आउट"
+
+
+msgid "Longitude"
+msgstr "देशान्तर"
+
+
+msgid "MENU"
+msgstr "मेन्यू"
+
+
+msgid "Max file size is  %s MB"
+msgstr "अधिकतम फ़ाइल आकार %s एमबी है"
+
+
+msgid "Max file size is %s MB"
+msgstr "अधिकतम फ़ाइल आकार %s एमबी है"
+
+
+msgid "Menu List"
+msgstr "मेनू सूची"
+
+
+msgid "Message"
+msgstr "संदेश"
+
+
+msgid "Message Details"
+msgstr "संदेश विवरण"
+
+
+msgid "Method"
+msgstr "तरीका"
+
+
+msgid "Miss Login Tried"
+msgstr "मिस लॉग इन की कोशिश की"
+
+
+msgid "More homepage will be come in next version"
+msgstr "अधिक होमपेज अगले संस्करण में आयेगा"
+
+
+msgid "More theme will be come in next version"
+msgstr "अधिक विषय अगले संस्करण में आ जाएगा"
+
+
+msgid "Most Helpful Articles"
+msgstr "सबसे उपयोगी लेख"
+
+
+msgid "My Active Paid Tickets"
+msgstr "मेरा सक्रिय भुगतान टिकट"
+
+
+msgid "My Active Tickets"
+msgstr "मेरी सक्रिय टिकट"
+
+
+msgid "My Assigned Tickets"
+msgstr "मेरा असाइन किया गया टिकट"
+
+
+msgid "My Closed Tickets"
+msgstr "मेरी बंद टिकट"
+
+
+msgid "My Dashboard"
+msgstr "मेरा डैशबोर्ड"
+
+
+msgid "My Menu"
+msgstr "मेरा मेनू"
+
+
+msgid "My Message"
+msgstr "मेरा संदेश"
+
+
+msgid "N"
+msgstr "एन"
+
+
+msgid "Name"
+msgstr "नाम"
+
+
+msgid "New Announcements"
+msgstr "नई घोषणाएं"
+
+
+msgid "New Canned Message"
+msgstr "नया कैन्ड संदेश"
+
+
+msgid "New Category"
+msgstr "नई श्रेणी"
+
+
+msgid "New Client"
+msgstr "नया ग्राहक"
+
+
+msgid "New Knowledge"
+msgstr "नया ज्ञान"
+
+
+msgid "New Role"
+msgstr "नयी भूमिका"
+
+
+msgid "New Ticket"
+msgstr "नई टिकट"
+
+
+msgid "New Ticket Form"
+msgstr "नया टिकट फ़ॉर्म"
+
+
+msgid "New Window"
+msgstr "नयी खिड़की"
+
+
+msgid "No"
+msgstr "नहीं"
+
+
+msgid "No active ticket found"
+msgstr "कोई सक्रिय टिकट नहीं मिला"
+
+
+msgid "No closed ticket found"
+msgstr "कोई बंद टिकट नहीं मिला"
+
+
+msgid "Not Helpfull"
+msgstr "अनुपयोगी"
+
+
+msgid "Notice For"
+msgstr "सूचना के लिए"
+
+
+msgid "Notice Text"
+msgstr "नोटिस पाठ"
+
+
+msgid "Notice text is required"
+msgstr "सूचना पाठ आवश्यक है"
+
+
+msgid "Notification"
+msgstr "अधिसूचना"
+
+
+msgid "Old Password"
+msgstr "पुराना पासवर्ड"
+
+
+msgid "Open Ticket"
+msgstr "खुली टिकट"
+
+
+msgid "Open Time"
+msgstr "खुला समय"
+
+
+msgid "Opened"
+msgstr "खुल गया"
+
+
+msgid "Opened Time"
+msgstr "खुला समय"
+
+
+msgid "Options"
+msgstr "विकल्प"
+
+
+msgid "Order"
+msgstr "क्रम"
+
+
+msgid "Page Name"
+msgstr "पन्ने का नाम"
+
+
+msgid "Parent Category"
+msgstr "अभिभावक श्रेणी"
+
+
+msgid "Parent Category is required"
+msgstr "जनक श्रेणी आवश्यक है"
+
+
+msgid "Password"
+msgstr "पारण शब्द"
+
+
+msgid "Password is required"
+msgstr "पासवर्ड की आवश्यकता है"
+
+
+msgid "Password reset"
+msgstr "पासवर्ड रीसेट"
+
+
+msgid "Payer Email"
+msgstr "भुगतानकर्ता ईमेल"
+
+
+msgid "Payment Amount"
+msgstr "भुगतान राशि"
+
+
+msgid "Payment Amount is required"
+msgstr "भुगतान राशि आवश्यक है"
+
+
+msgid "Payment Description"
+msgstr "भुगतान का विवरण"
+
+
+msgid "Payment Details"
+msgstr "भुगतान विवरण"
+
+
+msgid "Payment List"
+msgstr "भुगतान सूची"
+
+
+msgid "Payment Method Status"
+msgstr "भुगतान विधि स्थिति"
+
+
+msgid "Paypal Setting"
+msgstr "पेपैल सेटिंग"
+
+
+msgid "Paypal Settings"
+msgstr "पेपैल सेटिंग"
+
+
+msgid "Permission"
+msgstr "अनुमति"
+
+
+msgid "Pinned Articles"
+msgstr "पिन किए गए आलेख"
+
+
+msgid "Popular Articles"
+msgstr "लोकप्रिय लेख"
+
+
+msgid "Port"
+msgstr "बंदरगाह"
+
+
+msgid "Port is required"
+msgstr "पोर्ट की आवश्यकता है"
+
+
+msgid "Posted By"
+msgstr "द्वारा प्रकाशित किया गया था"
+
+
+msgid "Priroty"
+msgstr "प्राथमिकता"
+
+
+msgid "Priroty is required"
+msgstr "प्राथमिकता की आवश्यकता है"
+
+
+msgid "Process Date"
+msgstr "प्रक्रिया दिनांक"
+
+
+msgid "Process Log"
+msgstr "प्रक्रिया लॉग करें"
+
+
+msgid "Process Time"
+msgstr "प्रक्रिया का समय"
+
+
+msgid "Processing"
+msgstr "प्रसंस्करण"
+
+
+msgid "Profile"
+msgstr "प्रोफाइल"
+
+
+msgid "Property"
+msgstr "संपत्ति"
+
+
+msgid "Re-Check Update"
+msgstr "अद्यतन फिर से जांचें"
+
+
+msgid "Re-Open"
+msgstr "फिर से खुल"
+
+
+msgid "Read article to provide best support"
+msgstr "सर्वोत्तम समर्थन प्रदान करने के लिए लेख पढ़ें"
+
+
+msgid "Recent Articles"
+msgstr "तात्कालिक लेख"
+
+
+msgid "Register"
+msgstr "रजिस्टर"
+
+
+msgid "Remove"
+msgstr "हटाना"
+
+
+msgid "Remove License"
+msgstr "लाइसेंस निकालें"
+
+
+msgid "Replay"
+msgstr "फिर से खेलना"
+
+
+msgid "Reply"
+msgstr "जवाब दे दो"
+
+
+msgid "Reply To Ticket"
+msgstr "टिकट को उत्तर दें"
+
+
+msgid "Reply is required"
+msgstr "उत्तर आवश्यक है"
+
+
+msgid "Reply text is required"
+msgstr "उत्तर पाठ आवश्यक है"
+
+
+msgid "Reply user group"
+msgstr "उत्तर दें उपयोगकर्ता समूह"
+
+
+msgid "Reply user name"
+msgstr "उत्तर दें उपयोगकर्ता नाम"
+
+
+msgid "Request Count is required"
+msgstr "अनुरोध संख्या आवश्यक है"
+
+
+msgid "Required"
+msgstr "अपेक्षित"
+
+
+msgid "Reset"
+msgstr "रीसेट"
+
+
+msgid "Reset link has been sent to the user"
+msgstr "रीसेट लिंक उपयोगकर्ता को भेजा गया है"
+
+
+msgid "Role"
+msgstr "भूमिका"
+
+
+msgid "Role  List"
+msgstr "भूमिका सूची"
+
+
+msgid "Role Access"
+msgstr "भूमिका पहुंच"
+
+
+msgid "Role List"
+msgstr "भूमिका सूची"
+
+
+msgid "Role is required"
+msgstr "भूमिका आवश्यक है"
+
+
+msgid "SMTP Settings"
+msgstr "एसएमटीपी सेटिंग्स"
+
+
+msgid "STAFF MENU"
+msgstr "स्टाफ मेनू"
+
+
+msgid "Save"
+msgstr "बचाना"
+
+
+msgid "Schedule"
+msgstr "अनुसूची"
+
+
+msgid "Search"
+msgstr "खोज"
+
+
+msgid "Seconds is required"
+msgstr "सेकंड आवश्यक है"
+
+
+msgid "Security Settings"
+msgstr "सुरक्षा सेटिंग"
+
+
+msgid "Select"
+msgstr "चुनते हैं"
+
+
+msgid "Send"
+msgstr "भेजना"
+
+
+msgid "Sendmail Path"
+msgstr "Sendmail पथ"
+
+
+msgid "Sendmail Path is required"
+msgstr "Sendmail पथ की आवश्यकता है"
+
+
+msgid "Sendmail or SMTP"
+msgstr "Sendmail या SMTP"
+
+
+msgid "Sent Message"
+msgstr "भेजा गया संदेश"
+
+
+msgid "Set Status"
+msgstr "स्थिति सेट करें"
+
+
+msgid "Set this cron command into your server cron list, otherwise email to ticket won't work"
+msgstr "इस क्रॉन कमांड को अपने सर्वर क्रॉन सूची में सेट करें, अन्यथा टिकट पर ईमेल काम नहीं करेगा"
+
+
+msgid "Show IP List"
+msgstr "आईपी ​​सूची दिखाएं"
+
+
+msgid "Show List"
+msgstr "सूची दिखाएं"
+
+
+msgid "Show Locked User List"
+msgstr "लॉक उपयोगकर्ता सूची दिखाएं"
+
+
+msgid "Show On"
+msgstr "दिखा दो"
+
+
+msgid "Show only logo in header"
+msgstr "हेडर में केवल लोगो दिखाएं"
+
+
+msgid "Site Menu"
+msgstr "साइट मेनू"
+
+
+msgid "Site Security"
+msgstr "साइट सुरक्षा"
+
+
+msgid "Social Setting"
+msgstr "सामाजिक परिदृश्य में"
+
+
+msgid "Social Settings"
+msgstr "सामाजिक व्यवस्था"
+
+
+msgid "Start Date"
+msgstr "आरंभ करने की तिथि"
+
+
+msgid "Start Date is required"
+msgstr "प्रारंभ तिथि आवश्यक है"
+
+
+msgid "Status"
+msgstr "स्थिति"
+
+
+msgid "Status is required"
+msgstr "स्थिति आवश्यक है"
+
+
+msgid "Sticky/Pinned"
+msgstr "स्टिकी / पिन किया गया"
+
+
+msgid "Still Need Support?"
+msgstr "अभी भी समर्थन की आवश्यकता है?"
+
+
+msgid "Sub Title"
+msgstr "उप शीर्षक"
+
+
+msgid "Subject"
+msgstr "विषय"
+
+
+msgid "Successfully Updated"
+msgstr "सफलतापूर्वक उत्परिवर्तित"
+
+
+msgid "Suggested Knowledge"
+msgstr "सूचित ज्ञान"
+
+
+msgid "Super Admin"
+msgstr "सुपर व्यवस्थापक"
+
+
+msgid "Supervisor"
+msgstr "पर्यवेक्षक"
+
+
+msgid "Support System"
+msgstr "समर्थन प्रणाली"
+
+
+msgid "System Update"
+msgstr "सिस्टम अद्यतन"
+
+
+msgid "Tag"
+msgstr "टैग"
+
+
+msgid "Tag is required"
+msgstr "टैग आवश्यक है"
+
+
+msgid "Temporary lock admin or staff user, if attempts"
+msgstr "अस्थायी ताला व्यवस्थापक या स्टाफ उपयोगकर्ता, यदि प्रयास"
+
+
+msgid "Text must be less then %d characters length"
+msgstr "पाठ कम से कम %d अक्षरों का होना चाहिए"
+
+
+msgid "Thank you for being with us"
+msgstr "हमारे साथ रहने के लिए धन्यवाद"
+
+
+msgid "The time is base on %s timezone"
+msgstr "समय %s समयक्षेत्र पर आधार है"
+
+
+msgid "The user who has opened ticket"
+msgstr "उपयोगकर्ता ने टिकट खोला है"
+
+
+msgid "Theme Settings"
+msgstr "विषय सेटिंग"
+
+
+msgid "This email address is already exist"
+msgstr "यह ईमेल पता पहले से मौजूद है"
+
+
+msgid "Ticket"
+msgstr "टिकट"
+
+
+msgid "Ticket Body"
+msgstr "टिकट शारीरिक"
+
+
+msgid "Ticket Body is required"
+msgstr "टिकट शारीरिक आवश्यक है"
+
+
+msgid "Ticket Category"
+msgstr "टिकट श्रेणी"
+
+
+msgid "Ticket Details"
+msgstr "टिकट विवरण"
+
+
+msgid "Ticket Feedback"
+msgstr "टिकट प्रतिक्रिया"
+
+
+msgid "Ticket Feedback List"
+msgstr "टिकट प्रतिक्रिया सूची"
+
+
+msgid "Ticket History"
+msgstr "टिकट इतिहास"
+
+
+msgid "Ticket Information"
+msgstr "टिकट जानकारी"
+
+
+msgid "Ticket Payment Details"
+msgstr "टिकट भुगतान विवरण"
+
+
+msgid "Ticket Payment List"
+msgstr "टिकट भुगतान सूची"
+
+
+msgid "Ticket Priroty"
+msgstr "टिकट प्राथमिकता"
+
+
+msgid "Ticket Status"
+msgstr "टिकट स्थिति"
+
+
+msgid "Ticket Subject"
+msgstr "टिकट विषय"
+
+
+msgid "Ticket Title"
+msgstr "टिकट का शीर्षक"
+
+
+msgid "Ticket Track ID"
+msgstr "टिकट ट्रैक आईडी"
+
+
+msgid "Ticket User"
+msgstr "टिकट उपयोगकर्ता"
+
+
+msgid "Ticket closed do you want to re-open?"
+msgstr "टिकट बंद करना क्या आप फिर से खोलना चाहते हैं?"
+
+
+msgid "Ticket subject is required"
+msgstr "टिकट विषय आवश्यक है"
+
+
+msgid "Tickets"
+msgstr "टिकट"
+
+
+msgid "Time"
+msgstr "पहर"
+
+
+msgid "Timezone"
+msgstr "समय क्षेत्र"
+
+
+msgid "Title"
+msgstr "शीर्षक"
+
+
+msgid "Title is required"
+msgstr "शीर्षक आवश्यक है"
+
+
+msgid "To"
+msgstr "सेवा मेरे"
+
+
+msgid "Today's"
+msgstr "आज का दि"
+
+
+msgid "Topbar Icon"
+msgstr "टॉपबार चिह्न"
+
+
+msgid "Topbar Icon List"
+msgstr "टॉपबार आइकन सूची"
+
+
+msgid "Total"
+msgstr "कुल"
+
+
+msgid "Total Closed Ticket"
+msgstr "कुल बंद टिकट"
+
+
+msgid "Total Closed Tickets"
+msgstr "कुल बंद टिकट"
+
+
+msgid "Transction ID"
+msgstr "लेनदेन आईडी"
+
+
+msgid "Type"
+msgstr "प्रकार"
+
+
+msgid "Tzone is required"
+msgstr "Tzone आवश्यक है"
+
+
+msgid "USER MENU"
+msgstr "उपयोगकर्ता विकल्प सूची"
+
+
+msgid "Unassigned Tickets"
+msgstr "असाइन किया गया टिकट"
+
+
+msgid "Update"
+msgstr "अद्यतन करें"
+
+
+msgid "Update User"
+msgstr "उपयोगकर्ता को अपडेट करें"
+
+
+msgid "Uploaded file is not  supported"
+msgstr "अपलोड की गई फ़ाइल समर्थित नहीं है"
+
+
+msgid "Use this as your callback url into facebook developer panel"
+msgstr "इसे फेसबुक डेवलपर पैनल में अपने कॉलबैक यूआरएल के रूप में प्रयोग करें"
+
+
+msgid "Use this as your callback url into twitter developer panel"
+msgstr "इसे अपने कॉलबैक यूआरएल के रूप में ट्विटर डेवलपर पैनल में प्रयोग करें"
+
+
+msgid "Use this as your callback url into your google developer console"
+msgstr "इसे अपने Google डेवलपर कंसोल में कॉलबैक यूआरएल के रूप में प्रयोग करें"
+
+
+msgid "User"
+msgstr "उपयोगकर्ता"
+
+
+msgid "User (Email)"
+msgstr "उपयोगकर्ता (ईमेल)"
+
+
+msgid "User (Email) is required"
+msgstr "उपयोगकर्ता (ईमेल) आवश्यक है"
+
+
+msgid "User Id"
+msgstr "यूज़र आईडी"
+
+
+msgid "User List"
+msgstr "उपयोगकर्ता सूची"
+
+
+msgid "User Panel"
+msgstr "उपयोगकर्ता पैनल"
+
+
+msgid "User Settings"
+msgstr "उपयोगकर्ता सेटिंग"
+
+
+msgid "User is required"
+msgstr "उपयोगकर्ता आवश्यक है"
+
+
+msgid "Username"
+msgstr "उपयोगकर्ता नाम"
+
+
+msgid "Value"
+msgstr "मूल्य"
+
+
+msgid "Verified"
+msgstr "सत्यापित"
+
+
+msgid "View Details"
+msgstr "विवरण देखें"
+
+
+msgid "View Knowledge"
+msgstr "ज्ञान देखें"
+
+
+msgid "View Site"
+msgstr "साइट देखें"
+
+
+msgid "View all"
+msgstr "सभी को देखें"
+
+
+msgid "Views"
+msgstr "दृश्य"
+
+
+msgid "Write here.."
+msgstr "यहाँ लिखें.."
+
+
+msgid "Write reply here.."
+msgstr "उत्तर यहाँ लिखें ..."
+
+
+msgid "Yes"
+msgstr "हाँ"
+
+
+msgid "You think it is helpfull"
+msgstr "आपको लगता है कि यह सहायक है"
+
+
+msgid "You think it is not helpfull"
+msgstr "आपको लगता है कि यह उपयोगी नहीं है"
+
+
+msgid "Your Site URL"
+msgstr "आपकी साइट यूआरएल"
+
+
+msgid "Your application is up to date"
+msgstr "आपका एप्लिकेशन अद्यतित है"
+
+
+msgid "Your closed ticket list"
+msgstr "आपकी बंद टिकट सूची"
+
+
+msgid "Your current ticket status"
+msgstr "आपकी वर्तमान टिकट की स्थिति"
+
+
+msgid "Your envato(CodeCanyon, Themeforest,etc) username"
+msgstr "आपका envato (CodeCanyon, Themeforest, आदि) उपयोगकर्ता नाम"
+
+
+msgid "Your site name"
+msgstr "आपकी साइट का नाम"
+
+
+msgid "Your total active tickets"
+msgstr "आपके कुल सक्रिय टिकट"
+
+
+msgid "Youtube Accounts"
+msgstr "यूट्यूब खाते"
+
+
+msgid "Zip"
+msgstr "ज़िप"
+
+
+msgid "Zip is required"
+msgstr "ज़िप की आवश्यकता है"
+
+
+msgid "by"
+msgstr "द्वारा"
+
+
+msgid "ex.5"
+msgstr "ex.5"
+
+
+msgid "is required"
+msgstr "आवश्यक है"
+
+
+msgid "minuites"
+msgstr "मिनट"
+
+
+msgid "miss login in"
+msgstr "में लॉग इन याद आती है"
+
+
+msgid "on"
+msgstr "पर"
+
+
+msgid "seconds, then"
+msgstr "सेकंड, फिर"
+
+
+msgid "setup for Social Login"
+msgstr "सामाजिक लॉगइन के लिए सेटअप"
+
+
+msgid "to get custom payment"
+msgstr "कस्टम भुगतान प्राप्त करने के लिए"
+
+
+msgid "Already registered?"
+msgstr "पहले से पंजीकृत?"
+
+
+msgid "E-mail"
+msgstr "ईमेल"
+
+
+msgid "Email address is alreay exists"
+msgstr "ईमेल पता पहले से मौजूद है"
+
+
+msgid "Forgot password?"
+msgstr "पासवर्ड भूल गए?"
+
+
+msgid "Guest Ticket"
+msgstr "अतिथि टिकट"
+
+
+msgid "Low Priroty"
+msgstr "कम प्राथमिकता"
+
+
+msgid "Not member yet ?"
+msgstr "सदस्य अभी तक नहीं?"
+
+
+msgid "Open Ticket With Less Priroty"
+msgstr "कम प्राथमिकता के साथ ओपन टिकट"
+
+
+msgid "Open ticket after login"
+msgstr "लॉगिन के बाद ओपन टिकट"
+
+
+msgid "Open ticket after register"
+msgstr "रजिस्टर के बाद ओपन टिकट"
+
+
+msgid "Or Login Using"
+msgstr "या लॉग इन का प्रयोग करना"
+
+
+msgid "Or Register Using"
+msgstr "या उपयोग करना रजिस्टर"
+
+
+msgid "Or open ticket using"
+msgstr "या ओपन टिकट का प्रयोग करके"
+
+
+msgid "Submit"
+msgstr "जमा करें"
+
+
+msgid "Top Priroty"
+msgstr "सर्वोच्च प्राथमिकता"
+
+
+msgid "User Login"
+msgstr "उपयोगकर्ता लॉगिन"
+
+
+msgid "User Registration"
+msgstr "उपयोगकर्ता का पंजीकरण"
+
+
+msgid "You are not logged in. What would you like do now?"
+msgstr "आप लॉग इन नहीं हैं। अब आप क्या पसंद करेंगे?"
+
+
+msgid "fields are required"
+msgstr "फ़ील्ड की आवश्यक हैं"
+
+
+msgid "Confirm Password"
+msgstr "पासवर्ड की पुष्टि कीजिये"
+
+
+msgid "Back"
+msgstr "वापस"
+
+
+msgid "%s is not same"
+msgstr "%s समान नहीं है"
+
+
+msgid "Captcha"
+msgstr "कैप्चा"
+
+
+msgid "Invalid email address."
+msgstr "अमान्य ईमेल पता।"
+
+
+msgid "New Password"
+msgstr "नया पासवर्ड"
+
+
+msgid "The email address is already registered. To login"
+msgstr "ईमेल पता पहले से ही पंजीकृत है। लॉग इन करने के लिए"
+
+
+msgid "The value is not a valid %s"
+msgstr "मान एक वैध %s नहीं है"
+
+
+msgid "Uncategories"
+msgstr "Uncategories"
+
+
+msgid "Assigned & Closed"
+msgstr "सौंपा गया और बंद"
+
+
+msgid "CSV Downloaded"
+msgstr "सीएसवी डाउनलोड की गई"
+
+
+msgid "Change Timezone"
+msgstr "टाइमज़ोन बदलें"
+
+
+msgid "Change padssword of %s"
+msgstr "%s का पासवर्ड बदलें"
+
+
+msgid "Change password of Admin User"
+msgstr "व्यवस्थापक उपयोगकर्ता का पासवर्ड बदलें"
+
+
+msgid "Day Report"
+msgstr "दिन रिपोर्ट"
+
+
+msgid "Member since"
+msgstr "से सदस्ये"
+
+
+msgid "Month Report"
+msgstr "महीना रिपोर्ट"
+
+
+msgid "New User"
+msgstr "नया उपयोगकर्ता"
+
+
+msgid "Opened & Closed"
+msgstr "खोला गया और बंद"
+
+
+msgid "Timezone is required"
+msgstr "समय ज़ोन आवश्यक है"
+
+
+msgid "Tzone"
+msgstr "Tzone"
+
+
+msgid "Sign out"
+msgstr "साइन आउट"
+
+
+msgid "Please login to set priroty"
+msgstr "प्राथमिकता सेट करने के लिए कृपया लॉगिन करें"
+
+
+msgid "email address"
+msgstr "ईमेल पता"
+
+
+msgid "Allowed File Types"
+msgstr "अनुमत फ़ाइल प्रकार"
+
+
+msgid "Any Staff Can Reply"
+msgstr "कोई भी कर्मचारी उत्तर दे सकता है"
+
+
+msgid "App Email"
+msgstr "ऐप ईमेल"
+
+
+msgid "App Language"
+msgstr "ऐप भाषा"
+
+
+msgid "App Title"
+msgstr "ऐप शीर्षक"
+
+
+msgid "Application General Settings"
+msgstr "अनुप्रयोग सामान्य सेटिंग्स"
+
+
+msgid "Application Layout"
+msgstr "एप्लिकेशन लेआउट"
+
+
+msgid "Auto Others Color"
+msgstr "ऑटो अन्य रंग"
+
+
+msgid "Basic Settings"
+msgstr "मूल सेटिंग्स"
+
+
+msgid "CSS ( Style)"
+msgstr "सीएसएस (स्टाइल)"
+
+
+msgid "Captcha Length"
+msgstr "कैप्चा की लंबाई"
+
+
+msgid "Captcha Settings"
+msgstr "कैप्चा सेटिंग्स"
+
+
+msgid "Captcha String Type"
+msgstr "कैप्चा स्ट्रिंग प्रकार"
+
+
+msgid "Captcha Type"
+msgstr "कैप्चा प्रकार"
+
+
+msgid "Charecter Lenght of default captcha"
+msgstr "वर्ण डिफ़ॉल्ट कैप्चा की लंबाई"
+
+
+msgid "Choose HTML Editor"
+msgstr "एचटीएमएल संपादक चुनें"
+
+
+msgid "Client ID"
+msgstr "ग्राहक ID"
+
+
+msgid "Client Photo Upload"
+msgstr "क्लाइंट फोटो अपलोड करें"
+
+
+msgid "Copyright Text"
+msgstr "कॉपीराइट पाठ"
+
+
+msgid "Custom CSS & JavaScript"
+msgstr "कस्टम सीएसएस और जावास्क्रिप्ट"
+
+
+msgid "Custom JavaScript"
+msgstr "कस्टम जावास्क्रिप्ट"
+
+
+msgid "Date Format"
+msgstr "डेटा प्रारूप"
+
+
+msgid "Disable Registration"
+msgstr "पंजीकरण अक्षम करें"
+
+
+msgid "Email Footer Text"
+msgstr "ईमेल पाद लेख"
+
+
+msgid "Email Reply Start Text"
+msgstr "उत्तर ईमेल प्रारंभ टेक्स्ट प्रारंभ करें"
+
+
+msgid "Enable Force SSL"
+msgstr "बल सक्षम करें SSL"
+
+
+msgid "Enable Guest Ticket"
+msgstr "अतिथि टिकट सक्षम करें"
+
+
+msgid "Enable HTML Input"
+msgstr "HTML इनपुट को सक्षम करें"
+
+
+msgid "Enable Public Ticket"
+msgstr "सार्वजनिक टिकट सक्षम करें"
+
+
+msgid "Enable Ticket Feedback"
+msgstr "टिकट प्रतिक्रिया सक्षम करें"
+
+
+msgid "Enable User Online Check"
+msgstr "उपयोगकर्ता ऑनलाइन जांच सक्षम करें"
+
+
+msgid "Ex. Google analytics code, Do not add any tag  like %s"
+msgstr "पूर्व। Google एनालिटिक्स कोड, %s जैसे किसी भी टैग को न जोड़ें"
+
+
+msgid "Feedback Email Title"
+msgstr "फ़ीडबैक ईमेल शीर्षक"
+
+
+msgid "Field"
+msgstr "खेत"
+
+
+msgid "File Upload Settings"
+msgstr "फ़ाइल अपलोड सेटिंग्स"
+
+
+msgid "Footer Background"
+msgstr "पाद पृष्ठभूमि"
+
+
+msgid "Footer Text"
+msgstr "फूटर टेक्स्ट"
+
+
+msgid "Header Color"
+msgstr "हैडर का रंग"
+
+
+msgid "Header Gradient"
+msgstr "हैडर ग्रेडियेंट"
+
+
+msgid "If enable this then other color will be auto generate based on main color"
+msgstr "यदि यह सक्षम करता है तो अन्य रंग मुख्य रंग के आधार पर स्वतः उत्पन्न होगा"
+
+
+msgid "If enable this then the header background will be gradient"
+msgstr "यदि यह सक्षम है तो हेडर पृष्ठभूमि ढाल होगा"
+
+
+msgid "If you disable this then your will get normal text area box insted of html editor"
+msgstr "अगर आप इसे अक्षम करते हैं तो आपको HTML संपादक के बजाय सामान्य पाठ क्षेत्र बॉक्स मिलेगा"
+
+
+msgid "If you enable it a feedback email will be sent to ticket user email address after closing ticket"
+msgstr "यदि आप इसे सक्षम करते हैं तो टिकट बंद करने के बाद टिकट उपयोगकर्ता ईमेल पते पर एक फ़ीडबैक ईमेल भेजा"
+
+
+msgid "If you enable it then any visitor can open ticket without registration"
+msgstr "यदि आप इसे सक्षम करते हैं तो किसी भी आगंतुक पंजीकरण के बिना टिकट खोल सकता है"
+
+
+msgid "If you enable it then captcha will show in admin login form"
+msgstr "यदि आप इसे सक्षम करते हैं तो कैप्चा व्यवस्थापक लॉगिन फॉर्म में दिखाई देगा"
+
+
+msgid "If you enable it then captcha will show in client login form"
+msgstr "यदि आप इसे सक्षम करते हैं तो कैप्चा ग्राहक लॉगिन फॉर्म में दिखाएगा"
+
+
+msgid "If you enable it then captcha will show in client registration form"
+msgstr "यदि आप इसे सक्षम करते हैं तो कैप्चा क्लाइंट पंजीकरण फॉर्म में दिखाया जाएगा"
+
+
+msgid "If you enable it then captcha will show in guest ticket opening form"
+msgstr "यदि आप इसे सक्षम करते हैं तो कैप्चा अतिथि टिकट खोलने के फॉर्म में दिखाया जाएगा"
+
+
+msgid "If you enable it then user can open their ticket as public mode. Where any user can replay"
+msgstr "यदि आप इसे सक्षम करते हैं तो उपयोगकर्ता अपना टिकट सार्वजनिक मोड के रूप में खोल सकता है। जहां कोई उ?"
+
+
+msgid "If you enable it then user can upload file when they open ticket and reply any ticket"
+msgstr "यदि आप इसे सक्षम करते हैं तो उपयोगकर्ता फाइल खोल सकते हैं, जब वे टिकट खोल सकते हैं और किसी टिकट का ज?"
+
+
+msgid "If you enable it, then any staff can reply on any ticket, if disable then only assigned staff can reply."
+msgstr "यदि आप इसे सक्षम करते हैं, तो किसी भी टिकट पर कोई भी कर्मचारी उत्तर दे सकता है, यदि अक्षम किया गया तो"
+
+
+msgid "If you enable it, then you can able to upload their profile photo"
+msgstr "यदि आप इसे सक्षम करते हैं, तो आप अपनी प्रोफ़ाइल फ़ोटो अपलोड कर सकते हैं"
+
+
+msgid "If you enable this then this app will check SSL Request, if not then it will redirect to SSL URL."
+msgstr "यदि आप इसे सक्षम करते हैं तो यह एप एसएसएल अनुरोध की जांच करेगा, अगर नहीं तो यह एसएसएल यूआरएल पर रीड??"
+
+
+msgid "If you enable this then this app will check and show user online status."
+msgstr "यदि आप यह सक्षम करते हैं तो यह ऐप उपयोगकर्ता की ऑनलाइन स्थिति की जांच करेगा और दिखाएगी।"
+
+
+msgid "It will effect in next reload. If you want to now then refresh after save."
+msgstr "यह अगले पुनः लोड में प्रभाव होगा। यदि आप अब सहेजने के बाद रीफ्रेश करना चाहते हैं तो"
+
+
+msgid "It's background color of footer. Empty value will be auto from main color"
+msgstr "यह पाद लेख का पृष्ठभूमि रंग है खाली मूल्य मुख्य रंग से स्वचालित होगा"
+
+
+msgid "It's background color of menu bar. Empty value will be auto from main color"
+msgstr "यह मेनू बार का पृष्ठभूमि रंग है खाली मूल्य मुख्य रंग से स्वचालित होगा"
+
+
+msgid "It's background color of menu text color when active. Empty value will be auto from main color"
+msgstr "सक्रिय होने पर यह मेनू पाठ रंग का पृष्ठभूमि रंग है खाली मूल्य मुख्य रंग से स्वचालित होगा"
+
+
+msgid "It's text color of footer. Empty value will be auto from main color"
+msgstr "यह पाद लेख का पाठ रंग है खाली मूल्य मुख्य रंग से स्वचालित होगा"
+
+
+msgid "It's the background color of welcome message. But you can choose any text color on any text of welcome message using editor. Empty value will be auto from main color"
+msgstr "यह स्वागत संदेश का पृष्ठभूमि का रंग है। लेकिन आप संपादक का उपयोग करते हुए स्वागत संदेश के किसी भी ?"
+
+
+msgid "It's the color of anchor link and heading(h1,h2,h3,h4) Color. Empty value will be auto from main color"
+msgstr "यह एंकर लिंक का रंग और शीर्षक (एच 1, एच 2, एच 3, एच 4) रंग है खाली मूल्य मुख्य रंग से स्वचालित होगा"
+
+
+msgid "Its background color of header"
+msgstr "हेडर का पृष्ठभूमि का रंग"
+
+
+msgid "Keep empty if you don't want to show any footer"
+msgstr "यदि आप कोई पादलेख नहीं दिखाना चाहते हैं तो खाली रखें"
+
+
+msgid "Keep empty if you don't want to show any footer on email"
+msgstr "यदि आप ईमेल पर कोई पादलेख नहीं दिखाना चाहते तो खाली रखें"
+
+
+msgid "Keep empty if you don't want to show any footer on site copy write text"
+msgstr "यदि आप साइट पर किसी भी पाद लेख को लिखना नहीं चाहते हैं, तो खाली रखें"
+
+
+msgid "Keep empty if you don't want to show any message"
+msgstr "यदि आप कोई भी संदेश नहीं दिखाना चाहते हैं, तो खाली रखें"
+
+
+msgid "Layout & Color Settings"
+msgstr "लेआउट और रंग सेटिंग्स"
+
+
+msgid "Link And Heading Text"
+msgstr "लिंक और शीर्षक पाठ"
+
+
+msgid "Main Color"
+msgstr "मुखय रंग"
+
+
+msgid "Main site color is defined for application main color of client site."
+msgstr "मुख्य साइट का रंग क्लाइंट साइट के अनुप्रयोग मुख्य रंग के लिए परिभाषित किया गया है।"
+
+
+msgid "Max Upload File Size"
+msgstr "अधिकतम अपलोड फ़ाइल का आकार"
+
+
+msgid "Menu Active Text Color"
+msgstr "मेनू सक्रिय टेक्स्ट रंग"
+
+
+msgid "Menu Background"
+msgstr "मेनू पृष्ठभूमि"
+
+
+msgid "Nagative Feedback Message"
+msgstr "नकारात्मक प्रतिक्रिया संदेश"
+
+
+msgid "Nagative Message"
+msgstr "नकारात्मक संदेश"
+
+
+msgid "On Admin Login"
+msgstr "व्यवस्थापक लॉगिन पर"
+
+
+msgid "On Client Login"
+msgstr "ग्राहक लॉगिन पर"
+
+
+msgid "On Client Registration"
+msgstr "ग्राहक पंजीकरण पर"
+
+
+msgid "On Guest Ticket"
+msgstr "अतिथि टिकट पर"
+
+
+msgid "Only enter css code. Do not add any tag like %s"
+msgstr "केवल सीएसएस कोड दर्ज करें   %s जैसे किसी भी टैग को न जोड़ें"
+
+
+msgid "Positive Feedback Message"
+msgstr "सकारात्मक प्रतिक्रिया संदेश"
+
+
+msgid "Positive Message"
+msgstr "सकारात्मक संदेश"
+
+
+msgid "Registration  of visitor. If you disable this then visitor can't register. Only registered client can open ticket after login"
+msgstr "आगंतुक का पंजीकरण यदि आप इसे अक्षम करते हैं तो आगंतुक रजिस्टर नहीं कर सकता केवल पंजीकृत ग्राहक लॉ"
+
+
+msgid "Site Copyright Text"
+msgstr "साइट कॉपीराइट पाठ"
+
+
+msgid "Site Key"
+msgstr "कार्यस्थल की कुंजी"
+
+
+msgid "The value is not a numeric"
+msgstr "मान एक संख्यात्मक नहीं है"
+
+
+msgid "Ticket File Upload"
+msgstr "टिकट फ़ाइल अपलोड करें"
+
+
+msgid "Ticket Settings"
+msgstr "टिकट सेटिंग"
+
+
+msgid "Time Format"
+msgstr "समय प्रारूप"
+
+
+msgid "Value must be between 1 to 99"
+msgstr "मान 1 से 99 के बीच होना चाहिए"
+
+
+msgid "Welcome & Footer Text"
+msgstr "स्वागत और पाद लेख"
+
+
+msgid "Welcome Background"
+msgstr "स्वागत पृष्ठभूमि"
+
+
+msgid "Welcome Message"
+msgstr "स्वागत संदेश"
+
+
+msgid "Welcome Text"
+msgstr "स्वागत पाठ"
+
+
+msgid "ex. 2"
+msgstr "पूर्व। 2"
+
+
+msgid "Successfully updated"
+msgstr "सफलतापूर्वक उत्परिवर्तित"
+
+
+msgid "Language changed. Reloading"
+msgstr "भाषा बदल गई पुन: लोड"
+
+
+msgid "Download CSV"
+msgstr "सीएसवी डाउनलोड करें"
+
+
+msgid "No Record Found"
+msgstr "कोई रिकॉर्ड नहीं मिला"
+
+
+msgid "Reload"
+msgstr "सीमा से अधिक लादना"
+
+
+msgid "Sign In"
+msgstr "साइन इन करें"
+
+
+msgid "Sign in to start your session"
+msgstr "अपना सत्र प्रारंभ करने के लिए साइन इन करें"
+
+
+msgid "Admin Panel"
+msgstr "प्रशासनिक समिति"
+
+
+msgid "%s is invalid"
+msgstr "%s अमान्य है"
+
+
+msgid "A ticket email has been sent to your email. Please check that"
+msgstr "टिकट ईमेल आपके ईमेल पर भेज दिया गया है कृपया यह जांचें"
+
+
+msgid "Admin Notification Settings"
+msgstr "व्यवस्थापक सूचना सेटिंग्स"
+
+
+msgid "Are you sure to assign yourself?"
+msgstr "क्या आप निश्चित रूप से असाइन करना चाहते हैं?"
+
+
+msgid "Are you sure to assign?"
+msgstr "क्या आप असाइन करना चाहते हैं?"
+
+
+msgid "Assign Me"
+msgstr "मुझे असाइन करें"
+
+
+msgid "Captcha Success"
+msgstr "कैप्चा सफलता"
+
+
+msgid "Content"
+msgstr "सामग्री"
+
+
+msgid "Controller"
+msgstr "नियंत्रक"
+
+
+msgid "Email Field Details"
+msgstr "ईमेल फील्ड विवरण"
+
+
+msgid "Email Notification Settings"
+msgstr "ईमेल सूचना सेटिंग"
+
+
+msgid "Email Notification Settions"
+msgstr "ईमेल सूचना सेटिंग"
+
+
+msgid "Email Template updated successfully"
+msgstr "ईमेल टेम्पलेट सफलतापूर्वक अपडेट किया गया"
+
+
+msgid "Email template for  ANR"
+msgstr "एएनआर के लिए ईमेल टेम्पलेट"
+
+
+msgid "Enable Admin Notificaiton"
+msgstr "व्यवस्थापक सूचना सक्षम करें"
+
+
+msgid "File Size"
+msgstr "फाइल का आकार"
+
+
+msgid "If you enable this then admin will get notification"
+msgstr "यदि आप इसे सक्षम करते हैं तो प्रशासन को सूचना मिल जाएगी"
+
+
+msgid "If you enable this then admin will get notification on ticket open"
+msgstr "यदि आप इसे सक्षम करते हैं तो व्यवस्थापक को टिकट खोलने पर अधिसूचना मिल जाएगी"
+
+
+msgid "If you enable this then admin will get notification on ticket user reply"
+msgstr "यदि आप इसे सक्षम करते हैं तो व्यवस्थापक को टिकट उपयोगकर्ता उत्तर पर सूचना मिल जाएगी"
+
+
+msgid "Logging in.."
+msgstr "प्रवेश किया.."
+
+
+msgid "Name of ticket user"
+msgstr "टिकट उपयोगकर्ता का नाम"
+
+
+msgid "New Ticket Opened"
+msgstr "नई टिकट खोले"
+
+
+msgid "Notification Email"
+msgstr "अधिसूचना ईमेल"
+
+
+msgid "Notification Settings"
+msgstr "अधिसूचना सेटिंग"
+
+
+msgid "Notification Settions"
+msgstr "अधिसूचना सेटिंग"
+
+
+msgid "On Admin/staff Reply"
+msgstr "व्यवस्थापक / स्टाफ पर जवाब दें"
+
+
+msgid "On Screen Notificaiton Settings"
+msgstr "स्क्रीन सूचना सेटिंग पर"
+
+
+msgid "On Ticket Open"
+msgstr "टिकट पर खुला"
+
+
+msgid "On Ticket User Reply"
+msgstr "टिकट उपयोगकर्ता पर उत्तर"
+
+
+msgid "Page List"
+msgstr "पृष्ठ सूची"
+
+
+msgid "Please wait"
+msgstr "कृपया प्रतीक्षा करें"
+
+
+msgid "Replied Text"
+msgstr "उत्तर दिया गया पाठ"
+
+
+msgid "Reply text"
+msgstr "पाठ को उत्तर दें"
+
+
+msgid "Resource"
+msgstr "संसाधन"
+
+
+msgid "Set Assign"
+msgstr "असाइन सेट करें"
+
+
+msgid "Successfully added"
+msgstr "सफलतापूर्वक शामिल"
+
+
+msgid "Template List"
+msgstr "टेम्पलेट सूची"
+
+
+msgid "Thank you, your ticket has been opened successfully"
+msgstr "धन्यवाद, आपका टिकट सफलतापूर्वक खोला गया है"
+
+
+msgid "Ticket Open By Guest"
+msgstr "अतिथि द्वारा टिकट खोलें"
+
+
+msgid "Ticket Other's Info"
+msgstr "टिकट की अन्य जानकारी"
+
+
+msgid "Ticket Replied by : %s"
+msgstr "टिकट ने उत्तर दिया: %s"
+
+
+msgid "Ticket cateroty"
+msgstr "टिकट कैटरोटी"
+
+
+msgid "Ticket link"
+msgstr "टिकट लिंक"
+
+
+msgid "Ticket open or reply notification settings"
+msgstr "टिकट खोलें या सूचना सेटिंग्स को उत्तर दें"
+
+
+msgid "Update Email Template"
+msgstr "ईमेल टेम्पलेट अपडेट करें"
+
+
+msgid "User Ticket"
+msgstr "उपयोगकर्ता टिकट"
+
+
+msgid "User who replied"
+msgstr "उपयोगकर्ता ने उत्तर दिया"
+
+
+msgid "View Ticket Details"
+msgstr "टिकट विवरण देखें"
+
+
+msgid "ex. email@domain.com"
+msgstr "पूर्व। email@domain.com"
+
+
+msgid "updated"
+msgstr "अद्यतन"
+
+
+msgid "%s is not a valid URL"
+msgstr "%s मान्य URL नहीं है"
+
+
+msgid "Admin Panel Language"
+msgstr "व्यवस्थापक पैनल भाषा"
+
+
+msgid "Admin will hear tone on notification if enabled"
+msgstr "सक्षम होने पर व्यवस्थापक सूचना पर टोन सुनेंगे"
+
+
+msgid "App Settings"
+msgstr "एप्लिकेशन सेटिंग"
+
+
+msgid "Application All Settings"
+msgstr "आवेदन सभी सेटिंग्स"
+
+
+msgid "Are you sure to dismiss?"
+msgstr "क्या आप खारिज करना चाहते हैं?"
+
+
+msgid "Authentication failed!. May be remote server rejected."
+msgstr "प्रमाणीकरण विफल होना!। रिमोट सर्वर अस्वीकार हो सकता है"
+
+
+msgid "Button Color"
+msgstr "बटन रंग"
+
+
+msgid "Button Text"
+msgstr "टेक्स्ट बटन"
+
+
+msgid "Button Text Color"
+msgstr "बटन पाठ रंग"
+
+
+msgid "Button Txt"
+msgstr "टेक्स्ट बटन"
+
+
+msgid "Button View"
+msgstr "बटन व्यू"
+
+
+msgid "Button image updated successfully"
+msgstr "बटन छवि सफलतापूर्वक अपडेट की गई"
+
+
+msgid "Captcha is required"
+msgstr "कैप्चा की आवश्यकता है"
+
+
+msgid "Closed On"
+msgstr "बंद हो गया"
+
+
+msgid "Current Status"
+msgstr "वर्तमान स्थिति"
+
+
+msgid "Custom %s"
+msgstr "कस्टम"
+
+
+msgid "Default login system form won't not show if it enabled"
+msgstr "डिफॉल्ट लॉगिन सिस्टम फॉर्म नहीं दिखाया जाएगा, यदि यह सक्षम है"
+
+
+msgid "Default login system form won't not show if it enabled, but Remote Login & Social login will show if those are enabled"
+msgstr "डिफ़ॉल्ट लॉन्ग सिस्टम प्रपत्र अगर यह सक्षम नहीं दिखाई देगा, लेकिन रिमोट लॉग इन और सोशल लॉगइन दिखा"
+
+
+msgid "Disable Default Login"
+msgstr "डिफ़ॉल्ट लॉगिन अक्षम करें"
+
+
+msgid "Disable Guest Open Popup"
+msgstr "अतिथि को पॉपअप अक्षम करें"
+
+
+msgid "Edit Remote Login"
+msgstr "दूरस्थ लॉगिन संपादित करें"
+
+
+msgid "Email to Ticket"
+msgstr "टिकट के लिए ईमेल"
+
+
+msgid "Enable Tone (Sound)"
+msgstr "टोन सक्षम करें (ध्वनि)"
+
+
+msgid "Featured Video"
+msgstr "विशेष रुप से प्रदर्शित वीडियो"
+
+
+msgid "File Upload"
+msgstr "फाइल अपलोड"
+
+
+msgid "If you enable this then admin will hear tone on notification"
+msgstr "यदि आप इसे सक्षम करते हैं तो व्यवस्थापक अधिसूचना पर टोन सुनेंगे"
+
+
+msgid "If you enable this then guest user also get all priroty as dropdown option"
+msgstr "अगर आप इसे सक्षम करते हैं तो अतिथि उपयोगकर्ता को भी ड्रॉपडाउन विकल्प के रूप में सभी प्राथमिकताएं"
+
+
+msgid "It is your remote server login URL. You can add extra parameter to detect, %s"
+msgstr "यह आपका रिमोट सर्वर लॉगिन यूआरएल है। आप का पता लगाने के लिए अतिरिक्त पैरामीटर जोड़ सकते हैं, %s"
+
+
+msgid "It is your remote server login URL. You can add extra parameter to detect, ex. %s"
+msgstr "यह आपका रिमोट सर्वर लॉगिन यूआरएल है। आप का पता लगाने के लिए पूर्व पैरामीटर जोड़ सकते हैं  %s"
+
+
+msgid "It is your remote server login URL. You can add extra parameter to detect, ex. http://zyz.com?from=support-system"
+msgstr "यह आपका रिमोट सर्वर लॉगिन यूआरएल है। आप का पता लगाने के लिए पूर्व पैरामीटर जोड़ सकते हैं http://zyz.com?from=supp"
+
+
+msgid "It will redirect to home page within"
+msgstr "यह होम पेज पर भीतर रीडायरेक्ट होगा"
+
+
+msgid "It will send this key in verification process as param"
+msgstr "यह परम के रूप में सत्यापन प्रक्रिया में इस कुंजी को भेज देगा"
+
+
+msgid "Keep empty if you don't want show any video"
+msgstr "यदि आप किसी भी वीडियो को नहीं दिखाना चाहते हैं, तो खाली रखें"
+
+
+msgid "Last Replied On"
+msgstr "अंतिम उत्तर दिया"
+
+
+msgid "Layout & Color"
+msgstr "लेआउट और रंग"
+
+
+msgid "Log uploaded"
+msgstr "लॉग अपलोड किया"
+
+
+msgid "Login Email"
+msgstr "भाग लेने का (विद्युत - डाक"
+
+
+msgid "Login Link"
+msgstr "लॉगिन लिंक"
+
+
+msgid "Login URL"
+msgstr "लॉगिन यूआरएल"
+
+
+msgid "Login Using"
+msgstr "लॉग इन का उपयोग करना"
+
+
+msgid "NB. %s will be your server's api key, by this we validate the response"
+msgstr "एनबी।  %s आपके सर्वर की एपीआई कुंजी होगी, इसके द्वारा हम प्रतिक्रिया को मान्य करते हैं"
+
+
+msgid "NB. %s will be your server's login token, by this it can validated the user"
+msgstr "एनबी।  %s आपके सर्वर का लॉगिन टोकन होगा, इसके द्वारा उपयोगकर्ता को मान्य किया जा सकता है"
+
+
+msgid "New Remote Login"
+msgstr "नया दूरस्थ लॉगिन"
+
+
+msgid "Normally visitor will show a popup it s/he doesn't logged in. If you don't want to show that then enable it"
+msgstr "आम तौर पर विज़िटर पॉपअप दिखाएगा / उसने लॉग इन नहीं किया है। अगर आप ऐसा नहीं दिखाना चाहते तो उसे सक्??"
+
+
+msgid "Notification Tone (Sound)"
+msgstr "अधिसूचना स्वर (ध्वनि)"
+
+
+msgid "Opened On"
+msgstr "पर खोला"
+
+
+msgid "Our server will post to this URL with the response token.%s Post paramater will be look like %s"
+msgstr "हमारे सर्वर प्रतिक्रिया टोकन के साथ इस यूआरएल को पोस्ट करेंगे।  %s पोस्ट पैरामीटर %s की तरह दिखेगा"
+
+
+msgid "Pay Now"
+msgstr "अब भुगतान करें"
+
+
+msgid "Payment Added"
+msgstr "भुगतान जोड़ा गया"
+
+
+msgid "Preview"
+msgstr "पूर्वावलोकन"
+
+
+msgid "Private Key"
+msgstr "निजी चाबी"
+
+
+msgid "Remote Login"
+msgstr "रिमोट लॉग इन"
+
+
+msgid "Remote Login Error"
+msgstr "दूरस्थ लॉग इन त्रुटि"
+
+
+msgid "Remote Login List"
+msgstr "दूरस्थ लॉगइन सूची"
+
+
+msgid "Remote Server Login"
+msgstr "रिमोट सर्वर लॉगइन"
+
+
+msgid "Remote_server"
+msgstr "रीमोट सर्वर"
+
+
+msgid "Request Count"
+msgstr "अनुरोध संख्या"
+
+
+msgid "Response Data Error"
+msgstr "उत्तर डेटा त्रुटि"
+
+
+msgid "Response URL"
+msgstr "उत्तर यूआरएल"
+
+
+msgid "Same As Admin"
+msgstr "व्यवस्थापक के समान"
+
+
+msgid "Seconds"
+msgstr "सेकंड"
+
+
+msgid "Select icon"
+msgstr "आइकन का चयन करें"
+
+
+msgid "Server Type"
+msgstr "सर्वर प्रकार"
+
+
+msgid "Show all priroty on Guest Ticket"
+msgstr "अतिथि टिकट पर सभी प्राथमिकताएं दिखाएं"
+
+
+msgid "Site Language"
+msgstr "साइट भाषा"
+
+
+msgid "Site Theme Settings"
+msgstr "साइट थीम सेटिंग्स"
+
+
+msgid "Social Login Setting"
+msgstr "सामाजिक लॉगिन सेटिंग"
+
+
+msgid "Successfully Dismissed"
+msgstr "सफलतापूर्वक खारिज कर दिया"
+
+
+msgid "Successfully deleted"
+msgstr "सफलतापूर्वक हटाया गया"
+
+
+msgid "Successfully logged in"
+msgstr "सफलतापूर्वक लॉग इन किया गया"
+
+
+msgid "Successfully saved"
+msgstr "सफलतापूर्वक संचित कर लिया गया है"
+
+
+msgid "Thank you for registering with us"
+msgstr "हमारे साथ पंजीकरण करने के लिए धन्यवाद"
+
+
+msgid "Theme"
+msgstr "विषय"
+
+
+msgid "This account has been temporary locked for 30 minutes, try again later or contact with admin to unlock"
+msgstr "यह खाता 30 मिनट के लिए अस्थायी लॉक किया गया है, बाद में फिर से प्रयास करें या अनलॉक करने के लिए व्यवस??"
+
+
+msgid "This servers's configuration"
+msgstr "यह सर्वर का कॉन्फ़िगरेशन"
+
+
+msgid "Ticket Email"
+msgstr "टिकट ईमेल"
+
+
+msgid "Ticket Re-Opened"
+msgstr "टिकट फिर से खोला"
+
+
+msgid "Unknown"
+msgstr "अनजान"
+
+
+msgid "User Login Using"
+msgstr "उपयोगकर्ता लॉगिन का उपयोग करना"
+
+
+msgid "Valid Url"
+msgstr "मान्य यूआरएल"
+
+
+msgid "Validation URL"
+msgstr "सत्यापन यूआरएल"
+
+
+msgid "Video"
+msgstr "वीडियो"
+
+
+msgid "View Update Details"
+msgstr "अद्यतन विवरण देखें"
+
+
+msgid "Welcome to"
+msgstr "आपका स्वागत है"
+
+
+msgid "Your server's redirect URL"
+msgstr "आपके सर्वर का रीडायरेक्ट यूआरएल"
+
+
+msgid "View All"
+msgstr "सभी को देखें"
+
+
+msgid "%s replied a message"
+msgstr "%s ने एक संदेश जवाब दिया"
+
+
+msgid "API Name"
+msgstr "एपीआई नाम"
+
+
+msgid "About Support System-help"
+msgstr "समर्थन प्रणाली-सहायता के बारे में"
+
+
+msgid "Agent Welcome Text"
+msgstr "एजेंट वेलकम टेक्स्ट"
+
+
+msgid "All Paid Ticket"
+msgstr "सभी भुगतान टिकट"
+
+
+msgid "Analytics Gtag ID"
+msgstr "Analytics जीटीएजी आईडी"
+
+
+msgid "App User Details"
+msgstr "ऐप उपयोगकर्ता विवरण"
+
+
+msgid "Archive"
+msgstr "पुरालेख"
+
+
+msgid "Are you sure to archive?"
+msgstr "क्या आप संग्रह करना सुनिश्चित कर रहे हैं?"
+
+
+msgid "Are you sure to archive? Archive is like Delete. You can inactive for temporary basis"
+msgstr "क्या आप संग्रह करना सुनिश्चित कर रहे हैं? पुरालेख हटाएं की तरह है। आप अस्थायी आधार के लिए निष्क्र??"
+
+
+msgid "Are you sure to archive? Archive is like as delete. If you want to do it for temporary, then set inactive status instead of archive. You cann&#96;t revert if you process it."
+msgstr "क्या आप संग्रह करना सुनिश्चित कर रहे हैं? पुरालेख हटाना जैसा है। यदि आप इसे अस्थायी के लिए करना चा?"
+
+
+msgid "Are you sure to archive? Archive is like as delete. If you want to do it for temporary, then you can inactive this user."
+msgstr "क्या आप संग्रह करना सुनिश्चित कर रहे हैं? पुरालेख हटाना जैसा है। यदि आप इसे अस्थायी के लिए करना चा?"
+
+
+msgid "Are you sure to archive? Archive is like as delete. It you want do it for temporary then you can inactive this user."
+msgstr "क्या आप संग्रह करना सुनिश्चित कर रहे हैं? पुरालेख हटाना जैसा है। यह आप अस्थायी के लिए करना चाहते ह?"
+
+
+msgid "Are you sure to archive? Archive is like as delete. You can inactive for temporary basis"
+msgstr "क्या आप संग्रह करना सुनिश्चित कर रहे हैं? पुरालेख हटाना जैसा है। आप अस्थायी आधार के लिए निष्क्रिय"
+
+
+msgid "Are you sure to change chat status?"
+msgstr "क्या आप चैट स्थिति बदलना चाहते हैं?"
+
+
+msgid "Are you sure to unlock?"
+msgstr "क्या आप अनलॉक करना चाहते हैं?"
+
+
+msgid "Asigned By"
+msgstr "द्वारा सौंपा"
+
+
+msgid "Authentication failed!. May be you didn't authenticate."
+msgstr "प्रमाणीकरण विफल होना!। हो सकता है कि आप प्रमाणित न हों।"
+
+
+msgid "Best Ranker Wordpress tool"
+msgstr "सर्वश्रेष्ठ रैंकर वर्डप्रेस उपकरण"
+
+
+msgid "Browser"
+msgstr "ब्राउज़र"
+
+
+msgid "Canned Message"
+msgstr "डिब्बाबंद संदेश"
+
+
+msgid "Change Profile Photo"
+msgstr "प्रोफाइल फोटो बदलें"
+
+
+msgid "Chat Canned Message"
+msgstr "चैट डिब्बाबंद संदेश"
+
+
+msgid "Chat Canned Msg List"
+msgstr "चैट डिब्बाबंद संदेश सूची"
+
+
+msgid "Chat Online Status"
+msgstr "ऑनलाइन स्थिति चैट करें"
+
+
+msgid "Chat Opening Text"
+msgstr "चैट ओपनिंग टेक्स्ट"
+
+
+msgid "Chat Panel"
+msgstr "चैट पैनल"
+
+
+msgid "Chat Receive Status"
+msgstr "चैट स्थिति प्राप्त करें"
+
+
+msgid "Chat Settings"
+msgstr "चैट सेटिंग्स"
+
+
+msgid "Chat Status"
+msgstr "चैट स्थिति"
+
+
+msgid "Check On Submit"
+msgstr "सबमिट पर जांचें"
+
+
+msgid "Choose API"
+msgstr "एपीआई चुनें"
+
+
+msgid "Choose API from available APIs"
+msgstr "उपलब्ध एपीआई से एपीआई चुनें"
+
+
+msgid "Choose Chat Type"
+msgstr "चैट प्रकार चुनें"
+
+
+msgid "Choose Type or Category"
+msgstr "प्रकार या श्रेणी चुनें"
+
+
+msgid "Click here to watch the video tutorial"
+msgstr "वीडियो ट्यूटोरियल देखने के लिए यहां क्लिक करें"
+
+
+msgid "Click on the Image to change. Best size is 250px x 200px"
+msgstr "बदलने के लिए छवि पर क्लिक करें। सर्वश्रेष्ठ आकार 250px x 200px है"
+
+
+msgid "Client Profile"
+msgstr "ग्राहक प्रोफाइल"
+
+
+msgid "Close Chat Status"
+msgstr "चैट स्थिति बंद करें"
+
+
+msgid "Closed Chat List"
+msgstr "बंद चैट सूची"
+
+
+msgid "Closed Failed"
+msgstr "बंद असफल"
+
+
+msgid "Closed Successfully"
+msgstr "सफलतापूर्वक बंद"
+
+
+msgid "Color Settings"
+msgstr "रंग सेटिंग्स"
+
+
+msgid "Comma( , ) separated. Ex: OptionA,OptionB,OptionC"
+msgstr "अल्पविराम से अलग। पूर्व: विकल्प ए, विकल्प बी, विकल्प सी"
+
+
+msgid "Do you want to take?"
+msgstr "क्या आप लेना चाहते हैं?"
+
+
+msgid "Download"
+msgstr "डाउनलोड"
+
+
+msgid "Edit Ticket Reply"
+msgstr "टिकट उत्तर संपादित करें"
+
+
+msgid "Email Password Reset Link"
+msgstr "ईमेल पासवर्ड लिंक रीसेट करें"
+
+
+msgid "Enable"
+msgstr "सक्षम करें"
+
+
+msgid "Enable API Validation"
+msgstr "एपीआई सत्यापन सक्षम करें"
+
+
+msgid "End Time"
+msgstr "अंतिम समय"
+
+
+msgid "Enter License Info"
+msgstr "लाइसेंस जानकारी दर्ज करें"
+
+
+msgid "Entry Date"
+msgstr "प्रवेश की तिथि"
+
+
+msgid "Envato Settings"
+msgstr "Envato सेटिंग्स"
+
+
+msgid "Facebook Chat"
+msgstr "फेसबुक लिखचित"
+
+
+msgid "Facebook Chat Settings"
+msgstr "फेसबुक चैट सेटिंग्स"
+
+
+msgid "Facebook Page ID"
+msgstr "फेसबुक पेज आईडी"
+
+
+msgid "Failed to assigning you on this chat"
+msgstr "इस चैट पर आपको असाइन करने में विफल"
+
+
+msgid "Failed to update"
+msgstr "अपडेट करने में विफल"
+
+
+msgid "Field Label"
+msgstr "फील्ड लेबल"
+
+
+msgid "File Settings"
+msgstr "फ़ाइल सेटिंग्स"
+
+
+msgid "GUEST USER"
+msgstr "अतिथि उपयेागकर्ता"
+
+
+msgid "Genaral"
+msgstr "सामान्य"
+
+
+msgid "Google Analytics"
+msgstr "गूगल विश्लेषिकी"
+
+
+msgid "Google Analytics Gtag ID"
+msgstr "Google Analytics Gtag आईडी"
+
+
+msgid "Google Analytics Settings"
+msgstr "Google Analytics सेटिंग्स"
+
+
+msgid "Gtag ID"
+msgstr "जीटीएजी आईडी"
+
+
+msgid "Help Text"
+msgstr "मदद पाठ"
+
+
+msgid "How to use all feature of this support system"
+msgstr "इस समर्थन प्रणाली की सभी सुविधाओं का उपयोग कैसे करें"
+
+
+msgid "IMAP module is not activated in you php"
+msgstr "आईएमएपी मॉड्यूल आपके भीतर सक्रिय नहीं है php"
+
+
+msgid "If you choose this then this field will be displayed on choosen category only"
+msgstr "यदि आप इसे चुनते हैं तो यह फ़ील्ड केवल चुनिंदा श्रेणी पर प्रदर्शित होगी"
+
+
+msgid "If you enable this then the field will be check using selected API"
+msgstr "यदि आप इसे सक्षम करते हैं तो फ़ील्ड चयनित API का उपयोग करके जांच की जाएगी"
+
+
+msgid "If you enable this then the value of this field is always be private"
+msgstr "यदि आप इसे सक्षम करते हैं तो इस क्षेत्र का मूल्य हमेशा निजी होता है"
+
+
+msgid "If you enable this, the field value need to be valid on form submission. Otherwise you will get a button to check manually"
+msgstr "यदि आप इसे सक्षम करते हैं, तो फील्ड मान को फॉर्म सबमिशन पर मान्य होना आवश्यक है। अन्यथा आपको मैन्य?"
+
+
+msgid "If you want to set %s. Then please go to %s or  %s"
+msgstr "यदि आप %s सेट करना चाहते हैं। फिर कृपया %s या %s पर जाएं"
+
+
+msgid "Is Private"
+msgstr "निजी है"
+
+
+msgid "It set a limit,how many chat a agent(Admin User) can take  simultaneously"
+msgstr "यह एक सीमा निर्धारित करता है, एक एजेंट (व्यवस्थापक उपयोगकर्ता) कितनी चैट कर सकता है"
+
+
+msgid "It will show when a agent start a chat session."
+msgstr "यह दिखाएगा कि जब कोई एजेंट चैट सत्र शुरू करता है।"
+
+
+msgid "It will show when a agent start a chat session. You can use some property which is given bello:"
+msgstr "यह दिखाएगा कि जब कोई एजेंट चैट सत्र शुरू करता है। आप कुछ संपत्ति का उपयोग कर सकते हैं जो बेल्लो दिय"
+
+
+msgid "It will show when a agent start a chat session. You can use some property which is given bellow:"
+msgstr "यह दिखाएगा कि जब कोई एजेंट चैट सत्र शुरू करता है। आप कुछ संपत्ति का उपयोग कर सकते हैं जो बेलो दिया ??"
+
+
+msgid "It will show when a user want to start chat"
+msgstr "यह तब दिखाएगा जब कोई उपयोगकर्ता चैट शुरू करना चाहता है"
+
+
+msgid "It will show when all user are offline"
+msgstr "यह दिखाएगा कि सभी उपयोगकर्ता ऑफ़लाइन हैं"
+
+
+msgid "It will show when all user busy,"
+msgstr "यह दिखाएगा कि सभी उपयोगकर्ता व्यस्त होंगे,"
+
+
+msgid "Item Purchase Code"
+msgstr "आइटम खरीद कोड"
+
+
+msgid "Its the field label"
+msgstr "इसका क्षेत्र लेबल है"
+
+
+msgid "Knowledge Search"
+msgstr "ज्ञान खोज"
+
+
+msgid "Last 5 Closed Chat"
+msgstr "अंतिम 5 बंद चैट"
+
+
+msgid "Last Change Date"
+msgstr "अंतिम परिवर्तन दिनांक"
+
+
+msgid "Last Date"
+msgstr "अंतिम तिथी"
+
+
+msgid "Latest Knowledge"
+msgstr "नवीनतम ज्ञान"
+
+
+msgid "Load More"
+msgstr "और लोड करें"
+
+
+msgid "Loading Chat Data Please wait.."
+msgstr "चैट डेटा लोड हो रहा है कृपया प्रतीक्षा करें .."
+
+
+msgid "Locked_user_confirm"
+msgstr "Locked_user_confirm"
+
+
+msgid "Login using social"
+msgstr "सामाजिक का उपयोग कर लॉगिन करें"
+
+
+msgid "Low Priority"
+msgstr "कम प्राथमिकता"
+
+
+msgid "Max chat count"
+msgstr "अधिकतम चैट गिनती"
+
+
+msgid "Max. Chat Per Agent"
+msgstr "मैक्स। प्रति एजेंट चैट करें"
+
+
+msgid "Max. Chat Per Agent %s"
+msgstr "मैक्स। प्रति एजेंट %s चैट करें"
+
+
+msgid "Max. Chat Per Agent(simultaneously)"
+msgstr "मैक्स। प्रति एजेंट चैट (एक साथ)"
+
+
+msgid "Message List"
+msgstr "संदेश सूची"
+
+
+msgid "Missing chat id"
+msgstr "गुम चैट आईडी"
+
+
+msgid "My Closed Ticket"
+msgstr "मेरा बंद टिकट"
+
+
+msgid "My Paid Tickets"
+msgstr "मेरे भुगतान टिकट"
+
+
+msgid "Name of user"
+msgstr "उपयोगकर्ता का नाम"
+
+
+msgid "Need Support? Create a Ticket."
+msgstr "सहयोग की आवश्यकता? टिकट बनाएं"
+
+
+msgid "New Chat Canned Message"
+msgstr "नया चैट डिब्बाबंद संदेश"
+
+
+msgid "New Chat Canned Msg"
+msgstr "नया चैट डिब्बाबंद संदेश"
+
+
+msgid "New Chat Request"
+msgstr "नया चैट अनुरोध"
+
+
+msgid "New Custom Field"
+msgstr "नया कस्टम फील्ड"
+
+
+msgid "New Product"
+msgstr "नया उत्पाद"
+
+
+msgid "No result found"
+msgstr "कोई परिणाम नहीं मिला"
+
+
+msgid "Offline Text"
+msgstr "ऑफ़लाइन टेक्स्ट"
+
+
+msgid "On Screeen Notification Settings"
+msgstr "स्क्रीन अधिसूचना सेटिंग्स पर"
+
+
+msgid "On Screeen Notification Settions"
+msgstr "स्क्रीन अधिसूचना सेटिंग्स पर"
+
+
+msgid "Only profile image updated"
+msgstr "केवल प्रोफाइल छवि अद्यतन"
+
+
+msgid "Open Text"
+msgstr "ओपन टेक्स्ट"
+
+
+msgid "Open Ticket With Less Priority"
+msgstr "कम प्राथमिकता के साथ खुला टिकट"
+
+
+msgid "Page Builder"
+msgstr "पेज बिल्डर"
+
+
+msgid "Page Editor"
+msgstr "पेज संपादक"
+
+
+msgid "Password 18DDC9E196"
+msgstr "पासवर्ड 18 डीडीसी 9 ई 1 9 6"
+
+
+msgid "Password Successfully Updated"
+msgstr "पासवर्ड सफलतापूर्वक अपडेट किया गया"
+
+
+msgid "Please Rate it !!"
+msgstr "कृपया इसे रेट करें !!"
+
+
+msgid "Please put this into your facebook page settings"
+msgstr "कृपया इसे अपने फेसबुक पेज सेटिंग्स में डाल दें"
+
+
+msgid "Priority"
+msgstr "प्राथमिकता"
+
+
+msgid "Products"
+msgstr "उत्पाद"
+
+
+msgid "Profile Photo"
+msgstr "प्रोफाइल फोटो"
+
+
+msgid "Queue Text"
+msgstr "कतार पाठ"
+
+
+msgid "Rate it"
+msgstr "इसे रेट करें"
+
+
+msgid "Replied"
+msgstr "उत्तर दिया"
+
+
+msgid "Replied By"
+msgstr "द्वारा जवाब दिया"
+
+
+msgid "Replied By Type"
+msgstr "प्रकार से जवाब दिया"
+
+
+msgid "Replied Successfully"
+msgstr "सफलतापूर्वक जवाब दिया"
+
+
+msgid "Reply Time"
+msgstr "जवाब समय"
+
+
+msgid "Reset Password"
+msgstr "पासवर्ड रीसेट"
+
+
+msgid "Screen Notificaiton Settings"
+msgstr "स्क्रीन अधिसूचना सेटिंग्स"
+
+
+msgid "Search Result"
+msgstr "परिणाम खोजें"
+
+
+msgid "Seen by ticket owner"
+msgstr "टिकट मालिक द्वारा देखा गया"
+
+
+msgid "Set Category"
+msgstr "श्रेणी सेट करें"
+
+
+msgid "Set New Password"
+msgstr "नया पासवर्ड सेट करें"
+
+
+msgid "Set Passowrd"
+msgstr "पासवर्ड सेट करें"
+
+
+msgid "Set Password"
+msgstr "पासवर्ड सेट करें"
+
+
+msgid "Set User Password"
+msgstr "सेट उपयोगकर्ता पासवर्ड"
+
+
+msgid "Site Info"
+msgstr "साइट जानकारी"
+
+
+msgid "Social Login Error"
+msgstr "सामाजिक लॉगिन त्रुटि"
+
+
+msgid "Start Time"
+msgstr "समय शुरू"
+
+
+msgid "Successfully Archived"
+msgstr "सफलतापूर्वक संग्रहीत"
+
+
+msgid "Successfully assign"
+msgstr "सफलतापूर्वक असाइन करें"
+
+
+msgid "Successfully assigned you"
+msgstr "आपको सफलतापूर्वक सौंपा गया"
+
+
+msgid "Successfully closed"
+msgstr "सफलतापूर्वक बंद"
+
+
+msgid "Successfully unlocked"
+msgstr "सफलतापूर्वक अनलॉक"
+
+
+msgid "The text will be show like this text after the field"
+msgstr "टेक्स्ट फ़ील्ड के बाद इस पाठ की तरह दिखाया जाएगा"
+
+
+msgid "The user is already archived. You can't active or inactive"
+msgstr "उपयोगकर्ता पहले ही संग्रहीत है। आप सक्रिय या निष्क्रिय नहीं हो सकते हैं"
+
+
+msgid "The user who replaied last"
+msgstr "उपयोगकर्ता जो पिछली बार प्रतिलिपि बनाई गई"
+
+
+msgid "This chat request has been accepted by %s"
+msgstr "यह चैट अनुरोध %s द्वारा स्वीकार कर लिया गया है"
+
+
+msgid "This chat request has been accepted by Sarwar Hasan"
+msgstr "सरवर हसन ने यह चैट अनुरोध स्वीकार कर लिया है"
+
+
+msgid "Ticket Form Category"
+msgstr "टिकट फॉर्म श्रेणी"
+
+
+msgid "Ticket Opened"
+msgstr "टिकट खुल गया"
+
+
+msgid "Ticket Payment"
+msgstr "टिकट भुगतान"
+
+
+msgid "Ticket Priority"
+msgstr "टिकट प्राथमिकता"
+
+
+msgid "Ticket open time in app timezone (UTC)"
+msgstr "ऐप टाइमज़ोन (यूटीसी) में टिकट खुला समय"
+
+
+msgid "Ticket owner doesn't seen"
+msgstr "टिकट मालिक नहीं देखा है"
+
+
+msgid "Ticket owner seen"
+msgstr "टिकट मालिक देखा"
+
+
+msgid "Ticket reply saved error"
+msgstr "टिकट उत्तर त्रुटि बचाया"
+
+
+msgid "Ticket_confirm"
+msgstr "Ticket_confirm"
+
+
+msgid "To enable chat"
+msgstr "चैट सक्षम करने के लिए"
+
+
+msgid "To enable facebook messenger chat"
+msgstr "फेसबुक मैसेंजर चैट सक्षम करने के लिए"
+
+
+msgid "Top Priority"
+msgstr "सर्वोच्च प्राथमिकता"
+
+
+msgid "Unlock"
+msgstr "अनलॉक"
+
+
+msgid "Unseened by ticket owner"
+msgstr "टिकट मालिक द्वारा अनदेखा"
+
+
+msgid "Updated successfully"
+msgstr "अद्यतन सफलतापूर्ण हो गया"
+
+
+msgid "Use this as your confirmation url into your envato app register page."
+msgstr "अपने envato ऐप रजिस्टर पेज में अपनी पुष्टि यूआरएल के रूप में इसका इस्तेमाल करें।"
+
+
+msgid "User Info"
+msgstr "उपयोगकर्ता जानकारी"
+
+
+msgid "User Password"
+msgstr "उपयोगकर्ता पासवर्ड"
+
+
+msgid "User login information"
+msgstr "उपयोगकर्ता लॉगिन जानकारी"
+
+
+msgid "View"
+msgstr "राय"
+
+
+msgid "WP Best Ranker"
+msgstr "डब्ल्यूपी सर्वश्रेष्ठ रैंकर"
+
+
+msgid "WP Rank Ninja"
+msgstr "डब्ल्यूपी रैंक निंजा"
+
+
+msgid "Web Chat"
+msgstr "वैब वार्तालाप"
+
+
+msgid "Web Chat Settings"
+msgstr "वेब चैट सेटिंग्स"
+
+
+msgid "Would You Please Rate it?"
+msgstr "क्या आप इसे रेट करेंगे?"
+
+
+msgid "Write here"
+msgstr "यहाँ लिखें"
+
+
+msgid "YYYY-MM-DD"
+msgstr "YYYY-MM-DD"
+
+
+msgid "You can use some property which is given bellow:"
+msgstr "आप नीचे दी गई कुछ संपत्ति का उपयोग कर सकते हैं:"
+
+
+msgid "You can't set pro version now. Pro version is coming soon. Please choose default chat now"
+msgstr "अब आप प्रो संस्करण सेट नहीं कर सकते हैं। प्रो संस्करण जल्द ही आ रहा है। कृपया डिफ़ॉल्ट चैट अभी चुन?"
+
+
+msgid "You have no notifications right now"
+msgstr "आपके पास अभी कोई सूचना नहीं है"
+
+
+msgid "Your Domain URL"
+msgstr "आपका डोमेन यूआरएल"
+
+
+msgid "[GUEST USER]"
+msgstr "[अतिथि उपयेागकर्ता]"
+
+
+msgid "agent_welcome_text"
+msgstr "agent_welcome_text"
+
+
+msgid "e"
+msgstr "ई"
+
+
+msgid "ex. 5"
+msgstr "पूर्व। 5"
+
+
+msgid "snippets"
+msgstr "के टुकड़े"
+
+
+msgid "to see the video tutorial"
+msgstr "वीडियो ट्यूटोरियल देखने के लिए"
+
+
+msgid "typing"
+msgstr "टाइपिंग"
+
+
+msgid "%.2f"
+msgstr "%.2f"
+
+
+msgid "%s is already exists"
+msgstr "%s पहले से मौजूद है"
+
+
+msgid "A  ticket reply has been received from ticket user"
+msgstr "टिकट उपयोगकर्ता से टिकट का जवाब प्राप्त हुआ है"
+
+
+msgid "A new ticket is assigned to you"
+msgstr "आपको एक नया टिकट सौंपा गया है"
+
+
+msgid "A new ticket is received please assign"
+msgstr "एक नया टिकट प्राप्त किया गया है कृपया असाइन करें"
+
+
+msgid "A reset link has been sent to your email address. Please check that"
+msgstr "एक रीसेट लिंक आपके ईमेल पते पर भेजा गया है। कृपया इसे जांचें"
+
+
+msgid "Add"
+msgstr "जोड़ना"
+
+
+msgid "Add Another File"
+msgstr "एक और फाइल जोड़ें"
+
+
+msgid "Add Note"
+msgstr "नोट जोड़े"
+
+
+msgid "Admin Notes"
+msgstr "व्यवस्थापक नोट्स"
+
+
+msgid "Admin ticket creation"
+msgstr "व्यवस्थापक टिकट निर्माण"
+
+
+msgid "All Categories"
+msgstr "सब वर्ग"
+
+
+msgid "All Category"
+msgstr "सभी श्रेणी"
+
+
+msgid "Application"
+msgstr "आवेदन"
+
+
+msgid "Are you sure to delete attached file (%s)?"
+msgstr "क्या आप संलग्न फ़ाइल ( %s) को मिटाना चाहते हैं?"
+
+
+msgid "Are you sure to delete attached file?"
+msgstr "क्या आप संलग्न फाइल को हटाना चाहते हैं?"
+
+
+msgid "Are you sure to delete feature image?"
+msgstr "क्या आप फीचर छवि को हटाना चाहते हैं?"
+
+
+msgid "Assign On Ticket"
+msgstr "टिकट पर असाइन करें"
+
+
+msgid "Attach more file"
+msgstr "अधिक फ़ाइल संलग्न करें"
+
+
+msgid "Attached"
+msgstr "जुड़ा हुआ"
+
+
+msgid "Attached file"
+msgstr "संलग्न फाइल"
+
+
+msgid "Authentication Error"
+msgstr "प्रमाणीकरण त्रुटि"
+
+
+msgid "Auto Closing Rule"
+msgstr "ऑटो बंद नियम"
+
+
+msgid "Auto assign equally based on current month assigning"
+msgstr "वर्तमान महीने असाइन करने के आधार पर स्वचालित रूप से ऑटो असाइन करें"
+
+
+msgid "Based on ticket assigning rule"
+msgstr "टिकट असाइनिंग नियम के आधार पर"
+
+
+msgid "Button Icon"
+msgstr "बटन आइकन"
+
+
+msgid "Cat Ids"
+msgstr "बिल्ली आईडी"
+
+
+msgid "Change Category"
+msgstr "श्रेणी बदलें"
+
+
+msgid "Change Category of ticket: T6DD28E9B-012-1P9"
+msgstr "टिकट की श्रेणी बदलें: T6DD28E9B-012-1P9"
+
+
+msgid "Change Category of ticket: T84B12BAE-001-ZCO"
+msgstr "टिकट की श्रेणी बदलें: T84B12BAE-001-ZCO"
+
+
+msgid "Chat Auto Close"
+msgstr "चैट ऑटो बंद करें"
+
+
+msgid "Chat Auto Close Interval"
+msgstr "चैट ऑटो बंद अंतराल"
+
+
+msgid "Chat Background Pattern"
+msgstr "चैट पृष्ठभूमि पैटर्न"
+
+
+msgid "Chat Button Icon"
+msgstr "चैट बटन आइकन"
+
+
+msgid "Chat Closing Text"
+msgstr "चैट बंद पाठ"
+
+
+msgid "Chat Logo"
+msgstr "चैट लोगो"
+
+
+msgid "Chat Tag Line"
+msgstr "चैट टैग लाइन"
+
+
+msgid "Chat Title"
+msgstr "चैट शीर्षक"
+
+
+msgid "Chat Window and Button Color"
+msgstr "चैट विंडो और बटन रंग"
+
+
+msgid "Chat closing interval"
+msgstr "चैट समापन अंतराल"
+
+
+msgid "Chat has been auto closed by system"
+msgstr "चैट सिस्टम द्वारा ऑटो बंद कर दिया गया है"
+
+
+msgid "Chat main color"
+msgstr "मुख्य रंग चैट करें"
+
+
+msgid "Chat will be closed which is inactive for entered value. Enter 0 to disable auto close"
+msgstr "चैट बंद हो जाएगा जो दर्ज मूल्य के लिए निष्क्रिय है। ऑटो बंद करने के लिए 0 दर्ज करें"
+
+
+msgid "Choose Category"
+msgstr "वर्ग चुने"
+
+
+msgid "Choose Pattern"
+msgstr "पैटर्न चुनें"
+
+
+msgid "Choose Staff"
+msgstr "कर्मचारी चुनें"
+
+
+msgid "Choose chat button icon"
+msgstr "चैट बटन आइकन चुनें"
+
+
+msgid "Close ticket which has been inactive for"
+msgstr "टिकट बंद करें जो निष्क्रिय है"
+
+
+msgid "Close ticket which is inactivated for"
+msgstr "टिकट बंद करें जो निष्क्रिय है"
+
+
+msgid "Closing Message"
+msgstr "समापन संदेश"
+
+
+msgid "Closing Rule"
+msgstr "समापन नियम"
+
+
+msgid "Closing Text"
+msgstr "समापन पाठ"
+
+
+msgid "Currency"
+msgstr "मुद्रा"
+
+
+msgid "Custom_field"
+msgstr "कस्टम फील्ड"
+
+
+msgid "Delete failed"
+msgstr "हटाएं विफल"
+
+
+msgid "Demo Mode"
+msgstr "डेमो मोड"
+
+
+msgid "Disable Knowledge Stat In Homepage"
+msgstr "होमपेज में ज्ञान स्टेटस को अक्षम करें"
+
+
+msgid "Disable knowledge statistics in home page"
+msgstr "होम पेज में ज्ञान आंकड़े अक्षम करें"
+
+
+msgid "Edit Ticket Assign Rule"
+msgstr "टिकट असाइन नियम संपादित करें"
+
+
+msgid "Email template for  AAT"
+msgstr "एएटी के लिए ईमेल टेम्पलेट"
+
+
+msgid "Email template for  TAC"
+msgstr "टीएसी के लिए ईमेल टेम्पलेट"
+
+
+msgid "Enable Auto Close"
+msgstr "ऑटो बंद करें सक्षम करें"
+
+
+msgid "Enable this to disable %s,%s,%s in homepage"
+msgstr "होमपेज में %s, %s, %s को अक्षम करने के लिए इसे सक्षम करें"
+
+
+msgid "Files:"
+msgstr "फ़ाइलें:"
+
+
+msgid "Forgot Password"
+msgstr "पासवर्ड भूल गए"
+
+
+msgid "Go to Login"
+msgstr "लॉगिन पर जाएं"
+
+
+msgid "Hour"
+msgstr "घंटा"
+
+
+msgid "If you don't know how you will configure the Facebook Page settings then"
+msgstr "यदि आप नहीं जानते कि आप फेसबुक पेज सेटिंग्स को कैसे कॉन्फ़िगर करेंगे"
+
+
+msgid "If you enable it, then inactive ticket will be closed automatically by auto closing rule"
+msgstr "यदि आप इसे सक्षम करते हैं, तो निष्क्रिय बंद होने पर स्वचालित टिकट स्वचालित रूप से बंद हो जाएगा"
+
+
+msgid "If you enable this then assigned user will get notification on ticket assigning"
+msgstr "यदि आप इसे सक्षम करते हैं तो असाइन किए गए उपयोगकर्ता को टिकट असाइनमेंट पर अधिसूचना मिल जाएगी"
+
+
+msgid "Inactive Interval"
+msgstr "निष्क्रिय अंतराल"
+
+
+msgid "Inactive Interval min"
+msgstr "निष्क्रिय अंतराल मिनट"
+
+
+msgid "It set a limit,how many chat per agent(Admin User) can take  simultaneously"
+msgstr "यह एक सीमा निर्धारित करता है, प्रति एजेंट कितने चैट (व्यवस्थापक उपयोगकर्ता) एक साथ ले सकते हैं"
+
+
+msgid "It will display in chat window"
+msgstr "यह चैट विंडो में प्रदर्शित होगा"
+
+
+msgid "It will redirect within"
+msgstr "यह भीतर रीडायरेक्ट करेगा"
+
+
+msgid "It will show when all agent close the chat,"
+msgstr "यह दिखाएगा कि जब सभी एजेंट चैट बंद करते हैं,"
+
+
+msgid "Knowledge Categories"
+msgstr "ज्ञान श्रेणियां"
+
+
+msgid "Knowledge attached file"
+msgstr "ज्ञान संलग्न फ़ाइल"
+
+
+msgid "Knowledge feature image"
+msgstr "ज्ञान सुविधा छवि"
+
+
+msgid "Main color of chat window."
+msgstr "चैट विंडो का मुख्य रंग।"
+
+
+msgid "N B. If you select Facebook Chat then you have to reply form Facebook Page Manager App or from Facebook. You can't reply from this app"
+msgstr "एन बी। यदि आप फेसबुक चैट का चयन करते हैं तो आपको फेसबुक पेज मैनेजर ऐप या फेसबुक से फॉर्म जवाब देना ??"
+
+
+msgid "Name of ticket assigned user"
+msgstr "टिकट असाइन किए गए उपयोगकर्ता का नाम"
+
+
+msgid "New Admin Note"
+msgstr "नया व्यवस्थापक नोट"
+
+
+msgid "New Ticket Assign Rule"
+msgstr "नया टिकट असाइन नियम"
+
+
+msgid "New message or chat"
+msgstr "नया संदेश या चैट"
+
+
+msgid "New ticket assigned"
+msgstr "नया टिकट सौंपा गया"
+
+
+msgid "New ticket assigned by you"
+msgstr "आपके द्वारा सौंपा गया नया टिकट"
+
+
+msgid "New ticket received"
+msgstr "नया टिकट प्राप्त हुआ"
+
+
+msgid "No note founds"
+msgstr "कोई नोट नहीं मिला"
+
+
+msgid "No ticket open by %s"
+msgstr "%s द्वारा कोई टिकट खुला नहीं है"
+
+
+msgid "Note"
+msgstr "ध्यान दें"
+
+
+msgid "Note On"
+msgstr "नोट ऑन"
+
+
+msgid "Notification List"
+msgstr "अधिसूचना सूची"
+
+
+msgid "On Ticket Assign"
+msgstr "टिकट असाइन पर"
+
+
+msgid "Password changed successfully"
+msgstr "पासवर्ड सफलतापूर्वक बदला गया"
+
+
+msgid "Password info"
+msgstr "पासवर्ड की जानकारी"
+
+
+msgid "Payment Amount (%s)"
+msgstr "भुगतान राशि ( %s)"
+
+
+msgid "Payment Amount(%s)"
+msgstr "भुगतान राशि ( %s)"
+
+
+msgid "Permission Denied or logged out."
+msgstr "अनुमति अस्वीकार या लॉग आउट।"
+
+
+msgid "Please read it first"
+msgstr "कृपया इसे पहले पढ़ें"
+
+
+msgid "Popular Knowledge"
+msgstr "लोकप्रिय ज्ञान"
+
+
+msgid "Recover Password"
+msgstr "गोपनीय शब्द पुन प्राप्त करे"
+
+
+msgid "Ref Id"
+msgstr "रेफरी आईडी"
+
+
+msgid "Ref Type"
+msgstr "रेफ प्रकार"
+
+
+msgid "Reset failed try again"
+msgstr "रीसेट विफल फिर से प्रयास करें"
+
+
+msgid "Rule Id"
+msgstr "नियम आईडी"
+
+
+msgid "Rule Type"
+msgstr "नियम प्रकार"
+
+
+msgid "SYSTEM"
+msgstr "प्रणाली"
+
+
+msgid "Select Category"
+msgstr "श्रेणी का चयन करें"
+
+
+msgid "Select Role"
+msgstr "भूमिका का चयन करें"
+
+
+msgid "Select User"
+msgstr "उपयोगकर्ता का चयन करें"
+
+
+msgid "Select User/Agent/Supervisor"
+msgstr "उपयोगकर्ता / एजेंट / पर्यवेक्षक का चयन करें"
+
+
+msgid "Selected agent/supervisor/admin will be notified on new ticket"
+msgstr "चयनित टिकट / पर्यवेक्षक / व्यवस्थापक को नए टिकट पर अधिसूचित किया जाएगा"
+
+
+msgid "Selected agent/supervisor/admin will be notified on new ticket assigning"
+msgstr "चयनित टिकट / पर्यवेक्षक / व्यवस्थापक को नए टिकट असाइनमेंट पर अधिसूचित किया जाएगा"
+
+
+msgid "Successfully assigned"
+msgstr "सफलतापूर्वक असाइन किया गया"
+
+
+msgid "Test Knowledge"
+msgstr "परीक्षा ज्ञान"
+
+
+msgid "Test attachedxcx"
+msgstr "टेस्ट संलग्न xxx"
+
+
+msgid "The ticket will be close which is inactive for client response"
+msgstr "टिकट बंद हो जाएगा जो ग्राहक प्रतिक्रिया के लिए निष्क्रिय है"
+
+
+msgid "The update has been disabled in DEMO MODE"
+msgstr "अद्यतन डेमो मोड में अक्षम कर दिया गया है"
+
+
+msgid "The user who reopen this ticket"
+msgstr "उपयोगकर्ता जो इस टिकट को फिर से खोलता है"
+
+
+msgid "This user can be agent/supervisor/admin"
+msgstr "यह उपयोगकर्ता एजेंट / पर्यवेक्षक / व्यवस्थापक हो सकता है"
+
+
+msgid "Ticket Assign Rule"
+msgstr "टिकट असाइन नियम"
+
+
+msgid "Ticket Assign Rule List"
+msgstr "टिकट असाइन नियम सूची"
+
+
+msgid "Ticket Closing Message"
+msgstr "टिकट बंद संदेश"
+
+
+msgid "Ticket Closing Message defined in Ticket settings"
+msgstr "टिकट समापन संदेश टिकट सेटिंग्स में परिभाषित किया गया"
+
+
+msgid "Ticket Feedback Buttons"
+msgstr "टिकट फीडबैक बटन"
+
+
+msgid "Ticket Open By Admin"
+msgstr "व्यवस्थापक द्वारा टिकट खोलें"
+
+
+msgid "Ticket Payment Process"
+msgstr "टिकट भुगतान प्रक्रिया"
+
+
+msgid "Ticket user  replied"
+msgstr "टिकट उपयोगकर्ता ने जवाब दिया"
+
+
+msgid "Ticket_assign_rule"
+msgstr "Ticket_assign_rule"
+
+
+msgid "Timezone updated successfully"
+msgstr "टाइमज़ोन सफलतापूर्वक अपडेट किया गया"
+
+
+msgid "Title :"
+msgstr "शीर्षक:"
+
+
+msgid "To see all settings effect on site, Please logout this session or try with other bowser. If admin logged in then you won't see the chat button"
+msgstr "साइट पर सभी सेटिंग्स प्रभाव को देखने के लिए, कृपया इस सत्र को लॉगआउट करें या अन्य बाउसर के साथ प्रय"
+
+
+msgid "To see all settings effect on site, please logout admin user or try with other browser. If admin logged in then you won't see the chat button"
+msgstr "साइट पर सभी सेटिंग्स प्रभाव को देखने के लिए, कृपया व्यवस्थापक उपयोगकर्ता लॉगआउट करें या अन्य ब्र?"
+
+
+msgid "User Or Role"
+msgstr "उपयोगकर्ता या भूमिका"
+
+
+msgid "View Closing Email Template"
+msgstr "बंद ईमेल टेम्पलेट देखें"
+
+
+msgid "You have assigned self to a ticket"
+msgstr "आपने टिकट को स्वयं सौंपा है"
+
+
+msgid "You have been replied a ticket"
+msgstr "आपको टिकट का जवाब दिया गया है"
+
+
+msgid "You replied a ticket"
+msgstr "आपने टिकट का जवाब दिया"
+
+
+msgid "Your password has been changed successfully"
+msgstr "आपका पासवर्ड सफलतापूर्वक बदल दिया गया है"
+
+
+msgid "hours"
+msgstr "घंटे"
+
+
+msgid "second(s)"
+msgstr "दूसरा (रों)"
+
+
+msgid "to view the ticket assigning rule"
+msgstr "टिकट असाइनिंग नियम देखने के लिए"
+
+
+msgid "Assign user"
+msgstr "उपयोगकर्ता असाइन करें"
+
+
+msgid "Bad, dissatisfied"
+msgstr "बुरा, असंतुष्ट"
+
+
+msgid "Both"
+msgstr "दोनों"
+
+
+msgid "Closed"
+msgstr "बन्द है"
+
+
+msgid "DB Query"
+msgstr "डीबी क्वेरी"
+
+
+msgid "Edit Chat Canned Message"
+msgstr "चैट डिब्बाबंद संदेश संपादित करें"
+
+
+msgid "Edit Menu"
+msgstr "मेनू संपादित करें"
+
+
+msgid "Ex. http://xyz.com"
+msgstr "पूर्व। http://xyz.com"
+
+
+msgid "Failed"
+msgstr "अनुत्तीर्ण होना"
+
+
+msgid "Feedback message"
+msgstr "प्रतिक्रिया संदेश"
+
+
+msgid "Guest"
+msgstr "अतिथि"
+
+
+msgid "Guest Ticket User"
+msgstr "अतिथि टिकट उपयोगकर्ता"
+
+
+msgid "High"
+msgstr "उच्च"
+
+
+msgid "Icon"
+msgstr "चिह्न"
+
+
+msgid "In Progress"
+msgstr "चालू"
+
+
+msgid "Is New Window"
+msgstr "नई खिड़की है"
+
+
+msgid "Leave as Current"
+msgstr "वर्तमान के रूप में छोड़ दें"
+
+
+msgid "Loading"
+msgstr "लोड हो रहा है"
+
+
+msgid "Low"
+msgstr "कम"
+
+
+msgid "Medium"
+msgstr "मध्यम"
+
+
+msgid "My Assigned All Tickets"
+msgstr "मेरे सभी टिकट सौंपा गया"
+
+
+msgid "New"
+msgstr "नया"
+
+
+msgid "New Menu"
+msgstr "नया मेनू"
+
+
+msgid "No search result found"
+msgstr "कोई खोज परिणाम नहीं मिला"
+
+
+msgid "Not Found"
+msgstr "नहीं मिला"
+
+
+msgid "Notice_confirm"
+msgstr "Notice_confirm"
+
+
+msgid "Only On Knowledge"
+msgstr "केवल ज्ञान पर"
+
+
+msgid "Only on Ticket"
+msgstr "केवल टिकट पर"
+
+
+msgid "Page %s of %s"
+msgstr "%s का पृष्ठ %s"
+
+
+msgid "Paid"
+msgstr "भुगतान किया है"
+
+
+msgid "Pending"
+msgstr "अपूर्ण"
+
+
+msgid "Please write a comment on us here"
+msgstr "कृपया यहां हमारे बारे में एक टिप्पणी लिखें"
+
+
+msgid "Refunded"
+msgstr "वापसी की गई है"
+
+
+msgid "Show Ticket"
+msgstr "टिकट दिखाएं"
+
+
+msgid "Staff"
+msgstr "कर्मचारी"
+
+
+msgid "Text Icon"
+msgstr "पाठ चिह्न"
+
+
+msgid "Thank you for your feedback"
+msgstr "आपकी प्रतिक्रिया के लिए आपका धन्यवाद"
+
+
+msgid "Thank you for your feedback. It will help us."
+msgstr "आपकी प्रतिक्रिया के लिए आपका धन्यवाद। यह हमारी मदद करेगा।"
+
+
+msgid "The website address is not valid"
+msgstr "वेबसाइट पता मान्य नहीं है"
+
+
+msgid "URL"
+msgstr "यूआरएल"
+
+
+msgid "Urgent"
+msgstr "अति आवश्यक"
+
+
+msgid "View %s - %s of %s"
+msgstr "%s का %s - %s देखें"
+
+
+msgid "Well, satisfied"
+msgstr "अच्छा, संतुष्ट"
+
+
+msgid "Would you please share your experience with us?"
+msgstr "क्या आप कृपया हमारे साथ अपना अनुभव साझा करेंगे?"
+
+
+msgid "You are not authorizse to see this ticket"
+msgstr "आप इस टिकट को देखने के लिए अधिकृत नहीं हैं"
+
+
+msgid "day"
+msgstr "दिन"
+
+
+msgid "days"
+msgstr "दिन"
+
+
+msgid "minute"
+msgstr "मिनट"
+
+
+msgid "minutes"
+msgstr "मिनट"
+
+
+msgid "month"
+msgstr "महीना"
+
+
+msgid "months"
+msgstr "महीने"
+
+
+msgid "second"
+msgstr "दूसरा"
+
+
+msgid "week"
+msgstr "सप्ताह"
+
+
+msgid "weeks"
+msgstr "सप्ताह"
+
+
+msgid "year"
+msgstr "साल"
+
+
+msgid "years"
+msgstr "वर्षों"
+
+
+msgid "ago"
+msgstr "पूर्व"
+
+
+msgid "Ticket user(%s) replied"
+msgstr "टिकट उपयोगकर्ता ( %s) ने उत्तर दिया"
+
+
+msgid "No category found"
+msgstr "कोई श्रेणी नहीं मिली"
+
+
+msgid "Ticket Reply"
+msgstr "टिकट उत्तर दें"
+
+
+msgid "Invalid Information"
+msgstr "अमान्य जानकारी"
+
+
+msgid "Captcha Error"
+msgstr "कैप्चा त्रुटि"
+
+
+msgid "Assign self"
+msgstr "स्वयं को सौंपें"
+
+
+msgid "Assign user %s"
+msgstr "उपयोगकर्ता  %s असाइन करें"
+
+
+msgid "Choose country block rule"
+msgstr "देश ब्लॉक नियम चुनें"
+
+
+msgid "Choose.."
+msgstr "चुनें.."
+
+
+msgid "Country Block Rule"
+msgstr "देश ब्लॉक नियम"
+
+
+msgid "Country Block Settings"
+msgstr "देश ब्लॉक सेटिंग्स"
+
+
+msgid "Country List"
+msgstr "देश सूची"
+
+
+msgid "Enter 2 digit Country Code(ex. US,CA,BD), Separated by comma"
+msgstr "अल्पविराम से अलग 2 अंक देश कोड (उदा। यूएस, सीए, बीडी) दर्ज करें"
+
+
+msgid "If you enable it then app check country for allow or block."
+msgstr "यदि आप इसे सक्षम करते हैं तो ऐप को अनुमति या ब्लॉक के लिए देश की जांच करें।"
+
+
+msgid "No user found with this email address"
+msgstr "इस ईमेल पते के साथ कोई उपयोगकर्ता नहीं मिला"
+
+
+msgid "Separated by comma"
+msgstr "अल्पविराम से अलग"
+
+
+msgid "Seperated by comma"
+msgstr "अल्पविराम से अलग"
+
+
+msgid "simultaneously"
+msgstr "एक साथ"
+
+
+msgid "%d MIN"
+msgstr "%डी मिनट"
+
+
+msgid "Accept"
+msgstr "स्वीकार करना"
+
+
+msgid "Access denied for hacking attempts"
+msgstr "हैकिंग प्रयासों के लिए प्रवेश अस्वीकार कर दिया गया"
+
+
+msgid "Admin Work Log"
+msgstr "व्यवस्थापक कार्य लॉग"
+
+
+msgid "Allow User Own Account Delete Option"
+msgstr "उपयोगकर्ता के खाते को हटाएं विकल्प को अनुमति दें"
+
+
+msgid "Allow User To Download Their User Data"
+msgstr "उपयोगकर्ता को अपने उपयोगकर्ता डेटा डाउनलोड करने की अनुमति दें"
+
+
+msgid "Are you sure to delete your account?"
+msgstr "क्या आप अपना खाता हटाना चाहते हैं?"
+
+
+msgid "Are you sure to reset?"
+msgstr "क्या आप रीसेट करना चाहते हैं?"
+
+
+msgid "Assign"
+msgstr "सौंपना"
+
+
+msgid "Auto"
+msgstr "ऑटो"
+
+
+msgid "Auto Assigned"
+msgstr "ऑटो असाइन किया गया"
+
+
+msgid "Background Color"
+msgstr "पीछे का रंग"
+
+
+msgid "Background Opacity"
+msgstr "पृष्ठभूमि अस्पष्टता"
+
+
+msgid "Background Opacity is required"
+msgstr "पृष्ठभूमि अस्पष्टता की आवश्यकता है"
+
+
+msgid "Choose Bar Close Animation"
+msgstr "बार बंद एनिमेशन चुनें"
+
+
+msgid "Choose Bar Open Animation"
+msgstr "बार ओपन एनीमेशन चुनें"
+
+
+msgid "Choose Display Event"
+msgstr "प्रदर्शन घटना चुनें"
+
+
+msgid "Choose Policy Page"
+msgstr "नीति पृष्ठ चुनें"
+
+
+msgid "Cookie Bar Background Color"
+msgstr "कुकी बार पृष्ठभूमि रंग"
+
+
+msgid "Cookie Message"
+msgstr "कुकी संदेश"
+
+
+msgid "Cookie bar text color"
+msgstr "कुकी बार टेक्स्ट रंग"
+
+
+msgid "Copy Link"
+msgstr "प्रतिरूप जोड़ना"
+
+
+msgid "Date"
+msgstr "तारीख"
+
+
+msgid "Default Value"
+msgstr "डिफ़ॉल्ट मान"
+
+
+msgid "Delete my account"
+msgstr "मेरा एकाउंट हटा दो"
+
+
+msgid "Deleted"
+msgstr "हटाए गए"
+
+
+msgid "Download this account data"
+msgstr "इस खाता डेटा को डाउनलोड करें"
+
+
+msgid "Dropdown"
+msgstr "ड्रॉप डाउन"
+
+
+msgid "Edit Custom Field"
+msgstr "कस्टम फ़ील्ड संपादित करें"
+
+
+msgid "Edit Page"
+msgstr "संपादित पेज"
+
+
+msgid "Error"
+msgstr "त्रुटि"
+
+
+msgid "Field Validation"
+msgstr "फील्ड सत्यापन"
+
+
+msgid "GDPR Settings"
+msgstr "जीडीपीआर सेटिंग्स"
+
+
+msgid "General"
+msgstr "सामान्य"
+
+
+msgid "Go Home Page"
+msgstr "जाओ होम पेज"
+
+
+msgid "If you enable it, then app will show a notification bar for cookie message"
+msgstr "यदि आप इसे सक्षम करते हैं, तो ऐप कुकी संदेश के लिए एक सूचना बार दिखाएगा"
+
+
+msgid "If you enable it, then site user or visitor can delete their account from their panel"
+msgstr "यदि आप इसे सक्षम करते हैं, तो साइट उपयोगकर्ता या विज़िटर अपने खाते से अपने खाते को हटा सकते हैं"
+
+
+msgid "If you enable it, then site user or visitor can download their account data from their panel"
+msgstr "यदि आप इसे सक्षम करते हैं, तो साइट उपयोगकर्ता या विज़िटर अपने खाते से अपने खाते का डेटा डाउनलोड कर"
+
+
+msgid "If you enable it, then when visitor click the privacy policy then that will be show in lighbox window"
+msgstr "यदि आप इसे सक्षम करते हैं, तो जब विज़िटर गोपनीयता नीति पर क्लिक करता है तो वह लाइटबॉक्स विंडो में द"
+
+
+msgid "If you enable this then it field show in All Ticket list as column in admin panel"
+msgstr "यदि आप इसे सक्षम करते हैं तो यह व्यवस्थापक पैनल में कॉलम के रूप में सभी टिकट सूची में फ़ील्ड दिखात?"
+
+
+msgid "In Form"
+msgstr "सूचित करना"
+
+
+msgid "Is Api Based"
+msgstr "क्या एपी आधारित है"
+
+
+msgid "Is On Grid"
+msgstr "ग्रिड पर है"
+
+
+msgid "It is the cookie bar background color"
+msgstr "यह कुकी बार पृष्ठभूमि रंग है"
+
+
+msgid "It will control the opacity or background transparency of cookie bar background"
+msgstr "यह कुकी बार पृष्ठभूमि की अस्पष्टता या पृष्ठभूमि पारदर्शिता को नियंत्रित करेगा"
+
+
+msgid "Locked"
+msgstr "बंद"
+
+
+msgid "Locked(Hack)"
+msgstr "लॉक्ड (हैक)"
+
+
+msgid "Login Server"
+msgstr "लॉगिन सर्वर"
+
+
+msgid "Malicious Attempt on attached file. Attached file(s) has been skipped"
+msgstr "संलग्न फाइल पर दुर्भावनापूर्ण प्रयास। संलग्न फाइल छोड़ दी गई है"
+
+
+msgid "Manual"
+msgstr "गाइड"
+
+
+msgid "New IP"
+msgstr "नया आईपी"
+
+
+msgid "New Page"
+msgstr "नया पृष्ठ"
+
+
+msgid "New Work Log"
+msgstr "नया कार्य लॉग"
+
+
+msgid "No work log founds"
+msgstr "कोई काम लॉग नहीं मिला"
+
+
+msgid "Normal"
+msgstr "साधारण"
+
+
+msgid "Notifiy"
+msgstr "सूचित करें"
+
+
+msgid "Numeric"
+msgstr "संख्यात्मक"
+
+
+msgid "On Submit Api Check"
+msgstr "जमा एपी चेक पर"
+
+
+msgid "On Ticket Opening Form Category"
+msgstr "टिकट खोलने फॉर्म श्रेणी पर"
+
+
+msgid "Others"
+msgstr "अन्य लोग"
+
+
+msgid "Page"
+msgstr "पृष्ठ"
+
+
+msgid "Page Body"
+msgstr "पेज बॉडी"
+
+
+msgid "Pages"
+msgstr "पेज"
+
+
+msgid "Policy Page is required"
+msgstr "नीति पृष्ठ की आवश्यकता है"
+
+
+msgid "Published"
+msgstr "प्रकाशित"
+
+
+msgid "Radio"
+msgstr "रेडियो"
+
+
+msgid "Read"
+msgstr "पढ़ना"
+
+
+msgid "Reset IP"
+msgstr "आईपी ​​रीसेट करें"
+
+
+msgid "Select page"
+msgstr "पेज का चयन करें"
+
+
+msgid "Show on Table Data List"
+msgstr "तालिका डेटा सूची पर दिखाएं"
+
+
+msgid "Slag Title"
+msgstr "स्लैग शीर्षक"
+
+
+msgid "Success"
+msgstr "सफलता"
+
+
+msgid "Suspicious : Malicious attempt  on attached file: %s"
+msgstr "संदिग्ध: संलग्न फ़ाइल पर दुर्भावनापूर्ण प्रयास: %s"
+
+
+msgid "Suspicious: Malicious File Upload Attempts. If you tried to upload again then your ip will be blocked automatically"
+msgstr "संदिग्ध: दुर्भावनापूर्ण फ़ाइल अपलोड प्रयास। यदि आपने दोबारा अपलोड करने का प्रयास किया है तो आपक??"
+
+
+msgid "Switch"
+msgstr "स्विच"
+
+
+msgid "Textbox"
+msgstr "पाठ बॉक्स"
+
+
+msgid "This key is already used in another site. contact support team"
+msgstr "यह कुंजी पहले से ही किसी अन्य साइट पर उपयोग की जा रही है। संपर्क सहायता टीम"
+
+
+msgid "Ticket Id"
+msgstr "टिकट आईडी"
+
+
+msgid "Ticket Re-Open"
+msgstr "टिकट फिर से खोलें"
+
+
+msgid "Ticket user has been data deleted"
+msgstr "टिकट उपयोगकर्ता को डेटा हटा दिया गया है"
+
+
+msgid "Undefined page"
+msgstr "अपरिभाषित पृष्ठ"
+
+
+msgid "Unpublished"
+msgstr "अप्रकाशित"
+
+
+msgid "View Cookie Notification Bar"
+msgstr "कुकी अधिसूचना बार देखें"
+
+
+msgid "View Page"
+msgstr "पृष्ठ देखें"
+
+
+msgid "View Policy In POP UP window(Lightbox)"
+msgstr "पीओपी यूपी विंडो (लाइटबॉक्स) में नीति देखें"
+
+
+msgid "Viewed"
+msgstr "देखा गया"
+
+
+msgid "Work Time"
+msgstr "काम का समय"
+
+
+msgid "Write %s for Policy Link and %s for only policy URL"
+msgstr "केवल नीति यूआरएल के लिए पॉलिसी लिंक और %s के लिए %s लिखें"
+
+
+msgid "Write {{PolicyLink}} for Policy Link and {{PolicyURL}} for only policy URL"
+msgstr "केवल नीति यूआरएल के लिए पॉलिसी लिंक और {{PolicyURL}} के लिए {{PolicyLink}} लिखें"
+
+
+msgid "You can create many page in page menu. Go to Admin Settings > Pages or %s"
+msgstr "आप पेज मेनू में कई पेज बना सकते हैं। व्यवस्थापक सेटिंग्स> पेज या %s पर जाएं"
+
+
+msgid "You logged in using %s"
+msgstr "आपने %s का उपयोग करके लॉग इन किया है"
+
+
+msgid "Disable Counter Icon"
+msgstr "काउंटर आइकन अक्षम करें"
+
+
+msgid "Disable Knowledge Like/Dislike Button"
+msgstr "ज्ञान को लाइक / नापसंद बटन"
+
+
+msgid "Disable knowledge like and dislike button"
+msgstr "ज्ञान को पसंद और नापसंद बटन को अक्षम करें"
+
+
+msgid "Do Not Show Last Update Date"
+msgstr "अंतिम अद्यतन तिथि न दिखाएं"
+
+
+msgid "Do Not Show Last Update Date on Knowledge Details"
+msgstr "ज्ञान के विवरण पर अंतिम अद्यतन तिथि न दिखाएं"
+
+
+msgid "Do Not Show counter icon with knowledge"
+msgstr "ज्ञान के साथ काउंटर आइकन न दिखाएं"
+
+
+msgid "Do Not Show counter with knowledge"
+msgstr "ज्ञान के साथ काउंटर न दिखाएं"
+
+
+msgid "If you enable this then it won't show the like or dislike button on knowledge details."
+msgstr "यदि आप इसे सक्षम करते हैं तो यह ज्ञान विवरण पर पसंद या नापसंद बटन नहीं दिखाएगा।"
+
+
+msgid "If you enable this then, it won't show the last update date on knowledge details."
+msgstr "यदि आप इसे सक्षम करते हैं, तो यह ज्ञान विवरण पर अंतिम अद्यतन तिथि नहीं दिखाएगा"
+
+
+msgid "If you enable this then, it won't show the view/rate counter."
+msgstr "यदि आप इसे सक्षम करते हैं, तो यह दृश्य / दर काउंटर नहीं दिखाएगा।"
+
+
+msgid "Last Update Date"
+msgstr "अंतिम अद्यतन तिथि"
+
+
+msgid "Login Required, Please login"
+msgstr "लॉगिन आवश्यक है, कृपया लॉगिन करें"
+
+
+msgid "OR"
+msgstr "या"
+

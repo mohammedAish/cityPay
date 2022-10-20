@@ -1,0 +1,3622 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version: SupportCTPay\n"
+"POT-Creation-Date: 2021-08-21 20:50:05+0000\n"
+"PO-Revision-Date: 2021-08-21 20:50:05+0000\n"
+"Last-Translator: \n"
+"Language-Team: appsbd\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: SupportCTPay\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"	
+		
+
+msgid "0"
+msgstr ""
+
+msgid "1"
+msgstr ""
+
+msgid "2"
+msgstr ""
+
+msgid "3"
+msgstr ""
+
+msgid "4"
+msgstr ""
+
+msgid "5"
+msgstr ""
+
+msgid "6"
+msgstr ""
+
+msgid "7"
+msgstr ""
+
+msgid "8"
+msgstr ""
+
+msgid "9"
+msgstr ""
+
+
+msgid "SupportCTPay"
+msgstr ""
+
+
+msgid "Oops! Page not found"
+msgstr ""
+
+
+msgid "we are sorry, but the page you requested was not found"
+msgstr ""
+
+
+msgid "Homepage"
+msgstr ""
+
+
+msgid "Home"
+msgstr ""
+
+
+msgid "Knowledge"
+msgstr ""
+
+
+msgid "Open Ticket"
+msgstr ""
+
+
+msgid "Login"
+msgstr ""
+
+
+msgid "Register"
+msgstr ""
+
+
+msgid "Powered By"
+msgstr ""
+
+
+msgid "Recent Articles"
+msgstr ""
+
+
+msgid "Popular Articles"
+msgstr ""
+
+
+msgid "No search result found"
+msgstr ""
+
+
+msgid "The time is base on %s timezone"
+msgstr ""
+
+
+msgid "ADMIN MENU"
+msgstr ""
+
+
+msgid "MENU"
+msgstr ""
+
+
+msgid "Admin Panel"
+msgstr ""
+
+
+msgid "Sign in to start your session"
+msgstr ""
+
+
+msgid "Username"
+msgstr ""
+
+
+msgid "Password"
+msgstr ""
+
+
+msgid "Sign In"
+msgstr ""
+
+
+msgid "Forgot password?"
+msgstr ""
+
+
+msgid "Loading"
+msgstr ""
+
+
+msgid "Helpfull"
+msgstr ""
+
+
+msgid "You think it is helpfull"
+msgstr ""
+
+
+msgid "Not Helpfull"
+msgstr ""
+
+
+msgid "You think it is not helpfull"
+msgstr ""
+
+
+msgid "New Chat Request"
+msgstr ""
+
+
+msgid "Do you want to take?"
+msgstr ""
+
+
+msgid "Yes"
+msgstr ""
+
+
+msgid "No"
+msgstr ""
+
+
+msgid "Close"
+msgstr ""
+
+
+msgid "Admin Report"
+msgstr ""
+
+
+msgid "Admin Dashboard"
+msgstr ""
+
+
+msgid "Admin Setting"
+msgstr ""
+
+
+msgid "App Settings"
+msgstr ""
+
+
+msgid "Ticket Assign Rule"
+msgstr ""
+
+
+msgid "Email Templates"
+msgstr ""
+
+
+msgid "Custom Fields"
+msgstr ""
+
+
+msgid "Site Menu"
+msgstr ""
+
+
+msgid "Topbar Icon"
+msgstr ""
+
+
+msgid "IP List"
+msgstr ""
+
+
+msgid "Locked User"
+msgstr ""
+
+
+msgid "Pages"
+msgstr ""
+
+
+msgid "Add-Ons"
+msgstr ""
+
+
+msgid "API Setting"
+msgstr ""
+
+
+msgid "Social Login Setting"
+msgstr ""
+
+
+msgid "Remote Server Login"
+msgstr ""
+
+
+msgid "Envato"
+msgstr ""
+
+
+msgid "Elite Licenser"
+msgstr ""
+
+
+msgid "MailChimp"
+msgstr ""
+
+
+msgid "Payment Settings"
+msgstr ""
+
+
+msgid "Payment Basic Settings"
+msgstr ""
+
+
+msgid "Paypal Setting"
+msgstr ""
+
+
+msgid "Stripe Setting"
+msgstr ""
+
+
+msgid "Paddle Setting"
+msgstr ""
+
+
+msgid "User Settings"
+msgstr ""
+
+
+msgid "User List"
+msgstr ""
+
+
+msgid "Role List"
+msgstr ""
+
+
+msgid "Role Access"
+msgstr ""
+
+
+msgid "App Information"
+msgstr ""
+
+
+msgid "Debug Log"
+msgstr ""
+
+
+msgid "License"
+msgstr ""
+
+
+msgid "App Update"
+msgstr ""
+
+
+msgid "Payment List"
+msgstr ""
+
+
+msgid "STAFF MENU"
+msgstr ""
+
+
+msgid "My Dashboard"
+msgstr ""
+
+
+msgid "Ticket"
+msgstr ""
+
+
+msgid "Create Ticket"
+msgstr ""
+
+
+msgid "All Active Tickets"
+msgstr ""
+
+
+msgid "My Active Tickets"
+msgstr ""
+
+
+msgid "My Active Paid Tickets"
+msgstr ""
+
+
+msgid "My Closed Tickets"
+msgstr ""
+
+
+msgid "My Assigned Tickets"
+msgstr ""
+
+
+msgid "All Unassigned Tickets"
+msgstr ""
+
+
+msgid "All Paid Tickets"
+msgstr ""
+
+
+msgid "All Closed Tickets"
+msgstr ""
+
+
+msgid "Web Chat"
+msgstr ""
+
+
+msgid "Chat Panel"
+msgstr ""
+
+
+msgid "Chat Canned Message"
+msgstr ""
+
+
+msgid "Ticket Feedback"
+msgstr ""
+
+
+msgid "Announcements"
+msgstr ""
+
+
+msgid "FAQ"
+msgstr ""
+
+
+msgid "Faq List"
+msgstr ""
+
+
+msgid "Faq Category"
+msgstr ""
+
+
+msgid "Testimonial"
+msgstr ""
+
+
+msgid "Category"
+msgstr ""
+
+
+msgid "Canned Msg"
+msgstr ""
+
+
+msgid "Client"
+msgstr ""
+
+
+msgid "Message"
+msgstr ""
+
+
+msgid "My Message"
+msgstr ""
+
+
+msgid "Sent Message"
+msgstr ""
+
+
+msgid "Click to see details"
+msgstr ""
+
+
+msgid "Total"
+msgstr ""
+
+
+msgid "Assigned Tickets"
+msgstr ""
+
+
+msgid "Active Tickets"
+msgstr ""
+
+
+msgid "Active Paid Ticket"
+msgstr ""
+
+
+msgid "Total Closed Ticket"
+msgstr ""
+
+
+msgid "Today's"
+msgstr ""
+
+
+msgid "Active Paid Tickets"
+msgstr ""
+
+
+msgid "Closed Tickets"
+msgstr ""
+
+
+msgid "Email Address"
+msgstr ""
+
+
+msgid "Contact Number"
+msgstr ""
+
+
+msgid "Date of Birth"
+msgstr ""
+
+
+msgid "Join Date"
+msgstr ""
+
+
+msgid "Timezone"
+msgstr ""
+
+
+msgid "Change"
+msgstr ""
+
+
+msgid "Read article to provide best support"
+msgstr ""
+
+
+msgid "View Site"
+msgstr ""
+
+
+msgid "Live Edit"
+msgstr ""
+
+
+msgid "You have no notifications right now"
+msgstr ""
+
+
+msgid "Member since"
+msgstr ""
+
+
+msgid "Chat Online Status"
+msgstr ""
+
+
+msgid "Change Password"
+msgstr ""
+
+
+msgid "Sign out"
+msgstr ""
+
+
+msgid "Day Report"
+msgstr ""
+
+
+msgid "Assigned & Closed"
+msgstr ""
+
+
+msgid "Loading Chat Data Please wait.."
+msgstr ""
+
+
+msgid "Last 5 Closed Chat"
+msgstr ""
+
+
+msgid "typing"
+msgstr ""
+
+
+msgid "Canned Message"
+msgstr ""
+
+
+msgid "Select"
+msgstr ""
+
+
+msgid "Send"
+msgstr ""
+
+
+msgid "User Info"
+msgstr ""
+
+
+msgid "Name"
+msgstr ""
+
+
+msgid "Browser"
+msgstr ""
+
+
+msgid "Country"
+msgstr ""
+
+
+msgid "IP"
+msgstr ""
+
+
+msgid "Start Time"
+msgstr ""
+
+
+msgid "End Time"
+msgstr ""
+
+
+msgid "Knowledge Search"
+msgstr ""
+
+
+msgid "No result found"
+msgstr ""
+
+
+msgid "Load More"
+msgstr ""
+
+
+msgid "New message or chat"
+msgstr ""
+
+
+msgid "%s is required"
+msgstr ""
+
+
+msgid "Email Subscription"
+msgstr ""
+
+
+msgid "%s is not valid"
+msgstr ""
+
+
+msgid "You have subscribed successfully"
+msgstr ""
+
+
+msgid "Successfully subscribed"
+msgstr ""
+
+
+msgid "App Color Settings"
+msgstr ""
+
+
+msgid "Main Color"
+msgstr ""
+
+
+msgid "Section Background Color"
+msgstr ""
+
+
+msgid "Top Notification Backgorund"
+msgstr ""
+
+
+msgid "Auto Others Color"
+msgstr ""
+
+
+msgid "Link And Heading Text"
+msgstr ""
+
+
+msgid "Footer Background"
+msgstr ""
+
+
+msgid "Footer Text Color"
+msgstr ""
+
+
+msgid "Update"
+msgstr ""
+
+
+msgid "Successfully updated"
+msgstr ""
+
+
+msgid "Color Settings"
+msgstr ""
+
+
+msgid "need-help"
+msgstr ""
+
+
+msgid "Open Ticket Section"
+msgstr ""
+
+
+msgid "Title"
+msgstr ""
+
+
+msgid "Still Need Support?"
+msgstr ""
+
+
+msgid "Description"
+msgstr ""
+
+
+msgid "We normally response within 24 hours"
+msgstr ""
+
+
+msgid "Cancel"
+msgstr ""
+
+
+msgid "edit-home"
+msgstr ""
+
+
+msgid "Search Panel Data"
+msgstr ""
+
+
+msgid "Style 2020"
+msgstr ""
+
+
+msgid "Style 2021"
+msgstr ""
+
+
+msgid "Style"
+msgstr ""
+
+
+msgid "Heading"
+msgstr ""
+
+
+msgid "Looking for help?"
+msgstr ""
+
+
+msgid "Subtitle"
+msgstr ""
+
+
+msgid "Write into the box to search & get result immediately"
+msgstr ""
+
+
+msgid "Input box placeholder"
+msgstr ""
+
+
+msgid "Ask Your Question"
+msgstr ""
+
+
+msgid "Search Ready Message"
+msgstr ""
+
+
+msgid "Ready To Search"
+msgstr ""
+
+
+msgid "Text Color"
+msgstr ""
+
+
+msgid "Choose text Color"
+msgstr ""
+
+
+msgid "Background Color"
+msgstr ""
+
+
+msgid "Choose Background Color"
+msgstr ""
+
+
+msgid "Hide Right Image"
+msgstr ""
+
+
+msgid "Background Image"
+msgstr ""
+
+
+msgid "Best size is 1900px X 900px"
+msgstr ""
+
+
+msgid "Right Side Image"
+msgstr ""
+
+
+msgid "Best size is 475px X 420px"
+msgstr ""
+
+
+msgid "You are not logged in. What would you like do now?"
+msgstr ""
+
+
+msgid "Top Priority"
+msgstr ""
+
+
+msgid "Open ticket after login"
+msgstr ""
+
+
+msgid "Open ticket after register"
+msgstr ""
+
+
+msgid "Low Priority"
+msgstr ""
+
+
+msgid "Guest Ticket"
+msgstr ""
+
+
+msgid "Open Ticket With Less Priority"
+msgstr ""
+
+
+msgid "User Login"
+msgstr ""
+
+
+msgid "E-mail"
+msgstr ""
+
+
+msgid "ex. email@domain.com"
+msgstr ""
+
+
+msgid "Email address"
+msgstr ""
+
+
+msgid "%s is invalid"
+msgstr ""
+
+
+msgid "Password is required"
+msgstr ""
+
+
+msgid "Not member yet ?"
+msgstr ""
+
+
+msgid "Back"
+msgstr ""
+
+
+msgid "User Registration"
+msgstr ""
+
+
+msgid "Email"
+msgstr ""
+
+
+msgid "Email address is alreay exists"
+msgstr ""
+
+
+msgid "First Name"
+msgstr ""
+
+
+msgid "Last Name"
+msgstr ""
+
+
+msgid "Confirm Password"
+msgstr ""
+
+
+msgid "%s is not same"
+msgstr ""
+
+
+msgid "Captcha"
+msgstr ""
+
+
+msgid "Captcha is required"
+msgstr ""
+
+
+msgid "fields are required"
+msgstr ""
+
+
+msgid "Submit"
+msgstr ""
+
+
+msgid "Already registered?"
+msgstr ""
+
+
+msgid "email address"
+msgstr ""
+
+
+msgid "The value is not a valid %s"
+msgstr ""
+
+
+msgid "home"
+msgstr ""
+
+
+msgid "No Record Found"
+msgstr ""
+
+
+msgid "Download CSV"
+msgstr ""
+
+
+msgid "Reload"
+msgstr ""
+
+
+msgid "Add New"
+msgstr ""
+
+
+msgid "Status"
+msgstr ""
+
+
+msgid "Action"
+msgstr ""
+
+
+msgid "View %s - %s of %s"
+msgstr ""
+
+
+msgid "Page %s of %s"
+msgstr ""
+
+
+msgid "Topbar Icon List"
+msgstr ""
+
+
+msgid "Sub Title"
+msgstr ""
+
+
+msgid "Order"
+msgstr ""
+
+
+msgid "Active"
+msgstr ""
+
+
+msgid "Inactive"
+msgstr ""
+
+
+msgid "Edit"
+msgstr ""
+
+
+msgid "Are you sure to delete?"
+msgstr ""
+
+
+msgid "Delete"
+msgstr ""
+
+
+msgid "Are you sure to change?"
+msgstr ""
+
+
+msgid "Client List"
+msgstr ""
+
+
+msgid "Verified"
+msgstr ""
+
+
+msgid "Gender"
+msgstr ""
+
+
+msgid "Property"
+msgstr ""
+
+
+msgid "Value"
+msgstr ""
+
+
+msgid "To"
+msgstr ""
+
+
+msgid "Search"
+msgstr ""
+
+
+msgid "Reset"
+msgstr ""
+
+
+msgid "License Info"
+msgstr ""
+
+
+msgid "License Information"
+msgstr ""
+
+
+msgid "License Key"
+msgstr ""
+
+
+msgid "License Title"
+msgstr ""
+
+
+msgid "License Domain"
+msgstr ""
+
+
+msgid "Updated successfully"
+msgstr ""
+
+
+msgid "Notification"
+msgstr ""
+
+
+msgid "Active Members"
+msgstr ""
+
+
+msgid "Tickets"
+msgstr ""
+
+
+msgid "Unassigned Tickets"
+msgstr ""
+
+
+msgid "Total Closed Tickets"
+msgstr ""
+
+
+msgid "Month Report"
+msgstr ""
+
+
+msgid "Opened & Closed"
+msgstr ""
+
+
+msgid "Application Settings"
+msgstr ""
+
+
+msgid "Application All Settings"
+msgstr ""
+
+
+msgid "Basic Settings"
+msgstr ""
+
+
+msgid "Theme"
+msgstr ""
+
+
+msgid "Layout & Color"
+msgstr ""
+
+
+msgid "File Upload"
+msgstr ""
+
+
+msgid "Security Settings"
+msgstr ""
+
+
+msgid "Email Settings"
+msgstr ""
+
+
+msgid "Email to Ticket"
+msgstr ""
+
+
+msgid "Chat Settings"
+msgstr ""
+
+
+msgid "Google Analytics"
+msgstr ""
+
+
+msgid "Custom %s"
+msgstr ""
+
+
+msgid "Welcome & Footer Text"
+msgstr ""
+
+
+msgid "GDPR Settings"
+msgstr ""
+
+
+msgid "Save"
+msgstr ""
+
+
+msgid "App Title"
+msgstr ""
+
+
+msgid "App Email"
+msgstr ""
+
+
+msgid "Admin Panel Language"
+msgstr ""
+
+
+msgid "Site Language"
+msgstr ""
+
+
+msgid "Same As Admin"
+msgstr ""
+
+
+msgid "Date Format"
+msgstr ""
+
+
+msgid "Time Format"
+msgstr ""
+
+
+msgid "Choose HTML Editor"
+msgstr ""
+
+
+msgid "It will effect in next reload. If you want to now then refresh after save."
+msgstr ""
+
+
+msgid "Disable Default Login"
+msgstr ""
+
+
+msgid "Default login system form won't not show if it enabled, but Remote Login & Social login will show if those are enabled"
+msgstr ""
+
+
+msgid "Disable Registration"
+msgstr ""
+
+
+msgid "Registration  of visitor. If you disable this then visitor can't register. Only registered client can open ticket after login"
+msgstr ""
+
+
+msgid "Disable Guest Open Popup"
+msgstr ""
+
+
+msgid "Normally visitor will show a popup it s/he doesn't logged in. If you don't want to show that then enable it"
+msgstr ""
+
+
+msgid "Enable User Online Check"
+msgstr ""
+
+
+msgid "If you enable this then this app will check and show user online status."
+msgstr ""
+
+
+msgid "Enable Force SSL"
+msgstr ""
+
+
+msgid "If you enable this then this app will check SSL Request, if not then it will redirect to SSL URL."
+msgstr ""
+
+
+msgid "Disable Google Font"
+msgstr ""
+
+
+msgid "If you enable it, google font won't load in site"
+msgstr ""
+
+
+msgid "Hide Knowledge Menu"
+msgstr ""
+
+
+msgid "If you enable it, knowledge will be hide from the menu"
+msgstr ""
+
+
+msgid "Enable RTL- Client Panel"
+msgstr ""
+
+
+msgid "If you enable it, then client panel will in RTL direction"
+msgstr ""
+
+
+msgid "Enable RTL- Admin Panel"
+msgstr ""
+
+
+msgid "If you enable it, then admin panel will in RTL direction"
+msgstr ""
+
+
+msgid "Captcha Settings"
+msgstr ""
+
+
+msgid "Captcha Type"
+msgstr ""
+
+
+msgid "Captcha Length"
+msgstr ""
+
+
+msgid "Charecter Lenght of default captcha"
+msgstr ""
+
+
+msgid "Captcha String Type"
+msgstr ""
+
+
+msgid "Secret key"
+msgstr ""
+
+
+msgid "is required"
+msgstr ""
+
+
+msgid "Site Key"
+msgstr ""
+
+
+msgid "On Client Login"
+msgstr ""
+
+
+msgid "If you enable it then captcha will show in client login form"
+msgstr ""
+
+
+msgid "On Guest Ticket"
+msgstr ""
+
+
+msgid "If you enable it then captcha will show in guest ticket opening form"
+msgstr ""
+
+
+msgid "On Client Registration"
+msgstr ""
+
+
+msgid "If you enable it then captcha will show in client registration form"
+msgstr ""
+
+
+msgid "On Admin Login"
+msgstr ""
+
+
+msgid "If you enable it then captcha will show in admin login form"
+msgstr ""
+
+
+msgid "Theme Settings"
+msgstr ""
+
+
+msgid "Choose Theme"
+msgstr ""
+
+
+msgid "More theme will be come in next version"
+msgstr ""
+
+
+msgid "App Logo"
+msgstr ""
+
+
+msgid "Click on the Image to change. Best size is 75px x 75px"
+msgstr ""
+
+
+msgid "App White Logo"
+msgstr ""
+
+
+msgid "Click on the Image to change. Best size hight is 40px"
+msgstr ""
+
+
+msgid "If you don't choose the white logo then primary logo will be displayed in site header"
+msgstr ""
+
+
+msgid "Show Logo in Header"
+msgstr ""
+
+
+msgid "If you enable this then logo only show in site header"
+msgstr ""
+
+
+msgid "Show App Title in Header"
+msgstr ""
+
+
+msgid "If you enable this then the tile will show in site header"
+msgstr ""
+
+
+msgid "Choose Homepage"
+msgstr ""
+
+
+msgid "More homepage will be come in next version"
+msgstr ""
+
+
+msgid "Disable Knowledge Stat In Homepage"
+msgstr ""
+
+
+msgid "Most Helpful Articles"
+msgstr ""
+
+
+msgid "Enable this to disable %s,%s,%s in homepage"
+msgstr ""
+
+
+msgid "Disable knowledge statistics in home page"
+msgstr ""
+
+
+msgid "Disable Knowledge Like/Dislike Button"
+msgstr ""
+
+
+msgid "If you enable this then it won't show the like or dislike button on knowledge details."
+msgstr ""
+
+
+msgid "Disable knowledge like and dislike button"
+msgstr ""
+
+
+msgid "Do Not Show Last Update Date on Knowledge Details"
+msgstr ""
+
+
+msgid "If you enable this then, it won't show the last update date on knowledge details."
+msgstr ""
+
+
+msgid "Do Not Show counter with knowledge"
+msgstr ""
+
+
+msgid "If you enable this then, it won't show the view/rate counter."
+msgstr ""
+
+
+msgid "Disable Counter Icon"
+msgstr ""
+
+
+msgid "Layout & Color Settings"
+msgstr ""
+
+
+msgid "Application Layout"
+msgstr ""
+
+
+msgid "You have choosen %s theme, Its latest theme it has live edit feature. Please use that. Click the button below to use live edit"
+msgstr ""
+
+
+msgid "In live edit mode, you see a button with icon (%s) the right top position, use that to change color"
+msgstr ""
+
+
+msgid "Main site color is defined for application main color of client site."
+msgstr ""
+
+
+msgid "Header Color"
+msgstr ""
+
+
+msgid "Its background color of header"
+msgstr ""
+
+
+msgid "Header Gradient"
+msgstr ""
+
+
+msgid "If enable this then the header background will be gradient"
+msgstr ""
+
+
+msgid "If enable this then other color will be auto generate based on main color"
+msgstr ""
+
+
+msgid "Welcome Background"
+msgstr ""
+
+
+msgid "It's the background color of welcome message. But you can choose any text color on any text of welcome message using editor. Empty value will be auto from main color"
+msgstr ""
+
+
+msgid "Welcome Text"
+msgstr ""
+
+
+msgid "It's the color of anchor link and heading(h1,h2,h3,h4) Color. Empty value will be auto from main color"
+msgstr ""
+
+
+msgid "Menu Background"
+msgstr ""
+
+
+msgid "It's background color of menu bar. Empty value will be auto from main color"
+msgstr ""
+
+
+msgid "Menu Active Text Color"
+msgstr ""
+
+
+msgid "It's background color of menu text color when active. Empty value will be auto from main color"
+msgstr ""
+
+
+msgid "It's background color of footer. Empty value will be auto from main color"
+msgstr ""
+
+
+msgid "Footer Text"
+msgstr ""
+
+
+msgid "It's text color of footer. Empty value will be auto from main color"
+msgstr ""
+
+
+msgid "File Upload Settings"
+msgstr ""
+
+
+msgid "Max Upload File Size"
+msgstr ""
+
+
+msgid "The value is not a numeric"
+msgstr ""
+
+
+msgid "Value must be between 1 to 99"
+msgstr ""
+
+
+msgid "ex. 2"
+msgstr ""
+
+
+msgid "Field"
+msgstr ""
+
+
+msgid "Allowed File Types"
+msgstr ""
+
+
+msgid "Client Photo Upload"
+msgstr ""
+
+
+msgid "If you enable it, then you can able to upload their profile photo"
+msgstr ""
+
+
+msgid "Ticket File Upload"
+msgstr ""
+
+
+msgid "If you enable it then user can upload file when they open ticket and reply any ticket"
+msgstr ""
+
+
+msgid "Ticket Settings"
+msgstr ""
+
+
+msgid "Enable Guest Ticket"
+msgstr ""
+
+
+msgid "If you enable it then any visitor can open ticket without registration"
+msgstr ""
+
+
+msgid "Show all priroty on Guest Ticket"
+msgstr ""
+
+
+msgid "If you enable this then guest user also get all priroty as dropdown option"
+msgstr ""
+
+
+msgid "Enable HTML Input"
+msgstr ""
+
+
+msgid "If you disable this then your will get normal text area box insted of html editor"
+msgstr ""
+
+
+msgid "Any Staff Can Reply"
+msgstr ""
+
+
+msgid "If you enable it, then any staff can reply on any ticket, if disable then only assigned staff can reply."
+msgstr ""
+
+
+msgid "Hide Priority Input"
+msgstr ""
+
+
+msgid "If you enable it, then priority input will be hidden form ticket open form."
+msgstr ""
+
+
+msgid "Hide Priority From Admin Panel"
+msgstr ""
+
+
+msgid "If you enable it, then priority will be hidden form all over in admin panel."
+msgstr ""
+
+
+msgid "Enable Auto Close"
+msgstr ""
+
+
+msgid "If you enable it, then inactive ticket will be closed automatically by auto closing rule"
+msgstr ""
+
+
+msgid "Auto Closing Rule"
+msgstr ""
+
+
+msgid "Close ticket which has been inactive for"
+msgstr ""
+
+
+msgid "Closing Rule"
+msgstr ""
+
+
+msgid "hours"
+msgstr ""
+
+
+msgid "The ticket will be close which is inactive for client response"
+msgstr ""
+
+
+msgid "Closing Message"
+msgstr ""
+
+
+msgid "Closing message"
+msgstr ""
+
+
+msgid "View Closing Email Template"
+msgstr ""
+
+
+msgid "User Max Open Ticket"
+msgstr ""
+
+
+msgid "Set 0 for unlimited, if you set 2 then you can open 2 ticket simultaneously, s/he can't open any other ticket until those 2 ticket closed"
+msgstr ""
+
+
+msgid "User Can Re-Open Ticket?"
+msgstr ""
+
+
+msgid "If you disable it then user can not re-open ticket"
+msgstr ""
+
+
+msgid "Re-Open Time"
+msgstr ""
+
+
+msgid "Days"
+msgstr ""
+
+
+msgid "Set 0 then use can re-open ticket any time, if you set 7 then user can re-open the ticket which is closed within 7 days."
+msgstr ""
+
+
+msgid "Email Reply Start Text"
+msgstr ""
+
+
+msgid "Enable Ticket Feedback"
+msgstr ""
+
+
+msgid "If you enable it a feedback email will be sent to ticket user email address after closing ticket"
+msgstr ""
+
+
+msgid "Feedback Email Title"
+msgstr ""
+
+
+msgid "Positive Message"
+msgstr ""
+
+
+msgid "Positive Feedback Message"
+msgstr ""
+
+
+msgid "Nagative Message"
+msgstr ""
+
+
+msgid "Nagative Feedback Message"
+msgstr ""
+
+
+msgid "Email Notification Settings"
+msgstr ""
+
+
+msgid "Based on ticket assigning rule"
+msgstr ""
+
+
+msgid "Click here"
+msgstr ""
+
+
+msgid "to view the ticket assigning rule"
+msgstr ""
+
+
+msgid "On Ticket Open"
+msgstr ""
+
+
+msgid "If you enable this then admin will get notification on ticket open"
+msgstr ""
+
+
+msgid "On Ticket Assign"
+msgstr ""
+
+
+msgid "If you enable this then assigned user will get notification on ticket assigning"
+msgstr ""
+
+
+msgid "On Ticket User Reply"
+msgstr ""
+
+
+msgid "If you enable this then admin will get notification on ticket user reply"
+msgstr ""
+
+
+msgid "On Admin/staff Reply"
+msgstr ""
+
+
+msgid "On Screeen Notification Settings"
+msgstr ""
+
+
+msgid "Enable Tone (Sound)"
+msgstr ""
+
+
+msgid "Admin will hear tone on notification if enabled"
+msgstr ""
+
+
+msgid "Admin User"
+msgstr ""
+
+
+msgid "Admin User Login Security"
+msgstr ""
+
+
+msgid "Enable it to secure admin/staff user"
+msgstr ""
+
+
+msgid "Temporary lock admin or staff user, if attempts"
+msgstr ""
+
+
+msgid "ex.5"
+msgstr ""
+
+
+msgid "Request Count"
+msgstr ""
+
+
+msgid "miss login in"
+msgstr ""
+
+
+msgid "Seconds"
+msgstr ""
+
+
+msgid "minuites"
+msgstr ""
+
+
+msgid "Example: Temporary lock admin or staff user if attempts 5 miss login in 30 minutes"
+msgstr ""
+
+
+msgid "Show Locked User List"
+msgstr ""
+
+
+msgid "Admin Panel Security"
+msgstr ""
+
+
+msgid "If you enable it then app check country for allow or block."
+msgstr ""
+
+
+msgid "Country Block Rule"
+msgstr ""
+
+
+msgid "Country List"
+msgstr ""
+
+
+msgid "Enter 2 digit Country Code(ex. US,CA,BD), Separated by comma"
+msgstr ""
+
+
+msgid "Block Page"
+msgstr ""
+
+
+msgid "Site Security"
+msgstr ""
+
+
+msgid "DoS Attack Security"
+msgstr ""
+
+
+msgid "If you enable it then app prevent DoS Attack."
+msgstr ""
+
+
+msgid "If request more than"
+msgstr ""
+
+
+msgid "in"
+msgstr ""
+
+
+msgid "seconds, then"
+msgstr ""
+
+
+msgid "Example: if request more then 5 in 5 second then show captcha or block ip"
+msgstr ""
+
+
+msgid "Show IP List"
+msgstr ""
+
+
+msgid "Country Block Settings (for all panel)"
+msgstr ""
+
+
+msgid "Spam Emails"
+msgstr ""
+
+
+msgid "SPAM Emails"
+msgstr ""
+
+
+msgid "Enter email address(ex. example@example.com), Separated by comma"
+msgstr ""
+
+
+msgid "Delete SMAP Email"
+msgstr ""
+
+
+msgid "If you enable it then, app will delete those email form mail client, which are come from spam email list"
+msgstr ""
+
+
+msgid "From Name"
+msgstr ""
+
+
+msgid "From Email"
+msgstr ""
+
+
+msgid "Reply To Email"
+msgstr ""
+
+
+msgid "Keep blank if you don't want to use"
+msgstr ""
+
+
+msgid "Enable Email To Ticket/Reply"
+msgstr ""
+
+
+msgid "Sendmail Path"
+msgstr ""
+
+
+msgid "SMTP Settings"
+msgstr ""
+
+
+msgid "Host & Port"
+msgstr ""
+
+
+msgid "Host"
+msgstr ""
+
+
+msgid "Port"
+msgstr ""
+
+
+msgid "Is Secure Protocol (SSL)"
+msgstr ""
+
+
+msgid "Enable it if your protocol is secure"
+msgstr ""
+
+
+msgid "Secure Protocol Type"
+msgstr ""
+
+
+msgid "User (Email)"
+msgstr ""
+
+
+msgid "Email to Ticket Settings Form"
+msgstr ""
+
+
+msgid "Enable to convert email to ticket"
+msgstr ""
+
+
+msgid "IMAP Settings"
+msgstr ""
+
+
+msgid "Is Secure Protocol (SSL/TLS)"
+msgstr ""
+
+
+msgid "Cron Job Command"
+msgstr ""
+
+
+msgid "Copy Cron Link"
+msgstr ""
+
+
+msgid "Set this cron command into your server cron list, otherwise email to ticket won't work"
+msgstr ""
+
+
+msgid "IMAP Help"
+msgstr ""
+
+
+msgid "Custom CSS & JavaScript"
+msgstr ""
+
+
+msgid "CSS ( Style)"
+msgstr ""
+
+
+msgid "Text must be less then %d characters length"
+msgstr ""
+
+
+msgid "Welcome Message"
+msgstr ""
+
+
+msgid "Only enter css code. Do not add any tag like %s"
+msgstr ""
+
+
+msgid "JavaScript"
+msgstr ""
+
+
+msgid "Custom JavaScript"
+msgstr ""
+
+
+msgid "Ex. Google analytics code, Do not add any tag  like %s"
+msgstr ""
+
+
+msgid "Keep empty if you don't want to show any message"
+msgstr ""
+
+
+msgid "Keep empty if you don't want to show any footer"
+msgstr ""
+
+
+msgid "Email Footer Text"
+msgstr ""
+
+
+msgid "Keep empty if you don't want to show any footer on email"
+msgstr ""
+
+
+msgid "Site Copyright Text"
+msgstr ""
+
+
+msgid "Copyright Text"
+msgstr ""
+
+
+msgid "Keep empty if you don't want to show any footer on site copy write text"
+msgstr ""
+
+
+msgid "Show Powered By Text"
+msgstr ""
+
+
+msgid "We the developer team of best support system, worked very hard on this app. If it's spread by you, then we will get much motivation. If possible then, please keep this enable."
+msgstr ""
+
+
+msgid "Enable"
+msgstr ""
+
+
+msgid "To enable chat"
+msgstr ""
+
+
+msgid "Choose Chat Type"
+msgstr ""
+
+
+msgid "Please read it first"
+msgstr ""
+
+
+msgid "To see all settings effect on site, please logout admin user or try with other browser. If admin logged in then you won't see the chat button"
+msgstr ""
+
+
+msgid "Facebook Page ID"
+msgstr ""
+
+
+msgid "N B. If you select Facebook Chat then you have to reply form Facebook Page Manager App or from Facebook. You can't reply from this app"
+msgstr ""
+
+
+msgid "Your Domain URL"
+msgstr ""
+
+
+msgid "Please put this into your facebook page settings"
+msgstr ""
+
+
+msgid "If you don't know how you will configure the Facebook Page settings then"
+msgstr ""
+
+
+msgid "click here"
+msgstr ""
+
+
+msgid "Chat Title"
+msgstr ""
+
+
+msgid "Chat title"
+msgstr ""
+
+
+msgid "Chat Tag Line"
+msgstr ""
+
+
+msgid "Chat tag line"
+msgstr ""
+
+
+msgid "Chat Logo"
+msgstr ""
+
+
+msgid "Chat Window Header Color"
+msgstr ""
+
+
+msgid "Chat Header color"
+msgstr ""
+
+
+msgid "Chat window Header."
+msgstr ""
+
+
+msgid "Chat Button Color"
+msgstr ""
+
+
+msgid "Chat main color"
+msgstr ""
+
+
+msgid "Main color of chat window."
+msgstr ""
+
+
+msgid "Chat Background Pattern"
+msgstr ""
+
+
+msgid "It will display in chat window"
+msgstr ""
+
+
+msgid "Chat Button Icon"
+msgstr ""
+
+
+msgid "Choose chat button icon"
+msgstr ""
+
+
+msgid "simultaneously"
+msgstr ""
+
+
+msgid "Max. Chat Per Agent %s"
+msgstr ""
+
+
+msgid "ex. 5"
+msgstr ""
+
+
+msgid "Max chat count"
+msgstr ""
+
+
+msgid "It set a limit,how many chat per agent(Admin User) can take  simultaneously"
+msgstr ""
+
+
+msgid "Chat Opening Text"
+msgstr ""
+
+
+msgid "Open Text"
+msgstr ""
+
+
+msgid "It will show when a user want to start chat"
+msgstr ""
+
+
+msgid "Offline Text"
+msgstr ""
+
+
+msgid "Offline text"
+msgstr ""
+
+
+msgid "It will show when all user are offline"
+msgstr ""
+
+
+msgid "Agent Welcome Text"
+msgstr ""
+
+
+msgid "agent_welcome_text"
+msgstr ""
+
+
+msgid "It will show when a agent start a chat session."
+msgstr ""
+
+
+msgid "You can use some property which is given bellow:"
+msgstr ""
+
+
+msgid "Queue Text"
+msgstr ""
+
+
+msgid "Queue text"
+msgstr ""
+
+
+msgid "It will show when all user busy,"
+msgstr ""
+
+
+msgid "Closing Text"
+msgstr ""
+
+
+msgid "Chat closing text"
+msgstr ""
+
+
+msgid "It will show when all agent close the chat,"
+msgstr ""
+
+
+msgid "Chat Auto Close Interval"
+msgstr ""
+
+
+msgid "Chat closing interval"
+msgstr ""
+
+
+msgid "Chat will be closed which is inactive for entered value. Enter 0 to disable auto close"
+msgstr ""
+
+
+msgid "apache module mod_headers is not enabled, may be other site chat won't work, Please enable it"
+msgstr ""
+
+
+msgid "Allowed Domains"
+msgstr ""
+
+
+msgid "separated by comma(,) example : example.com,example2.com"
+msgstr ""
+
+
+msgid "Site Script"
+msgstr ""
+
+
+msgid "Google Analytics Settings"
+msgstr ""
+
+
+msgid "To enable facebook messenger chat"
+msgstr ""
+
+
+msgid "Google Analytics Gtag ID"
+msgstr ""
+
+
+msgid "Analytics Gtag ID"
+msgstr ""
+
+
+msgid "Gtag ID"
+msgstr ""
+
+
+msgid "To enable GDPR"
+msgstr ""
+
+
+msgid "Allow User Own Account Delete Option"
+msgstr ""
+
+
+msgid "If you enable it, then site user or visitor can download their account data from their panel"
+msgstr ""
+
+
+msgid "Allow User To Download Their User Data"
+msgstr ""
+
+
+msgid "If you enable it, then site user or visitor can delete their account from their panel"
+msgstr ""
+
+
+msgid "View Cookie Notification Bar"
+msgstr ""
+
+
+msgid "If you enable it, then app will show a notification bar for cookie message"
+msgstr ""
+
+
+msgid "Cookie Bar Background Color"
+msgstr ""
+
+
+msgid "Cookie bar bg color"
+msgstr ""
+
+
+msgid "It is the cookie bar background color"
+msgstr ""
+
+
+msgid "Background Opacity"
+msgstr ""
+
+
+msgid "Background Opacity is required"
+msgstr ""
+
+
+msgid "It will control the opacity or background transparency of cookie bar background"
+msgstr ""
+
+
+msgid "Cookie Bar Text Color"
+msgstr ""
+
+
+msgid "Cookie bar text color"
+msgstr ""
+
+
+msgid "Choose Bar Open Animation"
+msgstr ""
+
+
+msgid "Choose cookie notification bar out animation"
+msgstr ""
+
+
+msgid "Choose Bar Close Animation"
+msgstr ""
+
+
+msgid "Choose Display Event"
+msgstr ""
+
+
+msgid "Choose Policy Page"
+msgstr ""
+
+
+msgid "Policy Page is required"
+msgstr ""
+
+
+msgid "Click Here"
+msgstr ""
+
+
+msgid "You can create many page in page menu. Go to Admin Settings > Pages or %s"
+msgstr ""
+
+
+msgid "View Policy In POP UP window(Lightbox)"
+msgstr ""
+
+
+msgid "If you enable it, then when visitor click the privacy policy then that will be show in lighbox window"
+msgstr ""
+
+
+msgid "Cookie Message"
+msgstr ""
+
+
+msgid "Write %s for Policy Link and %s for only policy URL"
+msgstr ""
+
+
+msgid "Show User Agreement Message on Registration Form"
+msgstr ""
+
+
+msgid "User Agreement Message"
+msgstr ""
+
+
+msgid "If you enable it, then your site user will see %s message in registration form"
+msgstr ""
+
+
+msgid "Added On"
+msgstr ""
+
+
+msgid "Auto"
+msgstr ""
+
+
+msgid "Manual"
+msgstr ""
+
+
+msgid "Normal"
+msgstr ""
+
+
+msgid "Locked"
+msgstr ""
+
+
+msgid "Locked(Hack)"
+msgstr ""
+
+
+msgid "Entry Type"
+msgstr ""
+
+
+msgid "Locked User List"
+msgstr ""
+
+
+msgid "User Id"
+msgstr ""
+
+
+msgid "Miss Login Tried"
+msgstr ""
+
+
+msgid "Captcha Error"
+msgstr ""
+
+
+msgid "Facebook"
+msgstr ""
+
+
+msgid "Twitter"
+msgstr ""
+
+
+msgid "Google"
+msgstr ""
+
+
+msgid "Linked In"
+msgstr ""
+
+
+msgid "You logged in using %s"
+msgstr ""
+
+
+msgid "Login Email"
+msgstr ""
+
+
+msgid "Login Link"
+msgstr ""
+
+
+msgid "Successfully added"
+msgstr ""
+
+
+msgid "Welcome to"
+msgstr ""
+
+
+msgid "Thank you for registering with us"
+msgstr ""
+
+
+msgid "Dashboard"
+msgstr ""
+
+
+msgid "Logout"
+msgstr ""
+
+
+msgid "Logging in.."
+msgstr ""
+
+
+msgid "Please wait"
+msgstr ""
+
+
+msgid "Hello, %s"
+msgstr ""
+
+
+msgid "Your current ticket status"
+msgstr ""
+
+
+msgid "Your total active tickets"
+msgstr ""
+
+
+msgid "Your closed ticket list"
+msgstr ""
+
+
+msgid "Action Required"
+msgstr ""
+
+
+msgid "Agent replied, needs your action"
+msgstr ""
+
+
+msgid "Thank you for being with us"
+msgstr ""
+
+
+msgid "My Menu"
+msgstr ""
+
+
+msgid "Join : %s"
+msgstr ""
+
+
+msgid "Profile"
+msgstr ""
+
+
+msgid "User Panel"
+msgstr ""
+
+
+msgid "No active ticket found"
+msgstr ""
+
+
+msgid "New Ticket"
+msgstr ""
+
+
+msgid "New Ticket Form"
+msgstr ""
+
+
+msgid "Ticket Subject"
+msgstr ""
+
+
+msgid "Ticket subject"
+msgstr ""
+
+
+msgid "Priority"
+msgstr ""
+
+
+msgid "Low"
+msgstr ""
+
+
+msgid "Medium"
+msgstr ""
+
+
+msgid "High"
+msgstr ""
+
+
+msgid "Urgent"
+msgstr ""
+
+
+msgid "Ticket Category"
+msgstr ""
+
+
+msgid "Ticket Body"
+msgstr ""
+
+
+msgid "Suggested Knowledge"
+msgstr ""
+
+
+msgid "Categories"
+msgstr ""
+
+
+msgid "No category found"
+msgstr ""
+
+
+msgid "%s Popular Knowledge"
+msgstr ""
+
+
+msgid "No Suggested Knowledge found"
+msgstr ""
+
+
+msgid "Max file size is  %s MB"
+msgstr ""
+
+
+msgid "Uploaded file is not  supported"
+msgstr ""
+
+
+msgid "Admin ticket creation"
+msgstr ""
+
+
+msgid "Invalid email address."
+msgstr ""
+
+
+msgid "Email is required"
+msgstr ""
+
+
+msgid "Priroty"
+msgstr ""
+
+
+msgid "Ticket Feedback List"
+msgstr ""
+
+
+msgid "Ticket Title"
+msgstr ""
+
+
+msgid "Ticket Status"
+msgstr ""
+
+
+msgid "Assigned"
+msgstr ""
+
+
+msgid "Opened"
+msgstr ""
+
+
+msgid "Last Replied"
+msgstr ""
+
+
+msgid "Category List"
+msgstr ""
+
+
+msgid "Parent Category"
+msgstr ""
+
+
+msgid "Show On"
+msgstr ""
+
+
+msgid "New Category"
+msgstr ""
+
+
+msgid "Processing"
+msgstr ""
+
+
+msgid "Both"
+msgstr ""
+
+
+msgid "Only On Knowledge"
+msgstr ""
+
+
+msgid "Only on Ticket"
+msgstr ""
+
+
+msgid "New ticket received"
+msgstr ""
+
+
+msgid "A new ticket has been received, please assign"
+msgstr ""
+
+
+msgid "A ticket email has been sent to your email. Please check that"
+msgstr ""
+
+
+msgid "Ticket Open By Guest"
+msgstr ""
+
+
+msgid "Thank you, your ticket has been opened successfully"
+msgstr ""
+
+
+msgid "Ticket Details"
+msgstr ""
+
+
+msgid "Ticket Track ID"
+msgstr ""
+
+
+msgid "Ticket Priority"
+msgstr ""
+
+
+msgid "View Ticket Details"
+msgstr ""
+
+
+msgid "Current Ticket Status"
+msgstr ""
+
+
+msgid "New"
+msgstr ""
+
+
+msgid "Closed"
+msgstr ""
+
+
+msgid "In Progress"
+msgstr ""
+
+
+msgid "Re-Open"
+msgstr ""
+
+
+msgid "Reply To Ticket"
+msgstr ""
+
+
+msgid "Write here.."
+msgstr ""
+
+
+msgid "Reply text"
+msgstr ""
+
+
+msgid "Set Status"
+msgstr ""
+
+
+msgid "Leave as Current"
+msgstr ""
+
+
+msgid "Reply"
+msgstr ""
+
+
+msgid "Ticket closed do you want to re-open?"
+msgstr ""
+
+
+msgid "Ticket Information"
+msgstr ""
+
+
+msgid "Ticket User"
+msgstr ""
+
+
+msgid "Assigned On"
+msgstr ""
+
+
+msgid "Opened Time"
+msgstr ""
+
+
+msgid "View Details"
+msgstr ""
+
+
+msgid "seconds"
+msgstr ""
+
+
+msgid "ago"
+msgstr ""
+
+
+msgid "View all"
+msgstr ""
+
+
+msgid "Canned Messages"
+msgstr ""
+
+
+msgid "Choose.."
+msgstr ""
+
+
+msgid "Details"
+msgstr ""
+
+
+msgid "Ticket Email"
+msgstr ""
+
+
+msgid "Set Assign"
+msgstr ""
+
+
+msgid "Are you sure to assign?"
+msgstr ""
+
+
+msgid "Assign Me"
+msgstr ""
+
+
+msgid "Admin Notes"
+msgstr ""
+
+
+msgid "Add Note"
+msgstr ""
+
+
+msgid "No note founds"
+msgstr ""
+
+
+msgid "Admin Work Log"
+msgstr ""
+
+
+msgid "No work log founds"
+msgstr ""
+
+
+msgid "Ticket History"
+msgstr ""
+
+
+msgid "Assign user"
+msgstr ""
+
+
+msgid "Ticket Opened"
+msgstr ""
+
+
+msgid "by"
+msgstr ""
+
+
+msgid "on"
+msgstr ""
+
+
+msgid "New ticket assigned"
+msgstr ""
+
+
+msgid "A new ticket is assigned to you"
+msgstr ""
+
+
+msgid "New ticket assigned by you"
+msgstr ""
+
+
+msgid "You have assigned self to a ticket"
+msgstr ""
+
+
+msgid "Successfully assign"
+msgstr ""
+
+
+msgid "Assign self"
+msgstr ""
+
+
+msgid "Show Ticket"
+msgstr ""
+
+
+msgid "Unseened by ticket owner"
+msgstr ""
+
+
+msgid "Replied"
+msgstr ""
+
+
+msgid "Ticket Reply"
+msgstr ""
+
+
+msgid "Ticket Replay"
+msgstr ""
+
+
+msgid "Seen by ticket owner"
+msgstr ""
+
+
+msgid "minute"
+msgstr ""
+
+
+msgid "second"
+msgstr ""
+
+
+msgid "Assign On Ticket"
+msgstr ""
+
+
+msgid "Choose Staff"
+msgstr ""
+
+
+msgid "New Admin Note"
+msgstr ""
+
+
+msgid "Note On"
+msgstr ""
+
+
+msgid "Note"
+msgstr ""
+
+
+msgid "Add"
+msgstr ""
+
+
+msgid "Well, satisfied"
+msgstr ""
+
+
+msgid "Bad, dissatisfied"
+msgstr ""
+
+
+msgid "minutes"
+msgstr ""
+
+
+msgid "Ticket Re-Open"
+msgstr ""
+
+
+msgid "Client Profile"
+msgstr ""
+
+
+msgid "Last Date"
+msgstr ""
+
+
+msgid "Successfully assigned you"
+msgstr ""
+
+
+msgid "Chat Receive Status"
+msgstr ""
+
+
+msgid "years"
+msgstr ""
+
+
+msgid "months"
+msgstr ""
+
+
+msgid "weeks"
+msgstr ""
+
+
+msgid "Guest User"
+msgstr ""
+
+
+msgid "Successfully closed"
+msgstr ""
+
+
+msgid "Close Chat Status"
+msgstr ""
+
+
+msgid "just now"
+msgstr ""
+
+
+msgid "Debug Log List"
+msgstr ""
+
+
+msgid "Log Type"
+msgstr ""
+
+
+msgid "Entry Time"
+msgstr ""
+
+
+msgid "Clear Log"
+msgstr ""
+
+
+msgid "Error"
+msgstr ""
+
+
+msgid "Success"
+msgstr ""
+
+
+msgid "General"
+msgstr ""
+
+
+msgid "Others"
+msgstr ""
+
+
+msgid "PayPal"
+msgstr ""
+
+
+msgid "Failed"
+msgstr ""
+
+
+msgid "Admin Settings"
+msgstr ""
+
+
+msgid "System Update"
+msgstr ""
+
+
+msgid "App update information"
+msgstr ""
+
+
+msgid "Re-Check Update"
+msgstr ""
+
+
+msgid "Your application is up to date"
+msgstr ""
+
+
+msgid "Current version is : %s"
+msgstr ""
+
+
+msgid "User"
+msgstr ""
+
+
+msgid "Role"
+msgstr ""
+
+
+msgid "Archive"
+msgstr ""
+
+
+msgid "Menu"
+msgstr ""
+
+
+msgid "New User"
+msgstr ""
+
+
+msgid "Address"
+msgstr ""
+
+
+msgid "Tzone"
+msgstr ""
+
+
+msgid "Birthday"
+msgstr ""
+
+
+msgid "YYYY-MM-DD"
+msgstr ""
+
+
+msgid "City"
+msgstr ""
+
+
+msgid "Zip"
+msgstr ""
+
+
+msgid "Click on the Image to change"
+msgstr ""
+
+
+msgid "Best size is 400px x 400px"
+msgstr ""
+
+
+msgid "APP User"
+msgstr ""
+
+
+msgid "Set Password"
+msgstr ""
+
+
+msgid "Email Password Reset Link"
+msgstr ""
+
+
+msgid "Are you sure to delete? If you delete then you can not revert"
+msgstr ""
+
+
+msgid "Set User Password"
+msgstr ""
+
+
+msgid "You can't set super user's password"
+msgstr ""
+
+
+msgid "Update User"
+msgstr ""
+
+
+msgid "App User Details"
+msgstr ""
+
+
+msgid "Set New Password"
+msgstr ""
+
+
+msgid "User Password"
+msgstr ""
+
+
+msgid "Password Successfully Updated"
+msgstr ""
+
+
+msgid "Invalid Information"
+msgstr ""
+
+
+msgid "From"
+msgstr ""
+
+
+msgid "Time"
+msgstr ""
+
+
+msgid "Subject"
+msgstr ""
+
+
+msgid "CSV Downloaded"
+msgstr ""
+
+
+msgid "Envato Setting"
+msgstr ""
+
+
+msgid "API Settings"
+msgstr ""
+
+
+msgid "If you want to set %s. Then please go to %s or  %s"
+msgstr ""
+
+
+msgid "%s Settings"
+msgstr ""
+
+
+msgid "API Type"
+msgstr ""
+
+
+msgid "Your envato(CodeCanyon, Themeforest,etc) username"
+msgstr ""
+
+
+msgid "Envato Username"
+msgstr ""
+
+
+msgid "API Token"
+msgstr ""
+
+
+msgid "Generate an API key in your envato account and enter here"
+msgstr ""
+
+
+msgid "Check Support Expiry"
+msgstr ""
+
+
+msgid "If you enable it then one expire support it will return false return with a expiry message"
+msgstr ""
+
+
+msgid "API Description"
+msgstr ""
+
+
+msgid "Ticket Payment List"
+msgstr ""
+
+
+msgid "Payment Description"
+msgstr ""
+
+
+msgid "Amount"
+msgstr ""
+
+
+msgid "Created By"
+msgstr ""
+
+
+msgid "Method"
+msgstr ""
+
+
+msgid "Create Date"
+msgstr ""
+
+
+msgid "Process Date"
+msgstr ""
+
+
+msgid "Permission"
+msgstr ""
+
+
+msgid "#"
+msgstr ""
+
+
+msgid "Controller Title"
+msgstr ""
+
+
+msgid "Page Name"
+msgstr ""
+
+
+msgid "Super Admin"
+msgstr ""
+
+
+msgid "Supervisor"
+msgstr ""
+
+
+msgid "Agent"
+msgstr ""
+
+
+msgid "Select Allowed Currencies"
+msgstr ""
+
+
+msgid "ex. USD,AUD"
+msgstr ""
+
+
+msgid "Comma seperated,Enter three-letter currency ISO code"
+msgstr ""
+
+
+msgid "Paypal Settings"
+msgstr ""
+
+
+msgid "Enable this to enable paypal payment"
+msgstr ""
+
+
+msgid "Disable this if you want real payment"
+msgstr ""
+
+
+msgid "If you enable this, then all payment will be in test mode. Don't do this if you want real payment"
+msgstr ""
+
+
+msgid "Client ID"
+msgstr ""
+
+
+msgid "Secret"
+msgstr ""
+
+
+msgid "Role  List"
+msgstr ""
+
+
+msgid "Has Super Power"
+msgstr ""
+
+
+msgid "Edit Role"
+msgstr ""
+
+
+msgid "Resource"
+msgstr ""
+
+
+msgid "controller Title"
+msgstr ""
+
+
+msgid "Controller"
+msgstr ""
+
+
+msgid "Successfully Updated"
+msgstr ""
+
+
+msgid "Page List"
+msgstr ""
+
+
+msgid "Added"
+msgstr ""
+
+
+msgid "Copy Link"
+msgstr ""
+
+
+msgid "View"
+msgstr ""
+
+
+msgid "Privacy & terms condition conditions"
+msgstr ""
+
+
+msgid "Addons"
+msgstr ""
+
+
+msgid "Addon List"
+msgstr ""
+
+
+msgid "Add New Addon"
+msgstr ""
+
+
+msgid "Are you sure to %s this %s"
+msgstr ""
+
+
+msgid "Activate"
+msgstr ""
+
+
+msgid "Version: %s | By: %s"
+msgstr ""
+
+
+msgid "Deactive"
+msgstr ""
+
+
+msgid "Successfully activated"
+msgstr ""
+
+
+msgid "Instamojo Setting"
+msgstr ""
+
+
+msgid "Stripe Settings"
+msgstr ""
+
+
+msgid "Enable Stripe"
+msgstr ""
+
+
+msgid "Enable this to enable stripe payment"
+msgstr ""
+
+
+msgid "Test Mode"
+msgstr ""
+
+
+msgid "Publishable key"
+msgstr ""
+
+
+msgid "Paddle Settings"
+msgstr ""
+
+
+msgid "Enable Paddle"
+msgstr ""
+
+
+msgid "Vendor ID"
+msgstr ""
+
+
+msgid "API Key"
+msgstr ""
+
+
+msgid "Or connect paddle automatically"
+msgstr ""
+
+
+msgid "Click here to connect"
+msgstr ""
+
+
+msgid "Please enter the information of paddle sandbox account"
+msgstr ""
+
+
+msgid "Paddle API Key"
+msgstr ""
+
+
+msgid "Or connect paddle %s automatically"
+msgstr ""
+
+
+msgid "Instamojo"
+msgstr ""
+
+
+msgid "Instamojo Settings"
+msgstr ""
+
+
+msgid "Enable Instamojo"
+msgstr ""
+
+
+msgid "Enable this to enable Instamojo payment"
+msgstr ""
+
+
+msgid "Auth Token"
+msgstr ""
+
+
+msgid "Enable Auto Reload (every %d min)"
+msgstr ""
+
+
+msgid "Open Time"
+msgstr ""
+
+
+msgid "Last Reply"
+msgstr ""
+
+
+msgid "L.Reply Time"
+msgstr ""
+
+
+msgid "Staff"
+msgstr ""
+
+
+msgid "Guest Ticket User"
+msgstr ""
+
+
+msgid "Guest"
+msgstr ""
+
+
+msgid "Are you sure to assign yourself?"
+msgstr ""
+
+
+msgid "Current Status"
+msgstr ""
+
+
+msgid "New Chat Canned Message"
+msgstr ""
+
+
+msgid "Announcements List"
+msgstr ""
+
+
+msgid "Start Date"
+msgstr ""
+
+
+msgid "End Date"
+msgstr ""
+
+
+msgid "Notice For"
+msgstr ""
+
+
+msgid "Added By"
+msgstr ""
+
+
+msgid "Knowledge List"
+msgstr ""
+
+
+msgid "Published"
+msgstr ""
+
+
+msgid "Unpublished"
+msgstr ""
+
+
+msgid "Sticky/Pinned"
+msgstr ""
+
+
+msgid "Uncategories"
+msgstr ""
+
+
+msgid "sample"
+msgstr ""
+
+
+msgid "Last updated on"
+msgstr ""
+
+
+msgid "Posted By"
+msgstr ""
+
+
+msgid "Is it helpfull?"
+msgstr ""
+
+
+msgid "Views"
+msgstr ""
+
+
+msgid "Thank you for your feedback"
+msgstr ""
+
+
+msgid "day"
+msgstr ""
+
+
+msgid "hour"
+msgstr ""
+
+
+msgid "days"
+msgstr ""
+
+
+msgid "week"
+msgstr ""
+
+
+msgid "New Role"
+msgstr ""
+
+
+msgid "App_permission"
+msgstr ""
+
+
+msgid "Aggg"
+msgstr ""
+
+
+msgid "Social Settings"
+msgstr ""
+
+
+msgid "setup for Social Login"
+msgstr ""
+
+
+msgid "Copy callback url"
+msgstr ""
+
+
+msgid "Use this as your confirmation url into your envato app register page."
+msgstr ""
+
+
+msgid "Click here to watch the video tutorial"
+msgstr ""
+
+
+msgid "Use this as your callback url into your google developer console"
+msgstr ""
+
+
+msgid "Use this as your callback url into facebook developer panel"
+msgstr ""
+
+
+msgid "Use this as your callback url into twitter developer panel"
+msgstr ""
+
+
+msgid "!! You need to click save button to complete"
+msgstr ""
+
+
+msgid "Remote Login List"
+msgstr ""
+
+
+msgid "Login Url"
+msgstr ""
+
+
+msgid "Button View"
+msgstr ""
+
+
+msgid "الدعم والمساعدة -محفظة CTPay"
+msgstr ""
+

@@ -1,0 +1,48 @@
+<!-- Manage Home Pages  -->
+<!--<li class="nav-item nav-dropdown">
+    <a class="nav-link nav-dropdown-toggle" href="#"><i class="nav-icon la la-newspaper-o"></i>{{trans('صفحات الموقع')}}
+        </a>
+        <ul class="nav-dropdown-items">
+            <li class='nav-item'><a class='nav-link' href='{{ backpack_url('orgnew') }}'><i
+                        class='nav-icon la la-question'></i>
+                الاخبار</a></li>
+        <li class='nav-item'><a class='nav-link' href='{{ backpack_url('orgservices') }}'><i
+                        class='nav-icon la la-question'></i> Org\OrgServices</a></li>
+        <li class='nav-item'><a class='nav-link' href='{{ backpack_url('orgservicecategory') }}'><i
+                        class='nav-icon la la-question'></i> Org\OrgServiceCategories</a></li>
+        <li class='nav-item'><a class='nav-link' href='{{ backpack_url('orgservicefeature') }}'><i
+                        class='nav-icon la la-question'></i> Org\OrgServiceFeatures</a></li>
+
+        <li class='nav-item'><a class='nav-link' href='{{ backpack_url('orgoffer') }}'><i
+                        class='nav-icon la la-question'></i> Org\OrgOffers</a></li>
+        <li class='nav-item'><a class='nav-link' href='{{ backpack_url('orgpagesetup') }}'><i
+                        class='nav-icon la la-question'></i> Org\OrgPageSetups</a></li>
+        <li class='nav-item'><a class='nav-link' href='{{ backpack_url('orgsettingwebsite') }}'><i
+                        class='nav-icon la la-question'></i> Org\OrgSettingWebsites</a></li>
+        <li class='nav-item'><a class='nav-link' href='{{ backpack_url('orgwhyus') }}'><i
+                        class='nav-icon la la-question'></i> Org\OrgWhyuses</a></li>
+        <li class='nav-item'><a class='nav-link' href='{{ backpack_url('orgcertificate') }}'><i
+                        class='nav-icon la la-question'></i> Org\OrgCertificates</a></li>
+        <li class='nav-item'><a class='nav-link' href='{{ backpack_url('orgpartener') }}'><i
+                        class='nav-icon la la-question'></i> Org\OrgParteners</a></li>
+        <li class='nav-item'><a class='nav-link' href='{{ backpack_url('orgbrokeragefirm') }}'><i
+                        class='nav-icon la la-question'></i>الوسطاء</a></li>
+        <li class='nav-item'><a class='nav-link' href='{{ backpack_url('orgpaymentcompany') }}'><i
+                        class='nav-icon la la-question'></i> Org\OrgPaymentCompanies</a></li>
+        <li class='nav-item'><a class='nav-link' href='{{ backpack_url('orgaboutcompanypagesettings') }}'><i
+                        class='nav-icon la la-question'></i> Org\OrgAboutCompanyPageSettings</a></li>
+        <li class='nav-item'><a class='nav-link' href='{{ backpack_url('orgcounter') }}'><i
+                        class='nav-icon la la-question'></i> Org\OrgCounters</a></li>
+        <li class='nav-item'><a class='nav-link' href='{{ backpack_url('orgcontactuspagesettings') }}'><i
+                        class='nav-icon la la-question'></i> Org\OrgContactUsPageSettings</a></li>
+        <li class='nav-item'><a class='nav-link' href='{{ backpack_url('orgcontactussociallinksetup') }}'><i
+                        class='nav-icon la la-question'></i> Org\OrgContactUsSocialLinkSetups</a></li>
+        <li class='nav-item'><a class='nav-link' href='{{ backpack_url('orgaccesspolicy') }}'><i
+                        class='nav-icon la la-question'></i> Org\OrgAccessPolicies</a></li>
+        <li class='nav-item'><a class='nav-link' href='{{ backpack_url('orgpostcategory') }}'><i
+                        class='nav-icon la la-question'></i> Org\OrgPostCategories</a></li>
+        <li class='nav-item'><a class='nav-link' href='{{ backpack_url('orgprivacypolicies') }}'><i
+                        class='nav-icon la la-question'></i> Org\OrgPrivacyPolicies</a></li>
+
+    </ul>
+</li>-->

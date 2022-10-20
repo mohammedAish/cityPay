@@ -1,0 +1,222 @@
+// compress: true, sourceMap: false
+ .aps-ctrl-p{
+    @import (less) 'bootstrap-material-design.min.css'; 
+    @import (less) 'ripples.min.css';
+    .form-control, .form-group .form-control{
+      border: 1px solid #e7e7e7  !important;
+      background-image: none;
+      background-size: 0 2px, 100% 0px;
+      background-color: #fff;
+    }
+    .form-group .checkbox label,
+    .form-group .radio label,
+    .form-group label,label{
+      color:#333;
+    }
+    .btn{
+      position: relative;
+    }
+    .form-group.label-floating label.control-label, .form-group.label-placeholder label.control-label {
+      font-size: 14px;
+      top: -7px;
+      left: 10px;
+    }
+    .form-group.label-floating.is-focused label.control-label, .form-group.label-floating:not(.is-empty) label.control-label, .form-group.label-static label.control-label {
+      font-size: 16px;
+      left: 0;
+      line-height: 1.07143;
+      top: -41px;
+    }
+   .form-horizontal .form-group-sm .control-label {
+  font-size: 12px;
+  font-weight: bold;
+  padding-top: 6px;
+}
+    .form-group .form-control { 
+      padding-left: 10px;
+    }
+  .form-group .form-control:focus{
+    background-image: linear-gradient(#009688, #009688), linear-gradient(#d2d2d2, #d2d2d2);
+    background-size: 100% 2px, 100% 0px;
+    box-shadow: none;
+    outline: 0 none;
+    transition-duration: 0.3s;
+  }
+  .form-group.has-error .form-control:focus {
+    background-image: linear-gradient(#F81D2B, #CF2636), linear-gradient(#d2d2d2, #d2d2d2);
+    background-size: 100% 2px, 100% 0px;
+    box-shadow: none;
+    outline: 0 none;
+    transition-duration: 0.3s;
+  }
+  .form-group.has-error .form-control{
+    background-image: linear-gradient(#F81D2B, #CF2636), linear-gradient(#F81D2B, #CF2636);
+    background-position: center bottom, center 100%; 
+  }
+ .select2-container--bootstrap .select2-selection { 
+  border-radius: 1px;
+ 
+}
+  .form-group:not(.form-group-sm) > .form-control + i.form-control-feedback {
+    top: 29px !important;    
+  }
+ .bv-form .form-group .help-block {
+  font-size: 12px;
+  margin-top: -5px ;
+  position: relative;
+
+}
+.input-group input+.input-group-btn,.input-group .input-group-btn+input {
+  padding: 0;
+}
+.form-horizontal .form-group {
+  padding-bottom:unset !important;
+}
+.form-horizontal .control-label {
+  padding-right: 0;  
+}
+.form-group {
+ margin-top: 0;
+  padding-bottom: 0px !important;
+  margin-bottom: 15px;
+}
+.form-group .form-control {
+  margin-bottom: 0px;
+}
+.select2-selection { 
+  border-bottom: 2px solid #ccc
+  
+}
+.select2-container--bootstrap.select2-container--focus  .select2-container--bootstrap.select2-container--open .select2-selection {
+  border-bottom: 3px solid #009688
+ 
+}
+.select2-container--bootstrap.select2-container--focus .select2-selection, .select2-container--bootstrap.select2-container--open .select2-selection {
+ box-shadow: unset;
+}
+.select2-container--bootstrap .select2-selection {
+  box-shadow: unset;
+}
+.select2-container--bootstrap.select2-container--focus .select2-selection, .select2-container--bootstrap.select2-container--open .select2-selection {
+  border-color: #66afe9;
+  border-bottom: 4px;
+  transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s, -webkit-box-shadow 0.15s ease-in-out 0s;
+}
+.select2 {
+  box-shadow: 0 1px 0 rgba(210, 210, 210, 0.45);
+}
+
+.form-control[disabled], .form-control[readonly], .form-group .form-control[disabled], .form-group .form-control[readonly], fieldset[disabled] .form-control, fieldset[disabled] .form-group .form-control {
+  background-color: #eee;
+  background-image: linear-gradient(#009688, #009688), linear-gradient(#d2d2d2, #d2d2d2);
+  background-position: center bottom, center 100%;
+  border:#d2d6de;
+}
+.form-group label{
+   color: #333; 
+}
+.form-group.form-group-sm .checkbox label, .form-group.form-group-sm .radio label, .form-group.form-group-sm label {
+  color: #333; 
+  font-weight: bold;
+}
+.form-group.form-group-sm {
+ margin-top: 0px;
+ margin-bottom: 5px;
+}
+.form-group.form-group-sm .form-control {
+  font-size: 12px;
+  height: 30px;
+  line-height: 1.5;
+  padding: 6px 8px;
+}
+.form-group:not(.form-group-xs):not(.form-group-sm):not(.form-group-lg) .form-control   {
+  height: 37px;  
+}
+.form-group-sm.has-feedback div i.form-control-feedback.fa {
+  right: 10px;
+  
+}
+.togglebutton > label {
+  margin-left: -8px;
+}
+.form-horizontal .togglebutton  {
+  margin-top: 8px;
+  margin-bottom: 10px;
+}
+
+.checkbox .checkbox-material .check::before, label.checkbox-inline .checkbox-material .check::before { 
+  margin-left: 6.5px;
+  margin-top: -4px; 
+}
+/*.radio > label {
+  margin-left: -10px;
+}*/
+.togglebutton label .toggle, .togglebutton label input[type="checkbox"][disabled] + .toggle {
+  margin-right: 1px;  
+}
+.radio label, label.radio-inline {
+  padding-left: 35px; 
+}
+.radio .circle, label.radio-inline .circle {  
+  height: 20px;
+  width: 20px;
+}
+.radio input[type="radio"]:checked ~ .check, label.radio-inline input[type="radio"]:checked ~ .check {
+  transform: scale3d(0.8, 0.8, 1);
+}
+.radio .check, label.radio-inline .check {
+  left: 12.5px;
+  top: 4.5px;
+}
+.inline .radio + .radio .check {
+  left: 12.5px;
+  top: 4.5px;
+}
+.checkbox + .checkbox, .radio + .radio {
+  margin-top: 0;
+}
+.form-horizontal .radio + .radio {
+  margin-top: -10px;
+}
+
+/*.form-horizontal .radio + .radio .check{
+  left: 12.5px;
+  top: 4px;
+}*/
+
+
+.checkbox input[type="checkbox"]:checked + .form-control-feedback + .checkbox-material .check::before,.checkbox input[type="checkbox"]:checked + .checkbox-material .check::before, label.checkbox-inline input[type="checkbox"]:checked + .checkbox-material .check::before {
+  box-shadow: 0 0 0 10px, 10px -10px 0 10px, 32px 0 0 20px, 0 32px 0 20px, -5px 5px 0 10px, 20px -12px 0 11px;
+  color: #009688;
+}
+.form-horizontal .form-group {
+  margin-left: -15px;
+  margin-right: -15px;
+}
+ .form-group {
+  margin-bottom: 10px;  
+}
+div.radio-inline{
+  margin-left: -30px;
+}
+/*added by sarwar*/
+input[type=radio]:checked ~ .check{
+  background: transparent !important;
+}
+
+input[type=radio]:checked ~ .circle::after {
+  background: #009688 none repeat scroll 0 0;
+  border: 3px solid #fff;
+  border-radius: 50%;
+  bottom: 0;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transform: scale3d(0.9, 0.9, 1);
+  transition-duration: 0.2s;
+}
+/* end added*/
+
+}

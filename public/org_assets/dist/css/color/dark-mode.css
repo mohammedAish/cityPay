@@ -1,0 +1,233 @@
+body{
+    transition: all 0.3s;
+
+}
+
+.dark-mode .wallet-area-warpper {
+    background-color: #121212;
+}
+.dark-mode .wallet-top-header-box.user-top-detail ul,
+.dark-mode .notification-dropdown,
+.dark-mode .wallet-language-box .dropdown-menu,
+.dark-mode .transfer-coin-input .dropdown .dropdown-menu {
+    background-color: #333;
+    box-shadow: 0px 0px 8px #222;
+}
+.dark-mode .transfer-coin-input .dropdown .dropdown-menu {
+    border-color: #222;
+}
+.dark-mode .transfer-coin-input .dropdown .dropdown-menu li {
+    border-color: #444;
+    color: #bbb;
+    background-color: #333;
+}
+.dark-mode .transfer-coin-input .dropdown .dropdown-menu li:hover {
+    background-color: #444;
+}
+.dark-mode .notification-dropdown::before,
+.dark-mode .profile-dropdown::before,
+.dark-mode .wallet-language-box .dropdown-menu::before{
+    border-bottom-color: #333;
+}
+.dark-mode .notification-header h3 {
+    background-color: #333;
+    border-bottom: 1px solid #444;
+}
+.dark-mode .wallet-top-header-box.user-top-detail ul li a,
+.dark-mode .notification-dropdown li,
+.dark-mode .wallet-language-box .dropdown-menu li{
+    border-color: #444;
+    color: white;
+}
+.dark-mode .wallet-chart #chart,
+.dark-mode .wallet-balance,
+.dark-mode .wallet-transaction,
+.dark-mode .transfer-coin-content-box,
+.dark-mode .transfer-coin-btn a,
+.dark-mode .profile-page-area-main,
+.dark-mode .profile-reset-password .profile-information-box,
+.dark-mode .invoice-qr-img img,
+.dark-mode .invoice-qr-ammount-box {
+    background-color: #222;
+    box-shadow: 0px 0px 8px #111;
+}
+.dark-mode .invoice-qr-ammount-box {
+    border-color: #333;
+}
+.dark-mode .header-logo,
+.dark-mode .notification-dropdown .notification-footer a{
+    background-color: #333;
+}
+.dark-mode .transfer-coin-btn a.active{
+    background-color: #444;
+}
+.dark-mode .transfer-coin-input .dropdown,
+.dark-mode .transfer-coin-input input,
+.dark-mode .theme-input-box .theme-input,
+.dark-mode .invoice-qr-ammount-box .invoice-qr-box .invoice-payment-url input {
+    background-color: #333;
+    border: 1px solid #333;
+    box-shadow: 0px 0px 8px #222;
+    color: #bbb;
+}
+.dark-mode .wallet-top-header,
+.dark-mode .transfer-coin-btn a:hover,
+.dark-mode .edit-images .edit-label,
+.dark-mode .header-box,
+.dark-mode .invoice-qr-ammount-box .invoice-ammount-box::before {
+    background-color: #222222;
+}
+.dark-mode .transfer-coin-btn a.active{
+    background-color: #333;
+}
+.dark-mode .wallet-balance-area .wallet-balance-box {
+    background-color: #222 !important;
+    box-shadow: 0px 0px 8px #111;
+    border: 0;
+}
+.dark-mode .wallet-balance-area .wallet-balance-box .my-wallet-address {
+    background-color: #333;
+    color: #ccc;
+}
+.dark-mode .wallet-transaction-box,
+.dark-mode .wallet-balance-box,
+.dark-mode .color-switcher,
+.dark-mode .theme-color-swith,
+.dark-mode .invoice-qr-ammount-box .invoice-ammount-box,
+.dark-mode .invoice-qr-ammount-box .invoice-ammount-box::before{
+    border-color: #333;
+}
+.dark-mode .invoice-qr-ammount-box .invoice-qr-box .invoice-payment-url > i {
+    border-color: #444;
+}
+.dark-mode .wallet-top-header-box .header-wallet-ico,
+.dark-mode .wallet-top-header-box h3 {
+    color: #fff !important;
+}
+.dark-mode .invoice-qr-ammount-box .invoice-ammount-box h2 {
+    color: #FFF;
+}
+.dark-mode .wallet-top-header-right .notification-box-area .notification-box .notification-active {
+    background-color: #fff;
+}
+.dark-mode .wallet-balance-box span,
+.dark-mode .wallet-transaction-box .wallet-transaction-name span,
+.dark-mode .wallet-transaction-balance span,
+.dark-mode .transfer-coin-input label,
+.dark-mode .transfer-coin-input .input-two .input-two-box span,
+.dark-mode .theme-color-swith a,
+.dark-mode .wallet-balance-area .wallet-balance-box h3,
+.dark-mode .modal-content .remove-popup h3,
+.dark-mode .invoice-warning p,
+.dark-mode .invoice-qr-ammount-box .invoice-ammount-box label,
+.dark-mode .invoice-qr-ammount-box .invoice-qr-box label,
+.dark-mode .transfer-coin-btn a,
+.dark-mode .transfer-coin-btn a.active {
+    color: #bbb;
+}
+.dark-mode .modal-content {
+    background-color: #222;
+}
+.dark-mode .wallet-box-scroll{
+    background-color: #121212;
+
+}
+.dark-mode .modal-content .remove-popuo-btn .cancel-btn {
+    background-color: #333;
+    color: #bbb;
+}
+.dark-mode .wallet-bradcrumb h2{
+   color:  #bbb;
+}
+.dark-mode .wallet-transaction h3 {
+    color:  white;
+}
+.dark-mode .wallet-balance h3 {
+    color:  white;
+}
+.dark-mode .wallet-transaction-name h3 {
+    color:  #bbb !important;
+}
+.dark-mode .header-nav-menu ul li.active {
+    border-left: 4px solid white;
+}
+.dark-mode .header-nav-menu ul li.active > a, .header-nav-menu ul li a:hover{
+    color:  white;
+}
+.dark-mode .header-nav-menu ul li a:hover{
+    color:  white;
+}
+.dark-mode .card-header h3{
+    color:  white;
+}
+.dark-mode a:hover{
+    color: #96a1b7;
+}
+
+.dark-mode .card ,.card-header {
+    background-color:  #222 ;
+}
+.dark-mode .wizardimg {
+    background-color:  #222 ;
+}
+.dark-mode .table .thead-light th {
+    background-color:  #343434 ;
+}
+.dark-mode .media-body span{
+ color:  #b6c0ca ;
+}
+.dark-mode   span{
+ color:  #b6c0ca ;
+}
+.dark-mode   a{
+ color:  white ;
+}
+.dark-mode  h3{
+    color:  white ;
+}
+.dark-mode  .agency-methods{
+    background-color:  #494949 !important ;
+}
+.dark-mode  .table td{
+    color: white;
+}
+.dark-mode .table th{
+    color: white;
+}
+.dark-mode .direction-box{
+    background-color: #031e5130;
+}
+.dark-mode .method h3{
+    color: white;
+}
+.dark-mode .prec{
+    color: #c4c3c3;
+}
+.dark-mode .dark-color {
+    background-color: #494949 !important;
+}
+.dark-mode .nav-tabs .nav-link.active {
+    background-color: #494949 !important;
+    color: white;
+}
+.dark-mode .form-control-sm {
+    background-color: #222;
+}
+.dark-mode .dataTables_filter label {
+    color: white;
+}
+.dark-mode .btn-container {
+    background-color: #222;
+}
+.dark-mode .dataTables_info {
+    color: white;
+}
+.dark-mode .theme-input-box label {
+    color: #bbb;
+}
+.dark-mode .wallet-language-box .dropdown-menu li > a {
+    color: white;
+}
+.dark-mode #footer {
+    background-color: #333;
+}

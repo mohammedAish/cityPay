@@ -1,0 +1,157 @@
+header{
+  position: relative;
+  z-index: 9999;
+  nav.navbar{
+    -webkit-box-shadow: 0 0px 5px 1px rgba(25, 25, 25, 0.14);
+    -moz-box-shadow: 0 0px 5px 1px rgba(25, 25, 25, 0.14);
+    box-shadow: 0 0px 5px 1px rgba(25, 25, 25, 0.14);
+    background: #fff;
+    height: 100px;
+    -webkit-transition:  all 0.5s ease;
+    -moz-transition:all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    -o-transition:all 0.5s ease;
+    transition: all 0.5s ease;
+    &.fixed-top{
+      height: 80px;
+      z-index: 999;
+    }
+    color: lighten($app_base_color,10%);
+
+    .navbar-brand{
+      color: $app_base_color;
+      font-family: Montserrat;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 30px;
+      line-height: 37px;
+      .app-logo-img {
+        max-height: 37px;
+        display: inline-block;
+        float: left;
+        margin-right: 5px;
+
+        &.app-logo-img-full {
+          max-height: 52px;
+        }
+      }
+    }
+    @media (max-width: 767.98px) {
+      .navbar-collapse.collapsing, .navbar-collapse.collapse.show {
+        background: #fff;
+        position: absolute;
+        top: 80px;
+        left: 0px;
+        right: 0px;
+        padding: 20px 0;
+
+        -webkit-box-shadow: 0 5px 5px 1px rgba(25, 25, 25, 0.14);
+        -moz-box-shadow: 0 5px 5px 1px rgba(25, 25, 25, 0.14);
+        box-shadow: 0 5px 5px 1px rgba(25, 25, 25, 0.14)
+      }
+    }
+
+
+
+
+    &,.navbar-toggler{
+      color: lighten($app_base_color,10%);
+      text-transform: uppercase;
+      font-family: Montserrat;
+      font-style: normal;
+
+    }
+    li a{
+      font-size: 12px;
+      line-height: 15px;
+      color: $app_text_color;
+      text-transform: uppercase;
+      font-family: Montserrat;
+      font-style: normal;
+    }
+    &.on-hover{
+      height: 65px;
+    }
+    .header-btns{
+      .btn{
+        img{
+          height: 22px;
+        }
+      }
+      .dropdown{
+        display: inline-block;
+        ul.dropdown-menu{
+          padding: 0;
+          min-width: 13rem;
+          margin: 0.325rem 0 0;
+          li{
+            a{
+              display: block;
+              line-height: 16px;
+              padding: 5px 15px;
+              font-size: 12px;
+              text-decoration: none;
+              &.active{
+                background: rgba($app_main_color,0.4) !important;
+              }
+              &:hover{
+                background: rgba($app_main_color,0.2);
+              }
+            }
+          }
+        }
+      }
+    }
+    .btn-login{
+      color : rgba($app_base_color,0.9);
+      border: 2px solid rgba($app_base_color,0.9);
+      background: #ffffff;
+      -webkit-border-radius: 50px;
+      -moz-border-radius: 50px;
+      border-radius: 50px;
+
+      -webkit-transition:  all 0.5s ease;
+      -moz-transition:all 0.5s ease;
+      -ms-transition: all 0.5s ease;
+      -o-transition:all 0.5s ease;
+      transition: all 0.5s ease;
+
+      font-family: Montserrat;
+      font-style: normal;
+      font-size: 12px;
+      line-height: 15px;
+      &:hover{
+        color: #fff;
+        background-color: darken($app_base_color,5%);
+        border-color: darken($app_base_color,5%);
+      }
+    }
+    .btn-register{
+      -webkit-transition:  all 0.5s ease;
+      -moz-transition:all 0.5s ease;
+      -ms-transition: all 0.5s ease;
+      -o-transition:all 0.5s ease;
+      transition: all 0.5s ease;
+      -webkit-border-radius: 50px;
+      -moz-border-radius: 50px;
+      border-radius: 50px;
+
+      font-family: Montserrat;
+      font-style: normal;
+      font-size: 12px;
+      line-height: 15px;
+      color: #fff;
+      background-color: $app_base_color;
+      border: 1px solid $app_base_color;
+
+      outline: none !important;
+      &:hover{
+        color: #fff;
+        background-color: darken($app_base_color,5%);
+        border-color: darken($app_base_color,5%);
+      }
+    }
+  }
+
+
+}

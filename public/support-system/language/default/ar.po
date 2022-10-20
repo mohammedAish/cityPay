@@ -1,0 +1,4971 @@
+msgid ""
+msgstr ""                   
+"Project-Id-Version: v1.0 \n"
+"POT-Creation-Date: 2016-10-29 01:29+0600\n"
+"PO-Revision-Date: 2016-10-29 01:29+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: UTF-8\n"
+"Language: ar\n"
+"X-Generator: AppsBD Translator App\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+msgid "!! You need to click save button to complete"
+msgstr "!! تحتاج إلى النقر فوق زر الحفظ لإكمال"
+
+
+msgid "%s Popular Knowledge"
+msgstr "٪s المعرفة الشعبية"
+
+
+msgid "%s Settings"
+msgstr "الإعدادات"
+
+
+msgid "%s is required"
+msgstr "مطلوب"
+
+
+msgid "ADMIN MENU"
+msgstr "لوحة الادارة"
+
+
+msgid "API Based"
+msgstr "API"
+
+
+msgid "API Description"
+msgstr "API وصف واجهة برمجة التطبيقات"
+
+
+msgid "API Setting"
+msgstr "API إعداد واجهة برمجة التطبيقات"
+
+
+msgid "API Settings"
+msgstr "إعدادات API"
+
+
+msgid "API Token"
+msgstr "رمز API"
+
+
+msgid "API Type"
+msgstr "API نوع واجهة برمجة التطبيقات"
+
+
+msgid "APP User"
+msgstr "مستخدم APP"
+
+
+msgid "About Support System"
+msgstr "حول نظام الدعم"
+
+
+msgid "Action"
+msgstr "عمل"
+
+
+msgid "Action Required"
+msgstr "الإجراء مطلوب"
+
+
+msgid "Active"
+msgstr "نشيط"
+
+
+msgid "Active Members"
+msgstr "الأعضاء النشطين"
+
+
+msgid "Active Paid Ticket"
+msgstr "تذكرة مدفوعة نشطة"
+
+
+msgid "Active Paid Tickets"
+msgstr "التذاكر المدفوعة النشطة"
+
+
+msgid "Active Tickets"
+msgstr "التذاكر النشطة"
+
+
+msgid "Add New"
+msgstr "اضف جديد"
+
+
+msgid "Added By"
+msgstr "أضيف بواسطة"
+
+
+msgid "Added On"
+msgstr "اضيف في"
+
+
+msgid "Address"
+msgstr "عنوان"
+
+
+msgid "Address is required"
+msgstr "العنوان مطلوب"
+
+
+msgid "Admin Dashboard"
+msgstr "لوحة تحكم المدير"
+
+
+msgid "Admin Report"
+msgstr "تقارير المدير"
+
+
+msgid "Admin Setting"
+msgstr "إعداد المسؤول"
+
+
+msgid "Admin Settings"
+msgstr "اعدادات المشرف"
+
+
+msgid "Admin User"
+msgstr "مستخدم إداري"
+
+
+msgid "Admin User Login Security"
+msgstr "أمان تسجيل دخول المستخدم الإداري"
+
+
+msgid "Agent"
+msgstr "وكيل"
+
+
+msgid "Agent replied, needs your action"
+msgstr "أجاب العميل ، يحتاج إلى عملك"
+
+
+msgid "All Active Tickets"
+msgstr "جميع الطلبات النشطة"
+
+
+msgid "All Closed Tickets"
+msgstr "جميع الطلبات المغلقة"
+
+
+msgid "All Paid Tickets"
+msgstr "جميع الطلبات المدفوعة"
+
+
+msgid "All Unassigned Tickets"
+msgstr "جميع الطلبات غير المعينة"
+
+
+msgid "Amount"
+msgstr "كمية"
+
+
+msgid "Amount must be between %.2f and %.2f"
+msgstr "يجب أن يكون المبلغ بين٪ .2f و٪ .2f"
+
+
+msgid "Announcements"
+msgstr "الاشعارات"
+
+
+msgid "Announcements List"
+msgstr "قائمة الاشعارات"
+
+
+msgid "App Information"
+msgstr "معلومات التطبيق"
+
+
+msgid "App Logo"
+msgstr "شعار التطبيق"
+
+
+msgid "App Update"
+msgstr "تحديث النظام"
+
+
+msgid "App White Logo"
+msgstr "شعار الموقع مفرغ"
+
+
+msgid "App update information"
+msgstr "معلومات تحديث النظام"
+
+
+msgid "Application Security Settings"
+msgstr "إعدادات أمان النظام"
+
+
+msgid "Application Theme Settings"
+msgstr "إعدادات موضوع النظام"
+
+
+msgid "Are you sure to change?"
+msgstr "هل أنت متأكد من التغيير؟"
+
+
+msgid "Are you sure to delete?"
+msgstr "هل انت متأكد من الحذف؟"
+
+
+msgid "Assigned"
+msgstr "تعيين"
+
+
+msgid "Assigned On"
+msgstr "تم التعيين"
+
+
+msgid "Assigned Tickets"
+msgstr "التذاكر المخصصة"
+
+
+msgid "Attach File"
+msgstr "أرفاق ملف"
+
+
+msgid "Best size is 400px x 400px"
+msgstr "أفضل حجم هو 400 بكسل × 400 بكسل"
+
+
+msgid "Birthday"
+msgstr "تاريخ الميلاد"
+
+
+msgid "Birthday is required"
+msgstr "تاريخ الميلاد مطلوب"
+
+
+msgid "Body"
+msgstr "الجسم"
+
+
+msgid "Body is required"
+msgstr "مطلوب الجسم"
+
+
+msgid "Cancel"
+msgstr "إلغاء"
+
+
+msgid "Canned Message Fields"
+msgstr "حقول الرسائل المعلبة"
+
+
+msgid "Canned Message List"
+msgstr "قائمة الرسائل المعلبة"
+
+
+msgid "Canned Messages"
+msgstr "الرسائل المعلبة"
+
+
+msgid "Canned Msg"
+msgstr "المعلبات المعلبة"
+
+
+msgid "Canned Msg is required"
+msgstr "مطلوب معلبة Msg"
+
+
+msgid "Canned_msg"
+msgstr "Canned_msg"
+
+
+msgid "Categories"
+msgstr "الاقسام"
+
+
+msgid "Category"
+msgstr "الفئات"
+
+
+msgid "Category List"
+msgstr "قائمة الفئات"
+
+
+msgid "Category is required"
+msgstr "اختيار القسم مطلوب"
+
+
+msgid "Change"
+msgstr "تغير"
+
+
+msgid "Change Password"
+msgstr "تغيير كلمة السر"
+
+
+msgid "Change password of %s"
+msgstr "تغيير كلمة مرور٪ s"
+
+
+msgid "Choose Homepage"
+msgstr "اختر الصفحة الرئيسية"
+
+
+msgid "Choose Theme"
+msgstr "اختار قالب"
+
+
+msgid "City"
+msgstr "مدينة"
+
+
+msgid "City is required"
+msgstr "المدينة مطلوبة"
+
+
+msgid "Click here"
+msgstr "انقر هنا"
+
+
+msgid "Click on the Image to change"
+msgstr "انقر على الصورة للتغيير"
+
+
+msgid "Click on the Image to change or upload."
+msgstr "انقر على الصورة لتغييرها أو تحميلها."
+
+
+msgid "Click on the Image to change. Best size hight is 40px"
+msgstr "انقر على الصورة للتغيير. أفضل ارتفاع للحجم هو 40 بكسل"
+
+
+msgid "Click on the Image to change. Best size is 75px x 75px"
+msgstr "انقر على الصورة للتغيير. أفضل حجم هو 75 بكسل × 75 بكسل"
+
+
+msgid "Click to see details"
+msgstr "انقر لرؤية التفاصيل"
+
+
+msgid "Client"
+msgstr "زبون"
+
+
+msgid "Client List"
+msgstr "قائمة العملاء"
+
+
+msgid "Close"
+msgstr "قريب"
+
+
+msgid "Close Tickets"
+msgstr "إغلاق الطلبات"
+
+
+msgid "Closed Tickets"
+msgstr "طلبات مغلقة"
+
+
+msgid "Contact Number"
+msgstr "رقم الاتصال"
+
+
+msgid "Controller Title"
+msgstr "عنوان المراقب"
+
+
+msgid "Copy Cron Link"
+msgstr "نسخة كرون صلة"
+
+
+msgid "Copy callback url"
+msgstr "انسخ رابط معاودة الاتصال"
+
+
+msgid "Country"
+msgstr "بلد"
+
+
+msgid "Country Code"
+msgstr "رمز الدولة"
+
+
+msgid "Country Name"
+msgstr "اسم الدولة"
+
+
+msgid "Country is required"
+msgstr "الدولة مطلوبة"
+
+
+msgid "Create Date"
+msgstr "تاريخ التكوين"
+
+
+msgid "Create Ticket"
+msgstr "إنشاء تذكرة"
+
+
+msgid "Create Time"
+msgstr "انشاء الوقت"
+
+
+msgid "Created By"
+msgstr "مطور من قبل"
+
+
+msgid "Cron Job Command"
+msgstr "كرون مهمة القيادة"
+
+
+msgid "Current Ticket Status"
+msgstr "حالة الطلب الحالي"
+
+
+msgid "Current version is : %s"
+msgstr "الإصدار الحالي هو:٪ s"
+
+
+msgid "Custom Field List"
+msgstr "قائمة الحقول المخصصة"
+
+
+msgid "Custom Fields"
+msgstr "الحقول المخصصة"
+
+
+msgid "Dashboard"
+msgstr "لوحة القيادة"
+
+
+msgid "Date of Birth"
+msgstr "تاريخ الميلاد"
+
+
+msgid "Debug Log"
+msgstr "سجل التصحيح"
+
+
+msgid "Debug Log List"
+msgstr "تصحيح قائمة السجل"
+
+
+msgid "Delete"
+msgstr "حذف"
+
+
+msgid "Description"
+msgstr "وصف"
+
+
+msgid "Description is required"
+msgstr "الوصف مطلوب"
+
+
+msgid "Details"
+msgstr "تفاصيل"
+
+
+msgid "Details Debug Log"
+msgstr "التفاصيل"
+
+
+msgid "Details Log"
+msgstr "التفاصيل سجل"
+
+
+msgid "Details info of IP(192.168.10.71)"
+msgstr "تفاصيل معلومات عن IP (192.168.10.71)"
+
+
+msgid "Disable this if you want real payment"
+msgstr "تعطيل هذا إذا كنت تريد الدفع الحقيقي"
+
+
+msgid "DoS Attack Security"
+msgstr "DoS هجوم الأمن"
+
+
+msgid "Don't upload if you don't want"
+msgstr "لا تحميل إذا كنت لا تريد"
+
+
+msgid "Edit"
+msgstr "تعديل"
+
+
+msgid "Edit Announcements"
+msgstr "تحرير الاعلانات"
+
+
+msgid "Edit Canned Message"
+msgstr "تحرير الرسالة المعلبة"
+
+
+msgid "Edit Category"
+msgstr "تحرير الفئة"
+
+
+msgid "Edit Client"
+msgstr "تحرير المستخدمين"
+
+
+msgid "Edit IP"
+msgstr "تحرير IP"
+
+
+msgid "Edit Knowledge"
+msgstr "تحرير القاعدة المعرفية"
+
+
+msgid "Edit Role"
+msgstr "تحرير الدور"
+
+
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+
+msgid "Email Address"
+msgstr "عنوان البريد الإلكتروني"
+
+
+msgid "Email Outgoing Settings"
+msgstr "البريد الإلكتروني الإعدادات الصادرة"
+
+
+msgid "Email Settings"
+msgstr "إعدادات البريد الإلكتروني"
+
+
+msgid "Email Templates"
+msgstr "قوالب البريد الإلكتروني"
+
+
+msgid "Email Templates List"
+msgstr "قائمة قوالب البريد الإلكتروني"
+
+
+msgid "Email To Ticket Settings"
+msgstr "البريد الإلكتروني إلى إعدادات التذاكر"
+
+
+msgid "Email is required"
+msgstr "البريد الالكتروني مطلوب"
+
+
+msgid "Email to Ticket Settings Form"
+msgstr "البريد الإلكتروني إلى نموذج إعدادات التذاكر"
+
+
+msgid "Enable Auto Reload (every %d min)"
+msgstr "تمكين التحديث التلقائي (كل٪ d دقيقة)"
+
+
+msgid "Enable Email To Ticket/Reply"
+msgstr "تمكين البريد الإلكتروني إلى طلب / رد"
+
+
+msgid "Enable it if your protocol is secure"
+msgstr "قم بتمكينه إذا كان بروتوكولك آمنًا"
+
+
+msgid "Enable it to secure admin/staff user"
+msgstr "تمكينها لتأمين مستخدم المشرف / الموظفين"
+
+
+msgid "Enable this to enable paypal payment"
+msgstr "تمكين هذا لتمكين دفع بال"
+
+
+msgid "Enable to convert email to ticket"
+msgstr "تمكين تحويل البريد الإلكتروني إلى البطاقة"
+
+
+msgid "End Date"
+msgstr "تاريخ الانتهاء"
+
+
+msgid "End Date is required"
+msgstr "تاريخ الانتهاء مطلوب"
+
+
+msgid "Entry Time"
+msgstr "وقت دخول"
+
+
+msgid "Entry Type"
+msgstr "نوع الدخول"
+
+
+msgid "Envato"
+msgstr "انفاتو"
+
+
+msgid "Envato Setting"
+msgstr "إعداد Envato"
+
+
+msgid "Envato Username"
+msgstr "اسم المستخدم Envato"
+
+
+msgid "Ex. 192.168.10.1"
+msgstr "Ex. 192.168.10.1"
+
+
+msgid "Example: Temporary lock admin or staff user if attempts 5 miss login in 30 minutes"
+msgstr "مثال: مشرف القفل المؤقت أو مستخدم الموظفين إذا فشلت محاولات 5 في تسجيل الدخول في 30 دقيقة"
+
+
+msgid "Example: if request more then 5 in 5 second then show captcha or block ip"
+msgstr "مثال: إذا كان الطلب أكثر من 5 في 5 ثوانٍ ، فاضغط على captcha أو حظر ip"
+
+
+msgid "Featured Image"
+msgstr "صورة مميزة"
+
+
+msgid "File Attached"
+msgstr "ملف مرفق"
+
+
+msgid "File Type"
+msgstr "نوع الملف"
+
+
+msgid "First Name"
+msgstr "الاسم الاول"
+
+
+msgid "First Name is required"
+msgstr "الإسم الأول مطلوب"
+
+
+msgid "From"
+msgstr "من"
+
+
+msgid "From Email"
+msgstr "من البريد الإلكترونى"
+
+
+msgid "From Email is required"
+msgstr "من البريد الإلكتروني مطلوب"
+
+
+msgid "From Name"
+msgstr "من الاسم"
+
+
+msgid "From Name is required"
+msgstr "من الاسم مطلوب"
+
+
+msgid "Gender"
+msgstr "جنس"
+
+
+msgid "General Settings"
+msgstr "الاعدادات العامة"
+
+
+msgid "Generate an API key in your envato account and enter here"
+msgstr "قم بإنشاء مفتاح API في حساب envato وأدخل هنا"
+
+
+msgid "Has Super Power"
+msgstr "لديه قوة عظمى"
+
+
+msgid "Hello, %s"
+msgstr "مرحبًا ،٪ s"
+
+
+msgid "Helpfull"
+msgstr "متعاون"
+
+
+msgid "Home"
+msgstr "الصفحة الرئيسية"
+
+
+msgid "Host"
+msgstr "مضيف"
+
+
+msgid "Host & Port"
+msgstr "منفذ"
+
+
+msgid "Host is required"
+msgstr "المضيف مطلوب"
+
+
+msgid "IMAP Help"
+msgstr "تعليمات IMAP"
+
+
+msgid "IMAP Settings"
+msgstr "إعدادات IMAP"
+
+
+msgid "IP"
+msgstr "IP"
+
+
+msgid "IP List"
+msgstr "قائمة IP"
+
+
+msgid "IP is required"
+msgstr "IP مطلوب"
+
+
+msgid "If request more than"
+msgstr "إذا طلب أكثر من"
+
+
+msgid "If you don't choose the white logo then primary logo will be displayed in site header"
+msgstr "إذا لم تختر الشعار الأبيض ، فسيتم عرض الشعار الأساسي في رأس الموقع"
+
+
+msgid "If you enable it then app prevent DoS Attack."
+msgstr "إذا قمت بتمكينه ، فإن النظام يمنع DoS Attack."
+
+
+msgid "If you enable this then logo only show in site header"
+msgstr "If you enable this then logo only show in site header"
+
+
+msgid "If you enable this, then all payment will be in test mode. Don't do this if you want real payment"
+msgstr "If you enable this, then all payment will be in test mode. Don't do this if you want real payment"
+
+msgid "If you want to remove license form this site then click"
+msgstr "إذا كنت تريد إزالة ترخيص هذا الموقع ، فانقر فوق"
+
+
+msgid "Inactive"
+msgstr "غير نشط"
+
+
+msgid "Invalid Information"
+msgstr "معلومات غير صالحة"
+
+
+msgid "Invalid data"
+msgstr "بيانات غير صالحة"
+
+
+msgid "Is Secure Protocol (SSL)"
+msgstr "إذا كنت تريد إزالة ترخيص هذا الموقع ، فانقر فوق"
+
+
+msgid "Is Sticky/Pinned ?"
+msgstr "هل مثبت / مثبت؟"
+
+
+msgid "Is it helpfull?"
+msgstr "هل هو مفيد؟"
+
+
+msgid "It won't show any where, It is just for track"
+msgstr "لن تظهر في أي مكان ، إنها فقط من أجل المسار"
+
+
+msgid "Join : %s"
+msgstr "الانضمام:٪ s"
+
+
+msgid "Join Date"
+msgstr "تاريخ الانضمام"
+
+
+msgid "Key is already exists"
+msgstr "المفتاح موجود بالفعل"
+
+
+msgid "Knowledge"
+msgstr "القدرة المعرفية"
+
+
+msgid "Knowledge List"
+msgstr "قائمة المعرفة"
+
+
+msgid "L.Reply Time"
+msgstr "الرد السريع"
+
+
+msgid "Label"
+msgstr "ضع الكلمة المناسبة"
+
+
+msgid "Last Name"
+msgstr "الكنية"
+
+
+msgid "Last Name is required"
+msgstr "الاسم الأخير مطلوب"
+
+
+msgid "Last Replied"
+msgstr "آخر رد"
+
+
+msgid "Last Reply"
+msgstr "آخر رد"
+
+
+msgid "Last Reply Time"
+msgstr "وقت آخر رد"
+
+
+msgid "Last updated on"
+msgstr "آخر تحديث في"
+
+
+msgid "Latitude"
+msgstr "خط العرض"
+
+
+msgid "License"
+msgstr "رخصة"
+
+
+msgid "License Domain"
+msgstr "مجال الترخ٥"
+
+
+msgid "License Info"
+msgstr "معلومات الترخيص"
+
+
+msgid "License Information"
+msgstr "معلومات الترخيص"
+
+
+msgid "License Key"
+msgstr "مفتاح الترخيص"
+
+
+msgid "License Title"
+msgstr "عنوان الترخيص"
+
+
+msgid "Link"
+msgstr "رابط خارجي"
+
+
+msgid "Locked User"
+msgstr "مستخدم مقفل"
+
+
+msgid "Locked User List"
+msgstr "قائمة المستخدمين المؤمّنة"
+
+
+msgid "Log Type"
+msgstr "نوع السجل"
+
+
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+
+msgid "Logout"
+msgstr "الخروج"
+
+
+msgid "Longitude"
+msgstr "خط الطول"
+
+
+msgid "MENU"
+msgstr "قائمة"
+
+
+msgid "Max file size is  %s MB"
+msgstr "الحد الأقصى لحجم الملف هو٪ s ميغابايت"
+
+
+msgid "Max file size is %s MB"
+msgstr "الحد الأقصى لحجم الملف هو٪ s ميغابايت"
+
+
+msgid "Menu List"
+msgstr "القائمة"
+
+
+msgid "Message"
+msgstr "رسالة"
+
+
+msgid "Message Details"
+msgstr "تفاصيل الرسالة"
+
+
+msgid "Method"
+msgstr "طريقة"
+
+
+msgid "Miss Login Tried"
+msgstr "افتقد تسجيل الدخول حاول"
+
+
+msgid "More homepage will be come in next version"
+msgstr "سوف يأتي المزيد من الصفحة الرئيسية في النسخة المقبلة"
+
+
+msgid "More theme will be come in next version"
+msgstr "سيتم طرح المزيد من الثيمات في الإصدار التالي"
+
+
+msgid "Most Helpful Articles"
+msgstr "معظم المواضيع المفيدة"
+
+
+msgid "My Active Paid Tickets"
+msgstr "التذاكر النشطه المدفوعه الخاصى بى"
+
+
+msgid "My Active Tickets"
+msgstr "تذكراتي النشطة"
+
+
+msgid "My Assigned Tickets"
+msgstr "التئاكر المعيينه لدى"
+
+
+msgid "My Closed Tickets"
+msgstr "تذاكرى المغلقه"
+
+
+msgid "My Dashboard"
+msgstr "لوحة المعلومات الخاصة بي"
+
+
+msgid "My Menu"
+msgstr "قائمتي"
+
+
+msgid "My Message"
+msgstr "رسائلي"
+
+
+msgid "N"
+msgstr "N"
+
+
+msgid "Name"
+msgstr "اسم"
+
+
+msgid "New Announcements"
+msgstr "إعلانات جديدة"
+
+
+msgid "New Canned Message"
+msgstr "رساله معده من قبل جديده"
+
+
+msgid "New Category"
+msgstr "فئة جديدة"
+
+
+msgid "New Client"
+msgstr "عميل جديد"
+
+
+msgid "New Knowledge"
+msgstr "موضوع معرفى جديد"
+
+
+msgid "New Role"
+msgstr "تصاريح جديده"
+
+
+msgid "New Ticket"
+msgstr "تذكرة جديدة"
+
+
+msgid "New Ticket Form"
+msgstr "استمارة تذكرة جديدة"
+
+
+msgid "New Window"
+msgstr "نافذة جديدة"
+
+
+msgid "No"
+msgstr "لا"
+
+
+msgid "No active ticket found"
+msgstr "لم يتم العثور على تذكرة نشطة"
+
+
+msgid "No closed ticket found"
+msgstr "لم يتم العثور على تذكرة مغلقة"
+
+
+msgid "Not Helpfull"
+msgstr "غير مساعد"
+
+
+msgid "Notice For"
+msgstr "إشعار ل"
+
+
+msgid "Notice Text"
+msgstr "لاحظ النص"
+
+
+msgid "Notice text is required"
+msgstr "نص الإشعار مطلوب"
+
+
+msgid "Notification"
+msgstr "إعلام"
+
+
+msgid "Old Password"
+msgstr "كلمة المرور القديمة"
+
+
+msgid "Open Ticket"
+msgstr "تذكرة مفتوحة"
+
+
+msgid "Open Time"
+msgstr "وقت متاح"
+
+
+msgid "Opened"
+msgstr "افتتح"
+
+
+msgid "Opened Time"
+msgstr "فتح الوقت"
+
+
+msgid "Options"
+msgstr "خيارات"
+
+
+msgid "Order"
+msgstr "طلب"
+
+
+msgid "Page Name"
+msgstr "اسم الصفحة"
+
+
+msgid "Parent Category"
+msgstr "تصنيف رئيسي"
+
+
+msgid "Parent Category is required"
+msgstr "التصنيف الرئيسي مطلوب"
+
+
+msgid "Password"
+msgstr "كلمه السر"
+
+
+msgid "Password is required"
+msgstr "كلمة المرور مطلوبة"
+
+
+msgid "Password reset"
+msgstr "إعادة ضبط كلمة المرور"
+
+
+msgid "Payer Email"
+msgstr "Payer Email"
+
+
+msgid "Payment Amount"
+msgstr "مبلغ الدفعة"
+
+
+msgid "Payment Amount is required"
+msgstr "مطلوب مبلغ الدفع"
+
+
+msgid "Payment Description"
+msgstr "وصف الدفع"
+
+
+msgid "Payment Details"
+msgstr "بيانات الدفع"
+
+
+msgid "Payment List"
+msgstr "قائمة الدفع"
+
+
+msgid "Payment Method Status"
+msgstr "حالة طريقة الدفع"
+
+
+msgid "Paypal Setting"
+msgstr "ضبط باي بال"
+
+
+msgid "Paypal Settings"
+msgstr "إعدادات Paypal"
+
+
+msgid "Permission"
+msgstr "الإذن"
+
+
+msgid "Pinned Articles"
+msgstr "المقالات المثبتة"
+
+
+msgid "Popular Articles"
+msgstr "المواد الاكثر شعبيه"
+
+
+msgid "Port"
+msgstr "رقم المنفذ"
+
+
+msgid "Port is required"
+msgstr "رقم المنفذ مطلوب"
+
+
+msgid "Posted By"
+msgstr "منشور من طرف"
+
+
+msgid "Priroty"
+msgstr "أفضلية"
+
+
+msgid "Priroty is required"
+msgstr "الأولوية مطلوبة"
+
+
+msgid "Process Date"
+msgstr "تاريخ العملية"
+
+
+msgid "Process Log"
+msgstr "سجل العمليات"
+
+
+msgid "Process Time"
+msgstr "وقت المعالجة"
+
+
+msgid "Processing"
+msgstr "معالجة"
+
+
+msgid "Profile"
+msgstr "الملف الشخصي"
+
+
+msgid "Property"
+msgstr "خاصية"
+
+
+msgid "Re-Check Update"
+msgstr "إعادة فحص التحديث"
+
+
+msgid "Re-Open"
+msgstr "إعادة فتح"
+
+
+msgid "Read article to provide best support"
+msgstr "قراءة المادة لتقديم أفضل دعم"
+
+
+msgid "Recent Articles"
+msgstr "المقالات الأخيرة"
+
+
+msgid "Register"
+msgstr "تسجيل"
+
+
+msgid "Remove"
+msgstr "إزالة"
+
+
+msgid "Remove License"
+msgstr "إزالة الترخيص"
+
+
+msgid "Replay"
+msgstr "إعادة"
+
+
+msgid "Reply"
+msgstr "الرد"
+
+
+msgid "Reply To Ticket"
+msgstr "رد على التذكرة"
+
+
+msgid "Reply is required"
+msgstr "الرد مطلوب"
+
+
+msgid "Reply text is required"
+msgstr "نص الرد مطلوب"
+
+
+msgid "Reply user group"
+msgstr "رد مجموعة المستخدمين"
+
+
+msgid "Reply user name"
+msgstr "الرد باسم المستخدم"
+
+
+msgid "Request Count is required"
+msgstr "مطلوب عدد الطلبات"
+
+
+msgid "Required"
+msgstr "مطلوب"
+
+
+msgid "Reset"
+msgstr "إعادة تعيين"
+
+
+msgid "Reset link has been sent to the user"
+msgstr "تم إرسال رابط إعادة التعيين إلى المستخدم"
+
+
+msgid "Role"
+msgstr "التصاريح"
+
+
+msgid "Role  List"
+msgstr "قائمه التصاريح"
+
+
+msgid "Role Access"
+msgstr "صلاحيات الدخول"
+
+
+msgid "Role List"
+msgstr "قائمه الصلاحيات"
+
+
+msgid "Role is required"
+msgstr "الصلاحيه مطلوبه"
+
+
+msgid "SMTP Settings"
+msgstr "إعدادات SMTP"
+
+
+msgid "STAFF MENU"
+msgstr "قائمة الموظفين"
+
+
+msgid "Save"
+msgstr "حفظ"
+
+
+msgid "Schedule"
+msgstr "جدول"
+
+
+msgid "Search"
+msgstr "بحث"
+
+
+msgid "Seconds is required"
+msgstr "الثواني مطلوبة"
+
+
+msgid "Security Settings"
+msgstr "اعدادات الامان"
+
+
+msgid "Select"
+msgstr "تحديد"
+
+
+msgid "Send"
+msgstr "إرسال"
+
+
+msgid "Sendmail Path"
+msgstr "مسار Sendmail"
+
+
+msgid "Sendmail Path is required"
+msgstr "مطلوب مسار Sendmail"
+
+
+msgid "Sendmail or SMTP"
+msgstr "Sendmail أو SMTP"
+
+
+msgid "Sent Message"
+msgstr "ارسال رسالة"
+
+
+msgid "Set Status"
+msgstr "تعيين الحالة"
+
+
+msgid "Set this cron command into your server cron list, otherwise email to ticket won't work"
+msgstr "عيّن هذا الأمر cron في قائمة cron server ، وإلا لن يعمل البريد الإلكتروني إلى التذكرة"
+
+
+msgid "Show IP List"
+msgstr "إظهار قائمة IP"
+
+
+msgid "Show List"
+msgstr "عرض قائمة"
+
+
+msgid "Show Locked User List"
+msgstr "إظهار قائمة المستخدمين المغلقه"
+
+
+msgid "Show On"
+msgstr "إظهار"
+
+
+msgid "Show only logo in header"
+msgstr "إظهار الشعار فقط في رأس الصفحة"
+
+
+msgid "Site Menu"
+msgstr "قائمة الموقع"
+
+
+msgid "Site Security"
+msgstr "حماية الموقع"
+
+
+msgid "Social Setting"
+msgstr "اعدادات السوشيال"
+
+
+msgid "Social Settings"
+msgstr "اعدادات السوشيال"
+
+
+msgid "Start Date"
+msgstr "تاريخ البدء"
+
+
+msgid "Start Date is required"
+msgstr "تاريخ البدء مطلوب"
+
+
+msgid "Status"
+msgstr "الحالة"
+
+
+msgid "Status is required"
+msgstr "الحالة مطلوبة"
+
+
+msgid "Sticky/Pinned"
+msgstr "مثبت / يشبك"
+
+
+msgid "Still Need Support?"
+msgstr "لا تزال بحاجة إلى دعم؟"
+
+
+msgid "Sub Title"
+msgstr "العنوان الفرعي"
+
+
+msgid "Subject"
+msgstr "الموضع"
+
+
+msgid "Successfully Updated"
+msgstr "تم التحديث بنجاح"
+
+
+msgid "Suggested Knowledge"
+msgstr "المعرفة المقترحة"
+
+
+msgid "Super Admin"
+msgstr "مشرف متميز"
+
+
+msgid "Supervisor"
+msgstr "مدير"
+
+
+msgid "Support System"
+msgstr "نظام الدعم"
+
+
+msgid "System Update"
+msgstr "تحديث النظام"
+
+
+msgid "Tag"
+msgstr "علامه"
+
+
+msgid "Tag is required"
+msgstr "العلامة مطلوبة"
+
+
+msgid "Temporary lock admin or staff user, if attempts"
+msgstr "قفل موقت اذا زادت المحاولات"
+
+
+msgid "Text must be less then %d characters length"
+msgstr "يجب أن يكون النص أقل من٪ d حرفًا"
+
+
+msgid "Thank you for being with us"
+msgstr "شكرا لك على وجودك معنا"
+
+
+msgid "The time is base on %s timezone"
+msgstr "الوقت يعتمد على المنطقة الزمنية٪ s"
+
+
+msgid "The user who has opened ticket"
+msgstr "المستخدم الذي فتح التذكرة"
+
+
+msgid "Theme Settings"
+msgstr "إعدادات الثيمات"
+
+
+msgid "This email address is already exist"
+msgstr "عنوان البريد الإلكتروني هذا موجود بالفعل"
+
+
+msgid "Ticket"
+msgstr "تذكرة"
+
+
+msgid "Ticket Body"
+msgstr "محتوى التذكره"
+
+
+msgid "Ticket Body is required"
+msgstr "محتوي التذاكر مطلوب"
+
+
+msgid "Ticket Category"
+msgstr "تصنيف التذكرة"
+
+
+msgid "Ticket Details"
+msgstr "تفاصيل التذكرة"
+
+
+msgid "Ticket Feedback"
+msgstr "ملاحظات على التذاكر"
+
+
+msgid "Ticket Feedback List"
+msgstr "قائمة تعليقات التذكرة"
+
+
+msgid "Ticket History"
+msgstr "تاريخ التذكرة"
+
+
+msgid "Ticket Information"
+msgstr "معلومات التذكرة"
+
+
+msgid "Ticket Payment Details"
+msgstr "تفاصيل الدفع تذكرة"
+
+
+msgid "Ticket Payment List"
+msgstr "قائمة دفع التذاكر"
+
+
+msgid "Ticket Priroty"
+msgstr "أولوية التذكرة"
+
+
+msgid "Ticket Status"
+msgstr "حالة التذاكر"
+
+
+msgid "Ticket Subject"
+msgstr "موضوع تذكرة"
+
+
+msgid "Ticket Title"
+msgstr "عنوان المشكله"
+
+
+msgid "Ticket Track ID"
+msgstr "رقم تتبع الشكوي"
+
+
+msgid "Ticket User"
+msgstr "مستخدم التذكرة"
+
+
+msgid "Ticket closed do you want to re-open?"
+msgstr "تم إغلاق التذكرة هل تريد إعادة فتحها؟"
+
+
+msgid "Ticket subject is required"
+msgstr "موضع الشكوي مطلوب"
+
+
+msgid "Tickets"
+msgstr "تذاكر"
+
+
+msgid "Time"
+msgstr "زمن"
+
+
+msgid "Timezone"
+msgstr "منطقه زمنيه"
+
+
+msgid "Title"
+msgstr "عنوان"
+
+
+msgid "Title is required"
+msgstr "العنوان مطلوب"
+
+
+msgid "To"
+msgstr "إلى"
+
+
+msgid "Today's"
+msgstr "اليوم"
+
+
+msgid "Topbar Icon"
+msgstr "رمز توب بار"
+
+
+msgid "Topbar Icon List"
+msgstr "قائمة أيقونة شريط التمرير"
+
+
+msgid "Total"
+msgstr "مجموع"
+
+
+msgid "Total Closed Ticket"
+msgstr "مجموع التذاكر مغلقة"
+
+
+msgid "Total Closed Tickets"
+msgstr "مجموع التذاكر المغلقة"
+
+
+msgid "Transction ID"
+msgstr "معرف المعاملة"
+
+
+msgid "Type"
+msgstr "اكتب"
+
+
+msgid "Tzone is required"
+msgstr "مطلوب Tzone"
+
+
+msgid "USER MENU"
+msgstr "قائمة المستخدم"
+
+
+msgid "Unassigned Tickets"
+msgstr "تذاكر غير معيّنة"
+
+
+msgid "Update"
+msgstr "تحديث"
+
+
+msgid "Update User"
+msgstr "تحديث المستخدم"
+
+
+msgid "Uploaded file is not  supported"
+msgstr "الملف الذي تم تحميله غير مدعوم"
+
+
+msgid "Use this as your callback url into facebook developer panel"
+msgstr "استخدم هذا بمثابة رابط معاودة الاتصال الخاص بك في لوحة مطوري facebook"
+
+
+msgid "Use this as your callback url into twitter developer panel"
+msgstr "استخدم هذا بمثابة رابط معاودة الاتصال الخاص بك في لوحة مطوّري تويتر"
+
+
+msgid "Use this as your callback url into your google developer console"
+msgstr "استخدم هذا بمثابة عنوان url للمعاودة في وحدة تحكم مطوري برامج google"
+
+
+msgid "User"
+msgstr "المستخدم"
+
+
+msgid "User (Email)"
+msgstr "البريد الالكتروني للمستخدم)"
+
+
+msgid "User (Email) is required"
+msgstr "المستخدم (البريد الإلكتروني) مطلوب"
+
+
+msgid "User Id"
+msgstr "معرف المستخدم"
+
+
+msgid "User List"
+msgstr "قائمه المستخدمين"
+
+
+msgid "User Panel"
+msgstr "لوحة المستخدم"
+
+
+msgid "User Settings"
+msgstr "إعدادات المستخدم"
+
+
+msgid "User is required"
+msgstr "المستخدم مطلوب"
+
+
+msgid "Username"
+msgstr "اسم المستخدم"
+
+
+msgid "Value"
+msgstr "القيمة"
+
+
+msgid "Verified"
+msgstr "التحقق"
+
+
+msgid "View Details"
+msgstr "عرض التفاصيل"
+
+
+msgid "View Knowledge"
+msgstr "عرض موسوعه المعرفه"
+
+
+msgid "View Site"
+msgstr "عرض الموقع"
+
+
+msgid "View all"
+msgstr "عرض الكل"
+
+
+msgid "Views"
+msgstr "الآراء"
+
+
+msgid "Write here.."
+msgstr "اكتب هنا"
+
+
+msgid "Write reply here.."
+msgstr "اكتب رد هنا"
+
+
+msgid "Yes"
+msgstr "نعم"
+
+
+msgid "You think it is helpfull"
+msgstr "هل تعتقد انه مفيد"
+
+
+msgid "You think it is not helpfull"
+msgstr "كنت تعتقد أنه ليس من المفيد"
+
+
+msgid "Your Site URL"
+msgstr "عنوان موقعك"
+
+
+msgid "Your application is up to date"
+msgstr "طلبك محدث"
+
+
+msgid "Your closed ticket list"
+msgstr "قائمة التذاكر المغلقة"
+
+
+msgid "Your current ticket status"
+msgstr "حالة التذكرة الحالية الخاصة بك"
+
+
+msgid "Your envato(CodeCanyon, Themeforest,etc) username"
+msgstr "الخاص بك envato (CodeCanyon ، Themeforest ، الخ) اسم المستخدم"
+
+
+msgid "Your site name"
+msgstr "اسم موقعك"
+
+
+msgid "Your total active tickets"
+msgstr "مجموع التذاكر النشطة الخاصة بك"
+
+
+msgid "Youtube Accounts"
+msgstr "حسابات يوتيوب"
+
+
+msgid "Zip"
+msgstr "الرمز البريدي"
+
+
+msgid "Zip is required"
+msgstr "الرمز البريدي مطلوب"
+
+
+msgid "by"
+msgstr "بواسطة"
+
+
+msgid "ex.5"
+msgstr "ex.5"
+
+
+msgid "is required"
+msgstr "مطلوب"
+
+
+msgid "minuites"
+msgstr "الدقائق"
+
+
+msgid "miss login in"
+msgstr "افتقد الدخول"
+
+
+msgid "on"
+msgstr "على"
+
+
+msgid "seconds, then"
+msgstr "ثانية ، ثم"
+
+
+msgid "setup for Social Login"
+msgstr "الإعداد لتسجيل الدخول الاجتماعي"
+
+
+msgid "to get custom payment"
+msgstr "للحصول على الدفع المخصص"
+
+
+msgid "Already registered?"
+msgstr "مسجل بالفعل؟"
+
+
+msgid "E-mail"
+msgstr "البريد الإلكتروني"
+
+
+msgid "Email address is alreay exists"
+msgstr "عنوان البريد الإلكتروني موجود بالفعل"
+
+
+msgid "Forgot password?"
+msgstr "هل نسيت كلمة المرور؟"
+
+
+msgid "Guest Ticket"
+msgstr "تذكرة بدون تسجيل"
+
+
+msgid "Low Priroty"
+msgstr "أولوية منخفضة"
+
+
+msgid "Not member yet ?"
+msgstr "لست عضوا بعد؟"
+
+
+msgid "Open Ticket With Less Priroty"
+msgstr "افتح تذكرة بأقل أولوية"
+
+
+msgid "Open ticket after login"
+msgstr "افتح التذكرة بعد تسجيل الدخول"
+
+
+msgid "Open ticket after register"
+msgstr "افتح التذكرة بعد التسجيل"
+
+
+msgid "Or Login Using"
+msgstr "أو تسجيل الدخول باستخدام"
+
+
+msgid "Or Register Using"
+msgstr "أو التسجيل عن طريق"
+
+
+msgid "Or open ticket using"
+msgstr "أو فتح تذكرة باستخدام"
+
+
+msgid "Submit"
+msgstr "ارسال"
+
+
+msgid "Top Priroty"
+msgstr "الاولوية القصوى"
+
+
+msgid "User Login"
+msgstr "تسجيل دخول المستخدم"
+
+
+msgid "User Registration"
+msgstr "تسجيل المستخدم"
+
+
+msgid "You are not logged in. What would you like do now?"
+msgstr "لم تقم بتسجيل الدخول. ماذا تريد أن تفعل الآن؟"
+
+
+msgid "fields are required"
+msgstr "الحقول مطلوبة"
+
+
+msgid "Confirm Password"
+msgstr "تأكيد كلمة المرور"
+
+
+msgid "Back"
+msgstr "الى الخلف"
+
+
+msgid "%s is not same"
+msgstr "٪ s ليس نفسه"
+
+
+msgid "Captcha"
+msgstr "كلمة التحقق"
+
+
+msgid "Invalid email address."
+msgstr "عنوان البريد الإلكتروني غير صالح"
+
+
+msgid "New Password"
+msgstr "كلمة السر الجديدة"
+
+
+msgid "The email address is already registered. To login"
+msgstr "عنوان البريد الإلكتروني مسجل بالفعل. لتسجيل الدخول"
+
+
+msgid "The value is not a valid %s"
+msgstr "القيمة ليست صالحة٪ s"
+
+
+msgid "Uncategories"
+msgstr "Uncategories"
+
+
+msgid "Assigned & Closed"
+msgstr "معين ومغلق"
+
+
+msgid "CSV Downloaded"
+msgstr "CSV تحميلها"
+
+
+msgid "Change Timezone"
+msgstr "تغيير المنطقة الزمنية"
+
+
+msgid "Change padssword of %s"
+msgstr "تغيير كلمة مرور %s"
+
+
+msgid "Change password of Admin User"
+msgstr "تغيير كلمة مرور مستخدم المسؤول"
+
+
+msgid "Day Report"
+msgstr "تقرير اليوم"
+
+
+msgid "Member since"
+msgstr "عضو منذ"
+
+
+msgid "Month Report"
+msgstr "تقرير الشهر"
+
+
+msgid "New User"
+msgstr "مستخدم جديد"
+
+
+msgid "Opened & Closed"
+msgstr "مفتوح ومغلق"
+
+
+msgid "Timezone is required"
+msgstr "المنطقة الزمنية مطلوبة"
+
+
+msgid "Tzone"
+msgstr "Tzone"
+
+
+msgid "Sign out"
+msgstr "خروج"
+
+
+msgid "Please login to set priroty"
+msgstr "يرجى تسجيل الدخول لتحديد الأولوية"
+
+
+msgid "email address"
+msgstr "عنوان البريد الإلكتروني"
+
+
+msgid "Allowed File Types"
+msgstr "مسموح أنواع الملفات"
+
+
+msgid "Any Staff Can Reply"
+msgstr "أي موظف يمكن الرد"
+
+
+msgid "App Email"
+msgstr "البريد الإلكتروني للتطبيق"
+
+
+msgid "App Language"
+msgstr "لغة التطبيق"
+
+
+msgid "App Title"
+msgstr "عنوان التطبيق"
+
+
+msgid "Application General Settings"
+msgstr "الإعدادات العامة للتطبيق"
+
+
+msgid "Application Layout"
+msgstr "تخطيط التطبيق"
+
+
+msgid "Auto Others Color"
+msgstr "الوان اخرى اتوماتيكية"
+
+
+msgid "Basic Settings"
+msgstr "الإعدادات الأساسية"
+
+
+msgid "CSS ( Style)"
+msgstr "CSS (النمط)"
+
+
+msgid "Captcha Length"
+msgstr "طول Captcha"
+
+
+msgid "Captcha Settings"
+msgstr "إعدادات Captcha"
+
+
+msgid "Captcha String Type"
+msgstr "Captcha String Type"
+
+
+msgid "Captcha Type"
+msgstr "نوع Captcha"
+
+
+msgid "Charecter Lenght of default captcha"
+msgstr "حرف طول الافتراضي captcha"
+
+
+msgid "Choose HTML Editor"
+msgstr "اختر محرر HTML"
+
+
+msgid "Client ID"
+msgstr "معرف العميل"
+
+
+msgid "Client Photo Upload"
+msgstr "تحميل صور العميل"
+
+
+msgid "Copyright Text"
+msgstr "نص حقوق الطبع والنشر"
+
+
+msgid "Custom CSS & JavaScript"
+msgstr "CSS مخصص وجافا سكريبت"
+
+
+msgid "Custom JavaScript"
+msgstr "جافا سكريبت مخصصة"
+
+
+msgid "Date Format"
+msgstr "صيغة التاريخ"
+
+
+msgid "Disable Registration"
+msgstr "تعطيل التسجيل"
+
+
+msgid "Email Footer Text"
+msgstr "نص تذييل البريد الإلكتروني"
+
+
+msgid "Email Reply Start Text"
+msgstr "البريد الإلكتروني الرد على النص"
+
+
+msgid "Enable Force SSL"
+msgstr "تمكين فرض SSL"
+
+
+msgid "Enable Guest Ticket"
+msgstr "تمكين تذكرة ضيف"
+
+
+msgid "Enable HTML Input"
+msgstr "تمكين إدخال HTML"
+
+
+msgid "Enable Public Ticket"
+msgstr "تمكين التذكرة العامة"
+
+
+msgid "Enable Ticket Feedback"
+msgstr "تمكين ملاحظات التذاكر"
+
+
+msgid "Enable User Online Check"
+msgstr "تمكين التحقق من المستخدم على الانترنت"
+
+
+msgid "Ex. Google analytics code, Do not add any tag  like %s"
+msgstr "السابق. Google analytics code، Do not add any tag like %s"
+
+
+msgid "Feedback Email Title"
+msgstr "البريد الالكتروني"
+
+
+msgid "Field"
+msgstr "حقل"
+
+
+msgid "File Upload Settings"
+msgstr "إعدادات تحميل الملف"
+
+
+msgid "Footer Background"
+msgstr "خلفية التذييل"
+
+
+msgid "Footer Text"
+msgstr "نص التذييل"
+
+
+msgid "Header Color"
+msgstr "لون الرأس"
+
+
+msgid "Header Gradient"
+msgstr "Header Gradient"
+
+
+msgid "If enable this then other color will be auto generate based on main color"
+msgstr "إذا تم تمكين هذا ، فسيتم تلقائيًا إنشاء لون آخر استنادًا إلى اللون الرئيسي"
+
+
+msgid "If enable this then the header background will be gradient"
+msgstr "إذا تم تمكين هذا فإن خلفية الرأس ستكون متدرجة"
+
+
+msgid "If you disable this then your will get normal text area box insted of html editor"
+msgstr "إذا قمت بتعطيل هذا ، فستحصل على مربع منطقة النص العادي بدلاً من محرر HTML"
+
+
+msgid "If you enable it a feedback email will be sent to ticket user email address after closing ticket"
+msgstr "إذا قمت بتمكينها ، فسيتم إرسال بريد إلكتروني للتغذية إلى عنوان البريد الإلكتروني لمستخدم التذاكر بعد إغلاق التذكرة"
+
+
+msgid "If you enable it then any visitor can open ticket without registration"
+msgstr "إذا قمت بتمكينها فيمكن لأي زائر فتح تذكرة بدون تسجيل"
+
+
+msgid "If you enable it then captcha will show in admin login form"
+msgstr "إذا قمت بتمكينها ، فستظهر كلمة captcha في نموذج تسجيل دخول المسؤول"
+
+
+msgid "If you enable it then captcha will show in client login form"
+msgstr "إذا قمت بتمكينها ، فستظهر كلمة captcha في نموذج تسجيل دخول العميل"
+
+
+msgid "If you enable it then captcha will show in client registration form"
+msgstr "إذا قمت بتمكينها ، فستظهر كلمة captcha في نموذج تسجيل العميل"
+
+
+msgid "If you enable it then captcha will show in guest ticket opening form"
+msgstr "إذا قمت بتمكينها ، فستظهر كلمة captcha في نموذج افتتاح تذكرة الضيف"
+
+
+msgid "If you enable it then user can open their ticket as public mode. Where any user can replay"
+msgstr "إذا قمت بتمكينه ، فيمكن للمستخدم فتح تذكرته كوضع عام. حيث يمكن لأي مستخدم إعادة التشغيل"
+
+
+msgid "If you enable it then user can upload file when they open ticket and reply any ticket"
+msgstr "إذا قمت بتمكينه ، فيمكن للمستخدم تحميل الملف عند فتحه للتذكرة والرد على أي تذكرة"
+
+
+msgid "If you enable it, then any staff can reply on any ticket, if disable then only assigned staff can reply."
+msgstr "إذا قمت بتمكينه ، فيمكن لأي موظف الرد على أي تذكرة ، إذا كان هناك تعطيل ، فيمكن فقط للموظفين المعينين الرد."
+
+
+msgid "If you enable it, then you can able to upload their profile photo"
+msgstr "إذا قمت بتمكينه ، فيمكنك حينئذٍ تحميل صورة ملفه الشخصي"
+
+
+msgid "If you enable this then this app will check SSL Request, if not then it will redirect to SSL URL."
+msgstr "إذا مكّنت هذا ، فحينئذٍ سيتحقق هذا التطبيق من طلب طبقة المقابس الآمنة ، وإذا لم يكن كذلك ، فسيتم إعادة توجيهه إلى عنوان URL لطبقة المقابس الآم?"
+
+
+msgid "If you enable this then this app will check and show user online status."
+msgstr "إذا قمت بتمكين هذا التطبيق فسيتحقق ويعرض حالة المستخدم عبر الإنترنت."
+
+
+msgid "It will effect in next reload. If you want to now then refresh after save."
+msgstr "وسوف تؤثر في إعادة تحميل المقبل. إذا كنت تريد الآن ثم تحديث بعد الحفظ."
+
+
+msgid "It's background color of footer. Empty value will be auto from main color"
+msgstr "إنه لون خلفية التذييل. ستكون القيمة الفارغة تلقائية من اللون الرئيسي"
+
+
+msgid "It's background color of menu bar. Empty value will be auto from main color"
+msgstr "إنه لون خلفية شريط القوائم. ستكون القيمة الفارغة تلقائية من اللون الرئيسي"
+
+
+msgid "It's background color of menu text color when active. Empty value will be auto from main color"
+msgstr "إنه لون خلفية لون نص القائمة عندما يكون نشطًا. ستكون القيمة الفارغة تلقائية من اللون الرئيسي"
+
+
+msgid "It's text color of footer. Empty value will be auto from main color"
+msgstr "إنه لون نص التذييل. ستكون القيمة الفارغة تلقائية من اللون الرئيسي"
+
+
+msgid "It's the background color of welcome message. But you can choose any text color on any text of welcome message using editor. Empty value will be auto from main color"
+msgstr "إنه لون خلفية رسالة الترحيب. ولكن يمكنك اختيار أي لون النص على أي نص من رسالة الترحيب باستخدام محرر. ستكون القيمة الفارغة تلقائية من اللون ال"
+
+
+msgid "It's the color of anchor link and heading(h1,h2,h3,h4) Color. Empty value will be auto from main color"
+msgstr "إنه لون رابط المرساة والعنوان (h1 ، h2 ، h3 ، h4) اللون. ستكون القيمة الفارغة تلقائية من اللون الرئيسي"
+
+
+msgid "Its background color of header"
+msgstr "لون الخلفية الخاص بها من الرأس"
+
+
+msgid "Keep empty if you don't want to show any footer"
+msgstr "تبقى فارغة إذا كنت لا تريد إظهار أي تذييل"
+
+
+msgid "Keep empty if you don't want to show any footer on email"
+msgstr "تبقى فارغة إذا كنت لا تريد إظهار أي تذييل على البريد الإلكتروني"
+
+
+msgid "Keep empty if you don't want to show any footer on site copy write text"
+msgstr "تبقى فارغة إذا كنت لا تريد إظهار أي تذييل على نص الكتابة في الموقع"
+
+
+msgid "Keep empty if you don't want to show any message"
+msgstr "تبقى فارغة إذا كنت لا تريد إظهار أي رسالة"
+
+
+msgid "Layout & Color Settings"
+msgstr "تخطيط وإعدادات اللون"
+
+
+msgid "Link And Heading Text"
+msgstr "وصلة ونص العنوان"
+
+
+msgid "Main Color"
+msgstr "اللون الأساسي"
+
+
+msgid "Main site color is defined for application main color of client site."
+msgstr "يتم تعريف لون الموقع الرئيسي للون الرئيسي للتطبيق من موقع العميل."
+
+
+msgid "Max Upload File Size"
+msgstr "أقصى حجم تحميل الملف"
+
+
+msgid "Menu Active Text Color"
+msgstr "القائمة لون النص النشط"
+
+
+msgid "Menu Background"
+msgstr "خلفية القائمة"
+
+
+msgid "Nagative Feedback Message"
+msgstr "رسالة ردود فعل سلبية"
+
+
+msgid "Nagative Message"
+msgstr "رسالة سلبية"
+
+
+msgid "On Admin Login"
+msgstr "على تسجيل الدخول المسؤول"
+
+
+msgid "On Client Login"
+msgstr "على تسجيل دخول العميل"
+
+
+msgid "On Client Registration"
+msgstr "على تسجيل العميل"
+
+
+msgid "On Guest Ticket"
+msgstr "على تذكرة ضيف"
+
+
+msgid "Only enter css code. Do not add any tag like %s"
+msgstr "قم فقط بإدخال رمز css. لا تضف أي علامة مثل %s"
+
+
+msgid "Positive Feedback Message"
+msgstr "رسالة ردود فعل إيجابية"
+
+
+msgid "Positive Message"
+msgstr "رسالة إيجابية"
+
+
+msgid "Registration  of visitor. If you disable this then visitor can't register. Only registered client can open ticket after login"
+msgstr "تسجيل الزائر. إذا قمت بتعطيل هذا لا يمكن للزائر التسجيل. يمكن للعميل المسجل فقط فتح التذاكر بعد تسجيل الدخول"
+
+
+msgid "Site Copyright Text"
+msgstr "نص حقوق النشر للموقع"
+
+
+msgid "Site Key"
+msgstr "مفتاح الموقع"
+
+
+msgid "The value is not a numeric"
+msgstr "القيمة ليست رقمية"
+
+
+msgid "Ticket File Upload"
+msgstr "تحميل ملف التذاكر"
+
+
+msgid "Ticket Settings"
+msgstr "إعدادات التذاكر"
+
+
+msgid "Time Format"
+msgstr "تنسيق الوقت"
+
+
+msgid "Value must be between 1 to 99"
+msgstr "يجب أن تتراوح القيمة من 1 إلى 99"
+
+
+msgid "Welcome & Footer Text"
+msgstr "مرحبًا وتذييلًا للنص"
+
+
+msgid "Welcome Background"
+msgstr "خلفية ترحيب"
+
+
+msgid "Welcome Message"
+msgstr "رسالة الترحيب"
+
+
+msgid "Welcome Text"
+msgstr "مرحبا النص"
+
+
+msgid "ex. 2"
+msgstr "السابق. 2"
+
+
+msgid "Successfully updated"
+msgstr "تم التحديث بنجاح"
+
+
+msgid "Language changed. Reloading"
+msgstr "تغيرت اللغة. إعادة"
+
+
+msgid "Download CSV"
+msgstr "تنزيل ملف CSV"
+
+
+msgid "No Record Found"
+msgstr "لا يوجد سجلات"
+
+
+msgid "Reload"
+msgstr "إعادة تحميل"
+
+
+msgid "Sign In"
+msgstr "تسجيل الدخول"
+
+
+msgid "Sign in to start your session"
+msgstr "تسجيل الدخول لبدء جلسة العمل الخاصة بك"
+
+
+msgid "Admin Panel"
+msgstr "لوحة الادارة"
+
+
+msgid "%s is invalid"
+msgstr "%s غير صالح"
+
+
+msgid "A ticket email has been sent to your email. Please check that"
+msgstr "تم إرسال بريد إلكتروني للبريد إلى بريدك الإلكتروني. يرجى التحقق من ذلك"
+
+
+msgid "Admin Notification Settings"
+msgstr "إعدادات إشعارات المسؤول"
+
+
+msgid "Are you sure to assign yourself?"
+msgstr "هل أنت متأكد من تعيين نفسك؟"
+
+
+msgid "Are you sure to assign?"
+msgstr "هل أنت متأكد من تعيين؟"
+
+
+msgid "Assign Me"
+msgstr "خصصني"
+
+
+msgid "Captcha Success"
+msgstr "نجاح كابتشا"
+
+
+msgid "Content"
+msgstr "يحتوى"
+
+
+msgid "Controller"
+msgstr "مراقب"
+
+
+msgid "Email Field Details"
+msgstr "تفاصيل حقل البريد الإلكتروني"
+
+
+msgid "Email Notification Settings"
+msgstr "إعدادات إشعارات البريد الإلكتروني"
+
+
+msgid "Email Notification Settions"
+msgstr "إعدادات إشعارات البريد الإلكتروني"
+
+
+msgid "Email Template updated successfully"
+msgstr "تم تحديث قالب البريد الإلكتروني بنجاح"
+
+
+msgid "Email template for  ANR"
+msgstr "قالب البريد الإلكتروني ل ANR"
+
+
+msgid "Enable Admin Notificaiton"
+msgstr "تمكين إعلام المسؤول"
+
+
+msgid "File Size"
+msgstr "حجم الملف"
+
+
+msgid "If you enable this then admin will get notification"
+msgstr "إذا قمت بتمكين هذا ، فسيحصل المشرف على إشعار"
+
+
+msgid "If you enable this then admin will get notification on ticket open"
+msgstr "إذا قمت بتمكين هذا ، فسيحصل المشرف على إشعار على تذكرة مفتوحة"
+
+
+msgid "If you enable this then admin will get notification on ticket user reply"
+msgstr "إذا قمت بتمكين هذا ، فسيحصل المشرف على إشعار على تذكرة مستخدم الرد"
+
+
+msgid "Logging in.."
+msgstr "تسجيل الدخول.."
+
+
+msgid "Name of ticket user"
+msgstr "اسم مستخدم التذكرة"
+
+
+msgid "New Ticket Opened"
+msgstr "تم فتح تذكرة جديدة"
+
+
+msgid "Notification Email"
+msgstr "البريد الإلكتروني الإخطار"
+
+
+msgid "Notification Settings"
+msgstr "إعدادات الإشعار"
+
+
+msgid "Notification Settions"
+msgstr "إعدادات الإشعار"
+
+
+msgid "On Admin/staff Reply"
+msgstr "على الادارة / الموظفين الرد"
+
+
+msgid "On Screen Notificaiton Settings"
+msgstr "على إعدادات إعلام الشاشة"
+
+
+msgid "On Ticket Open"
+msgstr "على التذكرة المفتوحة"
+
+
+msgid "On Ticket User Reply"
+msgstr "على تذكرة المستخدم رد"
+
+
+msgid "Page List"
+msgstr "قائمة الصفحة"
+
+
+msgid "Please wait"
+msgstr "أرجو الإنتظار"
+
+
+msgid "Replied Text"
+msgstr "أجاب النص"
+
+
+msgid "Reply text"
+msgstr "نص الرد"
+
+
+msgid "Resource"
+msgstr "مورد"
+
+
+msgid "Set Assign"
+msgstr "تعيين التعيين"
+
+
+msgid "Successfully added"
+msgstr "أضيف بنجاح"
+
+
+msgid "Template List"
+msgstr "قائمة القالب"
+
+
+msgid "Thank you, your ticket has been opened successfully"
+msgstr "شكرا لك ، لقد تم فتح تذكرتك بنجاح"
+
+
+msgid "Ticket Open By Guest"
+msgstr "تذكرة مفتوحة من قبل ضيف"
+
+
+msgid "Ticket Other's Info"
+msgstr "معلومات Ticket Other"
+
+
+msgid "Ticket Replied by : %s"
+msgstr "تذكرة رد من: %s"
+
+
+msgid "Ticket cateroty"
+msgstr "تذكرة cateroty"
+
+
+msgid "Ticket link"
+msgstr "رابط التذكرة"
+
+
+msgid "Ticket open or reply notification settings"
+msgstr "تذكرة فتح أو إخطار إعدادات الرد"
+
+
+msgid "Update Email Template"
+msgstr "تحديث قالب البريد الإلكتروني"
+
+
+msgid "User Ticket"
+msgstr "تذكرة المستخدم"
+
+
+msgid "User who replied"
+msgstr "العضو الذي رد"
+
+
+msgid "View Ticket Details"
+msgstr "عرض تفاصيل التذكرة"
+
+
+msgid "ex. email@domain.com"
+msgstr "السابق. email@domain.com"
+
+
+msgid "updated"
+msgstr "محدث"
+
+
+msgid "%s is not a valid URL"
+msgstr "%s ليس عنوان URL صالحًا"
+
+
+msgid "Admin Panel Language"
+msgstr "لغة لوحة المشرف"
+
+
+msgid "Admin will hear tone on notification if enabled"
+msgstr "سيسمع المشرف نغمة الإشعار إذا تم تمكينه"
+
+
+msgid "App Settings"
+msgstr "إعدادات التطبيقات"
+
+
+msgid "Application All Settings"
+msgstr "تطبيق جميع الإعدادات"
+
+
+msgid "Are you sure to dismiss?"
+msgstr "هل أنت متأكد من رفض؟"
+
+
+msgid "Authentication failed!. May be remote server rejected."
+msgstr "المصادقة فشلت!. قد يكون الخادم البعيد رفض."
+
+
+msgid "Button Color"
+msgstr "لون الزر"
+
+
+msgid "Button Text"
+msgstr "زر كتابة"
+
+
+msgid "Button Text Color"
+msgstr "زر لون النص"
+
+
+msgid "Button Txt"
+msgstr "زر كتابة"
+
+
+msgid "Button View"
+msgstr "عرض زر"
+
+
+msgid "Button image updated successfully"
+msgstr "تم تحديث صورة الزر بنجاح"
+
+
+msgid "Captcha is required"
+msgstr "مطلوب Captcha"
+
+
+msgid "Closed On"
+msgstr "أغلقت يوم"
+
+
+msgid "Current Status"
+msgstr "الحالة الحالية"
+
+
+msgid "Custom %s"
+msgstr "الجمارك"
+
+
+msgid "Default login system form won't not show if it enabled"
+msgstr "لن يتم عرض نموذج نظام تسجيل الدخول الافتراضي إذا تم تمكينه"
+
+
+msgid "Default login system form won't not show if it enabled, but Remote Login & Social login will show if those are enabled"
+msgstr "لن يتم عرض نموذج نظام تسجيل الدخول الافتراضي إذا تم تمكينه ، ولكن سيتم إظهار تسجيل الدخول عن بُعد وموقع تسجيل الدخول الاجتماعي إذا تم تمكينه"
+
+
+msgid "Disable Default Login"
+msgstr "تعطيل تسجيل الدخول الافتراضي"
+
+
+msgid "Disable Guest Open Popup"
+msgstr "تعطيل Guest Open Popup"
+
+
+msgid "Edit Remote Login"
+msgstr "تحرير تسجيل الدخول عن بعد"
+
+
+msgid "Email to Ticket"
+msgstr "البريد الإلكتروني إلى التذكرة"
+
+
+msgid "Enable Tone (Sound)"
+msgstr "تمكين نغمة (صوت)"
+
+
+msgid "Featured Video"
+msgstr "فيديو متميز"
+
+
+msgid "File Upload"
+msgstr "تحميل الملف"
+
+
+msgid "If you enable this then admin will hear tone on notification"
+msgstr "إذا قمت بتمكين هذا ، فسيسمع المسؤول نغمة الإشعار"
+
+
+msgid "If you enable this then guest user also get all priroty as dropdown option"
+msgstr "إذا قمت بتمكين هذا ، فسيحصل المستخدم الضيف أيضًا على جميع الأولويات كخيار منسدل"
+
+
+msgid "It is your remote server login URL. You can add extra parameter to detect, %s"
+msgstr "هو عنوان URL الخاص بتسجيل الدخول إلى خادم بعيد. يمكنك إضافة معلمة إضافية للاكتشاف ، %s"
+
+
+msgid "It is your remote server login URL. You can add extra parameter to detect, ex. %s"
+msgstr "هو عنوان URL الخاص بتسجيل الدخول إلى خادم بعيد. يمكنك إضافة معلمة إضافية للكشف ، على سبيل المثال. ٪ الصورة"
+
+
+msgid "It is your remote server login URL. You can add extra parameter to detect, ex. http://zyz.com?from=support-system"
+msgstr "هو عنوان URL الخاص بتسجيل الدخول إلى خادم بعيد. يمكنك إضافة معلمة إضافية للكشف ، على سبيل المثال. http://zyz.com؟from=support-system"
+
+
+msgid "It will redirect to home page within"
+msgstr "سوف يعيد التوجيه إلى الصفحة الرئيسية داخل"
+
+
+msgid "It will send this key in verification process as param"
+msgstr "سوف يرسل هذا المفتاح في عملية التحقق كمعالج"
+
+
+msgid "Keep empty if you don't want show any video"
+msgstr "تبقى فارغة إذا كنت لا تريد عرض أي فيديو"
+
+
+msgid "Last Replied On"
+msgstr "آخر رد في"
+
+
+msgid "Layout & Color"
+msgstr "تخطيط &الالوان"
+
+
+msgid "Log uploaded"
+msgstr "تم تحميل السجل"
+
+
+msgid "Login Email"
+msgstr "تسجيل الدخول (البريد الإلكتروني"
+
+
+msgid "Login Link"
+msgstr "رابط الدخول"
+
+
+msgid "Login URL"
+msgstr "عنوان URL لتسجيل الدخول"
+
+
+msgid "Login Using"
+msgstr "تسجيل الدخول باستخدام"
+
+
+msgid "NB. %s will be your server's api key, by this we validate the response"
+msgstr "NB. سيكون %s هو مفتاح واجهة برمجة التطبيقات لخادمك ، من خلال هذا نتحقق من صحة الرد"
+
+
+msgid "NB. %s will be your server's login token, by this it can validated the user"
+msgstr "NB. سيكون رمز %s رمز الدخول لتسجيل الدخول إلى الخادم الخاص بك ، وبذلك يمكن التحقق من صحة المستخدم"
+
+
+msgid "New Remote Login"
+msgstr "جديد عن بعد تسجيل الدخول"
+
+
+msgid "Normally visitor will show a popup it s/he doesn't logged in. If you don't want to show that then enable it"
+msgstr "عادةً ، سيظهر الزائر نافذة منبثقة لم يتم تسجيل دخوله. إذا كنت لا تريد إظهار ذلك ، فحينئذٍ يمكنك تمكينه"
+
+
+msgid "Notification Tone (Sound)"
+msgstr "نغمة التنبيه الصوت"
+
+
+msgid "Opened On"
+msgstr "افتتح"
+
+
+msgid "Our server will post to this URL with the response token.%s Post paramater will be look like %s"
+msgstr "سيرسل خادمنا إلى عنوان URL هذا برمز الاستجابة. %s ستظهر المعلمة مثل %s"
+
+
+msgid "Pay Now"
+msgstr "ادفع الآن"
+
+
+msgid "Payment Added"
+msgstr "تمت إضافة الدفعة"
+
+
+msgid "Preview"
+msgstr "معاينة"
+
+
+msgid "Private Key"
+msgstr "مفتاح سري"
+
+
+msgid "Remote Login"
+msgstr "الدخول عن بعد"
+
+
+msgid "Remote Login Error"
+msgstr "خطأ تسجيل الدخول عن بعد"
+
+
+msgid "Remote Login List"
+msgstr "قائمة تسجيل الدخول عن بعد"
+
+
+msgid "Remote Server Login"
+msgstr "دخول الخادم عن بعد"
+
+
+msgid "Remote_server"
+msgstr "السيرفر المتحكم"
+
+
+msgid "Request Count"
+msgstr "طلب العدد"
+
+
+msgid "Response Data Error"
+msgstr "خطأ في استجابة البيانات"
+
+
+msgid "Response URL"
+msgstr "عنوان URL للاستجابة"
+
+
+msgid "Same As Admin"
+msgstr "نفس المسؤول"
+
+
+msgid "Seconds"
+msgstr "ثواني"
+
+
+msgid "Select icon"
+msgstr "اختر ايقونة"
+
+
+msgid "Server Type"
+msgstr "نوع الخادم"
+
+
+msgid "Show all priroty on Guest Ticket"
+msgstr "إظهار كل الأولوية على Guest Guest"
+
+
+msgid "Site Language"
+msgstr "لغة الموقع"
+
+
+msgid "Site Theme Settings"
+msgstr "إعدادات استايل الموقع"
+
+
+msgid "Social Login Setting"
+msgstr "ضبط دخول وسائل التواصل الاجتماعي"
+
+
+msgid "Successfully Dismissed"
+msgstr "تم تجاهله بنجاح"
+
+
+msgid "Successfully deleted"
+msgstr "تم الحذف بنجاح"
+
+
+msgid "Successfully logged in"
+msgstr "تم تسجيل الدخول بنجاح"
+
+
+msgid "Successfully saved"
+msgstr "تم الحفظ بنجاح"
+
+
+msgid "Thank you for registering with us"
+msgstr "شكرا لتسجيلك معنا"
+
+
+msgid "Theme"
+msgstr "ستايل"
+
+
+msgid "This account has been temporary locked for 30 minutes, try again later or contact with admin to unlock"
+msgstr "تم قفل هذا الحساب مؤقتًا لمدة 30 دقيقة ، أو إعادة المحاولة لاحقًا أو الاتصال بالمشرف لإلغاء القفل"
+
+
+msgid "This servers's configuration"
+msgstr "تكوين هذه الخوادم"
+
+
+msgid "Ticket Email"
+msgstr "البريد الإلكتروني للتذكرة"
+
+
+msgid "Ticket Re-Opened"
+msgstr "إعادة فتح تذكرة"
+
+
+msgid "Unknown"
+msgstr "غير معروف"
+
+
+msgid "User Login Using"
+msgstr "دخول المستخدم باستخدام"
+
+
+msgid "Valid Url"
+msgstr "عنوان صالح"
+
+
+msgid "Validation URL"
+msgstr "عنوان التحقق من الصحة"
+
+
+msgid "Video"
+msgstr "فيديو"
+
+
+msgid "View Update Details"
+msgstr "عرض تفاصيل التحديث"
+
+
+msgid "Welcome to"
+msgstr "مرحبا بك في"
+
+
+msgid "Your server's redirect URL"
+msgstr "عنوان URL الخاص بإعادة توجيه الخادم الخاص بك"
+
+
+msgid "View All"
+msgstr "عرض الكل"
+
+
+msgid "%s replied a message"
+msgstr "أجب %s رسالة"
+
+
+msgid "API Name"
+msgstr "اسم واجهة برمجة التطبيقات"
+
+
+msgid "About Support System-help"
+msgstr "حول دعم نظام المساعدة"
+
+
+msgid "Agent Welcome Text"
+msgstr "وكيل مرحبا النص"
+
+
+msgid "All Paid Ticket"
+msgstr "جميع التذاكر المدفوعة"
+
+
+msgid "Analytics Gtag ID"
+msgstr "معرف Gtag Analytics"
+
+
+msgid "App User Details"
+msgstr "تفاصيل المستخدم التطبيق"
+
+
+msgid "Archive"
+msgstr "أرشيف"
+
+
+msgid "Are you sure to archive?"
+msgstr "هل أنت متأكد من أرشفة؟"
+
+
+msgid "Are you sure to archive? Archive is like Delete. You can inactive for temporary basis"
+msgstr "هل أنت متأكد من أرشفة؟ الأرشيف مثل حذف. يمكنك غير نشط على أساس مؤقت"
+
+
+msgid "Are you sure to archive? Archive is like as delete. If you want to do it for temporary, then set inactive status instead of archive. You cann&#96;t revert if you process it."
+msgstr "هل أنت متأكد من أرشفة؟ يشبه الأرشيف كحذف. إذا كنت تريد إجراء ذلك مؤقتًا ، فاضبط الحالة غير النشطة بدلاً من الوضع أرشيف لا يمكنك التراجع إذا"
+
+
+msgid "Are you sure to archive? Archive is like as delete. If you want to do it for temporary, then you can inactive this user."
+msgstr "هل أنت متأكد من أرشفة؟ يشبه الأرشيف كحذف. إذا كنت تريد إجراء ذلك مؤقتًا ، فيمكنك حينها تعطيل هذا المستخدم."
+
+
+msgid "Are you sure to archive? Archive is like as delete. It you want do it for temporary then you can inactive this user."
+msgstr "هل أنت متأكد من أرشفة؟ يشبه الأرشيف كحذف. تريد أن تفعل ذلك مؤقتًا ، فيمكنك حينها تعطيل هذا المستخدم."
+
+
+msgid "Are you sure to archive? Archive is like as delete. You can inactive for temporary basis"
+msgstr "هل أنت متأكد من أرشفة؟ يشبه الأرشيف كحذف. يمكنك غير نشط على أساس مؤقت"
+
+
+msgid "Are you sure to change chat status?"
+msgstr "هل أنت متأكد من تغيير حالة الدردشة؟"
+
+
+msgid "Are you sure to unlock?"
+msgstr "هل أنت متأكد من فتح؟"
+
+
+msgid "Asigned By"
+msgstr "عين من"
+
+
+msgid "Authentication failed!. May be you didn't authenticate."
+msgstr "المصادقة فشلت!. ربما لم تكن مصادقا."
+
+
+msgid "Best Ranker Wordpress tool"
+msgstr "أفضل أداة رانجر وورد"
+
+
+msgid "Browser"
+msgstr "المتصفح"
+
+
+msgid "Canned Message"
+msgstr "الرسالة المعلبة"
+
+
+msgid "Change Profile Photo"
+msgstr "تغيير صورة الملف الشخصي"
+
+
+msgid "Chat Canned Message"
+msgstr "دردشة الرسائل المعلبة"
+
+
+msgid "Chat Canned Msg List"
+msgstr "Chat Canned Msg List"
+
+
+msgid "Chat Online Status"
+msgstr "حالة الدردشة عبر الإنترنت"
+
+
+msgid "Chat Opening Text"
+msgstr "نص فتح الدردشة"
+
+
+msgid "Chat Panel"
+msgstr "لوحة الدردشة"
+
+
+msgid "Chat Receive Status"
+msgstr "حالة استقبال الدردشة"
+
+
+msgid "Chat Settings"
+msgstr "إعدادات المحادثة"
+
+
+msgid "Chat Status"
+msgstr "حالة الدردشة"
+
+
+msgid "Check On Submit"
+msgstr "تحقق على إرسال"
+
+
+msgid "Choose API"
+msgstr "اختر واجهة برمجة التطبيقات"
+
+
+msgid "Choose API from available APIs"
+msgstr "اختر واجهة برمجة التطبيقات من واجهات برمجة التطبيقات المتاحة"
+
+
+msgid "Choose Chat Type"
+msgstr "اختر نوع الدردشة"
+
+
+msgid "Choose Type or Category"
+msgstr "اختر النوع أو الفئة"
+
+
+msgid "Click here to watch the video tutorial"
+msgstr "انقر هنا لمشاهدة الفيديو التعليمي"
+
+
+msgid "Click on the Image to change. Best size is 250px x 200px"
+msgstr "انقر على الصورة للتغيير. أفضل حجم هو 250 بكسل × 200 بكسل"
+
+
+msgid "Client Profile"
+msgstr "صفحة الزبون الشخصية"
+
+
+msgid "Close Chat Status"
+msgstr "إغلاق حالة الدردشة"
+
+
+msgid "Closed Chat List"
+msgstr "قائمة الدردشة المغلقة"
+
+
+msgid "Closed Failed"
+msgstr "فشل مغلق"
+
+
+msgid "Closed Successfully"
+msgstr "مغلق بنجاح"
+
+
+msgid "Color Settings"
+msgstr "إعدادات الألوان"
+
+
+msgid "Comma( , ) separated. Ex: OptionA,OptionB,OptionC"
+msgstr "مفصولة بفواصل. مثال: OptionA ، OptionB ، OptionC"
+
+
+msgid "Do you want to take?"
+msgstr "هل تريد أن تأخذ؟"
+
+
+msgid "Download"
+msgstr "تحميل"
+
+
+msgid "Edit Ticket Reply"
+msgstr "تحرير تذكرة الرد"
+
+
+msgid "Email Password Reset Link"
+msgstr "البريد الإلكتروني إعادة تعيين كلمة المرور رابط"
+
+
+msgid "Enable"
+msgstr "مكن"
+
+
+msgid "Enable API Validation"
+msgstr "تمكين التحقق من صحة API"
+
+
+msgid "End Time"
+msgstr "وقت النهاية"
+
+
+msgid "Enter License Info"
+msgstr "أدخل معلومات الترخيص"
+
+
+msgid "Entry Date"
+msgstr "موعد الدخول"
+
+
+msgid "Envato Settings"
+msgstr "إعدادات Envato"
+
+
+msgid "Facebook Chat"
+msgstr "دردشة الفيسبوك"
+
+
+msgid "Facebook Chat Settings"
+msgstr "إعدادات دردشة فيسبوك"
+
+
+msgid "Facebook Page ID"
+msgstr "معرف صفحة فيسبوك"
+
+
+msgid "Failed to assigning you on this chat"
+msgstr "أخفق تعيينك في هذه الدردشة"
+
+
+msgid "Failed to update"
+msgstr "اخفاق التحديث"
+
+
+msgid "Field Label"
+msgstr "تسمية الميدان"
+
+
+msgid "File Settings"
+msgstr "إعدادات الملف"
+
+
+msgid "GUEST USER"
+msgstr "حساب زائر"
+
+
+msgid "Genaral"
+msgstr "جنرال لواء"
+
+
+msgid "Google Analytics"
+msgstr "تحليلات كوكل"
+
+
+msgid "Google Analytics Gtag ID"
+msgstr "معرف Google Analytics Gtag"
+
+
+msgid "Google Analytics Settings"
+msgstr "إعدادات تحليلات جوجل"
+
+
+msgid "Gtag ID"
+msgstr "معرف Gtag"
+
+
+msgid "Help Text"
+msgstr "نص المساعدة"
+
+
+msgid "How to use all feature of this support system"
+msgstr "كيفية استخدام كل ميزة نظام الدعم هذا"
+
+
+msgid "IMAP module is not activated in you php"
+msgstr "لم يتم تنشيط وحدة IMAP في فب"
+
+
+msgid "If you choose this then this field will be displayed on choosen category only"
+msgstr "إذا اخترت هذا ، فسيتم عرض هذا الحقل في الفئة المختارة فقط"
+
+
+msgid "If you enable this then the field will be check using selected API"
+msgstr "إذا قمت بتمكين هذا ، فسيتم التحقق من الحقل باستخدام واجهة برمجة التطبيقات المحددة"
+
+
+msgid "If you enable this then the value of this field is always be private"
+msgstr "إذا قمت بتمكين هذا ، تكون قيمة هذا الحقل خاصة دائمًا"
+
+
+msgid "If you enable this, the field value need to be valid on form submission. Otherwise you will get a button to check manually"
+msgstr "إذا قمت بتمكين هذا ، فيجب أن تكون قيمة الحقل صالحة عند تقديم النموذج. وإلا ستحصل على زر للتحقق يدويًا"
+
+
+msgid "If you want to set %s. Then please go to %s or  %s"
+msgstr "إذا كنت تريد تعيين %s. ثم انتقل إلى %s أو %s"
+
+
+msgid "Is Private"
+msgstr "هو خاص"
+
+
+msgid "It set a limit,how many chat a agent(Admin User) can take  simultaneously"
+msgstr "حدد حدًا ، كم من الدردشة يمكن أن يأخذها وكيل (مستخدم مسؤول) في وقت واحد"
+
+
+msgid "It will show when a agent start a chat session."
+msgstr "سيظهر عندما يبدأ الوكيل جلسة دردشة."
+
+
+msgid "It will show when a agent start a chat session. You can use some property which is given bello:"
+msgstr "سيظهر عندما يبدأ الوكيل جلسة دردشة. يمكنك استخدام بعض الممتلكات التي تعطى bello:"
+
+
+msgid "It will show when a agent start a chat session. You can use some property which is given bellow:"
+msgstr "سيظهر عندما يبدأ الوكيل جلسة دردشة. يمكنك استخدام بعض الممتلكات التي تعطى أدناه:"
+
+
+msgid "It will show when a user want to start chat"
+msgstr "سيظهر عندما يريد المستخدم بدء الدردشة"
+
+
+msgid "It will show when all user are offline"
+msgstr "وسوف تظهر عندما يكون كل مستخدم غير متصل"
+
+
+msgid "It will show when all user busy,"
+msgstr "سوف تظهر عندما يكون المستخدم مشغولاً"
+
+
+msgid "Item Purchase Code"
+msgstr "رمز شراء البند"
+
+
+msgid "Its the field label"
+msgstr "لها تسمية الحقل"
+
+
+msgid "Knowledge Search"
+msgstr "بحث المعرفة"
+
+
+msgid "Last 5 Closed Chat"
+msgstr "آخر 5 دردشة مغلقة"
+
+
+msgid "Last Change Date"
+msgstr "تاريخ التغيير الأخير"
+
+
+msgid "Last Date"
+msgstr "اخر موعد"
+
+
+msgid "Latest Knowledge"
+msgstr "أحدث المعرفة"
+
+
+msgid "Load More"
+msgstr "تحميل المزيد"
+
+
+msgid "Loading Chat Data Please wait.."
+msgstr "تحميل بيانات الدردشة يرجى الانتظار .."
+
+
+msgid "Locked_user_confirm"
+msgstr "Locked_user_confirm"
+
+
+msgid "Login using social"
+msgstr "تسجيل الدخول باستخدام الاجتماعية"
+
+
+msgid "Low Priority"
+msgstr "أولوية منخفضة"
+
+
+msgid "Max chat count"
+msgstr "ماكس دردشة عدد"
+
+
+msgid "Max. Chat Per Agent"
+msgstr "ماكس. الدردشة لكل وكيل"
+
+
+msgid "Max. Chat Per Agent %s"
+msgstr "ماكس. الدردشة لكل عامل %s"
+
+
+msgid "Max. Chat Per Agent(simultaneously)"
+msgstr "ماكس. الدردشة لكل عميل (في وقت واحد)"
+
+
+msgid "Message List"
+msgstr "قائمة الرسائل"
+
+
+msgid "Missing chat id"
+msgstr "معرف الدردشة مفقود"
+
+
+msgid "My Closed Ticket"
+msgstr "بلدي تذكرة مغلقة"
+
+
+msgid "My Paid Tickets"
+msgstr "تذاكري المدفوعة"
+
+
+msgid "Name of user"
+msgstr "اسم المستخدم"
+
+
+msgid "Need Support? Create a Ticket."
+msgstr "بحاجة إلى دعم؟ إنشاء تذكرة."
+
+
+msgid "New Chat Canned Message"
+msgstr "الدردشة الجديدة المعلبة الرسالة"
+
+
+msgid "New Chat Canned Msg"
+msgstr "الدردشة الجديدة المعلبة Msg"
+
+
+msgid "New Chat Request"
+msgstr "طلب دردشة جديد"
+
+
+msgid "New Custom Field"
+msgstr "حقل مخصص جديد"
+
+
+msgid "New Product"
+msgstr "منتج جديد"
+
+
+msgid "No result found"
+msgstr "لم يتم العثور على نتائج"
+
+
+msgid "Offline Text"
+msgstr "غير متصل النص"
+
+
+msgid "On Screeen Notification Settings"
+msgstr "على إعدادات إعلام الشاشة"
+
+
+msgid "On Screeen Notification Settions"
+msgstr "في إعدادات إعلام الشاشة"
+
+
+msgid "Only profile image updated"
+msgstr "تم تحديث صورة الملف الشخصي فقط"
+
+
+msgid "Open Text"
+msgstr "فتح النص"
+
+
+msgid "Open Ticket With Less Priority"
+msgstr "فتح تذكرة مع اولوية أقل"
+
+
+msgid "Page Builder"
+msgstr "منشئ الصفحة"
+
+
+msgid "Page Editor"
+msgstr "محرر الصفحة"
+
+
+msgid "Password 18DDC9E196"
+msgstr "كلمة المرور 18DDC9E196"
+
+
+msgid "Password Successfully Updated"
+msgstr "تم تحديث كلمة المرور بنجاح"
+
+
+msgid "Please Rate it !!"
+msgstr "يرجى معدل ذلك!"
+
+
+msgid "Please put this into your facebook page settings"
+msgstr "يرجى وضع هذا في إعدادات صفحة الفيسبوك الخاصة بك"
+
+
+msgid "Priority"
+msgstr "أفضلية"
+
+
+msgid "Products"
+msgstr "منتجات"
+
+
+msgid "Profile Photo"
+msgstr "صورة الملف الشخصي"
+
+
+msgid "Queue Text"
+msgstr "قائمة انتظار النص"
+
+
+msgid "Rate it"
+msgstr "قيمه"
+
+
+msgid "Replied"
+msgstr "أجاب"
+
+
+msgid "Replied By"
+msgstr "رد بواسطة"
+
+
+msgid "Replied By Type"
+msgstr "رد حسب النوع"
+
+
+msgid "Replied Successfully"
+msgstr "أجاب بنجاح"
+
+
+msgid "Reply Time"
+msgstr "وقت الرد"
+
+
+msgid "Reset Password"
+msgstr "إعادة تعيين كلمة المرور"
+
+
+msgid "Screen Notificaiton Settings"
+msgstr "إعدادات إعلام الشاشة"
+
+
+msgid "Search Result"
+msgstr "نتيجة البحث"
+
+
+msgid "Seen by ticket owner"
+msgstr "ينظر إليها من قبل صاحب التذاكر"
+
+
+msgid "Set Category"
+msgstr "تعيين الفئة"
+
+
+msgid "Set New Password"
+msgstr "تعيين كلمة مرور جديدة"
+
+
+msgid "Set Passowrd"
+msgstr "ضبط كلمة السر"
+
+
+msgid "Set Password"
+msgstr "ضبط كلمة السر"
+
+
+msgid "Set User Password"
+msgstr "ضع كلمة سر للمستخدم"
+
+
+msgid "Site Info"
+msgstr "معلومات الموقع"
+
+
+msgid "Social Login Error"
+msgstr "خطأ في تسجيل الدخول الاجتماعي"
+
+
+msgid "Start Time"
+msgstr "وقت البدء"
+
+
+msgid "Successfully Archived"
+msgstr "تم أرشفة بنجاح"
+
+
+msgid "Successfully assign"
+msgstr "تعيين بنجاح"
+
+
+msgid "Successfully assigned you"
+msgstr "تم تعيينك بنجاح"
+
+
+msgid "Successfully closed"
+msgstr "أغلقت بنجاح"
+
+
+msgid "Successfully unlocked"
+msgstr "مقفلة بنجاح"
+
+
+msgid "The text will be show like this text after the field"
+msgstr "سيتم عرض النص مثل هذا النص بعد الحقل"
+
+
+msgid "The user is already archived. You can't active or inactive"
+msgstr "تم أرشفة المستخدم بالفعل. لا يمكنك نشط أو غير نشط"
+
+
+msgid "The user who replaied last"
+msgstr "المستخدم الذي ردت آخر"
+
+
+msgid "This chat request has been accepted by %s"
+msgstr "تم قبول طلب الدردشة هذا بواسطة %s"
+
+
+msgid "This chat request has been accepted by Sarwar Hasan"
+msgstr "تم قبول طلب الدردشة هذا بواسطة Sarwar Hasan"
+
+
+msgid "Ticket Form Category"
+msgstr "فئة نموذج التذاكر"
+
+
+msgid "Ticket Opened"
+msgstr "فتح تذكرة"
+
+
+msgid "Ticket Payment"
+msgstr "دفع التذاكر"
+
+
+msgid "Ticket Priority"
+msgstr "أولوية تذكرة"
+
+
+msgid "Ticket open time in app timezone (UTC)"
+msgstr "وقت فتح التذكرة في منطقة توقيت التطبيق (UTC)"
+
+
+msgid "Ticket owner doesn't seen"
+msgstr "مالك التذاكر لا يرى"
+
+
+msgid "Ticket owner seen"
+msgstr "صاحب تذكرة المشاهدة"
+
+
+msgid "Ticket reply saved error"
+msgstr "تم حفظ خطأ تذكرة الرد"
+
+
+msgid "Ticket_confirm"
+msgstr "تأكيد تذكرة"
+
+
+msgid "To enable chat"
+msgstr "لتمكين الدردشة"
+
+
+msgid "To enable facebook messenger chat"
+msgstr "لتمكين دردشة رسول فيسبوك"
+
+
+msgid "Top Priority"
+msgstr "الاولوية القصوى"
+
+
+msgid "Unlock"
+msgstr "فتح"
+
+
+msgid "Unseened by ticket owner"
+msgstr "لم يره صاحب التذكرة"
+
+
+msgid "Updated successfully"
+msgstr "تم التحديث بنجاح"
+
+
+msgid "Use this as your confirmation url into your envato app register page."
+msgstr "استخدم هذا كعنوان url للتأكيد في صفحة سجل تطبيق envato."
+
+
+msgid "User Info"
+msgstr "معلومات المستخدم"
+
+
+msgid "User Password"
+msgstr "كلمة مرور المستخدم"
+
+
+msgid "User login information"
+msgstr "معلومات تسجيل دخول المستخدم"
+
+
+msgid "View"
+msgstr "رأي"
+
+
+msgid "WP Best Ranker"
+msgstr "الفسفور الابيض أفضل رتبة"
+
+
+msgid "WP Rank Ninja"
+msgstr "الفسفور الابيض رتبة النينجا"
+
+
+msgid "Web Chat"
+msgstr "الدردشة على شبكة الإنترنت"
+
+
+msgid "Web Chat Settings"
+msgstr "إعدادات الدردشة على شبكة الإنترنت"
+
+
+msgid "Would You Please Rate it?"
+msgstr "هل من فضلك قيمها؟"
+
+
+msgid "Write here"
+msgstr "اكتب هنا"
+
+
+msgid "YYYY-MM-DD"
+msgstr "YYYY-MM-DD"
+
+
+msgid "You can use some property which is given bellow:"
+msgstr "يمكنك استخدام بعض الممتلكات التي ترد أدناه:"
+
+
+msgid "You can't set pro version now. Pro version is coming soon. Please choose default chat now"
+msgstr "لا يمكنك تعيين نسخة للمحترفين الآن. نسخة برو قادمة قريبا. يرجى اختيار الدردشة الافتراضية الآن"
+
+
+msgid "You have no notifications right now"
+msgstr "ليس لديك أي إشعارات في الوقت الحالي"
+
+
+msgid "Your Domain URL"
+msgstr "عنوان المجال الخاص بك"
+
+
+msgid "[GUEST USER]"
+msgstr "[حساب زائر]"
+
+
+msgid "agent_welcome_text"
+msgstr "agent_welcome_text"
+
+
+msgid "e"
+msgstr "البريد"
+
+
+msgid "ex. 5"
+msgstr "السابق. 5"
+
+
+msgid "snippets"
+msgstr "قصاصات"
+
+
+msgid "to see the video tutorial"
+msgstr "لمشاهدة الفيديو التعليمي"
+
+
+msgid "typing"
+msgstr "الكتابة"
+
+
+msgid "%.2f"
+msgstr "٪ .2f"
+
+
+msgid "%s is already exists"
+msgstr "%s موجود بالفعل"
+
+
+msgid "A  ticket reply has been received from ticket user"
+msgstr "تم استلام رد تذكرة من مستخدم التذاكر"
+
+
+msgid "A new ticket is assigned to you"
+msgstr "يتم تخصيص تذكرة جديدة لك"
+
+
+msgid "A new ticket is received please assign"
+msgstr "تم استلام تذكرة جديدة يرجى التعيين"
+
+
+msgid "A reset link has been sent to your email address. Please check that"
+msgstr "تم إرسال رابط إعادة التعيين إلى عنوان بريدك الإلكتروني. يرجى التحقق من ذلك"
+
+
+msgid "Add"
+msgstr "إضافة"
+
+
+msgid "Add Another File"
+msgstr "إضافة ملف آخر"
+
+
+msgid "Add Note"
+msgstr "اضف ملاحظة"
+
+
+msgid "Admin Notes"
+msgstr "ملاحظات المسؤول"
+
+
+msgid "Admin ticket creation"
+msgstr "إنشاء تذكرة المسؤول"
+
+
+msgid "All Categories"
+msgstr "جميع الفئات"
+
+
+msgid "All Category"
+msgstr "كل الفئة"
+
+
+msgid "Application"
+msgstr "الوضعية"
+
+
+msgid "Are you sure to delete attached file (%s)?"
+msgstr "هل أنت متأكد من حذف الملف المرفق ( %s)؟"
+
+
+msgid "Are you sure to delete attached file?"
+msgstr "هل أنت متأكد من حذف الملف المرفق؟"
+
+
+msgid "Are you sure to delete feature image?"
+msgstr "هل أنت متأكد من حذف صورة الميزة؟"
+
+
+msgid "Assign On Ticket"
+msgstr "تعيين على تذكرة"
+
+
+msgid "Attach more file"
+msgstr "إرفاق المزيد من الملفات"
+
+
+msgid "Attached"
+msgstr "تعلق"
+
+
+msgid "Attached file"
+msgstr "ملف مرفق"
+
+
+msgid "Authentication Error"
+msgstr "خطأ مصادقة"
+
+
+msgid "Auto Closing Rule"
+msgstr "إغلاق السيارات القاعدة"
+
+
+msgid "Auto assign equally based on current month assigning"
+msgstr "تعيين تلقائي بالتساوي على أساس تعيين الشهر الحالي"
+
+
+msgid "Based on ticket assigning rule"
+msgstr "بناء على حكم تخصيص التذاكر"
+
+
+msgid "Button Icon"
+msgstr "أيقونة زر"
+
+
+msgid "Cat Ids"
+msgstr "معرفات القط"
+
+
+msgid "Change Category"
+msgstr "تغيير الفئة"
+
+
+msgid "Change Category of ticket: T6DD28E9B-012-1P9"
+msgstr "تغيير فئة التذكرة: T6DD28E9B-012-1P9"
+
+
+msgid "Change Category of ticket: T84B12BAE-001-ZCO"
+msgstr "تغيير فئة التذكرة: T84B12BAE-001-ZCO"
+
+
+msgid "Chat Auto Close"
+msgstr "الدردشة إغلاق تلقائي"
+
+
+msgid "Chat Auto Close Interval"
+msgstr "الدردشة الفاصل الزمني للإغلاق التلقائي"
+
+
+msgid "Chat Background Pattern"
+msgstr "نمط الدردشة الخلفية"
+
+
+msgid "Chat Button Icon"
+msgstr "زر الدردشة أيقونة"
+
+
+msgid "Chat Closing Text"
+msgstr "الدردشة إغلاق النص"
+
+
+msgid "Chat Logo"
+msgstr "دردشة الشعار"
+
+
+msgid "Chat Tag Line"
+msgstr "دردشة خط العلامة"
+
+
+msgid "Chat Title"
+msgstr "عنوان الدردشة"
+
+
+msgid "Chat Window and Button Color"
+msgstr "نافذة الدردشة ولون زر"
+
+
+msgid "Chat closing interval"
+msgstr "دردشة الختام الفاصل"
+
+
+msgid "Chat has been auto closed by system"
+msgstr "تم إغلاق الدردشة تلقائيًا بواسطة النظام"
+
+
+msgid "Chat main color"
+msgstr "دردشة اللون الرئيسي"
+
+
+msgid "Chat will be closed which is inactive for entered value. Enter 0 to disable auto close"
+msgstr "سيتم إغلاق الدردشة وهو غير نشط للقيمة المدخلة. أدخل 0 لتعطيل الإغلاق التلقائي"
+
+
+msgid "Choose Category"
+msgstr "اختر الفئة"
+
+
+msgid "Choose Pattern"
+msgstr "اختيار نمط"
+
+
+msgid "Choose Staff"
+msgstr "اختيار الموظفين"
+
+
+msgid "Choose chat button icon"
+msgstr "اختر رمز زر الدردشة"
+
+
+msgid "Close ticket which has been inactive for"
+msgstr "إغلاق تذكرة التي كانت غير نشطة ل"
+
+
+msgid "Close ticket which is inactivated for"
+msgstr "إغلاق تذكرة التي يتم تعطيل ل"
+
+
+msgid "Closing Message"
+msgstr "الرسالة الختامية"
+
+
+msgid "Closing Rule"
+msgstr "إغلاق القاعدة"
+
+
+msgid "Closing Text"
+msgstr "إغلاق النص"
+
+
+msgid "Currency"
+msgstr "دقة"
+
+
+msgid "Custom_field"
+msgstr "حقل مخصص"
+
+
+msgid "Delete failed"
+msgstr "فشل الحذف"
+
+
+msgid "Demo Mode"
+msgstr "الوضع التجريبي"
+
+
+msgid "Disable Knowledge Stat In Homepage"
+msgstr "تعطيل المعرفة ستات في الصفحة الرئيسية"
+
+
+msgid "Disable knowledge statistics in home page"
+msgstr "تعطيل إحصاءات المعرفة في الصفحة الرئيسية"
+
+
+msgid "Edit Ticket Assign Rule"
+msgstr "تحرير قاعدة تخصيص التذاكر"
+
+
+msgid "Email template for  AAT"
+msgstr "قالب البريد الإلكتروني ل AAT"
+
+
+msgid "Email template for  TAC"
+msgstr "قالب البريد الإلكتروني ل TAC"
+
+
+msgid "Enable Auto Close"
+msgstr "تمكين إغلاق تلقائي"
+
+
+msgid "Enable this to disable %s,%s,%s in homepage"
+msgstr "تمكين هذا لتعطيل %s ، %s ، %s في الصفحة الرئيسية"
+
+
+msgid "Files:"
+msgstr "ملفات:"
+
+
+msgid "Forgot Password"
+msgstr "هل نسيت كلمة المرور"
+
+
+msgid "Go to Login"
+msgstr "الذهاب إلى تسجيل الدخول"
+
+
+msgid "Hour"
+msgstr "ساعة"
+
+
+msgid "If you don't know how you will configure the Facebook Page settings then"
+msgstr "إذا كنت لا تعرف كيف ستقوم بتكوين إعدادات صفحة Facebook بعد ذلك"
+
+
+msgid "If you enable it, then inactive ticket will be closed automatically by auto closing rule"
+msgstr "إذا قمت بتمكينه ، فسيتم إغلاق التذكرة غير النشطة تلقائيًا عن طريق قاعدة الإغلاق التلقائي"
+
+
+msgid "If you enable this then assigned user will get notification on ticket assigning"
+msgstr "إذا قمت بتمكين هذا ، فسيحصل المستخدم المعين على إشعار بشأن تعيين التذكرة"
+
+
+msgid "Inactive Interval"
+msgstr "فاصل غير نشط"
+
+
+msgid "Inactive Interval min"
+msgstr "غير نشط الفاصل الزمني دقيقة"
+
+
+msgid "It set a limit,how many chat per agent(Admin User) can take  simultaneously"
+msgstr "حدد حدًا ، كم من الدردشة لكل وكيل (مستخدم مسؤول) يمكن أن يأخذها في وقت واحد"
+
+
+msgid "It will display in chat window"
+msgstr "سيتم عرضه في نافذة الدردشة"
+
+
+msgid "It will redirect within"
+msgstr "سوف إعادة توجيه داخل"
+
+
+msgid "It will show when all agent close the chat,"
+msgstr "سيظهر عندما يقوم كل عميل بإغلاق الدردشة ،"
+
+
+msgid "Knowledge Categories"
+msgstr "فئات المعرفة"
+
+
+msgid "Knowledge attached file"
+msgstr "ملف المعرفة المرفقة"
+
+
+msgid "Knowledge feature image"
+msgstr "صورة ميزة المعرفة"
+
+
+msgid "Main color of chat window."
+msgstr "اللون الرئيسي من نافذة الدردشة."
+
+
+msgid "N B. If you select Facebook Chat then you have to reply form Facebook Page Manager App or from Facebook. You can't reply from this app"
+msgstr "N B. إذا قمت بتحديد Facebook Chat ، فيجب عليك الرد على نموذج Facebook Page Manager أو من Facebook. لا يمكنك الرد من هذا التطبيق"
+
+
+msgid "Name of ticket assigned user"
+msgstr "اسم تذكرة المستخدم المعين"
+
+
+msgid "New Admin Note"
+msgstr "ملاحظة المسؤول الجديد"
+
+
+msgid "New Ticket Assign Rule"
+msgstr "قاعدة تخصيص تذكرة جديدة"
+
+
+msgid "New message or chat"
+msgstr "رسالة جديدة أو الدردشة"
+
+
+msgid "New ticket assigned"
+msgstr "تم تخصيص تذكرة جديدة"
+
+
+msgid "New ticket assigned by you"
+msgstr "تذكرة جديدة تم تخصيصها بواسطتك"
+
+
+msgid "New ticket received"
+msgstr "تلقى تذكرة جديدة"
+
+
+msgid "No note founds"
+msgstr "لم يتم العثور على مذكرة"
+
+
+msgid "No ticket open by %s"
+msgstr "لا توجد تذكرة مفتوحة بواسطة %s"
+
+
+msgid "Note"
+msgstr "ملحوظة"
+
+
+msgid "Note On"
+msgstr "ملاحظة على"
+
+
+msgid "Notification List"
+msgstr "قائمة الإخطار"
+
+
+msgid "On Ticket Assign"
+msgstr "على تذكرة تخصيص"
+
+
+msgid "Password changed successfully"
+msgstr "تم تغيير الرقم السري بنجاح"
+
+
+msgid "Password info"
+msgstr "معلومات كلمة المرور"
+
+
+msgid "Payment Amount (%s)"
+msgstr "مبلغ الدفع ( %s)"
+
+
+msgid "Payment Amount(%s)"
+msgstr "مبلغ الدفع ( %s)"
+
+
+msgid "Permission Denied or logged out."
+msgstr "تم رفض الإذن أو تسجيل الخروج."
+
+
+msgid "Please read it first"
+msgstr "يرجى قراءتها أولا"
+
+
+msgid "Popular Knowledge"
+msgstr "المعرفة الشعبية"
+
+
+msgid "Recover Password"
+msgstr "إستعادة كلمة المرور"
+
+
+msgid "Ref Id"
+msgstr "المرجع معرف"
+
+
+msgid "Ref Type"
+msgstr "المرجع النوع"
+
+
+msgid "Reset failed try again"
+msgstr "إعادة تعيين فشلت المحاولة مرة أخرى"
+
+
+msgid "Rule Id"
+msgstr "معرف القاعدة"
+
+
+msgid "Rule Type"
+msgstr "نوع القاعدة"
+
+
+msgid "SYSTEM"
+msgstr "النظام"
+
+
+msgid "Select Category"
+msgstr "اختر الفئة"
+
+
+msgid "Select Role"
+msgstr "اختر الدور"
+
+
+msgid "Select User"
+msgstr "اختر المستخدم"
+
+
+msgid "Select User/Agent/Supervisor"
+msgstr "حدد المستخدم / الوكيل / المشرف"
+
+
+msgid "Selected agent/supervisor/admin will be notified on new ticket"
+msgstr "سيتم إخطار الوكيل / المشرف / المسؤول المختار على التذكرة الجديدة"
+
+
+msgid "Selected agent/supervisor/admin will be notified on new ticket assigning"
+msgstr "سيتم إخطار الوكيل / المشرف / المسؤول المختار عند تخصيص تذكرة جديدة"
+
+
+msgid "Successfully assigned"
+msgstr "تم التعيين بنجاح"
+
+
+msgid "Test Knowledge"
+msgstr "اختبار المعرفة"
+
+
+msgid "Test attachedxcx"
+msgstr "اختبار attachxcx"
+
+
+msgid "The ticket will be close which is inactive for client response"
+msgstr "سيتم إغلاق التذكرة وهو غير نشط لاستجابة العميل"
+
+
+msgid "The update has been disabled in DEMO MODE"
+msgstr "تم تعطيل التحديث في MEME التجريبي"
+
+
+msgid "The user who reopen this ticket"
+msgstr "المستخدم الذي أعاد فتح هذه البطاقة"
+
+
+msgid "This user can be agent/supervisor/admin"
+msgstr "هذا المستخدم يمكن أن يكون وكيل / مشرف / مشرف"
+
+
+msgid "Ticket Assign Rule"
+msgstr "قاعدة تخصيص التذاكر"
+
+
+msgid "Ticket Assign Rule List"
+msgstr "قائمة قاعدة تخصيص التذاكر"
+
+
+msgid "Ticket Closing Message"
+msgstr "رسالة إغلاق التذاكر"
+
+
+msgid "Ticket Closing Message defined in Ticket settings"
+msgstr "رسالة إغلاق تذكرة محددة في إعدادات التذاكر"
+
+
+msgid "Ticket Feedback Buttons"
+msgstr "أزرار ملاحظات التذاكر"
+
+
+msgid "Ticket Open By Admin"
+msgstr "تذكرة مفتوحة بواسطة الادارية"
+
+
+msgid "Ticket Payment Process"
+msgstr "عملية دفع التذاكر"
+
+
+msgid "Ticket user  replied"
+msgstr "أجاب المستخدم تذكرة"
+
+
+msgid "Ticket_assign_rule"
+msgstr "Ticket_assign_rule"
+
+
+msgid "Timezone updated successfully"
+msgstr "تم تحديث المنطقة الزمنية بنجاح"
+
+
+msgid "Title :"
+msgstr "عنوان :"
+
+
+msgid "To see all settings effect on site, Please logout this session or try with other bowser. If admin logged in then you won't see the chat button"
+msgstr "لرؤية جميع إعدادات التأثير على الموقع ، يرجى تسجيل الخروج من هذه الجلسة أو المحاولة مع عربة أخرى إذا قام المسؤول بتسجيل الدخول ، فلن ترى زر ا"
+
+
+msgid "To see all settings effect on site, please logout admin user or try with other browser. If admin logged in then you won't see the chat button"
+msgstr "لرؤية جميع إعدادات التأثير على الموقع ، يرجى تسجيل الخروج من مستخدم المشرف أو المحاولة مع متصفح آخر. إذا قام المسؤول بتسجيل الدخول ، فلن ترى"
+
+
+msgid "User Or Role"
+msgstr "المستخدم أو الدور"
+
+
+msgid "View Closing Email Template"
+msgstr "عرض إغلاق قالب البريد الإلكتروني"
+
+
+msgid "You have assigned self to a ticket"
+msgstr "لقد خصصت لنفسك تذكرة"
+
+
+msgid "You have been replied a ticket"
+msgstr "لقد تم الرد على تذكرة"
+
+
+msgid "You replied a ticket"
+msgstr "أجبت تذكرة"
+
+
+msgid "Your password has been changed successfully"
+msgstr "تم تغيير كلمة مرورك بنجاح"
+
+
+msgid "hours"
+msgstr "ساعات"
+
+
+msgid "second(s)"
+msgstr "الثانية (الصورة)"
+
+
+msgid "to view the ticket assigning rule"
+msgstr "لعرض قاعدة تعيين التذكرة"
+
+
+msgid "Assign user"
+msgstr "تعيين المستخدم"
+
+
+msgid "Bad, dissatisfied"
+msgstr "سيئة ، غير راضية"
+
+
+msgid "Both"
+msgstr "على حد سواء"
+
+
+msgid "Closed"
+msgstr "مغلق"
+
+
+msgid "DB Query"
+msgstr "استعلام DB"
+
+
+msgid "Edit Chat Canned Message"
+msgstr "تحرير الدردشة الرسالة المعلبة"
+
+
+msgid "Edit Menu"
+msgstr "عدل القائمة"
+
+
+msgid "Ex. http://xyz.com"
+msgstr "السابق. http://xyz.com"
+
+
+msgid "Failed"
+msgstr "فشل"
+
+
+msgid "Feedback message"
+msgstr "رسالة ردود الفعل"
+
+
+msgid "Guest"
+msgstr "زائر"
+
+
+msgid "Guest Ticket User"
+msgstr "مستخدم تذكرة ضيف"
+
+
+msgid "High"
+msgstr "متوسط"
+
+
+msgid "Icon"
+msgstr "أيقونة"
+
+
+msgid "In Progress"
+msgstr "في تقدم"
+
+
+msgid "Is New Window"
+msgstr "هو نافذة جديدة"
+
+
+msgid "Leave as Current"
+msgstr "ترك الحالي"
+
+
+msgid "Loading"
+msgstr "جار التحميل"
+
+
+msgid "Low"
+msgstr "منخفض"
+
+
+msgid "Medium"
+msgstr "متوسط"
+
+
+msgid "My Assigned All Tickets"
+msgstr "بلدي المعينة جميع التذاكر"
+
+
+msgid "New"
+msgstr "الجديد"
+
+
+msgid "New Menu"
+msgstr "قائمة جديدة"
+
+
+msgid "No search result found"
+msgstr "لم يتم العثور على نتيجة بحث"
+
+
+msgid "Not Found"
+msgstr "غير معثور عليه"
+
+
+msgid "Notice_confirm"
+msgstr "Notice_confirm"
+
+
+msgid "Only On Knowledge"
+msgstr "فقط على المعرفة"
+
+
+msgid "Only on Ticket"
+msgstr "فقط على التذاكر"
+
+
+msgid "Page %s of %s"
+msgstr "صفحة %s من %s"
+
+
+msgid "Paid"
+msgstr "دفع"
+
+
+msgid "Pending"
+msgstr "قيد الانتظار"
+
+
+msgid "Please write a comment on us here"
+msgstr "يرجى كتابة تعليق علينا هنا"
+
+
+msgid "Refunded"
+msgstr "ردها"
+
+
+msgid "Show Ticket"
+msgstr "عرض تذكرة"
+
+
+msgid "Staff"
+msgstr "العاملين"
+
+
+msgid "Text Icon"
+msgstr "أيقونة النص"
+
+
+msgid "Thank you for your feedback"
+msgstr "شكرا لك على ملاحظاتك"
+
+
+msgid "Thank you for your feedback. It will help us."
+msgstr "شكرا لك على ملاحظاتك. سوف يساعدنا."
+
+
+msgid "The website address is not valid"
+msgstr "عنوان موقع الويب غير صالح"
+
+
+msgid "URL"
+msgstr "URL"
+
+
+msgid "Urgent"
+msgstr "العاجلة"
+
+
+msgid "View %s - %s of %s"
+msgstr "عرض %s - %s من %s"
+
+
+msgid "Well, satisfied"
+msgstr "حسنا ، راضية"
+
+
+msgid "Would you please share your experience with us?"
+msgstr "هل يمكنك مشاركة تجربتك معنا؟"
+
+
+msgid "You are not authorizse to see this ticket"
+msgstr "غير مصرح لك بمشاهدة هذه التذكرة"
+
+
+msgid "day"
+msgstr "يوم"
+
+
+msgid "days"
+msgstr "أيام"
+
+
+msgid "minute"
+msgstr "اللحظة"
+
+
+msgid "minutes"
+msgstr "الدقائق"
+
+
+msgid "month"
+msgstr "شهر"
+
+
+msgid "months"
+msgstr "الشهور"
+
+
+msgid "second"
+msgstr "ثانيا"
+
+
+msgid "week"
+msgstr "أسبوع"
+
+
+msgid "weeks"
+msgstr "أسابيع"
+
+
+msgid "year"
+msgstr "عام"
+
+
+msgid "years"
+msgstr "سنوات"
+
+
+msgid "ago"
+msgstr "منذ"
+
+
+msgid "Ticket user(%s) replied"
+msgstr "أجاب مستخدم التذاكر ( %s)"
+
+
+msgid "No category found"
+msgstr "لم يتم العثور على الفئة"
+
+
+msgid "Ticket Reply"
+msgstr "الرد تذكرة"
+
+
+msgid "Invalid Information"
+msgstr "معلومات غير صالحة"
+
+
+msgid "Captcha Error"
+msgstr "خطأ في كلمة التحقق"
+
+
+msgid "Assign self"
+msgstr "تكليف النفس"
+
+
+msgid "Assign user %s"
+msgstr "عيّن المستخدم %s"
+
+
+msgid "Choose country block rule"
+msgstr "اختر قاعدة كتلة البلد"
+
+
+msgid "Choose.."
+msgstr "أختر.."
+
+
+msgid "Country Block Rule"
+msgstr "قاعدة كتلة البلد"
+
+
+msgid "Country Block Settings"
+msgstr "إعدادات كتلة البلد"
+
+
+msgid "Country List"
+msgstr "قائمة الدول"
+
+
+msgid "Enter 2 digit Country Code(ex. US,CA,BD), Separated by comma"
+msgstr "أدخل رمز البلد المكون من رقمين (على سبيل المثال ، الولايات المتحدة ، كاليفورنيا ، BD) ، مفصولة بفاصلة"
+
+
+msgid "If you enable it then app check country for allow or block."
+msgstr "إذا قمت بتمكينه ، فقم بالتحقق من تطبيق البلد للسماح به أو حظره."
+
+
+msgid "No user found with this email address"
+msgstr "لم يتم العثور على أي مستخدم بعنوان البريد الإلكتروني هذا"
+
+
+msgid "Separated by comma"
+msgstr "مفصولة بفاصلة"
+
+
+msgid "Seperated by comma"
+msgstr "مفصولة بفاصلة"
+
+
+msgid "simultaneously"
+msgstr "الوقت ذاته"
+
+
+msgid "%d MIN"
+msgstr "٪ d MIN"
+
+
+msgid "Accept"
+msgstr "قبول"
+
+
+msgid "Access denied for hacking attempts"
+msgstr "تم رفض الوصول لمحاولات القرصنة"
+
+
+msgid "Admin Work Log"
+msgstr "سجل العمل الادارية"
+
+
+msgid "Allow User Own Account Delete Option"
+msgstr "السماح للمستخدم حذف حساب حذف الخيار"
+
+
+msgid "Allow User To Download Their User Data"
+msgstr "السماح للمستخدم بتنزيل بيانات المستخدم الخاصة به"
+
+
+msgid "Are you sure to delete your account?"
+msgstr "هل أنت متأكد من حذف حسابك؟"
+
+
+msgid "Are you sure to reset?"
+msgstr "هل أنت متأكد من إعادة تعيين؟"
+
+
+msgid "Assign"
+msgstr "تعيين"
+
+
+msgid "Auto"
+msgstr "تلقاءي"
+
+
+msgid "Auto Assigned"
+msgstr "السيارات المعينة"
+
+
+msgid "Background Color"
+msgstr "لون الخلفية"
+
+
+msgid "Background Opacity"
+msgstr "العتامة الخلفية"
+
+
+msgid "Background Opacity is required"
+msgstr "العتامة الخلفية مطلوبة"
+
+
+msgid "Choose Bar Close Animation"
+msgstr "اختر شريط إغلاق الرسوم المتحركة"
+
+
+msgid "Choose Bar Open Animation"
+msgstr "اختيار شريط الرسوم المتحركة المفتوحة"
+
+
+msgid "Choose Display Event"
+msgstr "اختر عرض الحدث"
+
+
+msgid "Choose Policy Page"
+msgstr "اختر صفحة السياسة"
+
+
+msgid "Cookie Bar Background Color"
+msgstr "كوكي بار لون الخلفية"
+
+
+msgid "Cookie Message"
+msgstr "ملف تعريف الارتباط"
+
+
+msgid "Cookie bar text color"
+msgstr "لون شريط النص ملف تعريف الارتباط"
+
+
+msgid "Copy Link"
+msgstr "انسخ الرابط"
+
+
+msgid "Date"
+msgstr "تاريخ"
+
+
+msgid "Default Value"
+msgstr "القيمة الافتراضية"
+
+
+msgid "Delete my account"
+msgstr "احذف حسابي"
+
+
+msgid "Deleted"
+msgstr "تم الحذف"
+
+
+msgid "Download this account data"
+msgstr "قم بتنزيل بيانات الحساب هذه"
+
+
+msgid "Dropdown"
+msgstr "اسقاط"
+
+
+msgid "Edit Custom Field"
+msgstr "تحرير حقل مخصص"
+
+
+msgid "Edit Page"
+msgstr "تعديل الصفحة"
+
+
+msgid "Error"
+msgstr "خطأ"
+
+
+msgid "Field Validation"
+msgstr "التحقق من صحة الحقل"
+
+
+msgid "GDPR Settings"
+msgstr "إعدادات الناتج القومي الإجمالي"
+
+
+msgid "General"
+msgstr "جنرال لواء"
+
+
+msgid "Go Home Page"
+msgstr "الذهاب الصفحة الرئيسية"
+
+
+msgid "If you enable it, then app will show a notification bar for cookie message"
+msgstr "إذا قمت بتمكينه ، فسيعرض التطبيق شريط إعلام لرسالة ملف تعريف الارتباط"
+
+
+msgid "If you enable it, then site user or visitor can delete their account from their panel"
+msgstr "إذا قمت بتمكينه ، فيمكن لمستخدم الموقع أو الزائر حذف حساباته من اللوحة الخاصة به"
+
+
+msgid "If you enable it, then site user or visitor can download their account data from their panel"
+msgstr "إذا قمت بتمكينه ، فيمكن لمستخدم الموقع أو الزائر تنزيل بيانات حسابه من اللوحة الخاصة به"
+
+
+msgid "If you enable it, then when visitor click the privacy policy then that will be show in lighbox window"
+msgstr "إذا قمت بتمكينه ، فعندما ينقر الزائر على سياسة الخصوصية ، فسيظهر ذلك في نافذة lighbox"
+
+
+msgid "If you enable this then it field show in All Ticket list as column in admin panel"
+msgstr "إذا قمت بتمكين هذا ، فسيظهر الحقل في قائمة جميع التذاكر كعمود في لوحة المسؤول"
+
+
+msgid "In Form"
+msgstr "في النموذج"
+
+
+msgid "Is Api Based"
+msgstr "هو أبي مقرها"
+
+
+msgid "Is On Grid"
+msgstr "على الشبكة"
+
+
+msgid "It is the cookie bar background color"
+msgstr "إنه لون خلفية شريط الكعكة"
+
+
+msgid "It will control the opacity or background transparency of cookie bar background"
+msgstr "وسوف تتحكم في شفافية خلفية شريط ملفات تعريف الارتباط أو شفافية الخلفية"
+
+
+msgid "Locked"
+msgstr "مقفل"
+
+
+msgid "Locked(Hack)"
+msgstr "مغلق (هاك)"
+
+
+msgid "Login Server"
+msgstr "خادم تسجيل الدخول"
+
+
+msgid "Malicious Attempt on attached file. Attached file(s) has been skipped"
+msgstr "محاولة ضارة على الملف المرفق. تم تخطي الملف (الملفات) المرفقة"
+
+
+msgid "Manual"
+msgstr "كتيب"
+
+
+msgid "New IP"
+msgstr "IP جديد"
+
+
+msgid "New Page"
+msgstr "صفحة جديدة"
+
+
+msgid "New Work Log"
+msgstr "سجل العمل الجديد"
+
+
+msgid "No work log founds"
+msgstr "لم يتم العثور على سجل العمل"
+
+
+msgid "Normal"
+msgstr "عادي"
+
+
+msgid "Notifiy"
+msgstr "أبلغ"
+
+
+msgid "Numeric"
+msgstr "رقمية"
+
+
+msgid "On Submit Api Check"
+msgstr "في تقديم Api Check"
+
+
+msgid "On Ticket Opening Form Category"
+msgstr "على شكل تذكرة فتح الفئة"
+
+
+msgid "Others"
+msgstr "الآخرين"
+
+
+msgid "Page"
+msgstr "صفحة"
+
+
+msgid "Page Body"
+msgstr "نص الصفحة"
+
+
+msgid "Pages"
+msgstr "صفحات"
+
+
+msgid "Policy Page is required"
+msgstr "سياسة الصفحة مطلوبة"
+
+
+msgid "Published"
+msgstr "نشرت"
+
+
+msgid "Radio"
+msgstr "راديو"
+
+
+msgid "Read"
+msgstr "اقرأ"
+
+
+msgid "Reset IP"
+msgstr "إعادة تعيين IP"
+
+
+msgid "Select page"
+msgstr "اختر الصفحة"
+
+
+msgid "Show on Table Data List"
+msgstr "عرض في قائمة بيانات الجدول"
+
+
+msgid "Slag Title"
+msgstr "عنوان الخبث"
+
+
+msgid "Success"
+msgstr "نجاح"
+
+
+msgid "Suspicious : Malicious attempt  on attached file: %s"
+msgstr "مشبوهة: محاولة ضارة في الملف المرفق: %s"
+
+
+msgid "Suspicious: Malicious File Upload Attempts. If you tried to upload again then your ip will be blocked automatically"
+msgstr "مشبوهة: محاولات تحميل ملف ضار. إذا حاولت التحميل مرة أخرى ، فسيتم حظر عنوان IP الخاص بك تلقائيًا"
+
+
+msgid "Switch"
+msgstr "مفتاح كهربائي"
+
+
+msgid "Textbox"
+msgstr "مربع الكتابة"
+
+
+msgid "This key is already used in another site. contact support team"
+msgstr "هذا المفتاح مستخدم بالفعل في موقع آخر. الاتصال بفريق الدعم"
+
+
+msgid "Ticket Id"
+msgstr "معرف التذكرة"
+
+
+msgid "Ticket Re-Open"
+msgstr "إعادة فتح تذكرة"
+
+
+msgid "Ticket user has been data deleted"
+msgstr "تم حذف تذكرة المستخدم"
+
+
+msgid "Undefined page"
+msgstr "صفحة غير محددة"
+
+
+msgid "Unpublished"
+msgstr "غير منشورة"
+
+
+msgid "View Cookie Notification Bar"
+msgstr "عرض شريط إعلام ملفات تعريف الارتباط"
+
+
+msgid "View Page"
+msgstr "عرض الصفحة"
+
+
+msgid "View Policy In POP UP window(Lightbox)"
+msgstr "عرض السياسة في نافذة POP UP (Lightbox)"
+
+
+msgid "Viewed"
+msgstr "شوهد"
+
+
+msgid "Work Time"
+msgstr "وقت العمل"
+
+
+msgid "Write %s for Policy Link and %s for only policy URL"
+msgstr "اكتب %s لرابط السياسة و %s لعنوان URL الوحيد للسياسة"
+
+
+msgid "Write {{PolicyLink}} for Policy Link and {{PolicyURL}} for only policy URL"
+msgstr "اكتب {{PolicyLink}} لرابط السياسة و {{PolicyURL}} لعنوان URL الوحيد للسياسة"
+
+
+msgid "You can create many page in page menu. Go to Admin Settings > Pages or %s"
+msgstr "يمكنك إنشاء العديد من الصفحات في قائمة الصفحة. انتقل إلى إعدادات المسؤول> الصفحات أو %s"
+
+
+msgid "You logged in using %s"
+msgstr "قمت بتسجيل الدخول باستخدام %s"
+
+
+msgid "Disable Counter Icon"
+msgstr "تعطيل رمز العداد"
+
+
+msgid "Disable Knowledge Like/Dislike Button"
+msgstr "تعطيل المعرفة مثل / كره زر"
+
+
+msgid "Disable knowledge like and dislike button"
+msgstr "تعطيل المعرفة مثل وكره الزر"
+
+
+msgid "Do Not Show Last Update Date"
+msgstr "لا تظهر تاريخ التحديث الأخير"
+
+
+msgid "Do Not Show Last Update Date on Knowledge Details"
+msgstr "لا تظهر تاريخ آخر تحديث على تفاصيل المعرفة"
+
+
+msgid "Do Not Show counter icon with knowledge"
+msgstr "لا تظهر أيقونة العداد مع المعرفة"
+
+
+msgid "Do Not Show counter with knowledge"
+msgstr "لا تظهر العداد مع المعرفة"
+
+
+msgid "If you enable this then it won't show the like or dislike button on knowledge details."
+msgstr "إذا قمت بتمكين هذا ، فلن يظهر الزر أعجبني أو لم يعجبك في تفاصيل المعرفة"
+
+
+msgid "If you enable this then, it won't show the last update date on knowledge details."
+msgstr "إذا قمت بتمكين ذلك ، فلن يعرض تاريخ التحديث الأخير لتفاصيل المعرفة."
+
+
+msgid "If you enable this then, it won't show the view/rate counter."
+msgstr "إذا قمت بتمكين ذلك ، فلن يعرض عداد العرض / معدل."
+
+
+msgid "Last Update Date"
+msgstr "اخر تاريخ تحديث"
+
+
+msgid "Login Required, Please login"
+msgstr "تسجيل الدخول مطلوب ، يرجى تسجيل الدخول"
+
+
+msgid "OR"
+msgstr "أو"
+

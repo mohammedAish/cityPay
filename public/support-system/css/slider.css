@@ -1,0 +1,9 @@
+@CHARSET "ISO-8859-1";
+.head-line1 {
+  font-size: 40px;
+  font-weight: bold;
+}
+.head-line1 kbd {
+  font-size: 43px;
+  font-weight: bold;
+}

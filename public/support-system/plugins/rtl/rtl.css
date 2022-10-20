@@ -1,0 +1,10 @@
+body {
+  direction: rtl;
+}
+.app-rtl .src-main-container .input-group input {
+  -webkit-border-radius: 5px 0px 0px 5px !important;
+  -moz-border-radius: 5px 0px 0px 5px !important;
+  border-radius: 5px 0px 0px 5px !important;
+  padding-right: 10px !important;
+}
+/*# sourceMappingURL=rtl.css.map */

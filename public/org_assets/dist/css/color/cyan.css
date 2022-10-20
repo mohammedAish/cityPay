@@ -1,0 +1,64 @@
+@media screen and (max-width: 767px){
+    .theme-cyan .header-box,
+    .theme-cyan .color-switcher .toggle-button{
+        background-color: #1377be;
+    }
+}
+.theme-cyan .wallet-area-warpper{
+    background-color: #1377be10;
+}
+.theme-cyan .wallet-top-header,
+.theme-cyan .transfer-coin-btn a.active, 
+.theme-cyan .transfer-coin-btn a:hover,
+.theme-cyan .theme-btn,
+.theme-cyan .edit-images .edit-label,
+.theme-cyan .notification-dropdown .notification-footer a,
+.theme-cyan .wallet-transaction-box .wallet-transaction-ico,
+.theme-cyan .theme-color-swith input:checked + .slider,
+.dark-mode.theme-cyan .color-switcher .toggle-button {
+    background-color: #1377be;
+}
+.theme-cyan .theme-btn{
+    border-color: #1377be;
+}
+.theme-cyan .header-logo,
+.theme-cyan .transfer-coin-btn a {
+    background-color: #2d8cd0;
+}
+.theme-cyan .wallet-top-header-box .header-wallet-ico,
+.theme-cyan .wallet-top-header-box h3 {
+    color: #fff !important;
+}
+.theme-cyan .wallet-top-header-right .notification-box-area .notification-box .notification-active {
+    background-color: #fff;
+}
+.theme-cyan .color-switcher .color-theme-menu h4,
+.theme-cyan .wallet-bradcrumb h2,
+.theme-cyan .header-nav-menu ul li.active > a, 
+.theme-cyan .header-nav-menu ul li a:hover,
+.theme-cyan .dashboard-title,
+.theme-cyan .wallet-balance-box .wallet-balance-name h3, 
+.theme-cyan .wallet-balance-box .wallet-balance-amount h3,
+.theme-cyan .wallet-transaction-box .wallet-transaction-name h3, 
+.theme-cyan .wallet-transaction-balance h3,
+.theme-cyan .theme-input-box label,
+.theme-cyan .notification-header h3,
+.theme-cyan .wallet-top-header-box.user-top-detail ul li a,
+.theme-cyan .wallet-language-box .dropdown-menu li > a{
+    color: #1377be;
+}
+.theme-cyan .wallet-balance-area .wallet-balance-box h3{
+    color: #222;
+}
+.theme-cyan .header-nav-menu ul li.active{
+    border-left-color: #1377be;
+}
+.theme-cyan .header-nav-menu ul li a {
+    color: #84b4d6;
+}
+.theme-cyan .apexcharts-series path {
+    fill: #1377be !important;
+}
+.theme-cyan .apexcharts-series path{
+    stroke: #2d8cd0 !important;
+}

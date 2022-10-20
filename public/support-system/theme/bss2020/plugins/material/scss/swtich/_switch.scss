@@ -1,0 +1,90 @@
+.material-switch {
+        &.inline {
+            display: inline-block;
+            vertical-align: -0.35rem;
+        }
+
+        margin-top: 0.45rem;
+        margin-left: 0.25rem;
+
+        > input[type="checkbox"] {
+            display: none;
+        }
+        > label {
+            &.bg-mat{
+                background-color:$md-switch !important;
+            }
+            cursor: pointer;
+            height: 0px;
+            position: relative;
+            width: 40px;
+        }
+
+        > label::before {
+            background: rgb(0, 0, 0);
+            box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.5);
+            border-radius: 8px;
+            content: '';
+            height: 16px;
+            margin-top: -8px;
+            position: absolute;
+            opacity: 0.3;
+            transition: all 0.4s ease-in-out;
+            width: 40px;
+        }
+        > label::after {
+            background: rgb(255, 255, 255);
+            border-radius: 16px;
+            box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+            content: '';
+            height: 24px;
+            left: -4px;
+            margin-top: -8px;
+            position: absolute;
+            top: -4px;
+            transition: all 0.3s ease-in-out;
+            width: 24px;
+        }
+        > input[type="checkbox"]:checked + label::before {
+            background: inherit;
+            opacity: 0.5;
+        }
+        > input[type="checkbox"]:checked + label::after {
+            background: inherit;
+            left: 20px;
+        }
+
+        &.material-switch-sm{
+            > label::before {
+                background: rgb(0, 0, 0);
+                box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.5);
+                border-radius: 8px;
+                content: '';
+                height: 12px;
+                margin-top: -6px;
+                position: absolute;
+                opacity: 0.3;
+                transition: all 0.4s ease-in-out;
+                width: 30px;
+            }
+            > label::after {
+                background: rgb(255, 255, 255);
+                border-radius: 16px;
+                box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+                content: '';
+                height: 20px;
+                left: -4px;
+                margin-top: -8px;
+                position: absolute;
+                top: -2px;
+                transition: all 0.3s ease-in-out;
+                width: 20px;
+            }
+
+            > input[type="checkbox"]:checked + label::after {
+                background: inherit;
+                left: 16px;
+            }
+        }
+    }
+

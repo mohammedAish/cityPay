@@ -1,0 +1,34 @@
+$app_base_color: #00a606 !default;
+$app_main_color: lighten($app_base_color,50%);
+$app_header_bg: #fff !default;
+$app_header_text_color: #6e6e6e !default;
+$app_header_text_icon: #ffffff !default;
+$app_navbar_bg: $app_main_color !default;
+$app_navbar_menu_acive_bg: darken($app_navbar_bg, 20) !default;
+$app_navbar_menu_bg_hover: darken($app_navbar_bg, 10) !default;
+$app_navbar_menu_acive_text_color: lighten($app_navbar_menu_acive_bg, 90) !default;
+$app_link_color: $app_base_color !default;
+$footer_bg_color: transparent !default;
+$footer_text_color: $app_base_color !default;
+$app_text_color: darken($app_base_color,15%) !default ;
+$app_welcome_bg: lighten($app_main_color, 45) !default;
+$app_welcome_text: #fff !default;
+$header_bg_img: url('../images/main-header.svg');
+$transparent_bg_color:rgba($app_main_color, 0.3);
+$section_color:$transparent_bg_color !default;
+$top_notification_color: rgba(darken($app_main_color,50%),0.7) !default;
+$top_notification_text_color: #ffffff !default;
+
+// Responsive Variables
+$DEVICE_EXTRA_SMALL_MOBILE: ' (max-width: 478.98px)';
+$DEVICE_UPTO_SMALL_MOBILE: ' (max-width: 575.98px)';
+
+$DEVICE_SMALL_MOBILE: ' (min-width: 479px) and (max-width: 575.98px)';
+$DEVICE_UPTO_LARGE_MOBILE: ' (max-width: 767.98px)';
+$DEVICE_LARGE_MOBILE: ' (min-width: 576px) and (max-width: 767.98px) ';
+$DEVICE_TABLET: ' (min-width: 768px) and (max-width: 991.98px) ';
+$DEVICE_DESKTOP : '(min-width: 992px) and (max-width: 1199px)';
+$DEVICE_LAPTOP : '(min-width: 1200px) and (max-width: 1920px)';
+$DEVICE_TV : '(min-width: 1921px)';
+
+

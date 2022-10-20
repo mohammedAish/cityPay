@@ -1,0 +1,1964 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-10-29 01:29+0600\n"
+"PO-Revision-Date: 2018-03-01 10:12+0100\n"
+"Last-Translator: John Grandt <info@grandts.com>\n"
+"Language-Team: \n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.13\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "!! You need to click save button to complete"
+msgstr "!! Du skal klikke på Gem knappen for at afslutte"
+
+msgid "%s Popular Knowledge"
+msgstr "%s Populær viden"
+
+msgid "%s Settings"
+msgstr "%s indstillinger"
+
+msgid "%s is required"
+msgstr "%s skal udfyldes"
+
+msgid "ADMIN MENU"
+msgstr "ADMIN MENU"
+
+msgid "API Based"
+msgstr "API baseret"
+
+msgid "API Description"
+msgstr "API Beskrivelse"
+
+msgid "API Setting"
+msgstr "API indstilling"
+
+msgid "API Settings"
+msgstr "API indstillinger"
+
+msgid "API Token"
+msgstr "API Token"
+
+msgid "API Type"
+msgstr "API Type"
+
+msgid "APP User"
+msgstr "APP-bruger"
+
+msgid "About Support System"
+msgstr "Om Support System"
+
+msgid "Action"
+msgstr "Handling"
+
+msgid "Action Required"
+msgstr "Handling Påkrævet"
+
+msgid "Active"
+msgstr "Aktive"
+
+msgid "Active Members"
+msgstr "Aktive medlemmer"
+
+msgid "Active Paid Ticket"
+msgstr ""
+
+msgid "Active Paid Tickets"
+msgstr ""
+
+msgid "Active Tickets"
+msgstr "Aktive supportsager"
+
+msgid "Add New"
+msgstr "Opret nyt"
+
+msgid "Added By"
+msgstr "Tilføjet Af"
+
+msgid "Added On"
+msgstr "Tilføjet Den"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Address is required"
+msgstr "Adresse er påkrævet"
+
+msgid "Admin Dashboard"
+msgstr ""
+
+msgid "Admin Report"
+msgstr ""
+
+msgid "Admin Setting"
+msgstr ""
+
+msgid "Admin Settings"
+msgstr ""
+
+msgid "Admin User"
+msgstr ""
+
+msgid "Admin User Login Security"
+msgstr ""
+
+msgid "Agent"
+msgstr ""
+
+msgid "Agent replied, needs your action"
+msgstr "Agent svarede, har brug for din handling"
+
+msgid "All Active Tickets"
+msgstr "Alle aktive Tickets"
+
+msgid "All Closed Tickets"
+msgstr "Lukkede Tickets"
+
+msgid "All Paid Tickets"
+msgstr ""
+
+msgid "All Unassigned Tickets"
+msgstr "Alle ikke-tildelte Tickets"
+
+msgid "Amount"
+msgstr ""
+
+msgid "Amount must be between %.2f and %.2f"
+msgstr ""
+
+msgid "Announcements"
+msgstr "Bekendgørelser"
+
+msgid "Announcements List"
+msgstr "Meddelelser Liste"
+
+msgid "App Information"
+msgstr "Information om appen"
+
+msgid "App Logo"
+msgstr "App Logo"
+
+msgid "App Update"
+msgstr "App opdatering"
+
+msgid "App White Logo"
+msgstr "App Hvid Logo"
+
+msgid "App update information"
+msgstr "App opdateringsoplysninger"
+
+msgid "Application Security Settings"
+msgstr ""
+
+msgid "Application Theme Settings"
+msgstr ""
+
+msgid "Are you sure to change?"
+msgstr "Er du sikker på at du vil ændre?"
+
+msgid "Are you sure to delete?"
+msgstr "Er du sikker på, at du vil slette?"
+
+msgid "Assigned"
+msgstr "Tildelte"
+
+msgid "Assigned On"
+msgstr "Tildelt Den"
+
+msgid "Assigned Tickets"
+msgstr "Tildelte Tickets"
+
+msgid "Attach File"
+msgstr "Vedhæft fil"
+
+msgid "Best size is 400px x 400px"
+msgstr "Bedste størrelse er 400px x 400px"
+
+msgid "Birthday"
+msgstr "Fødselsdag"
+
+msgid "Birthday is required"
+msgstr "Fødselsdag er påkrævet."
+
+msgid "Body"
+msgstr ""
+
+msgid "Body is required"
+msgstr ""
+
+msgid "Cancel"
+msgstr "Annuller"
+
+msgid "Canned Message Fields"
+msgstr ""
+
+msgid "Canned Message List"
+msgstr ""
+
+msgid "Canned Messages"
+msgstr ""
+
+msgid "Canned Msg"
+msgstr ""
+
+msgid "Canned Msg is required"
+msgstr ""
+
+msgid "Canned_msg"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "Category List"
+msgstr ""
+
+msgid "Category is required"
+msgstr ""
+
+msgid "Change"
+msgstr ""
+
+msgid "Change Password"
+msgstr ""
+
+msgid "Change password of %s"
+msgstr ""
+
+msgid "Choose Homepage"
+msgstr ""
+
+msgid "Choose Theme"
+msgstr ""
+
+msgid "City"
+msgstr ""
+
+msgid "City is required"
+msgstr ""
+
+msgid "Click here"
+msgstr ""
+
+msgid "Click on the Image to change"
+msgstr ""
+
+msgid "Click on the Image to change or upload."
+msgstr ""
+
+msgid "Click on the Image to change. Best size hight is 40px"
+msgstr ""
+
+msgid "Click on the Image to change. Best size is 75px x 75px"
+msgstr ""
+
+msgid "Click to see details"
+msgstr ""
+
+msgid "Client"
+msgstr ""
+
+msgid "Client List"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Close Tickets"
+msgstr ""
+
+msgid "Closed Tickets"
+msgstr ""
+
+msgid "Contact Number"
+msgstr ""
+
+msgid "Controller Title"
+msgstr ""
+
+msgid "Copy Cron Link"
+msgstr ""
+
+msgid "Copy callback url"
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "Country Code"
+msgstr ""
+
+msgid "Country Name"
+msgstr ""
+
+msgid "Country is required"
+msgstr ""
+
+msgid "Create Date"
+msgstr ""
+
+msgid "Create Ticket"
+msgstr ""
+
+msgid "Create Time"
+msgstr ""
+
+msgid "Created By"
+msgstr ""
+
+msgid "Cron Job Command"
+msgstr ""
+
+msgid "Current Ticket Status"
+msgstr ""
+
+msgid "Current version is : %s"
+msgstr ""
+
+msgid "Custom Field List"
+msgstr ""
+
+msgid "Custom Fields"
+msgstr ""
+
+msgid "Dashboard"
+msgstr ""
+
+msgid "Date of Birth"
+msgstr ""
+
+msgid "Debug Log"
+msgstr ""
+
+msgid "Debug Log List"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Description is required"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "Details Debug Log"
+msgstr ""
+
+msgid "Details Log"
+msgstr ""
+
+msgid "Details info of IP(192.168.10.71)"
+msgstr ""
+
+msgid "Disable this if you want real payment"
+msgstr ""
+
+msgid "DoS Attack Security"
+msgstr ""
+
+msgid "Don't upload if you don't want"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Edit Announcements"
+msgstr ""
+
+msgid "Edit Canned Message"
+msgstr ""
+
+msgid "Edit Category"
+msgstr ""
+
+msgid "Edit Client"
+msgstr ""
+
+msgid "Edit IP"
+msgstr ""
+
+msgid "Edit Knowledge"
+msgstr ""
+
+msgid "Edit Role"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Email Address"
+msgstr ""
+
+msgid "Email Outgoing Settings"
+msgstr ""
+
+msgid "Email Settings"
+msgstr ""
+
+msgid "Email Templates"
+msgstr ""
+
+msgid "Email Templates List"
+msgstr ""
+
+msgid "Email To Ticket Settings"
+msgstr ""
+
+msgid "Email is required"
+msgstr ""
+
+msgid "Email to Ticket Settings Form"
+msgstr ""
+
+msgid "Enable Auto Reload (every %d min)"
+msgstr ""
+
+msgid "Enable Email To Ticket/Reply"
+msgstr ""
+
+msgid "Enable it if your protocol is secure"
+msgstr ""
+
+msgid "Enable it to secure admin/staff user"
+msgstr ""
+
+msgid "Enable this to enable paypal payment"
+msgstr ""
+
+msgid "Enable to convert email to ticket"
+msgstr ""
+
+msgid "End Date"
+msgstr ""
+
+msgid "End Date is required"
+msgstr ""
+
+msgid "Entry Time"
+msgstr ""
+
+msgid "Entry Type"
+msgstr ""
+
+msgid "Envato"
+msgstr ""
+
+msgid "Envato Setting"
+msgstr ""
+
+msgid "Envato Username"
+msgstr ""
+
+msgid "Ex. 192.168.10.1"
+msgstr ""
+
+msgid ""
+"Example: Temporary lock admin or staff user if attempts 5 miss login in 30 "
+"minutes"
+msgstr ""
+
+msgid ""
+"Example: if request more then 5 in 5 second then show captcha or block ip"
+msgstr ""
+
+msgid "Featured Image"
+msgstr ""
+
+msgid "File Attached"
+msgstr ""
+
+msgid "File Type"
+msgstr ""
+
+msgid "First Name"
+msgstr ""
+
+msgid "First Name is required"
+msgstr ""
+
+msgid "From"
+msgstr ""
+
+msgid "From Email"
+msgstr ""
+
+msgid "From Email is required"
+msgstr ""
+
+msgid "From Name"
+msgstr ""
+
+msgid "From Name is required"
+msgstr ""
+
+msgid "Gender"
+msgstr ""
+
+msgid "General Settings"
+msgstr ""
+
+msgid "Generate an API key in your envato account and enter here"
+msgstr ""
+
+msgid "Has Super Power"
+msgstr ""
+
+msgid "Hello, %s"
+msgstr ""
+
+msgid "Helpfull"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Host"
+msgstr ""
+
+msgid "Host & Port"
+msgstr ""
+
+msgid "Host is required"
+msgstr ""
+
+msgid "IMAP Help"
+msgstr ""
+
+msgid "IMAP Settings"
+msgstr ""
+
+msgid "IP"
+msgstr ""
+
+msgid "IP List"
+msgstr ""
+
+msgid "IP is required"
+msgstr ""
+
+msgid "If request more than"
+msgstr ""
+
+msgid ""
+"If you don't choose the white logo then primary logo will be displayed in "
+"site header"
+msgstr ""
+
+msgid "If you enable it then app prevent DoS Attack."
+msgstr ""
+
+msgid "If you enable this then logo only show in site header"
+msgstr ""
+
+msgid ""
+"If you enable this, then all payment will be in test mode. Don't do this if "
+"you want real payment"
+msgstr ""
+
+msgid "If you want to remove license form this site then click"
+msgstr ""
+
+msgid "Inactive"
+msgstr ""
+
+msgid "Invalid Information"
+msgstr ""
+
+msgid "Invalid data"
+msgstr ""
+
+msgid "Is Secure Protocol (SSL)"
+msgstr ""
+
+msgid "Is Sticky/Pinned ?"
+msgstr ""
+
+msgid "Is it helpfull?"
+msgstr ""
+
+msgid "It won't show any where, It is just for track"
+msgstr ""
+
+msgid "Join : %s"
+msgstr ""
+
+msgid "Join Date"
+msgstr ""
+
+msgid "Key is already exists"
+msgstr ""
+
+msgid "Knowledge"
+msgstr ""
+
+msgid "Knowledge List"
+msgstr ""
+
+msgid "L.Reply Time"
+msgstr ""
+
+msgid "Label"
+msgstr ""
+
+msgid "Last Name"
+msgstr ""
+
+msgid "Last Name is required"
+msgstr ""
+
+msgid "Last Replied"
+msgstr ""
+
+msgid "Last Reply"
+msgstr ""
+
+msgid "Last Reply Time"
+msgstr ""
+
+msgid "Last updated on"
+msgstr ""
+
+msgid "Latitude"
+msgstr ""
+
+msgid "License"
+msgstr ""
+
+msgid "License Domain"
+msgstr ""
+
+msgid "License Info"
+msgstr ""
+
+msgid "License Information"
+msgstr ""
+
+msgid "License Key"
+msgstr ""
+
+msgid "License Title"
+msgstr ""
+
+msgid "Link"
+msgstr ""
+
+msgid "Locked User"
+msgstr ""
+
+msgid "Locked User List"
+msgstr ""
+
+msgid "Log Type"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Logout"
+msgstr ""
+
+msgid "Longitude"
+msgstr ""
+
+msgid "MENU"
+msgstr ""
+
+msgid "Max file size is  %s MB"
+msgstr ""
+
+msgid "Max file size is %s MB"
+msgstr ""
+
+msgid "Menu List"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Message Details"
+msgstr ""
+
+msgid "Method"
+msgstr ""
+
+msgid "Miss Login Tried"
+msgstr ""
+
+msgid "More homepage will be come in next version"
+msgstr ""
+
+msgid "More theme will be come in next version"
+msgstr ""
+
+msgid "Most Helpful Articles"
+msgstr ""
+
+msgid "My Active Paid Tickets"
+msgstr ""
+
+msgid "My Active Tickets"
+msgstr ""
+
+msgid "My Assigned Tickets"
+msgstr ""
+
+msgid "My Closed Tickets"
+msgstr ""
+
+msgid "My Dashboard"
+msgstr ""
+
+msgid "My Menu"
+msgstr ""
+
+msgid "My Message"
+msgstr ""
+
+msgid "N"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "New Announcements"
+msgstr ""
+
+msgid "New Canned Message"
+msgstr ""
+
+msgid "New Category"
+msgstr ""
+
+msgid "New Client"
+msgstr ""
+
+msgid "New Knowledge"
+msgstr ""
+
+msgid "New Role"
+msgstr ""
+
+msgid "New Ticket"
+msgstr ""
+
+msgid "New Ticket Form"
+msgstr ""
+
+msgid "New Window"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "No active ticket found"
+msgstr ""
+
+msgid "No closed ticket found"
+msgstr ""
+
+msgid "Not Helpfull"
+msgstr ""
+
+msgid "Notice For"
+msgstr ""
+
+msgid "Notice Text"
+msgstr ""
+
+msgid "Notice text is required"
+msgstr ""
+
+msgid "Notification"
+msgstr ""
+
+msgid "Old Password"
+msgstr ""
+
+msgid "Open Ticket"
+msgstr ""
+
+msgid "Open Time"
+msgstr ""
+
+msgid "Opened"
+msgstr ""
+
+msgid "Opened Time"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Order"
+msgstr ""
+
+msgid "Page Name"
+msgstr ""
+
+msgid "Parent Category"
+msgstr ""
+
+msgid "Parent Category is required"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Password is required"
+msgstr ""
+
+msgid "Password reset"
+msgstr ""
+
+msgid "Payer Email"
+msgstr ""
+
+msgid "Payment Amount"
+msgstr ""
+
+msgid "Payment Amount is required"
+msgstr ""
+
+msgid "Payment Description"
+msgstr ""
+
+msgid "Payment Details"
+msgstr ""
+
+msgid "Payment List"
+msgstr ""
+
+msgid "Payment Method Status"
+msgstr ""
+
+msgid "Paypal Setting"
+msgstr ""
+
+msgid "Paypal Settings"
+msgstr ""
+
+msgid "Permission"
+msgstr ""
+
+msgid "Pinned Articles"
+msgstr ""
+
+msgid "Popular Articles"
+msgstr ""
+
+msgid "Port"
+msgstr ""
+
+msgid "Port is required"
+msgstr ""
+
+msgid "Posted By"
+msgstr ""
+
+msgid "Priroty"
+msgstr ""
+
+msgid "Priroty is required"
+msgstr ""
+
+msgid "Process Date"
+msgstr ""
+
+msgid "Process Log"
+msgstr ""
+
+msgid "Process Time"
+msgstr ""
+
+msgid "Processing"
+msgstr ""
+
+msgid "Profile"
+msgstr ""
+
+msgid "Property"
+msgstr ""
+
+msgid "Re-Check Update"
+msgstr ""
+
+msgid "Re-Open"
+msgstr ""
+
+msgid "Read article to provide best support"
+msgstr ""
+
+msgid "Recent Articles"
+msgstr ""
+
+msgid "Register"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove License"
+msgstr ""
+
+msgid "Replay"
+msgstr ""
+
+msgid "Reply"
+msgstr ""
+
+msgid "Reply To Ticket"
+msgstr ""
+
+msgid "Reply is required"
+msgstr ""
+
+msgid "Reply text is required"
+msgstr ""
+
+msgid "Reply user group"
+msgstr ""
+
+msgid "Reply user name"
+msgstr ""
+
+msgid "Request Count is required"
+msgstr ""
+
+msgid "Required"
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Reset link has been sent to the user"
+msgstr ""
+
+msgid "Role"
+msgstr ""
+
+msgid "Role  List"
+msgstr ""
+
+msgid "Role Access"
+msgstr ""
+
+msgid "Role List"
+msgstr ""
+
+msgid "Role is required"
+msgstr ""
+
+msgid "SMTP Settings"
+msgstr ""
+
+msgid "STAFF MENU"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Schedule"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Seconds is required"
+msgstr ""
+
+msgid "Security Settings"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Send"
+msgstr ""
+
+msgid "Sendmail Path"
+msgstr ""
+
+msgid "Sendmail Path is required"
+msgstr ""
+
+msgid "Sendmail or SMTP"
+msgstr ""
+
+msgid "Sent Message"
+msgstr ""
+
+msgid "Set Status"
+msgstr ""
+
+msgid ""
+"Set this cron command into your server cron list, otherwise email to ticket "
+"won't work"
+msgstr ""
+
+msgid "Show IP List"
+msgstr ""
+
+msgid "Show List"
+msgstr ""
+
+msgid "Show Locked User List"
+msgstr ""
+
+msgid "Show On"
+msgstr ""
+
+msgid "Show only logo in header"
+msgstr ""
+
+msgid "Site Menu"
+msgstr ""
+
+msgid "Site Security"
+msgstr ""
+
+msgid "Social Setting"
+msgstr ""
+
+msgid "Social Settings"
+msgstr ""
+
+msgid "Start Date"
+msgstr ""
+
+msgid "Start Date is required"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Status is required"
+msgstr ""
+
+msgid "Sticky/Pinned"
+msgstr ""
+
+msgid "Still Need Support?"
+msgstr ""
+
+msgid "Sub Title"
+msgstr ""
+
+msgid "Subject"
+msgstr ""
+
+msgid "Successfully Updated"
+msgstr ""
+
+msgid "Suggested Knowledge"
+msgstr ""
+
+msgid "Super Admin"
+msgstr ""
+
+msgid "Supervisor"
+msgstr ""
+
+msgid "Support System"
+msgstr ""
+
+msgid "System Update"
+msgstr ""
+
+msgid "Tag"
+msgstr ""
+
+msgid "Tag is required"
+msgstr ""
+
+msgid "Temporary lock admin or staff user, if attempts"
+msgstr ""
+
+msgid "Text must be less then %d characters length"
+msgstr ""
+
+msgid "Thank you for being with us"
+msgstr ""
+
+msgid "The time is base on %s timezone"
+msgstr ""
+
+msgid "The user who has opened ticket"
+msgstr ""
+
+msgid "Theme Settings"
+msgstr ""
+
+msgid "This email address is already exist"
+msgstr ""
+
+msgid "Ticket"
+msgstr ""
+
+msgid "Ticket Body"
+msgstr ""
+
+msgid "Ticket Body is required"
+msgstr ""
+
+msgid "Ticket Category"
+msgstr ""
+
+msgid "Ticket Details"
+msgstr ""
+
+msgid "Ticket Feedback"
+msgstr ""
+
+msgid "Ticket Feedback List"
+msgstr ""
+
+msgid "Ticket History"
+msgstr ""
+
+msgid "Ticket Information"
+msgstr ""
+
+msgid "Ticket Payment Details"
+msgstr ""
+
+msgid "Ticket Payment List"
+msgstr ""
+
+msgid "Ticket Priroty"
+msgstr ""
+
+msgid "Ticket Status"
+msgstr ""
+
+msgid "Ticket Subject"
+msgstr ""
+
+msgid "Ticket Title"
+msgstr ""
+
+msgid "Ticket Track ID"
+msgstr ""
+
+msgid "Ticket User"
+msgstr ""
+
+msgid "Ticket closed do you want to re-open?"
+msgstr ""
+
+msgid "Ticket subject is required"
+msgstr ""
+
+msgid "Tickets"
+msgstr ""
+
+msgid "Time"
+msgstr ""
+
+msgid "Timezone"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Title is required"
+msgstr ""
+
+msgid "To"
+msgstr ""
+
+msgid "Today's"
+msgstr ""
+
+msgid "Topbar Icon"
+msgstr ""
+
+msgid "Topbar Icon List"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Total Closed Ticket"
+msgstr ""
+
+msgid "Total Closed Tickets"
+msgstr ""
+
+msgid "Transction ID"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Tzone is required"
+msgstr ""
+
+msgid "USER MENU"
+msgstr ""
+
+msgid "Unassigned Tickets"
+msgstr ""
+
+msgid "Update"
+msgstr ""
+
+msgid "Update User"
+msgstr ""
+
+msgid "Uploaded file is not  supported"
+msgstr ""
+
+msgid "Use this as your callback url into facebook developer panel"
+msgstr ""
+
+msgid "Use this as your callback url into twitter developer panel"
+msgstr ""
+
+msgid "Use this as your callback url into your google developer console"
+msgstr ""
+
+msgid "User"
+msgstr ""
+
+msgid "User (Email)"
+msgstr ""
+
+msgid "User (Email) is required"
+msgstr ""
+
+msgid "User Id"
+msgstr ""
+
+msgid "User List"
+msgstr ""
+
+msgid "User Panel"
+msgstr ""
+
+msgid "User Settings"
+msgstr ""
+
+msgid "User is required"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Value"
+msgstr ""
+
+msgid "Verified"
+msgstr ""
+
+msgid "View Details"
+msgstr ""
+
+msgid "View Knowledge"
+msgstr ""
+
+msgid "View Site"
+msgstr ""
+
+msgid "View all"
+msgstr ""
+
+msgid "Views"
+msgstr ""
+
+msgid "Write here.."
+msgstr ""
+
+msgid "Write reply here.."
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "You think it is helpfull"
+msgstr ""
+
+msgid "You think it is not helpfull"
+msgstr ""
+
+msgid "Your Site URL"
+msgstr ""
+
+msgid "Your application is up to date"
+msgstr ""
+
+msgid "Your closed ticket list"
+msgstr ""
+
+msgid "Your current ticket status"
+msgstr ""
+
+msgid "Your envato(CodeCanyon, Themeforest,etc) username"
+msgstr ""
+
+msgid "Your site name"
+msgstr ""
+
+msgid "Your total active tickets"
+msgstr ""
+
+msgid "Youtube Accounts"
+msgstr ""
+
+msgid "Zip"
+msgstr ""
+
+msgid "Zip is required"
+msgstr ""
+
+msgid "by"
+msgstr ""
+
+msgid "ex.5"
+msgstr ""
+
+msgid "is required"
+msgstr ""
+
+msgid "minuites"
+msgstr ""
+
+msgid "miss login in"
+msgstr ""
+
+msgid "on"
+msgstr ""
+
+msgid "seconds, then"
+msgstr ""
+
+msgid "setup for Social Login"
+msgstr ""
+
+msgid "to get custom payment"
+msgstr ""
+
+msgid "Already registered?"
+msgstr ""
+
+msgid "E-mail"
+msgstr ""
+
+msgid "Email address is alreay exists"
+msgstr ""
+
+msgid "Forgot password?"
+msgstr ""
+
+msgid "Guest Ticket"
+msgstr ""
+
+msgid "Low Priroty"
+msgstr ""
+
+msgid "Not member yet ?"
+msgstr ""
+
+msgid "Open Ticket With Less Priroty"
+msgstr ""
+
+msgid "Open ticket after login"
+msgstr ""
+
+msgid "Open ticket after register"
+msgstr ""
+
+msgid "Or Login Using"
+msgstr ""
+
+msgid "Or Register Using"
+msgstr ""
+
+msgid "Or open ticket using"
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "Top Priroty"
+msgstr ""
+
+msgid "User Login"
+msgstr ""
+
+msgid "User Registration"
+msgstr ""
+
+msgid "You are not logged in. What would you like do now?"
+msgstr ""
+
+msgid "fields are required"
+msgstr ""
+
+msgid "Confirm Password"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "%s is not same"
+msgstr ""
+
+msgid "Captcha"
+msgstr ""
+
+msgid "Invalid email address."
+msgstr ""
+
+msgid "New Password"
+msgstr ""
+
+msgid "The email address is already registered. To login"
+msgstr ""
+
+msgid "The value is not a valid %s"
+msgstr ""
+
+msgid "Uncategories"
+msgstr ""
+
+msgid "Assigned & Closed"
+msgstr ""
+
+msgid "CSV Downloaded"
+msgstr ""
+
+msgid "Change Timezone"
+msgstr ""
+
+msgid "Change padssword of %s"
+msgstr ""
+
+msgid "Change password of Admin User"
+msgstr ""
+
+msgid "Day Report"
+msgstr "Dagsrapport"
+
+msgid "Member since"
+msgstr ""
+
+msgid "Month Report"
+msgstr ""
+
+msgid "New User"
+msgstr ""
+
+msgid "Opened & Closed"
+msgstr ""
+
+msgid "Timezone is required"
+msgstr ""
+
+msgid "Tzone"
+msgstr ""
+
+msgid "Sign out"
+msgstr ""
+
+msgid "Please login to set priroty"
+msgstr ""
+
+msgid "email address"
+msgstr ""
+
+msgid "Allowed File Types"
+msgstr ""
+
+msgid "Any Staff Can Reply"
+msgstr ""
+
+msgid "App Email"
+msgstr ""
+
+msgid "App Language"
+msgstr ""
+
+msgid "App Title"
+msgstr ""
+
+msgid "Application General Settings"
+msgstr ""
+
+msgid "Application Layout"
+msgstr ""
+
+msgid "Auto Others Color"
+msgstr ""
+
+msgid "Basic Settings"
+msgstr ""
+
+msgid "CSS ( Style)"
+msgstr ""
+
+msgid "Captcha Length"
+msgstr ""
+
+msgid "Captcha Settings"
+msgstr ""
+
+msgid "Captcha String Type"
+msgstr ""
+
+msgid "Captcha Type"
+msgstr ""
+
+msgid "Charecter Lenght of default captcha"
+msgstr ""
+
+msgid "Choose HTML Editor"
+msgstr ""
+
+msgid "Client ID"
+msgstr ""
+
+msgid "Client Photo Upload"
+msgstr ""
+
+msgid "Copyright Text"
+msgstr ""
+
+msgid "Custom CSS & JavaScript"
+msgstr ""
+
+msgid "Custom JavaScript"
+msgstr ""
+
+msgid "Date Format"
+msgstr ""
+
+msgid "Disable Registration"
+msgstr ""
+
+msgid "Email Footer Text"
+msgstr ""
+
+msgid "Email Reply Start Text"
+msgstr ""
+
+msgid "Enable Force SSL"
+msgstr ""
+
+msgid "Enable Guest Ticket"
+msgstr ""
+
+msgid "Enable HTML Input"
+msgstr ""
+
+msgid "Enable Public Ticket"
+msgstr ""
+
+msgid "Enable Ticket Feedback"
+msgstr ""
+
+msgid "Enable User Online Check"
+msgstr ""
+
+msgid "Ex. Google analytics code, Do not add any tag  like %s"
+msgstr ""
+
+msgid "Feedback Email Title"
+msgstr ""
+
+msgid "Field"
+msgstr ""
+
+msgid "File Upload Settings"
+msgstr ""
+
+msgid "Footer Background"
+msgstr ""
+
+msgid "Footer Text"
+msgstr ""
+
+msgid "Header Color"
+msgstr ""
+
+msgid "Header Gradient"
+msgstr ""
+
+msgid ""
+"If enable this then other color will be auto generate based on main color"
+msgstr ""
+
+msgid "If enable this then the header background will be gradient"
+msgstr ""
+
+msgid ""
+"If you disable this then your will get normal text area box insted of html "
+"editor"
+msgstr ""
+
+msgid ""
+"If you enable it a feedback email will be sent to ticket user email address "
+"after closing ticket"
+msgstr ""
+
+msgid "If you enable it then any visitor can open ticket without registration"
+msgstr ""
+
+msgid "If you enable it then captcha will show in admin login form"
+msgstr ""
+
+msgid "If you enable it then captcha will show in client login form"
+msgstr ""
+
+msgid "If you enable it then captcha will show in client registration form"
+msgstr ""
+
+msgid "If you enable it then captcha will show in guest ticket opening form"
+msgstr ""
+
+msgid ""
+"If you enable it then user can open their ticket as public mode. Where any "
+"user can replay"
+msgstr ""
+
+msgid ""
+"If you enable it then user can upload file when they open ticket and reply "
+"any ticket"
+msgstr ""
+
+msgid ""
+"If you enable it, then any staff can reply on any ticket, if disable then "
+"only assigned staff can reply."
+msgstr ""
+
+msgid "If you enable it, then you can able to upload their profile photo"
+msgstr ""
+
+msgid ""
+"If you enable this then this app will check SSL Request, if not then it will "
+"redirect to SSL URL."
+msgstr ""
+
+msgid ""
+"If you enable this then this app will check and show user online status."
+msgstr ""
+
+msgid ""
+"It will effect in next reload. If you want to now then refresh after save."
+msgstr ""
+
+msgid ""
+"It's background color of footer. Empty value will be auto from main color"
+msgstr ""
+
+msgid ""
+"It's background color of menu bar. Empty value will be auto from main color"
+msgstr ""
+
+msgid ""
+"It's background color of menu text color when active. Empty value will be "
+"auto from main color"
+msgstr ""
+
+msgid "It's text color of footer. Empty value will be auto from main color"
+msgstr ""
+
+msgid ""
+"It's the background color of welcome message. But you can choose any text "
+"color on any text of welcome message using editor. Empty value will be auto "
+"from main color"
+msgstr ""
+
+msgid ""
+"It's the color of anchor link and heading(h1,h2,h3,h4) Color. Empty value "
+"will be auto from main color"
+msgstr ""
+
+msgid "Its background color of header"
+msgstr ""
+
+msgid "Keep empty if you don't want to show any footer"
+msgstr ""
+
+msgid "Keep empty if you don't want to show any footer on email"
+msgstr ""
+
+msgid "Keep empty if you don't want to show any footer on site copy write text"
+msgstr ""
+
+msgid "Keep empty if you don't want to show any message"
+msgstr ""
+
+msgid "Layout & Color Settings"
+msgstr ""
+
+msgid "Link And Heading Text"
+msgstr ""
+
+msgid "Main Color"
+msgstr ""
+
+msgid "Main site color is defined for application main color of client site."
+msgstr ""
+
+msgid "Max Upload File Size"
+msgstr ""
+
+msgid "Menu Active Text Color"
+msgstr ""
+
+msgid "Menu Background"
+msgstr ""
+
+msgid "Nagative Feedback Message"
+msgstr ""
+
+msgid "Nagative Message"
+msgstr ""
+
+msgid "On Admin Login"
+msgstr ""
+
+msgid "On Client Login"
+msgstr ""
+
+msgid "On Client Registration"
+msgstr ""
+
+msgid "On Guest Ticket"
+msgstr ""
+
+msgid "Only enter css code. Do not add any tag like %s"
+msgstr ""
+
+msgid "Positive Feedback Message"
+msgstr ""
+
+msgid "Positive Message"
+msgstr ""
+
+msgid ""
+"Registration  of visitor. If you disable this then visitor can't register. "
+"Only registered client can open ticket after login"
+msgstr ""
+
+msgid "Site Copyright Text"
+msgstr ""
+
+msgid "Site Key"
+msgstr ""
+
+msgid "The value is not a numeric"
+msgstr ""
+
+msgid "Ticket File Upload"
+msgstr ""
+
+msgid "Ticket Settings"
+msgstr ""
+
+msgid "Time Format"
+msgstr ""
+
+msgid "Value must be between 1 to 99"
+msgstr ""
+
+msgid "Welcome & Footer Text"
+msgstr ""
+
+msgid "Welcome Background"
+msgstr ""
+
+msgid "Welcome Message"
+msgstr ""
+
+msgid "Welcome Text"
+msgstr ""
+
+msgid "ex. 2"
+msgstr ""
+
+msgid "Successfully updated"
+msgstr ""
+
+msgid "Language changed. Reloading"
+msgstr ""
+
+msgid "Download CSV"
+msgstr ""
+
+msgid "No Record Found"
+msgstr ""
+
+msgid "Reload"
+msgstr ""
+
+msgid "Sign In"
+msgstr ""
+
+msgid "Sign in to start your session"
+msgstr ""
+
+msgid "Admin Panel"
+msgstr ""
+
+msgid "%s is invalid"
+msgstr ""
+
+msgid "A ticket email has been sent to your email. Please check that"
+msgstr ""
+
+msgid "Admin Notification Settings"
+msgstr ""
+
+msgid "Are you sure to assign yourself?"
+msgstr ""
+
+msgid "Are you sure to assign?"
+msgstr ""
+
+msgid "Assign Me"
+msgstr ""
+
+msgid "Captcha Success"
+msgstr ""
+
+msgid "Content"
+msgstr ""
+
+msgid "Controller"
+msgstr ""
+
+msgid "Email Field Details"
+msgstr ""
+
+msgid "Email Notification Settings"
+msgstr ""
+
+msgid "Email Notification Settions"
+msgstr ""
+
+msgid "Email Template updated successfully"
+msgstr ""
+
+msgid "Email template for  ANR"
+msgstr ""
+
+msgid "Enable Admin Notificaiton"
+msgstr ""
+
+msgid "File Size"
+msgstr ""
+
+msgid "If you enable this then admin will get notification"
+msgstr ""
+
+msgid "If you enable this then admin will get notification on ticket open"
+msgstr ""
+
+msgid ""
+"If you enable this then admin will get notification on ticket user reply"
+msgstr ""
+
+msgid "Logging in.."
+msgstr ""
+
+msgid "Name of ticket user"
+msgstr ""
+
+msgid "New Ticket Opened"
+msgstr ""
+
+msgid "Notification Email"
+msgstr ""
+
+msgid "Notification Settings"
+msgstr ""
+
+msgid "Notification Settions"
+msgstr ""
+
+msgid "On Admin/staff Reply"
+msgstr ""
+
+msgid "On Screen Notificaiton Settings"
+msgstr ""
+
+msgid "On Ticket Open"
+msgstr ""
+
+msgid "On Ticket User Reply"
+msgstr ""
+
+msgid "Page List"
+msgstr ""
+
+msgid "Please wait"
+msgstr ""
+
+msgid "Replied Text"
+msgstr ""
+
+msgid "Reply text"
+msgstr ""
+
+msgid "Resource"
+msgstr ""
+
+msgid "Set Assign"
+msgstr ""
+
+msgid "Successfully added"
+msgstr ""
+
+msgid "Template List"
+msgstr ""
+
+msgid "Thank you, your ticket has been opened successfully"
+msgstr ""
+
+msgid "Ticket Open By Guest"
+msgstr ""
+
+msgid "Ticket Other's Info"
+msgstr ""
+
+msgid "Ticket Replied by : %s"
+msgstr ""
+
+msgid "Ticket cateroty"
+msgstr ""
+
+msgid "Ticket link"
+msgstr ""
+
+msgid "Ticket open or reply notification settings"
+msgstr ""
+
+msgid "Update Email Template"
+msgstr ""
+
+msgid "User Ticket"
+msgstr ""
+
+msgid "User who replied"
+msgstr ""
+
+msgid "View Ticket Details"
+msgstr ""
+
+msgid "ex. email@domain.com"
+msgstr ""
+
+msgid "updated"
+msgstr ""

@@ -1,0 +1,4972 @@
+msgid ""
+msgstr ""                   
+"Project-Id-Version: v1.0 \n"
+"POT-Creation-Date: 2016-10-29 01:29+0600\n"
+"PO-Revision-Date: 2016-10-29 01:29+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: UTF-8\n"
+"Language: id\n"
+"X-Generator: AppsBD Translator App\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+msgid "!! You need to click save button to complete"
+msgstr "Anda perlu mengklik tombol simpan untuk menyelesaikan !!"
+
+
+msgid "%s Popular Knowledge"
+msgstr "Artikel Populer"
+
+
+msgid "%s Settings"
+msgstr "Pengaturan %s"
+
+
+msgid "%s is required"
+msgstr "%s diperlukan"
+
+
+msgid "ADMIN MENU"
+msgstr "ADMIN MENU"
+
+
+msgid "API Based"
+msgstr "Berbasis API"
+
+
+msgid "API Description"
+msgstr "Deskripsi API"
+
+
+msgid "API Setting"
+msgstr "Pengaturan API"
+
+
+msgid "API Settings"
+msgstr "Pengaturan API"
+
+
+msgid "API Token"
+msgstr "Token API"
+
+
+msgid "API Type"
+msgstr "Jenis API"
+
+
+msgid "APP User"
+msgstr "Pengguna APP"
+
+
+msgid "About Support System"
+msgstr "Tentang Sistem Dukungan"
+
+
+msgid "Action"
+msgstr "Tindakan"
+
+
+msgid "Action Required"
+msgstr "Butuh Tindakan Khusus"
+
+
+msgid "Active"
+msgstr "Aktif"
+
+
+msgid "Active Members"
+msgstr "Anggota Aktif"
+
+
+msgid "Active Paid Ticket"
+msgstr "Tiket Berbayar Aktif"
+
+
+msgid "Active Paid Tickets"
+msgstr "Tiket Berbayar Aktif"
+
+
+msgid "Active Tickets"
+msgstr "Tiket Aktif"
+
+
+msgid "Add New"
+msgstr "Tambah baru"
+
+
+msgid "Added By"
+msgstr "Ditambahkan oleh"
+
+
+msgid "Added On"
+msgstr "Menambahkan"
+
+
+msgid "Address"
+msgstr "Alamat"
+
+
+msgid "Address is required"
+msgstr "alamat diperlukan"
+
+
+msgid "Admin Dashboard"
+msgstr "Dasboard Admin"
+
+
+msgid "Admin Report"
+msgstr "Laporan Admin"
+
+
+msgid "Admin Setting"
+msgstr "Pengaturan Admin"
+
+
+msgid "Admin Settings"
+msgstr "Pengaturan Admin"
+
+
+msgid "Admin User"
+msgstr "Pengguna Admin"
+
+
+msgid "Admin User Login Security"
+msgstr "Keamanan Login Pengguna Admin"
+
+
+msgid "Agent"
+msgstr "Agen"
+
+
+msgid "Agent replied, needs your action"
+msgstr "Membutuhkan waktu lebih lama"
+
+
+msgid "All Active Tickets"
+msgstr "Semua Tiket Aktif"
+
+
+msgid "All Closed Tickets"
+msgstr "Semua Tiket Tertutup"
+
+
+msgid "All Paid Tickets"
+msgstr "Semua Tiket Berbayar"
+
+
+msgid "All Unassigned Tickets"
+msgstr "Semua Tiket yang Belum Ditetapkan"
+
+
+msgid "Amount"
+msgstr "Jumlah"
+
+
+msgid "Amount must be between %.2f and %.2f"
+msgstr "Jumlah harus antara %.2f dan %.2f"
+
+
+msgid "Announcements"
+msgstr "Pengumuman"
+
+
+msgid "Announcements List"
+msgstr "Daftar Pengumuman"
+
+
+msgid "App Information"
+msgstr "Informasi Aplikasi"
+
+
+msgid "App Logo"
+msgstr "Logo Aplikasi"
+
+
+msgid "App Update"
+msgstr "Pembaruan Aplikasi"
+
+
+msgid "App White Logo"
+msgstr "Logo Putih Aplikasi"
+
+
+msgid "App update information"
+msgstr "Informasi pembaruan aplikasi"
+
+
+msgid "Application Security Settings"
+msgstr "Pengaturan Keamanan Aplikasi"
+
+
+msgid "Application Theme Settings"
+msgstr "Pengaturan Tema Aplikasi"
+
+
+msgid "Are you sure to change?"
+msgstr "Apakah kamu yakin untuk berubah?"
+
+
+msgid "Are you sure to delete?"
+msgstr "Anda yakin ingin menghapus?"
+
+
+msgid "Assigned"
+msgstr "Ditugaskan"
+
+
+msgid "Assigned On"
+msgstr "Ditugaskan Kepada"
+
+
+msgid "Assigned Tickets"
+msgstr "Tiket yang Ditugaskan"
+
+
+msgid "Attach File"
+msgstr "Lampirkan file"
+
+
+msgid "Best size is 400px x 400px"
+msgstr "Ukuran terbaik adalah 400px x 400px"
+
+
+msgid "Birthday"
+msgstr "Ulang tahun"
+
+
+msgid "Birthday is required"
+msgstr "Ulang tahun diperlukan"
+
+
+msgid "Body"
+msgstr "Tubuh"
+
+
+msgid "Body is required"
+msgstr "Tubuh diperlukan"
+
+
+msgid "Cancel"
+msgstr "Membatalkan"
+
+
+msgid "Canned Message Fields"
+msgstr "Bidang Pesan Terekam"
+
+
+msgid "Canned Message List"
+msgstr "Daftar Pesan Kalengan"
+
+
+msgid "Canned Messages"
+msgstr "Pesan Kalengan"
+
+
+msgid "Canned Msg"
+msgstr "Msg kaleng"
+
+
+msgid "Canned Msg is required"
+msgstr "Msg kaleng diperlukan"
+
+
+msgid "Canned_msg"
+msgstr "Canned_msg"
+
+
+msgid "Categories"
+msgstr "Kategori"
+
+
+msgid "Category"
+msgstr "Kategori"
+
+
+msgid "Category List"
+msgstr "Daftar Kategori"
+
+
+msgid "Category is required"
+msgstr "Kategori diperlukan"
+
+
+msgid "Change"
+msgstr "Ubah"
+
+
+msgid "Change Password"
+msgstr "Ganti Kata Sandi"
+
+
+msgid "Change password of %s"
+msgstr "Ubah kata sandi  %s"
+
+
+msgid "Choose Homepage"
+msgstr "Pilih Beranda"
+
+
+msgid "Choose Theme"
+msgstr "Pilih Tema"
+
+
+msgid "City"
+msgstr "Kota"
+
+
+msgid "City is required"
+msgstr "Kota diperlukan"
+
+
+msgid "Click here"
+msgstr "Klik disini"
+
+
+msgid "Click on the Image to change"
+msgstr "Klik pada Gambar untuk berubah"
+
+
+msgid "Click on the Image to change or upload."
+msgstr "Klik pada Gambar untuk mengubah atau mengunggah."
+
+
+msgid "Click on the Image to change. Best size hight is 40px"
+msgstr "Klik pada Gambar untuk berubah. Tinggi ukuran terbaik adalah 40 piksel"
+
+
+msgid "Click on the Image to change. Best size is 75px x 75px"
+msgstr "Klik pada Gambar untuk berubah. Ukuran terbaik adalah 75px x 75px"
+
+
+msgid "Click to see details"
+msgstr "Klik untuk melihat detailnya"
+
+
+msgid "Client"
+msgstr "Klien"
+
+
+msgid "Client List"
+msgstr "Daftar klien"
+
+
+msgid "Close"
+msgstr "Dekat"
+
+
+msgid "Close Tickets"
+msgstr "Tutup Tiket"
+
+
+msgid "Closed Tickets"
+msgstr "Tiket di Tutup"
+
+
+msgid "Contact Number"
+msgstr "Nomor kontak"
+
+
+msgid "Controller Title"
+msgstr "Judul Pengontrol"
+
+
+msgid "Copy Cron Link"
+msgstr "Salin Cron Link"
+
+
+msgid "Copy callback url"
+msgstr "Salin url callback"
+
+
+msgid "Country"
+msgstr "Negara"
+
+
+msgid "Country Code"
+msgstr "Kode negara"
+
+
+msgid "Country Name"
+msgstr "Nama negara"
+
+
+msgid "Country is required"
+msgstr "Negara diperlukan"
+
+
+msgid "Create Date"
+msgstr "Buat Tanggal"
+
+
+msgid "Create Ticket"
+msgstr "Buat Tikeeet"
+
+
+msgid "Create Time"
+msgstr "Buat Waktu"
+
+
+msgid "Created By"
+msgstr "Dibuat oleh"
+
+
+msgid "Cron Job Command"
+msgstr "Perintah Kerja Cron"
+
+
+msgid "Current Ticket Status"
+msgstr "Status Tiket Saat Ini"
+
+
+msgid "Current version is : %s"
+msgstr "Versi saat ini adalah: %s"
+
+
+msgid "Custom Field List"
+msgstr "Daftar Bidang Khusus"
+
+
+msgid "Custom Fields"
+msgstr "Bidang Khusus"
+
+
+msgid "Dashboard"
+msgstr "Dasboard"
+
+
+msgid "Date of Birth"
+msgstr "Tanggal lahir"
+
+
+msgid "Debug Log"
+msgstr "Log Debug"
+
+
+msgid "Debug Log List"
+msgstr "Daftar Log Debug"
+
+
+msgid "Delete"
+msgstr "Menghapus"
+
+
+msgid "Description"
+msgstr "Deskripsi"
+
+
+msgid "Description is required"
+msgstr "Deskripsi diperlukan"
+
+
+msgid "Details"
+msgstr "Detail"
+
+
+msgid "Details Debug Log"
+msgstr "Detail Log Debug"
+
+
+msgid "Details Log"
+msgstr "Log Detail"
+
+
+msgid "Details info of IP(192.168.10.71)"
+msgstr "Info detail IP (192.168.10.71)"
+
+
+msgid "Disable this if you want real payment"
+msgstr "Nonaktifkan ini jika Anda menginginkan pembayaran nyata"
+
+
+msgid "DoS Attack Security"
+msgstr "DoS Attack Security"
+
+
+msgid "Don't upload if you don't want"
+msgstr "Jangan mengunggah jika Anda tidak mau"
+
+
+msgid "Edit"
+msgstr "Edit"
+
+
+msgid "Edit Announcements"
+msgstr "Edit Pengumuman"
+
+
+msgid "Edit Canned Message"
+msgstr "Edit Pesan Tercatat"
+
+
+msgid "Edit Category"
+msgstr "Edit Kategori"
+
+
+msgid "Edit Client"
+msgstr "Edit Klien"
+
+
+msgid "Edit IP"
+msgstr "Edit IP"
+
+
+msgid "Edit Knowledge"
+msgstr "Edit Artikel"
+
+
+msgid "Edit Role"
+msgstr "Edit Peran"
+
+
+msgid "Email"
+msgstr "E-mail"
+
+
+msgid "Email Address"
+msgstr "Alamat email"
+
+
+msgid "Email Outgoing Settings"
+msgstr "Pengaturan Keluar Email"
+
+
+msgid "Email Settings"
+msgstr "pengaturan email"
+
+
+msgid "Email Templates"
+msgstr "Template Email"
+
+
+msgid "Email Templates List"
+msgstr "Daftar Templat Email"
+
+
+msgid "Email To Ticket Settings"
+msgstr "Pengaturan Email Ke Tiket"
+
+
+msgid "Email is required"
+msgstr "Email diperlukan"
+
+
+msgid "Email to Ticket Settings Form"
+msgstr "Email ke Formulir Pengaturan Tiket"
+
+
+msgid "Enable Auto Reload (every %d min)"
+msgstr "Aktifkan Auto Reload (setiap %d menit)"
+
+
+msgid "Enable Email To Ticket/Reply"
+msgstr "Aktifkan Email Ke Tiket / Balas"
+
+
+msgid "Enable it if your protocol is secure"
+msgstr "Aktifkan jika protokol Anda aman"
+
+
+msgid "Enable it to secure admin/staff user"
+msgstr "Aktifkan untuk mengamankan admin / staf pengguna"
+
+
+msgid "Enable this to enable paypal payment"
+msgstr "Aktifkan ini untuk mengaktifkan pembayaran paypal"
+
+
+msgid "Enable to convert email to ticket"
+msgstr "Aktifkan untuk mengonversi email menjadi tiket"
+
+
+msgid "End Date"
+msgstr "Tanggal Akhir"
+
+
+msgid "End Date is required"
+msgstr "Tanggal Akhir wajib diisi"
+
+
+msgid "Entry Time"
+msgstr "Waktu Masuk"
+
+
+msgid "Entry Type"
+msgstr "Entry Type"
+
+
+msgid "Envato"
+msgstr "Envato"
+
+
+msgid "Envato Setting"
+msgstr "Pengaturan Envato"
+
+
+msgid "Envato Username"
+msgstr "Envato Username"
+
+
+msgid "Ex. 192.168.10.1"
+msgstr "Contoh: 192.168.10.1"
+
+
+msgid "Example: Temporary lock admin or staff user if attempts 5 miss login in 30 minutes"
+msgstr "Contoh: Pengunci sementara atau pengguna staf jika upaya 5 gagal masuk dalam 30 menit"
+
+
+msgid "Example: if request more then 5 in 5 second then show captcha or block ip"
+msgstr "Contoh: jika meminta lebih dari 5 dalam 5 detik, tunjukkan captcha atau blokir ip"
+
+
+msgid "Featured Image"
+msgstr "Gambar Unggulan"
+
+
+msgid "File Attached"
+msgstr "File Terlampir"
+
+
+msgid "File Type"
+msgstr "Jenis File"
+
+
+msgid "First Name"
+msgstr "Nama Depan"
+
+
+msgid "First Name is required"
+msgstr "Nama Depan wajib diisi"
+
+
+msgid "From"
+msgstr "Dari"
+
+
+msgid "From Email"
+msgstr "Dari email"
+
+
+msgid "From Email is required"
+msgstr "Dari Email diperlukan"
+
+
+msgid "From Name"
+msgstr "Dari Nama"
+
+
+msgid "From Name is required"
+msgstr "Dari Nama diperlukan"
+
+
+msgid "Gender"
+msgstr "Jenis kelamin"
+
+
+msgid "General Settings"
+msgstr "Pengaturan Umum"
+
+
+msgid "Generate an API key in your envato account and enter here"
+msgstr "Hasilkan kunci API di akun envato Anda dan masukkan di sini"
+
+
+msgid "Has Super Power"
+msgstr "Memiliki Kekuatan Super"
+
+
+msgid "Hello, %s"
+msgstr "Halo, %s"
+
+
+msgid "Helpfull"
+msgstr "Bermanfaat"
+
+
+msgid "Home"
+msgstr "Beranda"
+
+
+msgid "Host"
+msgstr "Tuan rumah"
+
+
+msgid "Host & Port"
+msgstr "Host & Port"
+
+
+msgid "Host is required"
+msgstr "Host diperlukan"
+
+
+msgid "IMAP Help"
+msgstr "Bantuan IMAP"
+
+
+msgid "IMAP Settings"
+msgstr "Pengaturan IMAP"
+
+
+msgid "IP"
+msgstr "AKU P"
+
+
+msgid "IP List"
+msgstr "Daftar IP"
+
+
+msgid "IP is required"
+msgstr "IP diperlukan"
+
+
+msgid "If request more than"
+msgstr "Jika permintaan lebih dari"
+
+
+msgid "If you don't choose the white logo then primary logo will be displayed in site header"
+msgstr "Jika Anda tidak memilih logo putih maka logo utama akan ditampilkan di header situs"
+
+
+msgid "If you enable it then app prevent DoS Attack."
+msgstr "Jika Anda mengaktifkannya maka aplikasi mencegah DoS Attack."
+
+
+msgid "If you enable this then logo only show in site header"
+msgstr "Jika Anda mengaktifkan ini, maka logo hanya ditampilkan di tajuk situs"
+
+
+msgid "If you enable this, then all payment will be in test mode. Don't do this if you want real payment"
+msgstr "Jika Anda mengaktifkan ini, maka semua pembayaran akan berada dalam mode uji coba. Jangan lakukan ini jika Anda menginginkan pembayaran nyata"
+
+
+msgid "If you want to remove license form this site then click"
+msgstr "Jika Anda ingin menghapus lisensi bentuk situs ini, maka klik"
+
+
+msgid "Inactive"
+msgstr "Tidak aktif"
+
+
+msgid "Invalid Information"
+msgstr "Informasi Tidak Valid"
+
+
+msgid "Invalid data"
+msgstr "Data tidak valid"
+
+
+msgid "Is Secure Protocol (SSL)"
+msgstr "Apakah Protokol Aman (SSL)"
+
+
+msgid "Is Sticky/Pinned ?"
+msgstr "Apakah Sticky / Pinned?"
+
+
+msgid "Is it helpfull?"
+msgstr "Apakah itu membantu?"
+
+
+msgid "It won't show any where, It is just for track"
+msgstr "Itu tidak akan menunjukkan di mana pun, itu hanya untuk melacak"
+
+
+msgid "Join : %s"
+msgstr "Bergabung:  %s"
+
+
+msgid "Join Date"
+msgstr "Tanggal Bergabung"
+
+
+msgid "Key is already exists"
+msgstr "Kunci sudah ada"
+
+
+msgid "Knowledge"
+msgstr "Artikel"
+
+
+msgid "Knowledge List"
+msgstr "Daftar Pengetahuan"
+
+
+msgid "L.Reply Time"
+msgstr "Terakhir dibalas"
+
+
+msgid "Label"
+msgstr "Label"
+
+
+msgid "Last Name"
+msgstr "Nama Belakang"
+
+
+msgid "Last Name is required"
+msgstr "Nama belakang wajib diisi"
+
+
+msgid "Last Replied"
+msgstr "Terakhir Dibalas"
+
+
+msgid "Last Reply"
+msgstr "Balasan Terakhir"
+
+
+msgid "Last Reply Time"
+msgstr "Waktu Balasan Terakhir"
+
+
+msgid "Last updated on"
+msgstr "Terakhir diperbarui saat"
+
+
+msgid "Latitude"
+msgstr "Lintang"
+
+
+msgid "License"
+msgstr "Lisensi"
+
+
+msgid "License Domain"
+msgstr "Domain Lisensi"
+
+
+msgid "License Info"
+msgstr "Info Lisensi"
+
+
+msgid "License Information"
+msgstr "Informasi Lisensi"
+
+
+msgid "License Key"
+msgstr "Kunci lisensi"
+
+
+msgid "License Title"
+msgstr "Judul Lisensi"
+
+
+msgid "Link"
+msgstr "Link"
+
+
+msgid "Locked User"
+msgstr "Pengguna Terkunci"
+
+
+msgid "Locked User List"
+msgstr "Daftar Pengguna Terkunci"
+
+
+msgid "Log Type"
+msgstr "Jenis Log"
+
+
+msgid "Login"
+msgstr "Masuk"
+
+
+msgid "Logout"
+msgstr "Keluar"
+
+
+msgid "Longitude"
+msgstr "Garis bujur"
+
+
+msgid "MENU"
+msgstr "MENU"
+
+
+msgid "Max file size is  %s MB"
+msgstr "Ukuran file maksimum  %s MB"
+
+
+msgid "Max file size is %s MB"
+msgstr "Ukuran file maksimum  %s MB"
+
+
+msgid "Menu List"
+msgstr "Daftar Menu"
+
+
+msgid "Message"
+msgstr "Pesan"
+
+
+msgid "Message Details"
+msgstr "Detail Pesan"
+
+
+msgid "Method"
+msgstr "Metode"
+
+
+msgid "Miss Login Tried"
+msgstr "Miss Login Mencoba"
+
+
+msgid "More homepage will be come in next version"
+msgstr "Lebih banyak homepage akan datang dalam versi berikutnya"
+
+
+msgid "More theme will be come in next version"
+msgstr "Lebih banyak tema akan datang dalam versi berikutnya"
+
+
+msgid "Most Helpful Articles"
+msgstr "Artikel yang Banyak Membantu"
+
+
+msgid "My Active Paid Tickets"
+msgstr "Tiket Aktif Saya Dibayar"
+
+
+msgid "My Active Tickets"
+msgstr "Tiket Aktif Saya"
+
+
+msgid "My Assigned Tickets"
+msgstr "Tiket Saya Ditugaskan"
+
+
+msgid "My Closed Tickets"
+msgstr "Tiket Saya Ditutup"
+
+
+msgid "My Dashboard"
+msgstr "Dasboard Saya"
+
+
+msgid "My Menu"
+msgstr "Menu Saya"
+
+
+msgid "My Message"
+msgstr "Pesanku"
+
+
+msgid "N"
+msgstr "N"
+
+
+msgid "Name"
+msgstr "Nama"
+
+
+msgid "New Announcements"
+msgstr "Pengumuman Baru"
+
+
+msgid "New Canned Message"
+msgstr "Pesan Kalengan Baru"
+
+
+msgid "New Category"
+msgstr "Kategori baru"
+
+
+msgid "New Client"
+msgstr "Klien Baru"
+
+
+msgid "New Knowledge"
+msgstr "Artikel baru"
+
+
+msgid "New Role"
+msgstr "Peran Baru"
+
+
+msgid "New Ticket"
+msgstr "Tiket Baru"
+
+
+msgid "New Ticket Form"
+msgstr "Formulir Tiket Baru"
+
+
+msgid "New Window"
+msgstr "Jendela baru"
+
+
+msgid "No"
+msgstr "Tidak"
+
+
+msgid "No active ticket found"
+msgstr "Tidak ditemukan tiket aktif"
+
+
+msgid "No closed ticket found"
+msgstr "Tidak ditemukan tiket tertutup"
+
+
+msgid "Not Helpfull"
+msgstr "Tidak membantu"
+
+
+msgid "Notice For"
+msgstr "Perhatikan Untuk"
+
+
+msgid "Notice Text"
+msgstr "Perhatikan Teks"
+
+
+msgid "Notice text is required"
+msgstr "Teks pemberitahuan diperlukan"
+
+
+msgid "Notification"
+msgstr "Pemberitahuan"
+
+
+msgid "Old Password"
+msgstr "Kata Sandi Lama"
+
+
+msgid "Open Ticket"
+msgstr "Buat Tiket"
+
+
+msgid "Open Time"
+msgstr "Waktu Buka"
+
+
+msgid "Opened"
+msgstr "Dibuka"
+
+
+msgid "Opened Time"
+msgstr "Terbit Tiket"
+
+
+msgid "Options"
+msgstr "Pilihan"
+
+
+msgid "Order"
+msgstr "Memesan"
+
+
+msgid "Page Name"
+msgstr "Nama halaman"
+
+
+msgid "Parent Category"
+msgstr "Kategori Induk"
+
+
+msgid "Parent Category is required"
+msgstr "Kategori Induk diperlukan"
+
+
+msgid "Password"
+msgstr "Kata Sandi"
+
+
+msgid "Password is required"
+msgstr "katakunci dibutuhkan"
+
+
+msgid "Password reset"
+msgstr "Setel ulang kata sandi"
+
+
+msgid "Payer Email"
+msgstr "Email Pembayar"
+
+
+msgid "Payment Amount"
+msgstr "Jumlah pembayaran"
+
+
+msgid "Payment Amount is required"
+msgstr "Jumlah Pembayaran diperlukan"
+
+
+msgid "Payment Description"
+msgstr "Deskripsi pembayaran"
+
+
+msgid "Payment Details"
+msgstr "Rincian Pembayaran"
+
+
+msgid "Payment List"
+msgstr "Daftar Pembayaran"
+
+
+msgid "Payment Method Status"
+msgstr "Status Metode Pembayaran"
+
+
+msgid "Paypal Setting"
+msgstr "Pengaturan Paypal"
+
+
+msgid "Paypal Settings"
+msgstr "Pengaturan Paypal"
+
+
+msgid "Permission"
+msgstr "Izin"
+
+
+msgid "Pinned Articles"
+msgstr "Artikel yang Disematkan"
+
+
+msgid "Popular Articles"
+msgstr "Artikel Terpopuler"
+
+
+msgid "Port"
+msgstr "Pelabuhan"
+
+
+msgid "Port is required"
+msgstr "Port diperlukan"
+
+
+msgid "Posted By"
+msgstr "Dikirim oleh"
+
+
+msgid "Priroty"
+msgstr "Prioritas"
+
+
+msgid "Priroty is required"
+msgstr "Prioritas diperlukan"
+
+
+msgid "Process Date"
+msgstr "Tanggal Proses"
+
+
+msgid "Process Log"
+msgstr "Log Proses"
+
+
+msgid "Process Time"
+msgstr "Waktu proses"
+
+
+msgid "Processing"
+msgstr "Pengolahan"
+
+
+msgid "Profile"
+msgstr "Profil"
+
+
+msgid "Property"
+msgstr "Milik"
+
+
+msgid "Re-Check Update"
+msgstr "Perbarui Pemeriksaan Ulang"
+
+
+msgid "Re-Open"
+msgstr "Buka kembali"
+
+
+msgid "Read article to provide best support"
+msgstr "Baca artikel untuk memberikan dukungan terbaik"
+
+
+msgid "Recent Articles"
+msgstr "Artikel Terbaru"
+
+
+msgid "Register"
+msgstr "Daftar"
+
+
+msgid "Remove"
+msgstr "Menghapus"
+
+
+msgid "Remove License"
+msgstr "Hapus Lisensi"
+
+
+msgid "Replay"
+msgstr "Ulangan"
+
+
+msgid "Reply"
+msgstr "Balasan"
+
+
+msgid "Reply To Ticket"
+msgstr "Balas Ke Tiket"
+
+
+msgid "Reply is required"
+msgstr "Balasan diperlukan"
+
+
+msgid "Reply text is required"
+msgstr "Teks balasan diperlukan"
+
+
+msgid "Reply user group"
+msgstr "Balas grup pengguna"
+
+
+msgid "Reply user name"
+msgstr "Balas nama pengguna"
+
+
+msgid "Request Count is required"
+msgstr "Jumlah Permintaan diperlukan"
+
+
+msgid "Required"
+msgstr "Wajib"
+
+
+msgid "Reset"
+msgstr "Setel ulang"
+
+
+msgid "Reset link has been sent to the user"
+msgstr "Setel ulang tautan telah dikirim ke pengguna"
+
+
+msgid "Role"
+msgstr "Peran"
+
+
+msgid "Role  List"
+msgstr "Daftar Peran"
+
+
+msgid "Role Access"
+msgstr "Akses Peran"
+
+
+msgid "Role List"
+msgstr "Daftar Hak Akses"
+
+
+msgid "Role is required"
+msgstr "Diperlukan peran"
+
+
+msgid "SMTP Settings"
+msgstr "Pengaturan SMTP"
+
+
+msgid "STAFF MENU"
+msgstr "STAFF MENU"
+
+
+msgid "Save"
+msgstr "Menyimpan"
+
+
+msgid "Schedule"
+msgstr "Susunan acara"
+
+
+msgid "Search"
+msgstr "Pencarian Artikel"
+
+
+msgid "Seconds is required"
+msgstr "Detik diperlukan"
+
+
+msgid "Security Settings"
+msgstr "Pengaturan keamanan"
+
+
+msgid "Select"
+msgstr "Memilih"
+
+
+msgid "Send"
+msgstr "Kirim"
+
+
+msgid "Sendmail Path"
+msgstr "Jalur Sendmail"
+
+
+msgid "Sendmail Path is required"
+msgstr "Jalur Sendmail diperlukan"
+
+
+msgid "Sendmail or SMTP"
+msgstr "Sendmail atau SMTP"
+
+
+msgid "Sent Message"
+msgstr "Pesan Terkirim"
+
+
+msgid "Set Status"
+msgstr "Set Status"
+
+
+msgid "Set this cron command into your server cron list, otherwise email to ticket won't work"
+msgstr "Atur perintah cron ini ke dalam daftar cron server Anda, jika tidak, email ke tiket tidak akan berfungsi"
+
+
+msgid "Show IP List"
+msgstr "Tampilkan Daftar IP"
+
+
+msgid "Show List"
+msgstr "Tampilkan Daftar"
+
+
+msgid "Show Locked User List"
+msgstr "Tampilkan Daftar Pengguna Terkunci"
+
+
+msgid "Show On"
+msgstr "Tunjukkan"
+
+
+msgid "Show only logo in header"
+msgstr "Hanya tampilkan logo di header"
+
+
+msgid "Site Menu"
+msgstr "Menu Situs"
+
+
+msgid "Site Security"
+msgstr "Keamanan Situs"
+
+
+msgid "Social Setting"
+msgstr "Pengaturan Sosial"
+
+
+msgid "Social Settings"
+msgstr "Pengaturan Sosial"
+
+
+msgid "Start Date"
+msgstr "Mulai tanggal"
+
+
+msgid "Start Date is required"
+msgstr "Mulai Tanggal diperlukan"
+
+
+msgid "Status"
+msgstr "Status"
+
+
+msgid "Status is required"
+msgstr "Status diperlukan"
+
+
+msgid "Sticky/Pinned"
+msgstr "Sticky / Pinned"
+
+
+msgid "Still Need Support?"
+msgstr "Masih Butuh Bantuan?"
+
+
+msgid "Sub Title"
+msgstr "Sub Judul"
+
+
+msgid "Subject"
+msgstr "Subyek"
+
+
+msgid "Successfully Updated"
+msgstr "Berhasil diperbaharui"
+
+
+msgid "Suggested Knowledge"
+msgstr "Artikel yang disarankan"
+
+
+msgid "Super Admin"
+msgstr "Admin Super"
+
+
+msgid "Supervisor"
+msgstr "Pengawas"
+
+
+msgid "Support System"
+msgstr "Sistem pendukung"
+
+
+msgid "System Update"
+msgstr "Pembaruan sistem"
+
+
+msgid "Tag"
+msgstr "Menandai"
+
+
+msgid "Tag is required"
+msgstr "Tag diperlukan"
+
+
+msgid "Temporary lock admin or staff user, if attempts"
+msgstr "Pengunci sementara atau pengguna staf, jika dicoba"
+
+
+msgid "Text must be less then %d characters length"
+msgstr "Teks harus kurang dari %d panjang karakter"
+
+
+msgid "Thank you for being with us"
+msgstr "Terima kasih karena telah menghubungi kami"
+
+
+msgid "The time is base on %s timezone"
+msgstr "Waktu didasarkan pada zona waktu %"
+
+
+msgid "The user who has opened ticket"
+msgstr "Pengguna yang telah membuka tiket"
+
+
+msgid "Theme Settings"
+msgstr "Pengaturan tema"
+
+
+msgid "This email address is already exist"
+msgstr "Alamat email ini sudah ada"
+
+
+msgid "Ticket"
+msgstr "Tiket"
+
+
+msgid "Ticket Body"
+msgstr "Kronologi Masalah"
+
+
+msgid "Ticket Body is required"
+msgstr "Tubuh Tiket diperlukan"
+
+
+msgid "Ticket Category"
+msgstr "Kategori Tiket"
+
+
+msgid "Ticket Details"
+msgstr "Rincian Tiket"
+
+
+msgid "Ticket Feedback"
+msgstr "Umpan Balik Tiket"
+
+
+msgid "Ticket Feedback List"
+msgstr "Daftar Umpan Balik Tiket"
+
+
+msgid "Ticket History"
+msgstr "Riwayat Tiket"
+
+
+msgid "Ticket Information"
+msgstr "Informasi Tiket"
+
+
+msgid "Ticket Payment Details"
+msgstr "Detail Pembayaran Tiket"
+
+
+msgid "Ticket Payment List"
+msgstr "Daftar Pembayaran Tiket"
+
+
+msgid "Ticket Priroty"
+msgstr "Prioritas Tiket"
+
+
+msgid "Ticket Status"
+msgstr "Status Tiket"
+
+
+msgid "Ticket Subject"
+msgstr "Subjek Tiket"
+
+
+msgid "Ticket Title"
+msgstr "Judul Tiket"
+
+
+msgid "Ticket Track ID"
+msgstr "Lacak ID Tiket"
+
+
+msgid "Ticket User"
+msgstr "Pengguna Tiket"
+
+
+msgid "Ticket closed do you want to re-open?"
+msgstr "Tiket sudah ditutup. Apakah Anda ingin membuka kembali?"
+
+
+msgid "Ticket subject is required"
+msgstr "Subjek tiket diperlukan"
+
+
+msgid "Tickets"
+msgstr "Tiket"
+
+
+msgid "Time"
+msgstr "Waktu"
+
+
+msgid "Timezone"
+msgstr "Zona waktu"
+
+
+msgid "Title"
+msgstr "Judul"
+
+
+msgid "Title is required"
+msgstr "Judul diperlukan"
+
+
+msgid "To"
+msgstr "Untuk"
+
+
+msgid "Today's"
+msgstr "Hari ini"
+
+
+msgid "Topbar Icon"
+msgstr "Ikon Topbar"
+
+
+msgid "Topbar Icon List"
+msgstr "Daftar Ikon Topbar"
+
+
+msgid "Total"
+msgstr "Total"
+
+
+msgid "Total Closed Ticket"
+msgstr "Total Tiket yang Ditutup"
+
+
+msgid "Total Closed Tickets"
+msgstr "Total Tiket yang Ditutup"
+
+
+msgid "Transction ID"
+msgstr "ID transaksi"
+
+
+msgid "Type"
+msgstr "Mengetik"
+
+
+msgid "Tzone is required"
+msgstr "Tzon diperlukan"
+
+
+msgid "USER MENU"
+msgstr "MENU PENGGUNA"
+
+
+msgid "Unassigned Tickets"
+msgstr "Tiket Tidak Ditugaskan"
+
+
+msgid "Update"
+msgstr "Memperbarui"
+
+
+msgid "Update User"
+msgstr "Perbarui Pengguna"
+
+
+msgid "Uploaded file is not  supported"
+msgstr "File yang diunggah tidak didukung"
+
+
+msgid "Use this as your callback url into facebook developer panel"
+msgstr "Gunakan ini sebagai url callback Anda ke panel pengembang facebook"
+
+
+msgid "Use this as your callback url into twitter developer panel"
+msgstr "Gunakan ini sebagai url callback Anda ke panel pengembang twitter"
+
+
+msgid "Use this as your callback url into your google developer console"
+msgstr "Gunakan ini sebagai url callback Anda ke konsol pengembang google Anda"
+
+
+msgid "User"
+msgstr "Pengguna"
+
+
+msgid "User (Email)"
+msgstr "Pengguna (Email)"
+
+
+msgid "User (Email) is required"
+msgstr "Pengguna (Email) diperlukan"
+
+
+msgid "User Id"
+msgstr "Identitas pengguna"
+
+
+msgid "User List"
+msgstr "Daftar pengguna"
+
+
+msgid "User Panel"
+msgstr "Panel Pengguna"
+
+
+msgid "User Settings"
+msgstr "Pengaturan pengguna"
+
+
+msgid "User is required"
+msgstr "Pengguna diperlukan"
+
+
+msgid "Username"
+msgstr "Nama pengguna"
+
+
+msgid "Value"
+msgstr "Nilai"
+
+
+msgid "Verified"
+msgstr "Diverifikasi"
+
+
+msgid "View Details"
+msgstr "Selengkapnya"
+
+
+msgid "View Knowledge"
+msgstr "Lihat Artikel"
+
+
+msgid "View Site"
+msgstr "Lihat Situs"
+
+
+msgid "View all"
+msgstr "Lihat semua"
+
+
+msgid "Views"
+msgstr "Dilihat"
+
+
+msgid "Write here.."
+msgstr "Tulis disini.."
+
+
+msgid "Write reply here.."
+msgstr "Tulis balasan di sini .."
+
+
+msgid "Yes"
+msgstr "Ya"
+
+
+msgid "You think it is helpfull"
+msgstr "Anda pikir ini membantu"
+
+
+msgid "You think it is not helpfull"
+msgstr "Anda pikir itu tidak membantu"
+
+
+msgid "Your Site URL"
+msgstr "URL Situs Anda"
+
+
+msgid "Your application is up to date"
+msgstr "Aplikasi Anda sudah versi terbaru"
+
+
+msgid "Your closed ticket list"
+msgstr "Tiket yang selesai dikerjakan"
+
+
+msgid "Your current ticket status"
+msgstr "Status tiket Anda saat ini"
+
+
+msgid "Your envato(CodeCanyon, Themeforest,etc) username"
+msgstr "Nama pengguna envato (CodeCanyon, Themeforest, dll) Anda"
+
+
+msgid "Your site name"
+msgstr "Nama situs Anda"
+
+
+msgid "Your total active tickets"
+msgstr "Tiket yang masih dalam proses"
+
+
+msgid "Youtube Accounts"
+msgstr "Akun Youtube"
+
+
+msgid "Zip"
+msgstr "Zip"
+
+
+msgid "Zip is required"
+msgstr "Zip diperlukan"
+
+
+msgid "by"
+msgstr "oleh"
+
+
+msgid "ex.5"
+msgstr "ex.5"
+
+
+msgid "is required"
+msgstr "Dibutuhkan"
+
+
+msgid "minuites"
+msgstr "menit"
+
+
+msgid "miss login in"
+msgstr "ketinggalan masuk"
+
+
+msgid "on"
+msgstr "di"
+
+
+msgid "seconds, then"
+msgstr "detik, lalu"
+
+
+msgid "setup for Social Login"
+msgstr "pengaturan untuk Login Sosial"
+
+
+msgid "to get custom payment"
+msgstr "untuk mendapatkan pembayaran khusus"
+
+
+msgid "Already registered?"
+msgstr "Sudah terdaftar?"
+
+
+msgid "E-mail"
+msgstr "E-Mail"
+
+
+msgid "Email address is alreay exists"
+msgstr "Alamat email sudah ada"
+
+
+msgid "Forgot password?"
+msgstr "Lupa kata sandi?"
+
+
+msgid "Guest Ticket"
+msgstr "Tiket Tamu"
+
+
+msgid "Low Priroty"
+msgstr "Prioritas rendah"
+
+
+msgid "Not member yet ?"
+msgstr "Belum menjadi anggota?"
+
+
+msgid "Open Ticket With Less Priroty"
+msgstr "Buka Tiket Dengan Prioritas Rendah"
+
+
+msgid "Open ticket after login"
+msgstr "Buka tiket setelah login"
+
+
+msgid "Open ticket after register"
+msgstr "Buka tiket setelah mendaftar"
+
+
+msgid "Or Login Using"
+msgstr "Atau Masuk Menggunakan"
+
+
+msgid "Or Register Using"
+msgstr "Atau Daftar Menggunakan"
+
+
+msgid "Or open ticket using"
+msgstr "Atau tiket terbuka menggunakan"
+
+
+msgid "Submit"
+msgstr "Simpan"
+
+
+msgid "Top Priroty"
+msgstr "Prioritas utama"
+
+
+msgid "User Login"
+msgstr "Login Pengguna"
+
+
+msgid "User Registration"
+msgstr "Pendaftaran Pengguna"
+
+
+msgid "You are not logged in. What would you like do now?"
+msgstr "Anda belum masuk. Apa yang ingin Anda lakukan sekarang?"
+
+
+msgid "fields are required"
+msgstr "bidang wajib diisi"
+
+
+msgid "Confirm Password"
+msgstr "Ulangi Kata Sandi"
+
+
+msgid "Back"
+msgstr "Kembali"
+
+
+msgid "%s is not same"
+msgstr "%s tidak sama"
+
+
+msgid "Captcha"
+msgstr "Captcha"
+
+
+msgid "Invalid email address."
+msgstr "Alamat email salah."
+
+
+msgid "New Password"
+msgstr "Kata Sandi Baru"
+
+
+msgid "The email address is already registered. To login"
+msgstr "Alamat email sudah terdaftar. Untuk masuk"
+
+
+msgid "The value is not a valid %s"
+msgstr "Nilai tidak valid %s"
+
+
+msgid "Uncategories"
+msgstr "Uncategories"
+
+
+msgid "Assigned & Closed"
+msgstr "Ditugaskan & Ditutup"
+
+
+msgid "CSV Downloaded"
+msgstr "CSV Didownload"
+
+
+msgid "Change Timezone"
+msgstr "Ubah Zona Waktu"
+
+
+msgid "Change padssword of %s"
+msgstr "Ubah kata sandi dari  %s"
+
+
+msgid "Change password of Admin User"
+msgstr "Ubah kata sandi Pengguna Admin"
+
+
+msgid "Day Report"
+msgstr "Laporan Harian"
+
+
+msgid "Member since"
+msgstr "Anggota Sejak"
+
+
+msgid "Month Report"
+msgstr "Laporan Bulanan"
+
+
+msgid "New User"
+msgstr "Pengguna baru"
+
+
+msgid "Opened & Closed"
+msgstr "Dibuka & Ditutup"
+
+
+msgid "Timezone is required"
+msgstr "Zona waktu diperlukan"
+
+
+msgid "Tzone"
+msgstr "Tzone"
+
+
+msgid "Sign out"
+msgstr "Keluar"
+
+
+msgid "Please login to set priroty"
+msgstr "Harap masuk untuk menetapkan prioritas"
+
+
+msgid "email address"
+msgstr "Alamat email"
+
+
+msgid "Allowed File Types"
+msgstr "Jenis File yang Diizinkan"
+
+
+msgid "Any Staff Can Reply"
+msgstr "Setiap Staf Dapat Membalas"
+
+
+msgid "App Email"
+msgstr "Email Aplikasi"
+
+
+msgid "App Language"
+msgstr "Bahasa Aplikasi"
+
+
+msgid "App Title"
+msgstr "Judul Aplikasi"
+
+
+msgid "Application General Settings"
+msgstr "Pengaturan Umum Aplikasi"
+
+
+msgid "Application Layout"
+msgstr "Layout Aplikasi"
+
+
+msgid "Auto Others Color"
+msgstr "Auto Lainnya Warna"
+
+
+msgid "Basic Settings"
+msgstr "Pengaturan Dasar"
+
+
+msgid "CSS ( Style)"
+msgstr "CSS (Gaya)"
+
+
+msgid "Captcha Length"
+msgstr "Captcha Length"
+
+
+msgid "Captcha Settings"
+msgstr "Pengaturan Captcha"
+
+
+msgid "Captcha String Type"
+msgstr "Jenis String Captcha"
+
+
+msgid "Captcha Type"
+msgstr "Jenis Captcha"
+
+
+msgid "Charecter Lenght of default captcha"
+msgstr "Karakter Panjang captcha default"
+
+
+msgid "Choose HTML Editor"
+msgstr "Pilih Editor HTML"
+
+
+msgid "Client ID"
+msgstr "ID Klien"
+
+
+msgid "Client Photo Upload"
+msgstr "Upload Foto Klien"
+
+
+msgid "Copyright Text"
+msgstr "Teks Hak Cipta"
+
+
+msgid "Custom CSS & JavaScript"
+msgstr "CSS & JavaScript Khusus"
+
+
+msgid "Custom JavaScript"
+msgstr "JavaScript Khusus"
+
+
+msgid "Date Format"
+msgstr "Format tanggal"
+
+
+msgid "Disable Registration"
+msgstr "Nonaktifkan Registrasi"
+
+
+msgid "Email Footer Text"
+msgstr "Teks Footer Email"
+
+
+msgid "Email Reply Start Text"
+msgstr "Email Balas Mulai Teks"
+
+
+msgid "Enable Force SSL"
+msgstr "Aktifkan Force SSL"
+
+
+msgid "Enable Guest Ticket"
+msgstr "Aktifkan Tiket Tamu"
+
+
+msgid "Enable HTML Input"
+msgstr "Aktifkan Masukan HTML"
+
+
+msgid "Enable Public Ticket"
+msgstr "Aktifkan Tiket Publik"
+
+
+msgid "Enable Ticket Feedback"
+msgstr "Aktifkan Umpan Balik Tiket"
+
+
+msgid "Enable User Online Check"
+msgstr "Aktifkan Cek Online Pengguna"
+
+
+msgid "Ex. Google analytics code, Do not add any tag  like %s"
+msgstr "Ex. Kode analitik Google, Jangan tambahkan tag apa pun seperti %s"
+
+
+msgid "Feedback Email Title"
+msgstr "Judul Email Umpan Balik"
+
+
+msgid "Field"
+msgstr "Bidang"
+
+
+msgid "File Upload Settings"
+msgstr "Pengaturan Upload File"
+
+
+msgid "Footer Background"
+msgstr "Footer Background"
+
+
+msgid "Footer Text"
+msgstr "Catatan kaki"
+
+
+msgid "Header Color"
+msgstr "Warna Header"
+
+
+msgid "Header Gradient"
+msgstr "Header Gradient"
+
+
+msgid "If enable this then other color will be auto generate based on main color"
+msgstr "Jika mengaktifkan ini maka warna lain akan menghasilkan otomatis berdasarkan warna utama"
+
+
+msgid "If enable this then the header background will be gradient"
+msgstr "Jika mengaktifkan ini maka latar belakang header akan menjadi gradien"
+
+
+msgid "If you disable this then your will get normal text area box insted of html editor"
+msgstr "Jika Anda menonaktifkan ini maka Anda akan mendapatkan kotak teks area normal bukan editor html"
+
+
+msgid "If you enable it a feedback email will be sent to ticket user email address after closing ticket"
+msgstr "Jika Anda mengaktifkannya, email umpan balik akan dikirimkan ke alamat email pengguna tiket setelah menutup tiket"
+
+
+msgid "If you enable it then any visitor can open ticket without registration"
+msgstr "Jika Anda mengaktifkannya maka setiap pengunjung dapat membuka tiket tanpa registrasi"
+
+
+msgid "If you enable it then captcha will show in admin login form"
+msgstr "Jika Anda mengaktifkannya maka captcha akan muncul di form login admin"
+
+
+msgid "If you enable it then captcha will show in client login form"
+msgstr "Jika Anda mengaktifkannya maka captcha akan ditampilkan dalam form login klien"
+
+
+msgid "If you enable it then captcha will show in client registration form"
+msgstr "Jika Anda mengaktifkannya maka captcha akan ditampilkan dalam formulir pendaftaran klien"
+
+
+msgid "If you enable it then captcha will show in guest ticket opening form"
+msgstr "Jika Anda mengaktifkannya maka captcha akan ditampilkan dalam formulir pembukaan tiket tamu"
+
+
+msgid "If you enable it then user can open their ticket as public mode. Where any user can replay"
+msgstr "Jika Anda mengaktifkannya maka pengguna dapat membuka tiket mereka sebagai mode publik. Di mana setiap pengguna dapat memutar ulang"
+
+
+msgid "If you enable it then user can upload file when they open ticket and reply any ticket"
+msgstr "Jika Anda mengaktifkannya maka pengguna dapat mengunggah file ketika mereka membuka tiket dan membalas tiket apa pun"
+
+
+msgid "If you enable it, then any staff can reply on any ticket, if disable then only assigned staff can reply."
+msgstr "Jika Anda mengaktifkannya, maka setiap staf dapat membalas tiket apa pun, jika dinonaktifkan maka hanya staf yang ditugaskan yang dapat membalas."
+
+
+msgid "If you enable it, then you can able to upload their profile photo"
+msgstr "Jika Anda mengaktifkannya, Anda dapat mengunggah foto profilnya"
+
+
+msgid "If you enable this then this app will check SSL Request, if not then it will redirect to SSL URL."
+msgstr "Jika Anda mengaktifkan ini maka aplikasi ini akan memeriksa Permintaan SSL, jika tidak maka akan mengalihkan ke URL SSL."
+
+
+msgid "If you enable this then this app will check and show user online status."
+msgstr "Jika Anda mengaktifkan ini, maka aplikasi ini akan memeriksa dan menunjukkan status online pengguna."
+
+
+msgid "It will effect in next reload. If you want to now then refresh after save."
+msgstr "Ini akan berpengaruh pada pemuatan ulang berikutnya. Jika Anda ingin sekarang, segarkan setelah menyimpan."
+
+
+msgid "It's background color of footer. Empty value will be auto from main color"
+msgstr "Ini warna latar belakang footer. Nilai kosong akan otomatis dari warna utama"
+
+
+msgid "It's background color of menu bar. Empty value will be auto from main color"
+msgstr "Ini warna latar menu bar. Nilai kosong akan otomatis dari warna utama"
+
+
+msgid "It's background color of menu text color when active. Empty value will be auto from main color"
+msgstr "Warna latar belakang warna teks menu saat aktif. Nilai kosong akan otomatis dari warna utama"
+
+
+msgid "It's text color of footer. Empty value will be auto from main color"
+msgstr "Ini warna teks footer. Nilai kosong akan otomatis dari warna utama"
+
+
+msgid "It's the background color of welcome message. But you can choose any text color on any text of welcome message using editor. Empty value will be auto from main color"
+msgstr "Ini warna latar belakang pesan selamat datang. Tetapi Anda dapat memilih warna teks apa pun pada teks pesan selamat datang menggunakan editor. Nilai kosong akan otomatis dari warna utama"
+
+
+msgid "It's the color of anchor link and heading(h1,h2,h3,h4) Color. Empty value will be auto from main color"
+msgstr "Ini adalah warna anchor link and heading (h1, h2, h3, h4) Color. Nilai kosong akan otomatis dari warna utama"
+
+
+msgid "Its background color of header"
+msgstr "Warna latar belakang header-nya"
+
+
+msgid "Keep empty if you don't want to show any footer"
+msgstr "Tetap kosong jika Anda tidak ingin menampilkan footer apa pun"
+
+
+msgid "Keep empty if you don't want to show any footer on email"
+msgstr "Tetap kosong jika Anda tidak ingin menampilkan footer apa pun di email"
+
+
+msgid "Keep empty if you don't want to show any footer on site copy write text"
+msgstr "Tetap kosong jika Anda tidak ingin menampilkan footer di teks copy situs tulis"
+
+
+msgid "Keep empty if you don't want to show any message"
+msgstr "Tetap kosong jika Anda tidak ingin menampilkan pesan apa pun"
+
+
+msgid "Layout & Color Settings"
+msgstr "Pengaturan Tata Letak & Warna"
+
+
+msgid "Link And Heading Text"
+msgstr "Link dan Heading Text"
+
+
+msgid "Main Color"
+msgstr "Warna utama"
+
+
+msgid "Main site color is defined for application main color of client site."
+msgstr "Warna situs utama ditentukan untuk warna utama aplikasi situs klien."
+
+
+msgid "Max Upload File Size"
+msgstr "Ukuran File Unggah Maks"
+
+
+msgid "Menu Active Text Color"
+msgstr "Menu Warna Teks Aktif"
+
+
+msgid "Menu Background"
+msgstr "Background Menu"
+
+
+msgid "Nagative Feedback Message"
+msgstr "Pesan Umpan Balik Negatif"
+
+
+msgid "Nagative Message"
+msgstr "Pesan Negatif"
+
+
+msgid "On Admin Login"
+msgstr "Pada Login Admin"
+
+
+msgid "On Client Login"
+msgstr "Pada Login Klien"
+
+
+msgid "On Client Registration"
+msgstr "Pada Pendaftaran Klien"
+
+
+msgid "On Guest Ticket"
+msgstr "Pada Tiket Tamu"
+
+
+msgid "Only enter css code. Do not add any tag like %s"
+msgstr "Hanya masukkan kode css. Jangan menambahkan tag apa pun seperti %s"
+
+
+msgid "Positive Feedback Message"
+msgstr "Pesan Umpan Balik Positif"
+
+
+msgid "Positive Message"
+msgstr "Pesan Positif"
+
+
+msgid "Registration  of visitor. If you disable this then visitor can't register. Only registered client can open ticket after login"
+msgstr "Registrasi pengunjung. Jika Anda menonaktifkan ini, maka pengunjung tidak dapat mendaftar. Hanya klien yang terdaftar yang dapat membuka tiket setelah login"
+
+
+msgid "Site Copyright Text"
+msgstr "Teks Hak Cipta Situs"
+
+
+msgid "Site Key"
+msgstr "Kunci Situs"
+
+
+msgid "The value is not a numeric"
+msgstr "Nilai bukan angka"
+
+
+msgid "Ticket File Upload"
+msgstr "Unggah File Tiket"
+
+
+msgid "Ticket Settings"
+msgstr "Pengaturan Tiket"
+
+
+msgid "Time Format"
+msgstr "Format waktu"
+
+
+msgid "Value must be between 1 to 99"
+msgstr "Nilai harus antara 1 hingga 99"
+
+
+msgid "Welcome & Footer Text"
+msgstr "Teks Selamat Datang & Footer"
+
+
+msgid "Welcome Background"
+msgstr "Latar Belakang Selamat Datang"
+
+
+msgid "Welcome Message"
+msgstr "Pesan Selamat Datang"
+
+
+msgid "Welcome Text"
+msgstr "Teks Selamat Datang"
+
+
+msgid "ex. 2"
+msgstr "ex. 2"
+
+
+msgid "Successfully updated"
+msgstr "Berhasil diperbaharui"
+
+
+msgid "Language changed. Reloading"
+msgstr "Bahasa berubah. Memuat ulang"
+
+
+msgid "Download CSV"
+msgstr "Unduh CSV"
+
+
+msgid "No Record Found"
+msgstr "No Record Found"
+
+
+msgid "Reload"
+msgstr "Muat ulang"
+
+
+msgid "Sign In"
+msgstr "Masuk"
+
+
+msgid "Sign in to start your session"
+msgstr "Masuk untuk memulai sesi Anda"
+
+
+msgid "Admin Panel"
+msgstr "panel admin"
+
+
+msgid "%s is invalid"
+msgstr "%s tidak valid"
+
+
+msgid "A ticket email has been sent to your email. Please check that"
+msgstr "Email tiket telah dikirim ke email Anda. Tolong periksa itu"
+
+
+msgid "Admin Notification Settings"
+msgstr "Pengaturan Pemberitahuan Admin"
+
+
+msgid "Are you sure to assign yourself?"
+msgstr "Apakah Anda yakin akan menugaskan diri sendiri?"
+
+
+msgid "Are you sure to assign?"
+msgstr "Apakah Anda yakin untuk menetapkan?"
+
+
+msgid "Assign Me"
+msgstr "Tetapkan Saya"
+
+
+msgid "Captcha Success"
+msgstr "Captcha Success"
+
+
+msgid "Content"
+msgstr "Konten"
+
+
+msgid "Controller"
+msgstr "Kontroler"
+
+
+msgid "Email Field Details"
+msgstr "Email Detail Bidang"
+
+
+msgid "Email Notification Settings"
+msgstr "Pengaturan Notifikasi Email"
+
+
+msgid "Email Notification Settions"
+msgstr "Pengaturan Notifikasi Email"
+
+
+msgid "Email Template updated successfully"
+msgstr "Template email berhasil diperbarui"
+
+
+msgid "Email template for  ANR"
+msgstr "Template email untuk ANR"
+
+
+msgid "Enable Admin Notificaiton"
+msgstr "Aktifkan Pemberitahuan Admin"
+
+
+msgid "File Size"
+msgstr "Ukuran file"
+
+
+msgid "If you enable this then admin will get notification"
+msgstr "Jika Anda mengaktifkan ini, maka admin akan mendapatkan pemberitahuan"
+
+
+msgid "If you enable this then admin will get notification on ticket open"
+msgstr "Jika Anda mengaktifkan ini, maka admin akan mendapatkan pemberitahuan tentang tiket terbuka"
+
+
+msgid "If you enable this then admin will get notification on ticket user reply"
+msgstr "Jika Anda mengaktifkan ini, maka admin akan mendapatkan pemberitahuan pada balasan pengguna tiket"
+
+
+msgid "Logging in.."
+msgstr "Masuk .."
+
+
+msgid "Name of ticket user"
+msgstr "Nama pengguna tiket"
+
+
+msgid "New Ticket Opened"
+msgstr "Tiket Baru Dibuka"
+
+
+msgid "Notification Email"
+msgstr "Email Notifikasi"
+
+
+msgid "Notification Settings"
+msgstr "Pengaturan pemberitahuan"
+
+
+msgid "Notification Settions"
+msgstr "Pengaturan pemberitahuan"
+
+
+msgid "On Admin/staff Reply"
+msgstr "Di Admin / staf Balas"
+
+
+msgid "On Screen Notificaiton Settings"
+msgstr "Pengaturan Notifikasi Layar"
+
+
+msgid "On Ticket Open"
+msgstr "Buka Tiket"
+
+
+msgid "On Ticket User Reply"
+msgstr "Di Tanggapan Pengguna Tiket"
+
+
+msgid "Page List"
+msgstr "Daftar Halaman"
+
+
+msgid "Please wait"
+msgstr "Mohon tunggu"
+
+
+msgid "Replied Text"
+msgstr "Teks yang Dijawab"
+
+
+msgid "Reply text"
+msgstr "Balas teks"
+
+
+msgid "Resource"
+msgstr "Sumber"
+
+
+msgid "Set Assign"
+msgstr "Setel Tugas"
+
+
+msgid "Successfully added"
+msgstr "Berhasil ditambahkan"
+
+
+msgid "Template List"
+msgstr "Daftar Templat"
+
+
+msgid "Thank you, your ticket has been opened successfully"
+msgstr "Terima kasih, tiket Anda berhasil dibuat!"
+
+
+msgid "Ticket Open By Guest"
+msgstr "Tiket Terkirim"
+
+
+msgid "Ticket Other's Info"
+msgstr "Info Tiket Lainnya"
+
+
+msgid "Ticket Replied by : %s"
+msgstr "Tiket Dijawab oleh: %s"
+
+
+msgid "Ticket cateroty"
+msgstr "Paket tiket"
+
+
+msgid "Ticket link"
+msgstr "Tautan tiket"
+
+
+msgid "Ticket open or reply notification settings"
+msgstr "Tiket membuka atau membalas pengaturan notifikasi"
+
+
+msgid "Update Email Template"
+msgstr "Perbarui Template Email"
+
+
+msgid "User Ticket"
+msgstr "Tiket Pengguna"
+
+
+msgid "User who replied"
+msgstr "Pengguna yang membalas"
+
+
+msgid "View Ticket Details"
+msgstr "Lihat Rincian Tiket"
+
+
+msgid "ex. email@domain.com"
+msgstr "Contoh: rsudpbari@gmail.com"
+
+
+msgid "updated"
+msgstr "diperbarui"
+
+
+msgid "%s is not a valid URL"
+msgstr "%s bukan URL yang valid"
+
+
+msgid "Admin Panel Language"
+msgstr "Bahasa Panel Admin"
+
+
+msgid "Admin will hear tone on notification if enabled"
+msgstr "Admin akan mendengar nada notifikasi jika diaktifkan"
+
+
+msgid "App Settings"
+msgstr "Pengaturan aplikasi"
+
+
+msgid "Application All Settings"
+msgstr "Aplikasi Semua Pengaturan"
+
+
+msgid "Are you sure to dismiss?"
+msgstr "Apakah Anda yakin untuk menutup?"
+
+
+msgid "Authentication failed!. May be remote server rejected."
+msgstr "Otentikasi gagal!. Mungkin server jauh ditolak."
+
+
+msgid "Button Color"
+msgstr "Warna Tombol"
+
+
+msgid "Button Text"
+msgstr "Teks Tombol"
+
+
+msgid "Button Text Color"
+msgstr "Warna Teks Tombol"
+
+
+msgid "Button Txt"
+msgstr "Teks Tombol"
+
+
+msgid "Button View"
+msgstr "Tampilan Tombol"
+
+
+msgid "Button image updated successfully"
+msgstr "Gambar tombol berhasil diperbarui"
+
+
+msgid "Captcha is required"
+msgstr "Captcha wajib diisi"
+
+
+msgid "Closed On"
+msgstr "Ditutup"
+
+
+msgid "Current Status"
+msgstr "Status Terkini"
+
+
+msgid "Custom %s"
+msgstr "Kustom %s"
+
+
+msgid "Default login system form won't not show if it enabled"
+msgstr "Form sistem login default tidak akan muncul jika diaktifkan"
+
+
+msgid "Default login system form won't not show if it enabled, but Remote Login & Social login will show if those are enabled"
+msgstr "Formulir sistem info masuk default tidak akan ditampilkan jika diaktifkan, tetapi Login Masuk & Sosial Jarak Jauh akan ditampilkan jika diaktifkan"
+
+
+msgid "Disable Default Login"
+msgstr "Nonaktifkan Login Default"
+
+
+msgid "Disable Guest Open Popup"
+msgstr "Nonaktifkan Buka Munculan Tamu"
+
+
+msgid "Edit Remote Login"
+msgstr "Edit Remote Login"
+
+
+msgid "Email to Ticket"
+msgstr "Email ke Tiket"
+
+
+msgid "Enable Tone (Sound)"
+msgstr "Aktifkan Nada (Suara)"
+
+
+msgid "Featured Video"
+msgstr "Video Unggulan"
+
+
+msgid "File Upload"
+msgstr "Unggah File"
+
+
+msgid "If you enable this then admin will hear tone on notification"
+msgstr "Jika Anda mengaktifkan ini maka admin akan mendengar nada notifikasi"
+
+
+msgid "If you enable this then guest user also get all priroty as dropdown option"
+msgstr "Jika Anda mengaktifkan ini maka pengguna tamu juga mendapatkan semua prioritas sebagai opsi drop-down"
+
+
+msgid "It is your remote server login URL. You can add extra parameter to detect, %s"
+msgstr "Ini adalah URL masuk server jarak jauh Anda. Anda dapat menambahkan parameter tambahan untuk mendeteksi, %s"
+
+
+msgid "It is your remote server login URL. You can add extra parameter to detect, ex. %s"
+msgstr "Ini adalah URL masuk server jarak jauh Anda. Anda dapat menambahkan parameter tambahan untuk mendeteksi, mis.  %s"
+
+
+msgid "It is your remote server login URL. You can add extra parameter to detect, ex. http://zyz.com?from=support-system"
+msgstr "Ini adalah URL masuk server jarak jauh Anda. Anda dapat menambahkan parameter tambahan untuk mendeteksi, mis. http://zyz.com?from=support-system"
+
+
+msgid "It will redirect to home page within"
+msgstr "Ini akan mengarahkan kembali ke halaman rumah di dalam"
+
+
+msgid "It will send this key in verification process as param"
+msgstr "Ini akan mengirimkan kunci ini dalam proses verifikasi sebagai param"
+
+
+msgid "Keep empty if you don't want show any video"
+msgstr "Tetap kosong jika Anda tidak ingin menampilkan video apa pun"
+
+
+msgid "Last Replied On"
+msgstr "Terakhir Dijawab"
+
+
+msgid "Layout & Color"
+msgstr "Tata Letak & Warna"
+
+
+msgid "Log uploaded"
+msgstr "Log diunggah"
+
+
+msgid "Login Email"
+msgstr "Email Login"
+
+
+msgid "Login Link"
+msgstr "Tautan Login"
+
+
+msgid "Login URL"
+msgstr "URL masuk"
+
+
+msgid "Login Using"
+msgstr "Login Menggunakan"
+
+
+msgid "NB. %s will be your server's api key, by this we validate the response"
+msgstr "NB.  %s akan menjadi kunci api server Anda, dengan ini kami memvalidasi tanggapan"
+
+
+msgid "NB. %s will be your server's login token, by this it can validated the user"
+msgstr "NB.  %s akan menjadi token login server Anda, dengan ini dapat memvalidasi pengguna"
+
+
+msgid "New Remote Login"
+msgstr "Remote Login Baru"
+
+
+msgid "Normally visitor will show a popup it s/he doesn't logged in. If you don't want to show that then enable it"
+msgstr "Biasanya pengunjung akan menampilkan popup yang dia tidak masuk. Jika Anda tidak ingin menunjukkan itu kemudian aktifkan"
+
+
+msgid "Notification Tone (Sound)"
+msgstr "Nada Notifikasi (Suara)"
+
+
+msgid "Opened On"
+msgstr "Tiket Dibuat pada"
+
+
+msgid "Our server will post to this URL with the response token.%s Post paramater will be look like %s"
+msgstr "Server kami akan memposting ke URL ini dengan token tanggapan. Parameter Pos %s akan terlihat seperti %s"
+
+
+msgid "Pay Now"
+msgstr "Bayar sekarang"
+
+
+msgid "Payment Added"
+msgstr "Pembayaran ditambahkan"
+
+
+msgid "Preview"
+msgstr "Preview"
+
+
+msgid "Private Key"
+msgstr "Kunci Pribadi"
+
+
+msgid "Remote Login"
+msgstr "Login Jarak Jauh"
+
+
+msgid "Remote Login Error"
+msgstr "Kesalahan Masuk Jarak Jauh"
+
+
+msgid "Remote Login List"
+msgstr "Daftar Masuk Jarak Jauh"
+
+
+msgid "Remote Server Login"
+msgstr "Login Server Jarak Jauh"
+
+
+msgid "Remote_server"
+msgstr "Remote_server"
+
+
+msgid "Request Count"
+msgstr "Permintaan Hitung"
+
+
+msgid "Response Data Error"
+msgstr "Kesalahan Data Tanggapan"
+
+
+msgid "Response URL"
+msgstr "URL tanggapan"
+
+
+msgid "Same As Admin"
+msgstr "Sama Seperti Admin"
+
+
+msgid "Seconds"
+msgstr "Detik"
+
+
+msgid "Select icon"
+msgstr "Pilih ikon"
+
+
+msgid "Server Type"
+msgstr "Tipe Server"
+
+
+msgid "Show all priroty on Guest Ticket"
+msgstr "Tampilkan semua prioritas di Tiket Tamu"
+
+
+msgid "Site Language"
+msgstr "Bahasa Situs"
+
+
+msgid "Site Theme Settings"
+msgstr "Pengaturan Tema Situs"
+
+
+msgid "Social Login Setting"
+msgstr "Pengaturan Login Sosial"
+
+
+msgid "Successfully Dismissed"
+msgstr "Berhasil Diberhentikan"
+
+
+msgid "Successfully deleted"
+msgstr "Berhasil dihapus"
+
+
+msgid "Successfully logged in"
+msgstr "Berhasil masuk"
+
+
+msgid "Successfully saved"
+msgstr "Berhasil disimpan"
+
+
+msgid "Thank you for registering with us"
+msgstr "Terima kasih telah mendaftar bersama kami"
+
+
+msgid "Theme"
+msgstr "Tema"
+
+
+msgid "This account has been temporary locked for 30 minutes, try again later or contact with admin to unlock"
+msgstr "Akun ini telah terkunci sementara selama 30 menit, coba lagi nanti atau hubungi admin untuk membuka kunci"
+
+
+msgid "This servers's configuration"
+msgstr "Konfigurasi server ini"
+
+
+msgid "Ticket Email"
+msgstr "Email Tiket"
+
+
+msgid "Ticket Re-Opened"
+msgstr "Tiket Dibuka Kembali"
+
+
+msgid "Unknown"
+msgstr "Tidak dikenal"
+
+
+msgid "User Login Using"
+msgstr "Login Pengguna Menggunakan"
+
+
+msgid "Valid Url"
+msgstr "Url yang Valid"
+
+
+msgid "Validation URL"
+msgstr "URL Validasi"
+
+
+msgid "Video"
+msgstr "Video"
+
+
+msgid "View Update Details"
+msgstr "Lihat Detail Pembaruan"
+
+
+msgid "Welcome to"
+msgstr "Selamat Datang di"
+
+
+msgid "Your server's redirect URL"
+msgstr "URL pengalihan server Anda"
+
+
+msgid "View All"
+msgstr "Lihat semua"
+
+
+msgid "%s replied a message"
+msgstr "%s menjawab pesan"
+
+
+msgid "API Name"
+msgstr "Nama API"
+
+
+msgid "About Support System-help"
+msgstr "Tentang Dukungan System-help"
+
+
+msgid "Agent Welcome Text"
+msgstr "Teks Selamat Datang Agen"
+
+
+msgid "All Paid Ticket"
+msgstr "Semua Tiket Berbayar"
+
+
+msgid "Analytics Gtag ID"
+msgstr "ID Gtag Analytics"
+
+
+msgid "App User Details"
+msgstr "Detail Pengguna Aplikasi"
+
+
+msgid "Archive"
+msgstr "Arsipkan"
+
+
+msgid "Are you sure to archive?"
+msgstr "Apakah Anda yakin akan mengarsipkan?"
+
+
+msgid "Are you sure to archive? Archive is like Delete. You can inactive for temporary basis"
+msgstr "Apakah Anda yakin akan mengarsipkan? Arsip seperti Hapus. Anda dapat tidak aktif untuk sementara waktu"
+
+
+msgid "Are you sure to archive? Archive is like as delete. If you want to do it for temporary, then set inactive status instead of archive. You cann&#96;t revert if you process it."
+msgstr "Apakah Anda yakin akan mengarsipkan? Arsip seperti dihapus. Jika Anda ingin melakukannya untuk sementara, maka atur status tidak aktif, bukan arsip. Anda tidak dapat kembali jika Anda memprosesnya."
+
+
+msgid "Are you sure to archive? Archive is like as delete. If you want to do it for temporary, then you can inactive this user."
+msgstr "Apakah Anda yakin akan mengarsipkan? Arsip seperti dihapus. Jika Anda ingin melakukannya sementara, maka Anda dapat menonaktifkan pengguna ini."
+
+
+msgid "Are you sure to archive? Archive is like as delete. It you want do it for temporary then you can inactive this user."
+msgstr "Apakah Anda yakin akan mengarsipkan? Arsip seperti dihapus. Anda ingin melakukannya sementara, maka Anda dapat menonaktifkan pengguna ini."
+
+
+msgid "Are you sure to archive? Archive is like as delete. You can inactive for temporary basis"
+msgstr "Apakah Anda yakin akan mengarsipkan? Arsip seperti dihapus. Anda dapat tidak aktif untuk sementara waktu"
+
+
+msgid "Are you sure to change chat status?"
+msgstr "Apakah Anda yakin untuk mengubah status obrolan?"
+
+
+msgid "Are you sure to unlock?"
+msgstr "Apakah Anda yakin untuk membuka kunci?"
+
+
+msgid "Asigned By"
+msgstr "Ditanda tangani oleh"
+
+
+msgid "Authentication failed!. May be you didn't authenticate."
+msgstr "Otentikasi gagal!. Mungkin Anda tidak mengotentikasi."
+
+
+msgid "Best Ranker Wordpress tool"
+msgstr "Alat Wordpress Ranker Terbaik"
+
+
+msgid "Browser"
+msgstr "Browser"
+
+
+msgid "Canned Message"
+msgstr "Pesan Kalengan"
+
+
+msgid "Change Profile Photo"
+msgstr "Ubah Foto Profil"
+
+
+msgid "Chat Canned Message"
+msgstr "Pesan Kalengan Chat"
+
+
+msgid "Chat Canned Msg List"
+msgstr "Daftar Msg Kalengan Obrolan"
+
+
+msgid "Chat Online Status"
+msgstr "Status Chat Online"
+
+
+msgid "Chat Opening Text"
+msgstr "Teks Pembukaan Obrolan"
+
+
+msgid "Chat Panel"
+msgstr "Panel Obrolan"
+
+
+msgid "Chat Receive Status"
+msgstr "Status Penerimaan Obrolan"
+
+
+msgid "Chat Settings"
+msgstr "pengaturan Chat"
+
+
+msgid "Chat Status"
+msgstr "Status Obrolan"
+
+
+msgid "Check On Submit"
+msgstr "Check On Kirim"
+
+
+msgid "Choose API"
+msgstr "Pilih API"
+
+
+msgid "Choose API from available APIs"
+msgstr "Pilih API dari API yang tersedia"
+
+
+msgid "Choose Chat Type"
+msgstr "Pilih Jenis Obrolan"
+
+
+msgid "Choose Type or Category"
+msgstr "Pilih Jenis atau Kategori"
+
+
+msgid "Click here to watch the video tutorial"
+msgstr "Klik di sini untuk menonton tutorial video"
+
+
+msgid "Click on the Image to change. Best size is 250px x 200px"
+msgstr "Klik pada Gambar untuk berubah. Ukuran terbaik adalah 250px x 200px"
+
+
+msgid "Client Profile"
+msgstr "Profil klien"
+
+
+msgid "Close Chat Status"
+msgstr "Tutup Status Obrolan"
+
+
+msgid "Closed Chat List"
+msgstr "Daftar Obrolan Tertutup"
+
+
+msgid "Closed Failed"
+msgstr "Ditutup Gagal"
+
+
+msgid "Closed Successfully"
+msgstr "Ditutup Berhasil"
+
+
+msgid "Color Settings"
+msgstr "Pengaturan Warna"
+
+
+msgid "Comma( , ) separated. Ex: OptionA,OptionB,OptionC"
+msgstr "Koma (,) dipisahkan. Contoh: OptionA, OptionB, OptionC"
+
+
+msgid "Do you want to take?"
+msgstr "Apakah Anda ingin mengambil?"
+
+
+msgid "Download"
+msgstr "Unduh"
+
+
+msgid "Edit Ticket Reply"
+msgstr "Edit Balasan Tiket"
+
+
+msgid "Email Password Reset Link"
+msgstr "Tautan Setel Ulang Sandi Email"
+
+
+msgid "Enable"
+msgstr "Memungkinkan"
+
+
+msgid "Enable API Validation"
+msgstr "Aktifkan Validasi API"
+
+
+msgid "End Time"
+msgstr "Akhir waktu"
+
+
+msgid "Enter License Info"
+msgstr "Masukkan Info Lisensi"
+
+
+msgid "Entry Date"
+msgstr "Tanggal masuk"
+
+
+msgid "Envato Settings"
+msgstr "Pengaturan Envato"
+
+
+msgid "Facebook Chat"
+msgstr "Obrolan Facebook"
+
+
+msgid "Facebook Chat Settings"
+msgstr "Pengaturan Obrolan Facebook"
+
+
+msgid "Facebook Page ID"
+msgstr "ID Halaman Facebook"
+
+
+msgid "Failed to assigning you on this chat"
+msgstr "Gagal menugaskan Anda di obrolan ini"
+
+
+msgid "Failed to update"
+msgstr "Gagal memperbarui"
+
+
+msgid "Field Label"
+msgstr "Label Bidang"
+
+
+msgid "File Settings"
+msgstr "Pengaturan File"
+
+
+msgid "GUEST USER"
+msgstr "PENGGUNA TAMU"
+
+
+msgid "Genaral"
+msgstr "Umum"
+
+
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+
+msgid "Google Analytics Gtag ID"
+msgstr "ID Google Analytics Gtag"
+
+
+msgid "Google Analytics Settings"
+msgstr "Pengaturan Google Analytics"
+
+
+msgid "Gtag ID"
+msgstr "ID Gtag"
+
+
+msgid "Help Text"
+msgstr "Teks Bantuan"
+
+
+msgid "How to use all feature of this support system"
+msgstr "Cara menggunakan semua fitur dari sistem pendukung ini"
+
+
+msgid "IMAP module is not activated in you php"
+msgstr "Modul IMAP tidak diaktifkan di php Anda"
+
+
+msgid "If you choose this then this field will be displayed on choosen category only"
+msgstr "Jika Anda memilih ini maka bidang ini akan ditampilkan hanya pada kategori terpilih"
+
+
+msgid "If you enable this then the field will be check using selected API"
+msgstr "Jika Anda mengaktifkan ini, maka bidang akan diperiksa menggunakan API yang dipilih"
+
+
+msgid "If you enable this then the value of this field is always be private"
+msgstr "Jika Anda mengaktifkan ini maka nilai bidang ini selalu bersifat pribadi"
+
+
+msgid "If you enable this, the field value need to be valid on form submission. Otherwise you will get a button to check manually"
+msgstr "Jika Anda mengaktifkan ini, nilai bidang harus valid pada pengiriman formulir. Kalau tidak, Anda akan mendapatkan tombol untuk memeriksa secara manual"
+
+
+msgid "If you want to set %s. Then please go to %s or  %s"
+msgstr "Jika Anda ingin mengatur %s. Lalu silakan pergi ke %s atau %s"
+
+
+msgid "Is Private"
+msgstr "Apakah Pribadi"
+
+
+msgid "It set a limit,how many chat a agent(Admin User) can take  simultaneously"
+msgstr "Ini menetapkan batas, berapa banyak obrolan agen (Pengguna Admin) dapat mengambil secara bersamaan"
+
+
+msgid "It will show when a agent start a chat session."
+msgstr "Ini akan muncul ketika agen memulai sesi obrolan."
+
+
+msgid "It will show when a agent start a chat session. You can use some property which is given bello:"
+msgstr "Ini akan muncul ketika agen memulai sesi obrolan. Anda dapat menggunakan beberapa properti yang diberikan bello:"
+
+
+msgid "It will show when a agent start a chat session. You can use some property which is given bellow:"
+msgstr "Ini akan muncul ketika agen memulai sesi obrolan. Anda dapat menggunakan beberapa properti yang diberikan di bawah ini:"
+
+
+msgid "It will show when a user want to start chat"
+msgstr "Ini akan menunjukkan kapan pengguna ingin memulai obrolan"
+
+
+msgid "It will show when all user are offline"
+msgstr "Ini akan menunjukkan ketika semua pengguna sedang offline"
+
+
+msgid "It will show when all user busy,"
+msgstr "Ini akan menunjukkan saat semua pengguna sibuk,"
+
+
+msgid "Item Purchase Code"
+msgstr "Kode Pembelian Item"
+
+
+msgid "Its the field label"
+msgstr "Ini label bidangnya"
+
+
+msgid "Knowledge Search"
+msgstr "Pencarian Artikel"
+
+
+msgid "Last 5 Closed Chat"
+msgstr "5 Obrolan Tertutup Terakhir"
+
+
+msgid "Last Change Date"
+msgstr "Tanggal Perubahan Terakhir"
+
+
+msgid "Last Date"
+msgstr "Tanggal terakhir"
+
+
+msgid "Latest Knowledge"
+msgstr "Artikel terbaru"
+
+
+msgid "Load More"
+msgstr "Muat lebih"
+
+
+msgid "Loading Chat Data Please wait.."
+msgstr "Memuat Data Obrolan Silakan tunggu .."
+
+
+msgid "Locked_user_confirm"
+msgstr "Locked_user_confirm"
+
+
+msgid "Login using social"
+msgstr "Login menggunakan sosial"
+
+
+msgid "Low Priority"
+msgstr "Prioritas rendah"
+
+
+msgid "Max chat count"
+msgstr "Jumlah obrolan maks"
+
+
+msgid "Max. Chat Per Agent"
+msgstr "Max. Obrolan Per Agen"
+
+
+msgid "Max. Chat Per Agent %s"
+msgstr "Max. Obrolan Per Agen %s"
+
+
+msgid "Max. Chat Per Agent(simultaneously)"
+msgstr "Max. Obrolan Per Agen (secara bersamaan)"
+
+
+msgid "Message List"
+msgstr "Daftar Pesan"
+
+
+msgid "Missing chat id"
+msgstr "ID obrolan tidak ada"
+
+
+msgid "My Closed Ticket"
+msgstr "Tiket Saya Ditutup"
+
+
+msgid "My Paid Tickets"
+msgstr "Tiket Saya Dibayar"
+
+
+msgid "Name of user"
+msgstr "Nama pengguna"
+
+
+msgid "Need Support? Create a Ticket."
+msgstr "Butuh bantuan? Buat Tiket."
+
+
+msgid "New Chat Canned Message"
+msgstr "Pesan Kalengan Obrolan Baru"
+
+
+msgid "New Chat Canned Msg"
+msgstr "Obrolan Kalengan Obrolan Baru"
+
+
+msgid "New Chat Request"
+msgstr "Permintaan Obrolan Baru"
+
+
+msgid "New Custom Field"
+msgstr "Bidang Kustom Baru"
+
+
+msgid "New Product"
+msgstr "Produk baru"
+
+
+msgid "No result found"
+msgstr "Tidak ada hasil yang ditemukan"
+
+
+msgid "Offline Text"
+msgstr "Teks Luring"
+
+
+msgid "On Screeen Notification Settings"
+msgstr "Pengaturan Notifikasi Layar"
+
+
+msgid "On Screeen Notification Settions"
+msgstr "Pengaturan Notifikasi Layar"
+
+
+msgid "Only profile image updated"
+msgstr "Hanya gambar profil yang diperbarui"
+
+
+msgid "Open Text"
+msgstr "Buka Teks"
+
+
+msgid "Open Ticket With Less Priority"
+msgstr "Buka Tiket Dengan Prioritas Kurang"
+
+
+msgid "Page Builder"
+msgstr "Pembuat Halaman"
+
+
+msgid "Page Editor"
+msgstr "Editor Halaman"
+
+
+msgid "Password 18DDC9E196"
+msgstr "Sandi 18DDC9E196"
+
+
+msgid "Password Successfully Updated"
+msgstr "Kata Sandi Berhasil Diperbarui"
+
+
+msgid "Please Rate it !!"
+msgstr "Silakan Nilai itu !!"
+
+
+msgid "Please put this into your facebook page settings"
+msgstr "Silakan memasukkan ini ke pengaturan halaman facebook Anda"
+
+
+msgid "Priority"
+msgstr "Prioritas"
+
+
+msgid "Products"
+msgstr "Produk"
+
+
+msgid "Profile Photo"
+msgstr "Foto Profil"
+
+
+msgid "Queue Text"
+msgstr "Teks Antrian"
+
+
+msgid "Rate it"
+msgstr "Menilai itu"
+
+
+msgid "Replied"
+msgstr "Dibalas"
+
+
+msgid "Replied By"
+msgstr "Dijawab oleh"
+
+
+msgid "Replied By Type"
+msgstr "Dibalas Dengan Jenis"
+
+
+msgid "Replied Successfully"
+msgstr "Berhasil Diulang"
+
+
+msgid "Reply Time"
+msgstr "Balas Waktu"
+
+
+msgid "Reset Password"
+msgstr "Setel ulang kata sandi"
+
+
+msgid "Screen Notificaiton Settings"
+msgstr "Pengaturan Notifikasi Layar"
+
+
+msgid "Search Result"
+msgstr "Hasil pencarian"
+
+
+msgid "Seen by ticket owner"
+msgstr "Terlihat oleh pemilik tiket"
+
+
+msgid "Set Category"
+msgstr "Setel Kategori"
+
+
+msgid "Set New Password"
+msgstr "Setel Kata Sandi Baru"
+
+
+msgid "Set Passowrd"
+msgstr "Setel Kata Sandi"
+
+
+msgid "Set Password"
+msgstr "Setel Kata Sandi"
+
+
+msgid "Set User Password"
+msgstr "Atur kata sandi pengguna"
+
+
+msgid "Site Info"
+msgstr "Info Situs"
+
+
+msgid "Social Login Error"
+msgstr "Kesalahan Masuk Sosial"
+
+
+msgid "Start Time"
+msgstr "Waktu mulai"
+
+
+msgid "Successfully Archived"
+msgstr "Berhasil Diarsipkan"
+
+
+msgid "Successfully assign"
+msgstr "Berhasil menugaskan"
+
+
+msgid "Successfully assigned you"
+msgstr "Berhasil menugaskan Anda"
+
+
+msgid "Successfully closed"
+msgstr "Berhasil ditutup"
+
+
+msgid "Successfully unlocked"
+msgstr "Berhasil dibuka"
+
+
+msgid "The text will be show like this text after the field"
+msgstr "Teks akan ditampilkan seperti teks ini setelah bidang"
+
+
+msgid "The user is already archived. You can't active or inactive"
+msgstr "Pengguna sudah diarsipkan. Anda tidak dapat aktif atau tidak aktif"
+
+
+msgid "The user who replaied last"
+msgstr "Pengguna yang melakukan replikasi terakhir"
+
+
+msgid "This chat request has been accepted by %s"
+msgstr "Permintaan obrolan ini telah diterima oleh %s"
+
+
+msgid "This chat request has been accepted by Sarwar Hasan"
+msgstr "Permintaan obrolan ini telah diterima oleh Sarwar Hasan"
+
+
+msgid "Ticket Form Category"
+msgstr "Kategori Formulir Tiket"
+
+
+msgid "Ticket Opened"
+msgstr "Tiket Dibuka"
+
+
+msgid "Ticket Payment"
+msgstr "Pembayaran Tiket"
+
+
+msgid "Ticket Priority"
+msgstr "Prioritas Tiket"
+
+
+msgid "Ticket open time in app timezone (UTC)"
+msgstr "Waktu buka tiket di zona waktu aplikasi (UTC)"
+
+
+msgid "Ticket owner doesn't seen"
+msgstr "Pemilik tiket tidak terlihat"
+
+
+msgid "Ticket owner seen"
+msgstr "Pemilik tiket terlihat"
+
+
+msgid "Ticket reply saved error"
+msgstr "Kesalahan tersimpan jawaban tiket"
+
+
+msgid "Ticket_confirm"
+msgstr "Konfirmasi Tiket"
+
+
+msgid "To enable chat"
+msgstr "Untuk mengaktifkan obrolan"
+
+
+msgid "To enable facebook messenger chat"
+msgstr "Untuk mengaktifkan obrolan facebook messenger"
+
+
+msgid "Top Priority"
+msgstr "Prioritas utama"
+
+
+msgid "Unlock"
+msgstr "Membuka kunci"
+
+
+msgid "Unseened by ticket owner"
+msgstr "Tak terlihat oleh pemilik tiket"
+
+
+msgid "Updated successfully"
+msgstr "Berhasil diperbarui"
+
+
+msgid "Use this as your confirmation url into your envato app register page."
+msgstr "Gunakan ini sebagai url konfirmasi Anda ke halaman pendaftaran aplikasi envato Anda."
+
+
+msgid "User Info"
+msgstr "Info Pengguna"
+
+
+msgid "User Password"
+msgstr "Kata Sandi Pengguna"
+
+
+msgid "User login information"
+msgstr "Informasi login pengguna"
+
+
+msgid "View"
+msgstr "Melihat"
+
+
+msgid "WP Best Ranker"
+msgstr "WP Best Ranker"
+
+
+msgid "WP Rank Ninja"
+msgstr "WP Rank Ninja"
+
+
+msgid "Web Chat"
+msgstr "Percakapan web"
+
+
+msgid "Web Chat Settings"
+msgstr "Pengaturan Obrolan Web"
+
+
+msgid "Would You Please Rate it?"
+msgstr "Akankah Anda Beri Nilai?"
+
+
+msgid "Write here"
+msgstr "Tulis disini"
+
+
+msgid "YYYY-MM-DD"
+msgstr "YYYY-MM-DD"
+
+
+msgid "You can use some property which is given bellow:"
+msgstr "Anda dapat menggunakan beberapa properti yang diberikan di bawah ini:"
+
+
+msgid "You can't set pro version now. Pro version is coming soon. Please choose default chat now"
+msgstr "Anda tidak dapat mengatur versi pro sekarang. Versi Pro akan segera hadir. Silakan pilih obrolan standar sekarang"
+
+
+msgid "You have no notifications right now"
+msgstr "Anda tidak memiliki pemberitahuan sekarang"
+
+
+msgid "Your Domain URL"
+msgstr "URL Domain Anda"
+
+
+msgid "[GUEST USER]"
+msgstr "[TAMU PENGGUNA]"
+
+
+msgid "agent_welcome_text"
+msgstr "agent_welcome_text"
+
+
+msgid "e"
+msgstr "e"
+
+
+msgid "ex. 5"
+msgstr "ex. 5"
+
+
+msgid "snippets"
+msgstr "snippet"
+
+
+msgid "to see the video tutorial"
+msgstr "untuk melihat tutorial video"
+
+
+msgid "typing"
+msgstr "mengetik"
+
+
+msgid "%.2f"
+msgstr "%.2f"
+
+
+msgid "%s is already exists"
+msgstr "%s sudah ada"
+
+
+msgid "A  ticket reply has been received from ticket user"
+msgstr "Balasan tiket telah diterima dari pengguna tiket"
+
+
+msgid "A new ticket is assigned to you"
+msgstr "Tiket baru diberikan kepada Anda"
+
+
+msgid "A new ticket is received please assign"
+msgstr "Tiket baru diterima, harap berikan"
+
+
+msgid "A reset link has been sent to your email address. Please check that"
+msgstr "Tautan atur ulang telah dikirim ke alamat email Anda. Tolong periksa itu"
+
+
+msgid "Add"
+msgstr "Menambahkan"
+
+
+msgid "Add Another File"
+msgstr "Tambahkan File Lain"
+
+
+msgid "Add Note"
+msgstr "Menambahkan catatan"
+
+
+msgid "Admin Notes"
+msgstr "Catatan Admin"
+
+
+msgid "Admin ticket creation"
+msgstr "Pembuatan tiket admin"
+
+
+msgid "All Categories"
+msgstr "semua Kategori"
+
+
+msgid "All Category"
+msgstr "Semua Kategori"
+
+
+msgid "Application"
+msgstr "Aplikasi"
+
+
+msgid "Are you sure to delete attached file (%s)?"
+msgstr "Apakah Anda yakin untuk menghapus file terlampir ( %s)?"
+
+
+msgid "Are you sure to delete attached file?"
+msgstr "Apakah Anda yakin untuk menghapus file terlampir?"
+
+
+msgid "Are you sure to delete feature image?"
+msgstr "Apakah Anda yakin untuk menghapus gambar fitur?"
+
+
+msgid "Assign On Ticket"
+msgstr "Tugaskan Tiket"
+
+
+msgid "Attach more file"
+msgstr "Lampirkan lebih banyak file"
+
+
+msgid "Attached"
+msgstr "Terlampir"
+
+
+msgid "Attached file"
+msgstr "File terlampir"
+
+
+msgid "Authentication Error"
+msgstr "Kesalahan otentikasi"
+
+
+msgid "Auto Closing Rule"
+msgstr "Aturan Penutupan Otomatis"
+
+
+msgid "Auto assign equally based on current month assigning"
+msgstr "Otomatis tetapkan sama berdasarkan penugasan bulan saat ini"
+
+
+msgid "Based on ticket assigning rule"
+msgstr "Berdasarkan aturan pemberian tiket"
+
+
+msgid "Button Icon"
+msgstr "Ikon Tombol"
+
+
+msgid "Cat Ids"
+msgstr "Id Kucing"
+
+
+msgid "Change Category"
+msgstr "Ubah Kategori"
+
+
+msgid "Change Category of ticket: T6DD28E9B-012-1P9"
+msgstr "Ubah kategori tiket: T6DD28E9B-012-1P9"
+
+
+msgid "Change Category of ticket: T84B12BAE-001-ZCO"
+msgstr "Ubah kategori tiket: T84B12BAE-001-ZCO"
+
+
+msgid "Chat Auto Close"
+msgstr "Obrolan Otomatis Tutup"
+
+
+msgid "Chat Auto Close Interval"
+msgstr "Interval Tutup Otomatis Obrolan"
+
+
+msgid "Chat Background Pattern"
+msgstr "Pola Latar Belakang Obrolan"
+
+
+msgid "Chat Button Icon"
+msgstr "Ikon Tombol Obrolan"
+
+
+msgid "Chat Closing Text"
+msgstr "Teks Penutupan Obrolan"
+
+
+msgid "Chat Logo"
+msgstr "Logo Obrolan"
+
+
+msgid "Chat Tag Line"
+msgstr "Baris Tag Obrolan"
+
+
+msgid "Chat Title"
+msgstr "Judul Obrolan"
+
+
+msgid "Chat Window and Button Color"
+msgstr "Jendela Obrolan dan Warna Tombol"
+
+
+msgid "Chat closing interval"
+msgstr "Interval penutupan chat"
+
+
+msgid "Chat has been auto closed by system"
+msgstr "Obrolan telah otomatis ditutup oleh sistem"
+
+
+msgid "Chat main color"
+msgstr "Warna utama obrolan"
+
+
+msgid "Chat will be closed which is inactive for entered value. Enter 0 to disable auto close"
+msgstr "Obrolan akan ditutup yang tidak aktif untuk nilai yang dimasukkan. Masukkan 0 untuk menonaktifkan otomatis tutup"
+
+
+msgid "Choose Category"
+msgstr "Pilih Kategori"
+
+
+msgid "Choose Pattern"
+msgstr "Pilih Pola"
+
+
+msgid "Choose Staff"
+msgstr "Pilih Staf"
+
+
+msgid "Choose chat button icon"
+msgstr "Pilih ikon tombol obrolan"
+
+
+msgid "Close ticket which has been inactive for"
+msgstr "Tutup tiket yang sudah tidak aktif"
+
+
+msgid "Close ticket which is inactivated for"
+msgstr "Tutup tiket yang tidak aktif untuk"
+
+
+msgid "Closing Message"
+msgstr "Pesan Penutupan"
+
+
+msgid "Closing Rule"
+msgstr "Aturan Penutupan"
+
+
+msgid "Closing Text"
+msgstr "Teks Penutupan"
+
+
+msgid "Currency"
+msgstr "Mata uang"
+
+
+msgid "Custom_field"
+msgstr "Tanah adat"
+
+
+msgid "Delete failed"
+msgstr "Hapus gagal"
+
+
+msgid "Demo Mode"
+msgstr "Mode demo"
+
+
+msgid "Disable Knowledge Stat In Homepage"
+msgstr "Nonaktifkan Statistik Artikel Di Beranda"
+
+
+msgid "Disable knowledge statistics in home page"
+msgstr "Nonaktifkan statistik artikel di beranda"
+
+
+msgid "Edit Ticket Assign Rule"
+msgstr "Edit Aturan Penugasan Tiket"
+
+
+msgid "Email template for  AAT"
+msgstr "Template email untuk AAT"
+
+
+msgid "Email template for  TAC"
+msgstr "Template email untuk TAC"
+
+
+msgid "Enable Auto Close"
+msgstr "Aktifkan Tutup Otomatis"
+
+
+msgid "Enable this to disable %s,%s,%s in homepage"
+msgstr "Aktifkan ini untuk menonaktifkan %s, %s, %s di homepage"
+
+
+msgid "Files:"
+msgstr "File:"
+
+
+msgid "Forgot Password"
+msgstr "Lupa kata sandi"
+
+
+msgid "Go to Login"
+msgstr "Pergi ke Login"
+
+
+msgid "Hour"
+msgstr "Jam"
+
+
+msgid "If you don't know how you will configure the Facebook Page settings then"
+msgstr "Jika Anda tidak tahu bagaimana Anda akan mengkonfigurasi pengaturan Halaman Facebook kemudian"
+
+
+msgid "If you enable it, then inactive ticket will be closed automatically by auto closing rule"
+msgstr "Jika Anda mengaktifkannya, maka tiket yang tidak aktif akan ditutup secara otomatis oleh aturan penutupan otomatis"
+
+
+msgid "If you enable this then assigned user will get notification on ticket assigning"
+msgstr "Jika Anda mengaktifkan ini, maka pengguna yang ditetapkan akan mendapatkan pemberitahuan tentang penetapan tiket"
+
+
+msgid "Inactive Interval"
+msgstr "Interval Tidak Aktif"
+
+
+msgid "Inactive Interval min"
+msgstr "Interval Min. Tidak aktif"
+
+
+msgid "It set a limit,how many chat per agent(Admin User) can take  simultaneously"
+msgstr "Ini menetapkan batas, berapa banyak obrolan per agen (Pengguna Admin) dapat mengambil secara bersamaan"
+
+
+msgid "It will display in chat window"
+msgstr "Ini akan ditampilkan di jendela obrolan"
+
+
+msgid "It will redirect within"
+msgstr "Ini akan dialihkan ke dalam"
+
+
+msgid "It will show when all agent close the chat,"
+msgstr "Ini akan menunjukkan ketika semua agen menutup obrolan,"
+
+
+msgid "Knowledge Categories"
+msgstr "Kategori Artikel"
+
+
+msgid "Knowledge attached file"
+msgstr "File lampiran artikel"
+
+
+msgid "Knowledge feature image"
+msgstr "Gambar utama artikel"
+
+
+msgid "Main color of chat window."
+msgstr "Warna utama jendela obrolan."
+
+
+msgid "N B. If you select Facebook Chat then you have to reply form Facebook Page Manager App or from Facebook. You can't reply from this app"
+msgstr "N B. Jika Anda memilih Obrolan Facebook, maka Anda harus membalas formulir Aplikasi Pengelola Halaman Facebook atau dari Facebook. Anda tidak dapat membalas dari aplikasi ini"
+
+
+msgid "Name of ticket assigned user"
+msgstr "Nama pengguna tiket yang ditetapkan"
+
+
+msgid "New Admin Note"
+msgstr "Catatan Admin Baru"
+
+
+msgid "New Ticket Assign Rule"
+msgstr "Aturan Penetapan Tiket Baru"
+
+
+msgid "New message or chat"
+msgstr "Pesan atau obrolan baru"
+
+
+msgid "New ticket assigned"
+msgstr "Tiket baru ditugaskan"
+
+
+msgid "New ticket assigned by you"
+msgstr "Tiket baru yang ditugaskan oleh Anda"
+
+
+msgid "New ticket received"
+msgstr "Order Tiket Masuk"
+
+
+msgid "No note founds"
+msgstr "Tidak ada catatan yang ditemukan"
+
+
+msgid "No ticket open by %s"
+msgstr "Tidak ada tiket yang dibuka oleh %s"
+
+
+msgid "Note"
+msgstr "Catatan"
+
+
+msgid "Note On"
+msgstr "Catatan Aktif"
+
+
+msgid "Notification List"
+msgstr "Daftar Pemberitahuan"
+
+
+msgid "On Ticket Assign"
+msgstr "Pada Penetapan Tiket"
+
+
+msgid "Password changed successfully"
+msgstr "Kata sandi berhasil diubah"
+
+
+msgid "Password info"
+msgstr "Info kata sandi"
+
+
+msgid "Payment Amount (%s)"
+msgstr "Jumlah Pembayaran ( %s)"
+
+
+msgid "Payment Amount(%s)"
+msgstr "Jumlah Pembayaran ( %s)"
+
+
+msgid "Permission Denied or logged out."
+msgstr "Izin Ditolak atau keluar."
+
+
+msgid "Please read it first"
+msgstr "Tolong baca dulu"
+
+
+msgid "Popular Knowledge"
+msgstr "Artikel Populer"
+
+
+msgid "Recover Password"
+msgstr "Pulihkan Kata Sandi"
+
+
+msgid "Ref Id"
+msgstr "Id Ref"
+
+
+msgid "Ref Type"
+msgstr "Jenis Ref"
+
+
+msgid "Reset failed try again"
+msgstr "Setel ulang gagal coba lagi"
+
+
+msgid "Rule Id"
+msgstr "Id Aturan"
+
+
+msgid "Rule Type"
+msgstr "Jenis Aturan"
+
+
+msgid "SYSTEM"
+msgstr "SISTEM"
+
+
+msgid "Select Category"
+msgstr "Pilih Kategori"
+
+
+msgid "Select Role"
+msgstr "Pilih Peran"
+
+
+msgid "Select User"
+msgstr "Pilih Pengguna"
+
+
+msgid "Select User/Agent/Supervisor"
+msgstr "Pilih Pengguna / Agen / Supervisor"
+
+
+msgid "Selected agent/supervisor/admin will be notified on new ticket"
+msgstr "Agen / pengawas / admin terpilih akan diberi tahu tentang tiket baru"
+
+
+msgid "Selected agent/supervisor/admin will be notified on new ticket assigning"
+msgstr "Agen / pengawas / admin terpilih akan diberi tahu tentang penetapan tiket baru"
+
+
+msgid "Successfully assigned"
+msgstr "Berhasil ditugaskan"
+
+
+msgid "Test Knowledge"
+msgstr "Uji Artikel"
+
+
+msgid "Test attachedxcx"
+msgstr "Uji terlampirxcx"
+
+
+msgid "The ticket will be close which is inactive for client response"
+msgstr "Tiket akan dekat yang tidak aktif untuk respons klien"
+
+
+msgid "The update has been disabled in DEMO MODE"
+msgstr "Pembaruan telah dinonaktifkan dalam DEMO MODE"
+
+
+msgid "The user who reopen this ticket"
+msgstr "Pengguna yang membuka kembali tiket ini"
+
+
+msgid "This user can be agent/supervisor/admin"
+msgstr "Pengguna ini bisa menjadi agen / supervisor / admin"
+
+
+msgid "Ticket Assign Rule"
+msgstr "Aturan Penetapan Tiket"
+
+
+msgid "Ticket Assign Rule List"
+msgstr "Daftar Aturan Penugasan Tiket"
+
+
+msgid "Ticket Closing Message"
+msgstr "Pesan Penutupan Tiket"
+
+
+msgid "Ticket Closing Message defined in Ticket settings"
+msgstr "Tiket Menutup Pesan yang ditentukan dalam pengaturan Tiket"
+
+
+msgid "Ticket Feedback Buttons"
+msgstr "Tombol Umpan Balik Tiket"
+
+
+msgid "Ticket Open By Admin"
+msgstr "Tiket Dibuka Oleh Admin"
+
+
+msgid "Ticket Payment Process"
+msgstr "Proses Pembayaran Tiket"
+
+
+msgid "Ticket user  replied"
+msgstr "Pengguna tiket menjawab"
+
+
+msgid "Ticket_assign_rule"
+msgstr "Ticket_assign_rule"
+
+
+msgid "Timezone updated successfully"
+msgstr "Zona waktu berhasil diperbarui"
+
+
+msgid "Title :"
+msgstr "Judul:"
+
+
+msgid "To see all settings effect on site, Please logout this session or try with other bowser. If admin logged in then you won't see the chat button"
+msgstr "Untuk melihat semua pengaturan efek di situs, silakan keluar sesi ini atau coba dengan bowser lainnya. Jika admin masuk maka Anda tidak akan melihat tombol obrolan"
+
+
+msgid "To see all settings effect on site, please logout admin user or try with other browser. If admin logged in then you won't see the chat button"
+msgstr "Untuk melihat semua pengaturan efek di situs, silakan logout pengguna admin atau coba dengan browser lain. Jika admin masuk maka Anda tidak akan melihat tombol obrolan"
+
+
+msgid "User Or Role"
+msgstr "Pengguna atau Peran"
+
+
+msgid "View Closing Email Template"
+msgstr "Lihat Template Email Penutup"
+
+
+msgid "You have assigned self to a ticket"
+msgstr "Anda telah menetapkan diri ke tiket"
+
+
+msgid "You have been replied a ticket"
+msgstr "Anda telah membalas tiket"
+
+
+msgid "You replied a ticket"
+msgstr "Anda membalas tiket"
+
+
+msgid "Your password has been changed successfully"
+msgstr "Kata sandi Anda telah berhasil diubah"
+
+
+msgid "hours"
+msgstr "jam"
+
+
+msgid "second(s)"
+msgstr "detik (s)"
+
+
+msgid "to view the ticket assigning rule"
+msgstr "untuk melihat aturan penetapan tiket"
+
+
+msgid "Assign user"
+msgstr "Petugas Ditunjuk"
+
+
+msgid "Bad, dissatisfied"
+msgstr "Buruk, tidak puas"
+
+
+msgid "Both"
+msgstr "Kedua"
+
+
+msgid "Closed"
+msgstr "Tutup"
+
+
+msgid "DB Query"
+msgstr "Kueri DB"
+
+
+msgid "Edit Chat Canned Message"
+msgstr "Edit Pesan Kalengan Chat"
+
+
+msgid "Edit Menu"
+msgstr "Edit Menu"
+
+
+msgid "Ex. http://xyz.com"
+msgstr "Ex. http://xyz.com"
+
+
+msgid "Failed"
+msgstr "Gagal"
+
+
+msgid "Feedback message"
+msgstr "Pesan umpan balik"
+
+
+msgid "Guest"
+msgstr "Tamu"
+
+
+msgid "Guest Ticket User"
+msgstr "Pengguna Tiket Tamu"
+
+
+msgid "High"
+msgstr "Tinggi"
+
+
+msgid "Icon"
+msgstr "Ikon"
+
+
+msgid "In Progress"
+msgstr "Sedang Diproses"
+
+
+msgid "Is New Window"
+msgstr "Apakah Jendela Baru"
+
+
+msgid "Leave as Current"
+msgstr "Lanjutkan Status Sekarang"
+
+
+msgid "Loading"
+msgstr "Pemuatan"
+
+
+msgid "Low"
+msgstr "Rendah"
+
+
+msgid "Medium"
+msgstr "Medium"
+
+
+msgid "My Assigned All Tickets"
+msgstr "Semua Tiket Saya Ditugaskan"
+
+
+msgid "New"
+msgstr "Baru"
+
+
+msgid "New Menu"
+msgstr "Menu Baru"
+
+
+msgid "No search result found"
+msgstr "Tidak ditemukan hasil pencarian"
+
+
+msgid "Not Found"
+msgstr "Tidak ditemukan"
+
+
+msgid "Notice_confirm"
+msgstr "Notice_confirm"
+
+
+msgid "Only On Knowledge"
+msgstr "Hanya di Artikel"
+
+
+msgid "Only on Ticket"
+msgstr "Hanya di Tiket"
+
+
+msgid "Page %s of %s"
+msgstr "Halaman %s dari %s"
+
+
+msgid "Paid"
+msgstr "Berbayar"
+
+
+msgid "Pending"
+msgstr "Menunggu keputusan"
+
+
+msgid "Please write a comment on us here"
+msgstr "Silakan tulis komentar di sini"
+
+
+msgid "Refunded"
+msgstr "Dana dikembalikan"
+
+
+msgid "Show Ticket"
+msgstr "Tunjukkan Tiket"
+
+
+msgid "Staff"
+msgstr "Staf"
+
+
+msgid "Text Icon"
+msgstr "Ikon Teks"
+
+
+msgid "Thank you for your feedback"
+msgstr "Terima kasih atas tanggapan Anda"
+
+
+msgid "Thank you for your feedback. It will help us."
+msgstr "Terima kasih atas tanggapan Anda. Ini akan sangat membantu kami agar kedepan bisa lebih baik lagi."
+
+
+msgid "The website address is not valid"
+msgstr "Alamat situs web tidak valid"
+
+
+msgid "URL"
+msgstr "URL"
+
+
+msgid "Urgent"
+msgstr "Penting"
+
+
+msgid "View %s - %s of %s"
+msgstr "Lihat %s - %s dari %s"
+
+
+msgid "Well, satisfied"
+msgstr "Yah, puas"
+
+
+msgid "Would you please share your experience with us?"
+msgstr "Bisakah Anda berbagi pengalaman dengan kami?"
+
+
+msgid "You are not authorizse to see this ticket"
+msgstr "Anda tidak berwenang untuk melihat tiket ini"
+
+
+msgid "day"
+msgstr "hari"
+
+
+msgid "days"
+msgstr "hari"
+
+
+msgid "minute"
+msgstr "menit"
+
+
+msgid "minutes"
+msgstr "menit"
+
+
+msgid "month"
+msgstr "bulan"
+
+
+msgid "months"
+msgstr "bulan"
+
+
+msgid "second"
+msgstr "kedua"
+
+
+msgid "week"
+msgstr "minggu"
+
+
+msgid "weeks"
+msgstr "minggu"
+
+
+msgid "year"
+msgstr "tahun"
+
+
+msgid "years"
+msgstr "tahun"
+
+
+msgid "ago"
+msgstr "lalu"
+
+
+msgid "Ticket user(%s) replied"
+msgstr "Pengguna tiket ( %s) menjawab"
+
+
+msgid "No category found"
+msgstr "Tidak ada kategori yang ditemukan"
+
+
+msgid "Ticket Reply"
+msgstr "Balas Tiket"
+
+
+msgid "Invalid Information"
+msgstr "Informasi Tidak Valid"
+
+
+msgid "Captcha Error"
+msgstr "Kesalahan Captcha"
+
+
+msgid "Assign self"
+msgstr "Tentukan sendiri"
+
+
+msgid "Assign user %s"
+msgstr "Tentukan pengguna %s"
+
+
+msgid "Choose country block rule"
+msgstr "Pilih aturan pencekalan negara"
+
+
+msgid "Choose.."
+msgstr "Memilih.."
+
+
+msgid "Country Block Rule"
+msgstr "Peraturan Blok Negara"
+
+
+msgid "Country Block Settings"
+msgstr "Pengaturan Blok Negara"
+
+
+msgid "Country List"
+msgstr "Daftar Negara"
+
+
+msgid "Enter 2 digit Country Code(ex. US,CA,BD), Separated by comma"
+msgstr "Masukkan 2 digit Kode Negara (mis. AS, CA, BD), Dipisahkan dengan koma"
+
+
+msgid "If you enable it then app check country for allow or block."
+msgstr "Jika Anda mengaktifkannya, maka periksa aplikasi negara untuk mengizinkan atau memblokir."
+
+
+msgid "No user found with this email address"
+msgstr "Tidak ada pengguna yang ditemukan dengan alamat email ini"
+
+
+msgid "Separated by comma"
+msgstr "Dipisahkan dengan koma"
+
+
+msgid "Seperated by comma"
+msgstr "Dipisahkan dengan koma"
+
+
+msgid "simultaneously"
+msgstr "serentak"
+
+
+msgid "%d MIN"
+msgstr "%d MIN"
+
+
+msgid "Accept"
+msgstr "Menerima"
+
+
+msgid "Access denied for hacking attempts"
+msgstr "Akses ditolak karena upaya peretasan"
+
+
+msgid "Admin Work Log"
+msgstr "Log Pekerjaan Admin"
+
+
+msgid "Allow User Own Account Delete Option"
+msgstr "Izinkan Opsi Hapus Akun Pengguna Sendiri"
+
+
+msgid "Allow User To Download Their User Data"
+msgstr "Izinkan Pengguna Untuk Mengunduh Data Pengguna Mereka"
+
+
+msgid "Are you sure to delete your account?"
+msgstr "Apakah Anda yakin untuk menghapus akun Anda?"
+
+
+msgid "Are you sure to reset?"
+msgstr "Apakah Anda yakin untuk mereset?"
+
+
+msgid "Assign"
+msgstr "Menetapkan"
+
+
+msgid "Auto"
+msgstr "Mobil"
+
+
+msgid "Auto Assigned"
+msgstr "Ditugaskan Otomatis"
+
+
+msgid "Background Color"
+msgstr "Warna latar belakang"
+
+
+msgid "Background Opacity"
+msgstr "Opasitas Latar Belakang"
+
+
+msgid "Background Opacity is required"
+msgstr "Opasitas Latar Belakang diperlukan"
+
+
+msgid "Choose Bar Close Animation"
+msgstr "Pilih Bar Tutup Animasi"
+
+
+msgid "Choose Bar Open Animation"
+msgstr "Pilih Bar Open Animation"
+
+
+msgid "Choose Display Event"
+msgstr "Pilih Tampilan Acara"
+
+
+msgid "Choose Policy Page"
+msgstr "Pilih Halaman Kebijakan"
+
+
+msgid "Cookie Bar Background Color"
+msgstr "Warna Latar Belakang Cookie Bar"
+
+
+msgid "Cookie Message"
+msgstr "Pesan Cookie"
+
+
+msgid "Cookie bar text color"
+msgstr "Warna teks bilah cookie"
+
+
+msgid "Copy Link"
+msgstr "Salin tautan"
+
+
+msgid "Date"
+msgstr "Tanggal"
+
+
+msgid "Default Value"
+msgstr "Nilai Default"
+
+
+msgid "Delete my account"
+msgstr "Hapus akun Saya"
+
+
+msgid "Deleted"
+msgstr "Dihapus"
+
+
+msgid "Download this account data"
+msgstr "Unduh data akun ini"
+
+
+msgid "Dropdown"
+msgstr "Dropdown"
+
+
+msgid "Edit Custom Field"
+msgstr "Edit Bidang Khusus"
+
+
+msgid "Edit Page"
+msgstr "Sunting Halaman"
+
+
+msgid "Error"
+msgstr "Kesalahan"
+
+
+msgid "Field Validation"
+msgstr "Validasi Bidang"
+
+
+msgid "GDPR Settings"
+msgstr "Pengaturan GDPR"
+
+
+msgid "General"
+msgstr "Umum"
+
+
+msgid "Go Home Page"
+msgstr "Go Home Page"
+
+
+msgid "If you enable it, then app will show a notification bar for cookie message"
+msgstr "Jika Anda mengaktifkannya, aplikasi akan menampilkan bilah pemberitahuan untuk pesan cookie"
+
+
+msgid "If you enable it, then site user or visitor can delete their account from their panel"
+msgstr "Jika Anda mengaktifkannya, maka pengguna situs atau pengunjung dapat menghapus akun mereka dari panel mereka"
+
+
+msgid "If you enable it, then site user or visitor can download their account data from their panel"
+msgstr "Jika Anda mengaktifkannya, pengguna situs atau pengunjung dapat mengunduh data akun mereka dari panelnya"
+
+
+msgid "If you enable it, then when visitor click the privacy policy then that will be show in lighbox window"
+msgstr "Jika Anda mengaktifkannya, maka ketika pengunjung mengklik kebijakan privasi maka itu akan ditampilkan di jendela lighbox"
+
+
+msgid "If you enable this then it field show in All Ticket list as column in admin panel"
+msgstr "Jika Anda mengaktifkan ini, maka ini akan ditampilkan di daftar Semua Tiket sebagai kolom di panel admin"
+
+
+msgid "In Form"
+msgstr "Dalam Bentuk"
+
+
+msgid "Is Api Based"
+msgstr "Apakah Api Berbasis"
+
+
+msgid "Is On Grid"
+msgstr "Apakah On Grid"
+
+
+msgid "It is the cookie bar background color"
+msgstr "Ini adalah warna latar belakang cookie bar"
+
+
+msgid "It will control the opacity or background transparency of cookie bar background"
+msgstr "Ini akan mengontrol opacity atau latar belakang dari latar belakang cookie bar"
+
+
+msgid "Locked"
+msgstr "Terkunci"
+
+
+msgid "Locked(Hack)"
+msgstr "Terkunci (Peretasan)"
+
+
+msgid "Login Server"
+msgstr "Server Login"
+
+
+msgid "Malicious Attempt on attached file. Attached file(s) has been skipped"
+msgstr "Percobaan Berbahaya pada file terlampir. File yang dilampirkan telah dilewati"
+
+
+msgid "Manual"
+msgstr "Manual"
+
+
+msgid "New IP"
+msgstr "IP baru"
+
+
+msgid "New Page"
+msgstr "Halaman baru"
+
+
+msgid "New Work Log"
+msgstr "Log Pekerjaan Baru"
+
+
+msgid "No work log founds"
+msgstr "Tidak ada log pekerjaan yang ditemukan"
+
+
+msgid "Normal"
+msgstr "Normal"
+
+
+msgid "Notifiy"
+msgstr "Memberitahu"
+
+
+msgid "Numeric"
+msgstr "Numerik"
+
+
+msgid "On Submit Api Check"
+msgstr "Pada Kirim Pemeriksaan Api"
+
+
+msgid "On Ticket Opening Form Category"
+msgstr "Pada Form Pembukaan Tiket"
+
+
+msgid "Others"
+msgstr "Lainnya"
+
+
+msgid "Page"
+msgstr "Halaman"
+
+
+msgid "Page Body"
+msgstr "Halaman Tubuh"
+
+
+msgid "Pages"
+msgstr "Halaman"
+
+
+msgid "Policy Page is required"
+msgstr "Halaman Kebijakan diperlukan"
+
+
+msgid "Published"
+msgstr "Diterbitkan"
+
+
+msgid "Radio"
+msgstr "Radio"
+
+
+msgid "Read"
+msgstr "Baca baca"
+
+
+msgid "Reset IP"
+msgstr "Setel ulang IP"
+
+
+msgid "Select page"
+msgstr "Pilih halaman"
+
+
+msgid "Show on Table Data List"
+msgstr "Tampilkan pada Daftar Data Tabel"
+
+
+msgid "Slag Title"
+msgstr "Judul Terak"
+
+
+msgid "Success"
+msgstr "Keberhasilan"
+
+
+msgid "Suspicious : Malicious attempt  on attached file: %s"
+msgstr "Mencurigakan: Upaya berbahaya pada file terlampir: %s"
+
+
+msgid "Suspicious: Malicious File Upload Attempts. If you tried to upload again then your ip will be blocked automatically"
+msgstr "Mencurigakan: Upaya Unggahan File Berbahaya. Jika Anda mencoba mengunggah lagi maka ip Anda akan diblokir secara otomatis"
+
+
+msgid "Switch"
+msgstr "Beralih"
+
+
+msgid "Textbox"
+msgstr "Kolom tulisan"
+
+
+msgid "This key is already used in another site. contact support team"
+msgstr "Kunci ini sudah digunakan di situs lain. hubungi tim dukungan"
+
+
+msgid "Ticket Id"
+msgstr "ID Tiket"
+
+
+msgid "Ticket Re-Open"
+msgstr "Buka Tiket Kembali"
+
+
+msgid "Ticket user has been data deleted"
+msgstr "Pengguna tiket telah dihapus data"
+
+
+msgid "Undefined page"
+msgstr "Halaman tidak terdefinisi"
+
+
+msgid "Unpublished"
+msgstr "Tidak dipublikasikan"
+
+
+msgid "View Cookie Notification Bar"
+msgstr "Lihat Bilah Pemberitahuan Cookie"
+
+
+msgid "View Page"
+msgstr "Lihat Halaman"
+
+
+msgid "View Policy In POP UP window(Lightbox)"
+msgstr "Lihat Kebijakan Di jendela POP UP (Lightbox)"
+
+
+msgid "Viewed"
+msgstr "Dilihat"
+
+
+msgid "Work Time"
+msgstr "Waktu kerja"
+
+
+msgid "Write %s for Policy Link and %s for only policy URL"
+msgstr "Tulis %s untuk Tautan Kebijakan dan %s hanya untuk URL kebijakan"
+
+
+msgid "Write {{PolicyLink}} for Policy Link and {{PolicyURL}} for only policy URL"
+msgstr "Tulis {{PolicyLink}} untuk Tautan Kebijakan dan {{PolicyURL}} hanya untuk URL kebijakan"
+
+
+msgid "You can create many page in page menu. Go to Admin Settings > Pages or %s"
+msgstr "Anda dapat membuat banyak halaman di menu halaman. Buka Pengaturan Admin> Halaman atau %s"
+
+
+msgid "You logged in using %s"
+msgstr "Anda masuk menggunakan %s"
+
+
+msgid "Disable Counter Icon"
+msgstr "Nonaktifkan Ikon Penghitung"
+
+
+msgid "Disable Knowledge Like/Dislike Button"
+msgstr "Nonaktifkan Tombol Suka / Tidak Suka Pengetahuan"
+
+
+msgid "Disable knowledge like and dislike button"
+msgstr "Nonaktifkan tombol suka dan tidak suka"
+
+
+msgid "Do Not Show Last Update Date"
+msgstr "Jangan Tampilkan Tanggal Pembaruan Terakhir"
+
+
+msgid "Do Not Show Last Update Date on Knowledge Details"
+msgstr "Jangan Tampilkan Tanggal Pembaruan Terakhir pada Detail Pengetahuan"
+
+
+msgid "Do Not Show counter icon with knowledge"
+msgstr "Jangan Tampilkan ikon penghitung dengan pengetahuan"
+
+
+msgid "Do Not Show counter with knowledge"
+msgstr "Jangan Tunjukkan kontra dengan pengetahuan"
+
+
+msgid "If you enable this then it won't show the like or dislike button on knowledge details."
+msgstr "Jika Anda mengaktifkan ini maka tidak akan menampilkan tombol suka atau tidak suka pada detail pengetahuan."
+
+
+msgid "If you enable this then, it won't show the last update date on knowledge details."
+msgstr "Jika Anda mengaktifkan ini, itu tidak akan menampilkan tanggal pembaruan terakhir pada detail pengetahuan."
+
+
+msgid "If you enable this then, it won't show the view/rate counter."
+msgstr "Jika Anda mengaktifkan ini, itu tidak akan menampilkan penghitung tampilan / tingkat."
+
+
+msgid "Last Update Date"
+msgstr "Tanggal Pembaruan Terakhir"
+
+
+msgid "Login Required, Please login"
+msgstr "Diperlukan Login, Silakan masuk"
+
+
+msgid "OR"
+msgstr "ATAU"
+

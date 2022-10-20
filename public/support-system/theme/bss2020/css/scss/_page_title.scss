@@ -1,0 +1,21 @@
+section.page-title {
+  background: url("../images/bg-4.svg") rgba($app_main_color, 0.1);
+  background-size: cover;
+  min-height: 110vh;
+  -webkit-box-shadow: 0 -3px 2px 0px #00000008;
+  -moz-box-shadow: 0 -3px 2px 0px #00000008;
+  box-shadow: 0 -3px 2px 0px #00000008;
+  position: relative;
+
+  > .container {
+    position: relative;
+    z-index: 2;
+  }
+
+
+  padding-top: 30px;
+  padding-bottom: 30px;
+  min-height: unset;
+
+
+}

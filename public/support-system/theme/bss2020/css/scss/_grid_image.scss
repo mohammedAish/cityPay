@@ -1,0 +1,129 @@
+.grid-img{
+  vertical-align: -8px;
+  .user-list &{
+
+    vertical-align: top;
+
+  }
+  position: relative;
+  margin: 2px 5px 2px 0px;
+  display: inline-block;
+  .jqgrow &{
+    margin: 2px 5px 2px -5px;
+  }
+
+  &::before{
+    &.online, &.offline{
+      clear: both;
+      content: "\f111";
+      font-family: "FontAwesome";
+      position: absolute;
+      z-index: 999;
+      top: 0px;
+      left: -2px;
+      font-size: 11px;
+    }
+    &.online {
+      color: rgb(8, 146, 47);
+      animation: online-user 2s infinite;
+    }
+    &.offline {
+      color: rgb(246, 109, 127)
+    }
+  }
+  &::after{
+    clear: both;
+    content:' ';
+  }
+  >div{
+    .user-list &{
+      width: 40px;
+      height:40px;
+    }
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 3px solid rgba(0, 0, 0, 0.26);
+    position: relative;
+    width: 29px;
+    height:29px;
+    img{
+
+      max-width: 28px;
+      min-height: 28px;
+      object-fit: cover;
+      margin-left: -2px;
+      margin-top: -2px;
+      .user-list &{
+        max-width: 39px;
+        min-height: 39px;
+      }
+    }
+    &.online {
+      border-color: rgb(8, 146, 47);
+      position: relative;
+
+
+    }
+    &.offline {
+      border-color: rgb(246, 109, 127)
+    }
+
+  }
+}
+@keyframes online-user {
+  0%  {color: rgb(8, 146, 45);}
+  50% {color: rgb(18, 184, 60);}
+  100%  {color: rgb(8, 146, 45);}
+}
+.sm-user-img{
+
+  .o-w {
+    margin: 10px auto;
+    width: 50px;
+    height: 50px;
+    padding: 0px;
+    position: relative;
+    &::after{
+      &.online, &.offline{
+        content: "\f111";
+        font-family: "FontAwesome";
+        position: absolute;
+        z-index: 999;
+        top: 0px;
+        left: 0px;
+      }
+      &.online {
+        color: rgb(8, 146, 47);
+        animation: online-user 2s infinite;
+      }
+      &.offline {
+        color: rgb(226, 8, 37);
+      }
+    }
+
+    .img-div{
+      -webkit-border-radius: 50%;
+      -moz-border-radius: 50%;
+      border-radius: 50%;
+      overflow: hidden;
+      border: 3px solid rgba(0, 0, 0, 0.26);
+      box-shadow: 0 0 2px #ccc;
+      &.online {
+        border-color: rgb(8, 146, 47);
+        position: relative;
+
+      }
+      &.offline {
+        border-color: rgb(226, 8, 37);
+      }
+      img {
+        width: 100%;
+        height: 46px;
+        object-fit: cover;
+      }
+    }
+
+  }
+}

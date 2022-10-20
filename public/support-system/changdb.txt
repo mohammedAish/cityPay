@@ -1,0 +1,46 @@
+RENAME table admin_message to chat_admin_message
+ ,admin_message_reply to chat_admin_message_reply
+,admin_note to chat_admin_note
+,app_log to chat_app_log
+,app_notificaiton to chat_app_notificaiton
+,app_setting to chat_app_setting
+,app_setting_api to chat_app_setting_api
+,app_user to chat_app_user
+,canned_msg to chat_canned_msg,
+category to chat_category ,
+chat to chat_chat,
+chat_denied to chat_chat_denied,
+chat_msg to chat_chat_msg,
+custom_field to chat_custom_field,
+custom_page to chat_custom_page,
+debug_log to chat_debug_log,
+email_templates to chat_email_templates,
+expired_info to chat_expired_info,
+faq_category to chat_faq_category,
+faq_list to chat_faq_category,
+guest_user to chat_guest_user,
+history_misslogin to chat_history_misslogin,
+iplist to chat_iplist,
+knowledge to chat_knowledge,
+menu to chat_menu,
+notice to chat_notice,
+page_list to chat_page_list ,
+payment_log to chat_payment_log,
+remote_server to chat_remote_server,
+role_access to chat_role_access,
+role_list to chat_role_list,
+site_user to chat_site_user,
+site_user_custom_field to chat_site_user_custom_field,
+system_msg to chat_system_msg ,
+testimonial to chat_testimonial ,
+ticket  to chat_ticket ,
+ticket_assign_rule to chat_ticket_assign_rule,
+ticket_custom_field to chat_ticket_custom_field,
+ticket_feedback to chat_ticket_feedback,
+ticket_log to ticket_log_feedback,
+ticket_payment to chat_ticket_payment,
+ticket_reply  to chat_ticket_reply,
+topbar_icon  to chat_topbar_icon,
+user_online_log to chat_user_online_log,
+user_role to chat_user_role,
+work_log to chat_work_log

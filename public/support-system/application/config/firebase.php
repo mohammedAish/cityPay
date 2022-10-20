@@ -1,0 +1,3 @@
+<?php
+$config['google_firebase_api_key']="AAAAlNmXnGI:APA91bH_hxb3chLvKJNoGNWLpTJGHXuNXvan8HzZv6DT4r3RtC1OdiZ26_RPWV5KlV7Mic9ErR-9Xfcj7o-mC4g8Ks88TjTnowMLiaeAR96hfrBy_gML5qA38rgGa0SGJWgVxS5stBt-";
+//$config['google_firebase_api_key']="AAAAr-5EX0A:APA91bGAkfeN2ThT5vLx5YUlDvvBXr19AsdD2P6FfEzjaoMPfk_aw9lqk0Bpc_-VVV5m72BQHWYUWnRf80VyisrUQ4G-wI2lxPGxbVRTrTjJQHzaYe4j9iouAYaVquVlebRZCJulsCbX";

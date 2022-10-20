@@ -1,0 +1,151 @@
+.registration-section {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2b343e;
+}
+.registration-area {
+  padding: 50px 50px;
+  background-color: #36404A;
+  color: #98a6ad!important;
+}
+.registration-area img.logo {
+  margin-bottom: 30px;
+}
+.registration-inner-block .frm-grp+.frm-grp {
+  margin-top: 25px;
+}
+.registration-area .registration-form {
+	margin-top: 50px;
+}
+.registration-area .registration-form .frm-grp input {
+  border: 1px solid #45525f;
+  width: 100%;
+  padding: 12px 20px;
+  color: #000000;
+  z-index: 9;
+  background-color: #3c4853;
+  border-radius: 3px
+}
+.registration-area .registration-form .frm-grp input::-webkit-input-placeholder {
+  color: #ffffff80;
+}
+.registration-area .registration-form .frm-grp input::-moz-placeholder {
+  color: #ffffff80;
+}
+.registration-area .registration-form .frm-grp input:-ms-input-placeholder {
+  color: #ffffff80;
+}
+.registration-area .registration-form .frm-grp input:-moz-placeholder { 
+  color: #ffffff80;
+}
+.registration-area .registration-form .btn-area {
+  margin: 30px -10px -8px -10px;
+}
+
+.registration-area .registration-form .btn-area * {
+  margin: 8px 10px;
+}
+
+.registration-area .registration-form .btn-area .submit-btn {
+  padding: 12px 35px;
+  display: block;
+  width: 100%;
+  text-transform: capitalize;
+  font-weight: 600;
+  color: #ffffff;
+  box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.2);
+  border: none;
+  background-color: #14abef;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.registration-area .registration-form .btn-area .acc-btn {
+  padding: 12px 30px;
+  text-transform: capitalize;
+  font-weight: 600;
+  box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.2);
+  border: none;
+  background-color: #ffffff;
+  border-radius: 999px;
+  -webkit-border-radius: 999px;
+  -moz-border-radius: 999px;
+  -ms-border-radius: 999px;
+  -o-border-radius: 999px;
+}
+
+.registration-area .registration-form .forget-pass {
+  font-weight: 400;
+  font-size: 14px;
+  color: #14abef;
+}
+
+.registration-area .registration-form label[for="checkbox"] {
+  color: #777777;
+  margin: 0;
+}
+.btn-area {
+  box-shadow: none;
+}
+.registration-area .registration-form input[type=checkbox] + label {
+  display: block;
+  cursor: pointer;
+  text-align: left;
+  position: relative;
+  margin-bottom: 0;
+  padding-left: 20px;
+  color:#98a6ad;
+}
+.registration-area .registration-form input[type=checkbox] {
+  display: none; }
+
+.registration-area .registration-form input[type=checkbox] + label:before {
+  position: absolute;
+  content: "";
+  border: 1px solid #76797e;
+  border-radius: 50%;
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  vertical-align: bottom;
+  color: transparent;
+  transition: .2s;
+  top: 3px;
+  left: 0; 
+}
+
+.registration-area .registration-form input[type=checkbox] + label:active:before {
+  transform: scale(0); 
+}
+
+.registration-area .registration-form input[type=checkbox]:checked + label:before {
+  background-color: #14abef;
+  border-color: #14abef;
+  color: #fff; 
+}
+.or-text {
+  color: #98a6ad;
+  margin-top: 30px;
+  display: block
+}
+.btn-area a[class*="signin"] {
+  width: 55px;
+  height: 55px;
+  line-height: 55px;
+  display: inline-block;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  box-shadow: 0 3px 6px 0 rgba(20, 171, 239, 0.5);
+  font-size: 18px;
+  transition: all 0.3s;
+}
+.btn-area a[class*="signin"]:hover {
+  box-shadow: 0 3px 10px 0 rgba(20, 171, 239, 0.5);
+  transform: translateY(-3px);
+  color: #ffffff;
+}

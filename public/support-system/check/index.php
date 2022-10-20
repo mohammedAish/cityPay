@@ -1,0 +1,2 @@
+<?php
+//silance is golder

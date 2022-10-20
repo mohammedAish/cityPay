@@ -1,0 +1,4972 @@
+msgid ""
+msgstr ""                   
+"Project-Id-Version: v1.0 \n"
+"POT-Creation-Date: 2016-10-29 01:29+0600\n"
+"PO-Revision-Date: 2016-10-29 01:29+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: UTF-8\n"
+"Language: th-TH\n"
+"X-Generator: AppsBD Translator App\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+msgid "!! You need to click save button to complete"
+msgstr "!! คุณต้องคลิกปุ่มบันทึกเพื่อให้เสร็จสมบูรณ์"
+
+
+msgid "%s Popular Knowledge"
+msgstr "%s ความรู้ยอดนิยม"
+
+
+msgid "%s Settings"
+msgstr "การตั้งค่า %s"
+
+
+msgid "%s is required"
+msgstr "จำเป็นต้องใช้ %s"
+
+
+msgid "ADMIN MENU"
+msgstr "ADMIN MENU"
+
+
+msgid "API Based"
+msgstr "API Based"
+
+
+msgid "API Description"
+msgstr "คำอธิบาย API"
+
+
+msgid "API Setting"
+msgstr "การตั้งค่า API"
+
+
+msgid "API Settings"
+msgstr "การตั้งค่า API"
+
+
+msgid "API Token"
+msgstr "โทเค็น API"
+
+
+msgid "API Type"
+msgstr "ประเภท API"
+
+
+msgid "APP User"
+msgstr "ผู้ใช้ APP"
+
+
+msgid "About Support System"
+msgstr "เกี่ยวกับระบบสนับสนุน"
+
+
+msgid "Action"
+msgstr "การกระทำ"
+
+
+msgid "Action Required"
+msgstr "ต้องการการดำเนินการ"
+
+
+msgid "Active"
+msgstr "คล่องแคล่ว"
+
+
+msgid "Active Members"
+msgstr "สมาชิกที่ใช้งานอยู่"
+
+
+msgid "Active Paid Ticket"
+msgstr "บัตรชำระเงินที่ใช้งานอยู่"
+
+
+msgid "Active Paid Tickets"
+msgstr "ตั๋วชำระเงินที่ใช้งานอยู่"
+
+
+msgid "Active Tickets"
+msgstr "ตั๋วที่ใช้งานอยู่"
+
+
+msgid "Add New"
+msgstr "เพิ่มใหม่"
+
+
+msgid "Added By"
+msgstr "เพิ่มโดย"
+
+
+msgid "Added On"
+msgstr "เพิ่มเมื่อ"
+
+
+msgid "Address"
+msgstr "ที่อยู่"
+
+
+msgid "Address is required"
+msgstr "ต้องระบุที่อยู่"
+
+
+msgid "Admin Dashboard"
+msgstr "หน้าแดชบอร์ดผู้ดูแลระบบ"
+
+
+msgid "Admin Report"
+msgstr "รายงานผู้ดูแลระบบ"
+
+
+msgid "Admin Setting"
+msgstr "การตั้งค่าผู้ดูแลระบบ"
+
+
+msgid "Admin Settings"
+msgstr "การตั้งค่าผู้ดูแลระบบ"
+
+
+msgid "Admin User"
+msgstr "ผู้ดูแลระบบ"
+
+
+msgid "Admin User Login Security"
+msgstr "ความปลอดภัยในการล็อกอินของผู้ดูแลระบบ"
+
+
+msgid "Agent"
+msgstr "ตัวแทน"
+
+
+msgid "Agent replied, needs your action"
+msgstr "ตอบสนองความต้องการของคุณ"
+
+
+msgid "All Active Tickets"
+msgstr "ตั๋วที่ใช้งานอยู่ทั้งหมด"
+
+
+msgid "All Closed Tickets"
+msgstr "ตั๋วปิดทั้งหมด"
+
+
+msgid "All Paid Tickets"
+msgstr "ตั๋วชำระทั้งหมด"
+
+
+msgid "All Unassigned Tickets"
+msgstr "ตั๋วที่ยังไม่ได้มอบหมายทั้งหมด"
+
+
+msgid "Amount"
+msgstr "จำนวน"
+
+
+msgid "Amount must be between %.2f and %.2f"
+msgstr "จำนวนเงินต้องอยู่ระหว่าง %.2f และ %.2f"
+
+
+msgid "Announcements"
+msgstr "ประกาศ"
+
+
+msgid "Announcements List"
+msgstr "ประกาศรายชื่อ"
+
+
+msgid "App Information"
+msgstr "ข้อมูลแอป"
+
+
+msgid "App Logo"
+msgstr "โลโก้แอป"
+
+
+msgid "App Update"
+msgstr "อัปเดตแอป"
+
+
+msgid "App White Logo"
+msgstr "App ขาวโลโก้"
+
+
+msgid "App update information"
+msgstr "ข้อมูลการอัปเดตแอป"
+
+
+msgid "Application Security Settings"
+msgstr "การตั้งค่าความปลอดภัยของแอพลิเคชัน"
+
+
+msgid "Application Theme Settings"
+msgstr "การตั้งค่าธีมแอ็พพลิเคชัน"
+
+
+msgid "Are you sure to change?"
+msgstr "คุณแน่ใจหรือว่าต้องการเปลี่ยนแปลง"
+
+
+msgid "Are you sure to delete?"
+msgstr "คุณแน่ใจหรือไม่ว่าจะลบ?"
+
+
+msgid "Assigned"
+msgstr "ที่ได้รับมอบหมาย"
+
+
+msgid "Assigned On"
+msgstr "กำหนดไว้"
+
+
+msgid "Assigned Tickets"
+msgstr "ตั๋วที่ได้รับมอบหมาย"
+
+
+msgid "Attach File"
+msgstr "แนบไฟล์"
+
+
+msgid "Best size is 400px x 400px"
+msgstr "ขนาดที่ดีที่สุดคือ 400px x 400px"
+
+
+msgid "Birthday"
+msgstr "วันเกิด"
+
+
+msgid "Birthday is required"
+msgstr "ต้องระบุวันเกิด"
+
+
+msgid "Body"
+msgstr "ร่างกาย"
+
+
+msgid "Body is required"
+msgstr "ร่างกายเป็นสิ่งจำเป็น"
+
+
+msgid "Cancel"
+msgstr "ยกเลิก"
+
+
+msgid "Canned Message Fields"
+msgstr "ช่องข้อความที่บรรจุไว้"
+
+
+msgid "Canned Message List"
+msgstr "รายการข้อความที่บรรจุกระป๋อง"
+
+
+msgid "Canned Messages"
+msgstr "ข้อความที่บรรจุกระป๋อง"
+
+
+msgid "Canned Msg"
+msgstr "ข่าวสารกระป๋อง"
+
+
+msgid "Canned Msg is required"
+msgstr "ต้องมี Msg ที่บรรจุกระป๋อง"
+
+
+msgid "Canned_msg"
+msgstr "Canned_msg"
+
+
+msgid "Categories"
+msgstr "หมวดหมู่"
+
+
+msgid "Category"
+msgstr "ประเภท"
+
+
+msgid "Category List"
+msgstr "รายการหมวดหมู่"
+
+
+msgid "Category is required"
+msgstr "ต้องระบุหมวด"
+
+
+msgid "Change"
+msgstr "เปลี่ยนแปลง"
+
+
+msgid "Change Password"
+msgstr "เปลี่ยนรหัสผ่าน"
+
+
+msgid "Change password of %s"
+msgstr "เปลี่ยนรหัสผ่านของ %s"
+
+
+msgid "Choose Homepage"
+msgstr "เลือกโฮมเพจ"
+
+
+msgid "Choose Theme"
+msgstr "เลือกธีม"
+
+
+msgid "City"
+msgstr "เมือง"
+
+
+msgid "City is required"
+msgstr "ต้องระบุเมือง"
+
+
+msgid "Click here"
+msgstr "คลิกที่นี่"
+
+
+msgid "Click on the Image to change"
+msgstr "คลิกที่รูปเพื่อเปลี่ยน"
+
+
+msgid "Click on the Image to change or upload."
+msgstr "คลิกที่รูปเพื่อเปลี่ยนหรืออัพโหลด"
+
+
+msgid "Click on the Image to change. Best size hight is 40px"
+msgstr "คลิกที่รูปเพื่อเปลี่ยน ความสูงขนาดที่ดีที่สุดคือ 40px"
+
+
+msgid "Click on the Image to change. Best size is 75px x 75px"
+msgstr "คลิกที่รูปเพื่อเปลี่ยน ขนาดที่ดีที่สุดคือ 75px x 75px"
+
+
+msgid "Click to see details"
+msgstr "คลิกเพื่อดูรายละเอียด"
+
+
+msgid "Client"
+msgstr "ไคลเอนต์"
+
+
+msgid "Client List"
+msgstr "Client List"
+
+
+msgid "Close"
+msgstr "ปิด"
+
+
+msgid "Close Tickets"
+msgstr "ปิดตั๋ว"
+
+
+msgid "Closed Tickets"
+msgstr "ตั๋วปิด"
+
+
+msgid "Contact Number"
+msgstr "เบอร์ติดต่อ"
+
+
+msgid "Controller Title"
+msgstr "ชื่อตัวควบคุม"
+
+
+msgid "Copy Cron Link"
+msgstr "คัดลอกลิงก์ Cron"
+
+
+msgid "Copy callback url"
+msgstr "คัดลอก URL การเรียกกลับ"
+
+
+msgid "Country"
+msgstr "ประเทศ"
+
+
+msgid "Country Code"
+msgstr "รหัสประเทศ"
+
+
+msgid "Country Name"
+msgstr "ชื่อประเทศ"
+
+
+msgid "Country is required"
+msgstr "ต้องระบุประเทศ"
+
+
+msgid "Create Date"
+msgstr "วันที่สร้าง"
+
+
+msgid "Create Ticket"
+msgstr "สร้างบัตร"
+
+
+msgid "Create Time"
+msgstr "สร้างเวลา"
+
+
+msgid "Created By"
+msgstr "สร้างโดย"
+
+
+msgid "Cron Job Command"
+msgstr "Cron Job Command"
+
+
+msgid "Current Ticket Status"
+msgstr "สถานะบัตรโดยสารปัจจุบัน"
+
+
+msgid "Current version is : %s"
+msgstr "เวอร์ชันปัจจุบันคือ: %s"
+
+
+msgid "Custom Field List"
+msgstr "รายการฟิลด์ที่กำหนดเอง"
+
+
+msgid "Custom Fields"
+msgstr "ฟิลด์ที่กำหนดเอง"
+
+
+msgid "Dashboard"
+msgstr "แผงควบคุม"
+
+
+msgid "Date of Birth"
+msgstr "วันเกิด"
+
+
+msgid "Debug Log"
+msgstr "Debug Log"
+
+
+msgid "Debug Log List"
+msgstr "รายการบันทึกการแก้ไขข้อบกพร่อง"
+
+
+msgid "Delete"
+msgstr "ลบ"
+
+
+msgid "Description"
+msgstr "ลักษณะ"
+
+
+msgid "Description is required"
+msgstr "คำอธิบายเป็นสิ่งจำเป็น"
+
+
+msgid "Details"
+msgstr "รายละเอียด"
+
+
+msgid "Details Debug Log"
+msgstr "รายละเอียด Debug Log"
+
+
+msgid "Details Log"
+msgstr "รายละเอียดบันทึก"
+
+
+msgid "Details info of IP(192.168.10.71)"
+msgstr "รายละเอียดข้อมูล IP (192.168.10.71)"
+
+
+msgid "Disable this if you want real payment"
+msgstr "ปิดการใช้งานนี้หากคุณต้องการชำระเงินจริง"
+
+
+msgid "DoS Attack Security"
+msgstr "การรักษาความปลอดภัย DoS Attack"
+
+
+msgid "Don't upload if you don't want"
+msgstr "อย่าอัปโหลดหากไม่ต้องการ"
+
+
+msgid "Edit"
+msgstr "แก้ไข"
+
+
+msgid "Edit Announcements"
+msgstr "แก้ไขประกาศ"
+
+
+msgid "Edit Canned Message"
+msgstr "แก้ไขข้อความที่บรรจุไว้"
+
+
+msgid "Edit Category"
+msgstr "แก้ไขหมวดหมู่"
+
+
+msgid "Edit Client"
+msgstr "แก้ไขไคลเอ็นต์"
+
+
+msgid "Edit IP"
+msgstr "แก้ไข IP"
+
+
+msgid "Edit Knowledge"
+msgstr "แก้ไขความรู้"
+
+
+msgid "Edit Role"
+msgstr "แก้ไขบทบาท"
+
+
+msgid "Email"
+msgstr "อีเมล์"
+
+
+msgid "Email Address"
+msgstr "ที่อยู่อีเมล"
+
+
+msgid "Email Outgoing Settings"
+msgstr "ตั้งค่าอีเมลขาออก"
+
+
+msgid "Email Settings"
+msgstr "การตั้งค่าอีเมล"
+
+
+msgid "Email Templates"
+msgstr "เทมเพลตอีเมล"
+
+
+msgid "Email Templates List"
+msgstr "รายชื่อแม่แบบอีเมล"
+
+
+msgid "Email To Ticket Settings"
+msgstr "อีเมลไปยังการตั้งค่าตั๋ว"
+
+
+msgid "Email is required"
+msgstr "จำเป็นต้องใช้อีเมล"
+
+
+msgid "Email to Ticket Settings Form"
+msgstr "ส่งอีเมลไปยังแบบฟอร์มการตั้งค่าตั๋ว"
+
+
+msgid "Enable Auto Reload (every %d min)"
+msgstr "เปิดใช้การโหลดอัตโนมัติ (ทุกๆ %d นาที)"
+
+
+msgid "Enable Email To Ticket/Reply"
+msgstr "เปิดใช้อีเมลในการจองตั๋ว / ตอบ"
+
+
+msgid "Enable it if your protocol is secure"
+msgstr "เปิดใช้งานหากโปรโตคอลของคุณปลอดภัย"
+
+
+msgid "Enable it to secure admin/staff user"
+msgstr "เปิดใช้งานเพื่อรักษาความปลอดภัยของผู้ใช้ admin / staff"
+
+
+msgid "Enable this to enable paypal payment"
+msgstr "เปิดใช้งานคุณลักษณะนี้เพื่อเปิดใช้งานการชำระเงินผ่าน PayPal"
+
+
+msgid "Enable to convert email to ticket"
+msgstr "เปิดใช้งานเพื่อแปลงอีเมลไปยังตั๋ว"
+
+
+msgid "End Date"
+msgstr "วันที่สิ้นสุด"
+
+
+msgid "End Date is required"
+msgstr "ต้องระบุวันที่สิ้นสุด"
+
+
+msgid "Entry Time"
+msgstr "เวลาเข้าเมือง"
+
+
+msgid "Entry Type"
+msgstr "ประเภทรายการ"
+
+
+msgid "Envato"
+msgstr "Envato"
+
+
+msgid "Envato Setting"
+msgstr "การตั้งค่า Envato"
+
+
+msgid "Envato Username"
+msgstr "ชื่อผู้ใช้ Envato"
+
+
+msgid "Ex. 192.168.10.1"
+msgstr "อดีต 192.168.10.1"
+
+
+msgid "Example: Temporary lock admin or staff user if attempts 5 miss login in 30 minutes"
+msgstr "ตัวอย่าง: ผู้ดูแลระบบหรือผู้ดูแลระบบล็อกชั่วคราวหากพยายาม 5 ลืมการเข้าสู่ระบบใน 30 นาที"
+
+
+msgid "Example: if request more then 5 in 5 second then show captcha or block ip"
+msgstr "ตัวอย่าง: ถ้าต้องการมากกว่า 5 วินาทีใน 5 วินาทีแล้วแสดง captcha หรือบล็อก IP"
+
+
+msgid "Featured Image"
+msgstr "ภาพที่โดดเด่น"
+
+
+msgid "File Attached"
+msgstr "ไฟล์ที่แนบมา"
+
+
+msgid "File Type"
+msgstr "ประเภทไฟล์"
+
+
+msgid "First Name"
+msgstr "ชื่อจริง"
+
+
+msgid "First Name is required"
+msgstr "ต้องระบุชื่อ"
+
+
+msgid "From"
+msgstr "จาก"
+
+
+msgid "From Email"
+msgstr "จากอีเมล"
+
+
+msgid "From Email is required"
+msgstr "จากอีเมลเป็นสิ่งจำเป็น"
+
+
+msgid "From Name"
+msgstr "จากชื่อ"
+
+
+msgid "From Name is required"
+msgstr "จากชื่อต้องระบุ"
+
+
+msgid "Gender"
+msgstr "เพศ"
+
+
+msgid "General Settings"
+msgstr "การตั้งค่าทั่วไป"
+
+
+msgid "Generate an API key in your envato account and enter here"
+msgstr "สร้างคีย์ API ในบัญชี envato ของคุณและป้อนที่นี่"
+
+
+msgid "Has Super Power"
+msgstr "มี Super Power"
+
+
+msgid "Hello, %s"
+msgstr "สวัสดี %s"
+
+
+msgid "Helpfull"
+msgstr "ที่เป็นประโยชน์"
+
+
+msgid "Home"
+msgstr "บ้าน"
+
+
+msgid "Host"
+msgstr "เจ้าภาพ"
+
+
+msgid "Host & Port"
+msgstr "โฮสต์และพอร์ต"
+
+
+msgid "Host is required"
+msgstr "โฮสต์เป็นสิ่งจำเป็น"
+
+
+msgid "IMAP Help"
+msgstr "ความช่วยเหลือ IMAP"
+
+
+msgid "IMAP Settings"
+msgstr "การตั้งค่า IMAP"
+
+
+msgid "IP"
+msgstr "IP"
+
+
+msgid "IP List"
+msgstr "รายการ IP"
+
+
+msgid "IP is required"
+msgstr "IP เป็นสิ่งจำเป็น"
+
+
+msgid "If request more than"
+msgstr "ถ้าต้องการมากกว่า"
+
+
+msgid "If you don't choose the white logo then primary logo will be displayed in site header"
+msgstr "หากคุณไม่เลือกโลโก้สีขาวโลโก้หลักจะปรากฏในส่วนหัวของไซต์"
+
+
+msgid "If you enable it then app prevent DoS Attack."
+msgstr "หากคุณเปิดใช้งานแอปจะป้องกันไม่ให้ DoS Attack"
+
+
+msgid "If you enable this then logo only show in site header"
+msgstr "หากคุณเปิดใช้งานคุณลักษณะนี้โลโก้จะปรากฏเฉพาะในส่วนหัวของไซต์เท่านั้น"
+
+
+msgid "If you enable this, then all payment will be in test mode. Don't do this if you want real payment"
+msgstr "หากคุณเปิดใช้งานการชำระเงินนี้การชำระเงินทั้งหมดจะอยู่ในโหมดการทดสอบ อย่าทำเช่นนี้หาก??"
+
+
+msgid "If you want to remove license form this site then click"
+msgstr "หากคุณต้องการนำใบอนุญาตออกจากไซต์นี้จากนั้นคลิก"
+
+
+msgid "Inactive"
+msgstr "เฉื่อยชา"
+
+
+msgid "Invalid Information"
+msgstr "ข้อมูลไม่ถูกต้อง"
+
+
+msgid "Invalid data"
+msgstr "ข้อมูลไม่ถูกต้อง"
+
+
+msgid "Is Secure Protocol (SSL)"
+msgstr "โพรโทคอลความปลอดภัย (SSL)"
+
+
+msgid "Is Sticky/Pinned ?"
+msgstr "เหนียวหรือตรึงไว้หรือไม่?"
+
+
+msgid "Is it helpfull?"
+msgstr "เป็นประโยชน์หรือไม่?"
+
+
+msgid "It won't show any where, It is just for track"
+msgstr "จะไม่แสดงที่ไหนมันเป็นเพียงสำหรับการติดตาม"
+
+
+msgid "Join : %s"
+msgstr "เข้าร่วม: %s"
+
+
+msgid "Join Date"
+msgstr "เข้าร่วมวันที่"
+
+
+msgid "Key is already exists"
+msgstr "คีย์มีอยู่แล้ว"
+
+
+msgid "Knowledge"
+msgstr "ความรู้"
+
+
+msgid "Knowledge List"
+msgstr "รายการความรู้"
+
+
+msgid "L.Reply Time"
+msgstr "L.Reply Time"
+
+
+msgid "Label"
+msgstr "ฉลาก"
+
+
+msgid "Last Name"
+msgstr "นามสกุล"
+
+
+msgid "Last Name is required"
+msgstr "ต้องระบุชื่อ"
+
+
+msgid "Last Replied"
+msgstr "ตอบครั้งล่าสุด"
+
+
+msgid "Last Reply"
+msgstr "คำตอบล่าสุด"
+
+
+msgid "Last Reply Time"
+msgstr "เวลาตอบกลับล่าสุด"
+
+
+msgid "Last updated on"
+msgstr "อัปเดตล่าสุดเมื่อวันที่"
+
+
+msgid "Latitude"
+msgstr "ละติจูด"
+
+
+msgid "License"
+msgstr "การอนุญาต"
+
+
+msgid "License Domain"
+msgstr "โดเมนใบอนุญาต"
+
+
+msgid "License Info"
+msgstr "ข้อมูลใบอนุญาต"
+
+
+msgid "License Information"
+msgstr "ข้อมูลใบอนุญาต"
+
+
+msgid "License Key"
+msgstr "คีย์ใบอนุญาต"
+
+
+msgid "License Title"
+msgstr "ชื่อใบอนุญาต"
+
+
+msgid "Link"
+msgstr "ลิงค์"
+
+
+msgid "Locked User"
+msgstr "ผู้ใช้ถูกล็อก"
+
+
+msgid "Locked User List"
+msgstr "รายการผู้ใช้ที่ถูกล็อก"
+
+
+msgid "Log Type"
+msgstr "ประเภทบันทึก"
+
+
+msgid "Login"
+msgstr "เข้าสู่ระบบ"
+
+
+msgid "Logout"
+msgstr "ออกจากระบบ"
+
+
+msgid "Longitude"
+msgstr "ลองจิจูด"
+
+
+msgid "MENU"
+msgstr "เมนู"
+
+
+msgid "Max file size is  %s MB"
+msgstr "ขนาดไฟล์สูงสุดคือ %s MB"
+
+
+msgid "Max file size is %s MB"
+msgstr "ขนาดไฟล์สูงสุดคือ %s MB"
+
+
+msgid "Menu List"
+msgstr "รายการเมนู"
+
+
+msgid "Message"
+msgstr "ข่าวสาร"
+
+
+msgid "Message Details"
+msgstr "รายละเอียดข้อความ"
+
+
+msgid "Method"
+msgstr "วิธี"
+
+
+msgid "Miss Login Tried"
+msgstr "สมัครสมาชิก Miss Login แล้ว"
+
+
+msgid "More homepage will be come in next version"
+msgstr "หน้าแรกเพิ่มเติมจะมาในเวอร์ชันถัดไป"
+
+
+msgid "More theme will be come in next version"
+msgstr "ชุดรูปแบบอื่น ๆ จะมาในรุ่นถัดไป"
+
+
+msgid "Most Helpful Articles"
+msgstr "บทความที่มีประโยชน์มากที่สุด"
+
+
+msgid "My Active Paid Tickets"
+msgstr "บัตรชำระเงินที่ใช้งานอยู่ของฉัน"
+
+
+msgid "My Active Tickets"
+msgstr "ตั๋วที่ใช้งานของฉัน"
+
+
+msgid "My Assigned Tickets"
+msgstr "ตั๋วที่ได้รับมอบหมายของฉัน"
+
+
+msgid "My Closed Tickets"
+msgstr "ตั๋วปิดของฉัน"
+
+
+msgid "My Dashboard"
+msgstr "แดชบอร์ดของฉัน"
+
+
+msgid "My Menu"
+msgstr "เมนูของฉัน"
+
+
+msgid "My Message"
+msgstr "ข้อความของฉัน"
+
+
+msgid "N"
+msgstr "ยังไม่มีข้อความ"
+
+
+msgid "Name"
+msgstr "ชื่อ"
+
+
+msgid "New Announcements"
+msgstr "ประกาศใหม่"
+
+
+msgid "New Canned Message"
+msgstr "ข้อความกระป๋องใหม่"
+
+
+msgid "New Category"
+msgstr "หมวดหมู่ใหม่"
+
+
+msgid "New Client"
+msgstr "ลูกค้าใหม่"
+
+
+msgid "New Knowledge"
+msgstr "ความรู้ใหม่"
+
+
+msgid "New Role"
+msgstr "บทบาทใหม่"
+
+
+msgid "New Ticket"
+msgstr "ตั๋วใหม่"
+
+
+msgid "New Ticket Form"
+msgstr "แบบฟอร์มตั๋วใหม่"
+
+
+msgid "New Window"
+msgstr "หน้าต่างใหม่"
+
+
+msgid "No"
+msgstr "ไม่"
+
+
+msgid "No active ticket found"
+msgstr "ไม่พบตั๋วที่ใช้งานอยู่"
+
+
+msgid "No closed ticket found"
+msgstr "ไม่พบตั๋วที่ปิด"
+
+
+msgid "Not Helpfull"
+msgstr "ไม่เป็นประโยชน์"
+
+
+msgid "Notice For"
+msgstr "แจ้งให้ทราบ"
+
+
+msgid "Notice Text"
+msgstr "ข้อความประกาศ"
+
+
+msgid "Notice text is required"
+msgstr "ต้องระบุข้อความ"
+
+
+msgid "Notification"
+msgstr "การแจ้งเตือน"
+
+
+msgid "Old Password"
+msgstr "รหัสผ่านเก่า"
+
+
+msgid "Open Ticket"
+msgstr "เปิดตั๋ว"
+
+
+msgid "Open Time"
+msgstr "เวลาเปิด"
+
+
+msgid "Opened"
+msgstr "เปิด"
+
+
+msgid "Opened Time"
+msgstr "เปิดเวลา"
+
+
+msgid "Options"
+msgstr "ตัวเลือก"
+
+
+msgid "Order"
+msgstr "ใบสั่ง"
+
+
+msgid "Page Name"
+msgstr "ชื่อหน้า"
+
+
+msgid "Parent Category"
+msgstr "หมวดหมู่ผู้ปกครอง"
+
+
+msgid "Parent Category is required"
+msgstr "ต้องระบุหมวดหมู่หลัก"
+
+
+msgid "Password"
+msgstr "รหัสผ่าน"
+
+
+msgid "Password is required"
+msgstr "ต้องการรหัสผ่าน"
+
+
+msgid "Password reset"
+msgstr "รีเซ็ตรหัสผ่าน"
+
+
+msgid "Payer Email"
+msgstr "อีเมลผู้ชำระเงิน"
+
+
+msgid "Payment Amount"
+msgstr "จำนวนเงินที่ชำระ"
+
+
+msgid "Payment Amount is required"
+msgstr "ต้องชำระเงิน"
+
+
+msgid "Payment Description"
+msgstr "คำอธิบายการชำระเงิน"
+
+
+msgid "Payment Details"
+msgstr "รายละเอียดการจ่ายเงิน"
+
+
+msgid "Payment List"
+msgstr "รายการชำระเงิน"
+
+
+msgid "Payment Method Status"
+msgstr "สถานะวิธีการชำระเงิน"
+
+
+msgid "Paypal Setting"
+msgstr "การตั้งค่า Paypal"
+
+
+msgid "Paypal Settings"
+msgstr "การตั้งค่า Paypal"
+
+
+msgid "Permission"
+msgstr "การอนุญาต"
+
+
+msgid "Pinned Articles"
+msgstr "บทความที่ตรึงไว้"
+
+
+msgid "Popular Articles"
+msgstr "บทความยอดนิยม"
+
+
+msgid "Port"
+msgstr "ท่าเรือ"
+
+
+msgid "Port is required"
+msgstr "จำเป็นต้องมีพอร์ต"
+
+
+msgid "Posted By"
+msgstr "โพสโดย"
+
+
+msgid "Priroty"
+msgstr "ลำดับความสำคัญ"
+
+
+msgid "Priroty is required"
+msgstr "ต้องมีลำดับความสำคัญ"
+
+
+msgid "Process Date"
+msgstr "วันที่ดำเนินการ"
+
+
+msgid "Process Log"
+msgstr "บันทึกกระบวนการ"
+
+
+msgid "Process Time"
+msgstr "เวลาดำเนินการ"
+
+
+msgid "Processing"
+msgstr "การประมวลผล"
+
+
+msgid "Profile"
+msgstr "ข้อมูลส่วนตัว"
+
+
+msgid "Property"
+msgstr "คุณสมบัติ"
+
+
+msgid "Re-Check Update"
+msgstr "ตรวจสอบการอัปเดตอีกครั้ง"
+
+
+msgid "Re-Open"
+msgstr "ใหม่เปิด"
+
+
+msgid "Read article to provide best support"
+msgstr "อ่านบทความเพื่อให้การสนับสนุนที่ดีที่สุด"
+
+
+msgid "Recent Articles"
+msgstr "บทความล่าสุด"
+
+
+msgid "Register"
+msgstr "สมัครสมาชิก"
+
+
+msgid "Remove"
+msgstr "เอาออก"
+
+
+msgid "Remove License"
+msgstr "ลบใบอนุญาต"
+
+
+msgid "Replay"
+msgstr "เล่นใหม่"
+
+
+msgid "Reply"
+msgstr "ตอบ"
+
+
+msgid "Reply To Ticket"
+msgstr "ตอบกลับบัตร"
+
+
+msgid "Reply is required"
+msgstr "จำเป็นต้องตอบ"
+
+
+msgid "Reply text is required"
+msgstr "ต้องมีข้อความตอบกลับ"
+
+
+msgid "Reply user group"
+msgstr "ตอบกลุ่มผู้ใช้"
+
+
+msgid "Reply user name"
+msgstr "ตอบชื่อผู้ใช้"
+
+
+msgid "Request Count is required"
+msgstr "จำเป็นต้องใช้การนับ"
+
+
+msgid "Required"
+msgstr "จำเป็นต้องใช้"
+
+
+msgid "Reset"
+msgstr "รีเซ็ต"
+
+
+msgid "Reset link has been sent to the user"
+msgstr "รีเซ็ตลิงก์ใหม่ไปยังผู้ใช้แล้ว"
+
+
+msgid "Role"
+msgstr "บทบาท"
+
+
+msgid "Role  List"
+msgstr "รายการบทบาท"
+
+
+msgid "Role Access"
+msgstr "การเข้าถึงบทบาท"
+
+
+msgid "Role List"
+msgstr "รายการบทบาท"
+
+
+msgid "Role is required"
+msgstr "ต้องมีบทบาท"
+
+
+msgid "SMTP Settings"
+msgstr "การตั้งค่า SMTP"
+
+
+msgid "STAFF MENU"
+msgstr "STAFF MENU"
+
+
+msgid "Save"
+msgstr "บันทึก"
+
+
+msgid "Schedule"
+msgstr "ตารางเวลา"
+
+
+msgid "Search"
+msgstr "ค้นหา"
+
+
+msgid "Seconds is required"
+msgstr "ต้องระบุวินาที"
+
+
+msgid "Security Settings"
+msgstr "ตั้งค่าความปลอดภัย"
+
+
+msgid "Select"
+msgstr "เลือก"
+
+
+msgid "Send"
+msgstr "ส่ง"
+
+
+msgid "Sendmail Path"
+msgstr "เส้นทาง Sendmail"
+
+
+msgid "Sendmail Path is required"
+msgstr "จำเป็นต้องมีเส้นทาง Sendmail"
+
+
+msgid "Sendmail or SMTP"
+msgstr "Sendmail หรือ SMTP"
+
+
+msgid "Sent Message"
+msgstr "ส่งข้อความแล้ว"
+
+
+msgid "Set Status"
+msgstr "ตั้งค่าสถานะ"
+
+
+msgid "Set this cron command into your server cron list, otherwise email to ticket won't work"
+msgstr "ตั้งค่าคำสั่ง cron นี้ลงในรายการ cron server ของคุณมิฉะนั้นอีเมลไปยังตั๋วจะไม่ทำงาน"
+
+
+msgid "Show IP List"
+msgstr "แสดงรายการ IP"
+
+
+msgid "Show List"
+msgstr "แสดงรายการ"
+
+
+msgid "Show Locked User List"
+msgstr "แสดงรายการผู้ใช้ที่ถูกล็อก"
+
+
+msgid "Show On"
+msgstr "แสดงบน"
+
+
+msgid "Show only logo in header"
+msgstr "แสดงส่วนหัวโลโก้ในส่วนหัวเท่านั้น"
+
+
+msgid "Site Menu"
+msgstr "เมนูเว็บไซต์"
+
+
+msgid "Site Security"
+msgstr "ความปลอดภัยของไซต์"
+
+
+msgid "Social Setting"
+msgstr "การตั้งค่าสังคม"
+
+
+msgid "Social Settings"
+msgstr "การตั้งค่าสังคม"
+
+
+msgid "Start Date"
+msgstr "วันที่เริ่มต้น"
+
+
+msgid "Start Date is required"
+msgstr "ต้องระบุวันที่เริ่มต้น"
+
+
+msgid "Status"
+msgstr "สถานะ"
+
+
+msgid "Status is required"
+msgstr "ต้องระบุสถานะ"
+
+
+msgid "Sticky/Pinned"
+msgstr "เหนียว / ตรึง"
+
+
+msgid "Still Need Support?"
+msgstr "ต้องการความช่วยเหลือหรือยัง?"
+
+
+msgid "Sub Title"
+msgstr "ชื่อย่อย"
+
+
+msgid "Subject"
+msgstr "เรื่อง"
+
+
+msgid "Successfully Updated"
+msgstr "อัปเดตเรียบร้อยแล้ว"
+
+
+msgid "Suggested Knowledge"
+msgstr "ความรู้ที่แนะนำ"
+
+
+msgid "Super Admin"
+msgstr "ผู้ดูแลระบบขั้นสูง"
+
+
+msgid "Supervisor"
+msgstr "ผู้ดูแล"
+
+
+msgid "Support System"
+msgstr "ระบบสนับสนุน"
+
+
+msgid "System Update"
+msgstr "การอัปเดตระบบ"
+
+
+msgid "Tag"
+msgstr "แท็ก"
+
+
+msgid "Tag is required"
+msgstr "จำเป็นต้องมีแท็ก"
+
+
+msgid "Temporary lock admin or staff user, if attempts"
+msgstr "ล็อกผู้ดูแลระบบหรือผู้ใช้งานชั่วคราวหากพยายาม"
+
+
+msgid "Text must be less then %d characters length"
+msgstr "ข้อความต้องมีความยาวน้อยกว่า %d ตัวอักษร"
+
+
+msgid "Thank you for being with us"
+msgstr "ขอบคุณที่อยู่กับเรา"
+
+
+msgid "The time is base on %s timezone"
+msgstr "เวลาอิงตามเขตเวลา %s"
+
+
+msgid "The user who has opened ticket"
+msgstr "ผู้ใช้ที่เปิดตั๋วแล้ว"
+
+
+msgid "Theme Settings"
+msgstr "การตั้งค่าธีม"
+
+
+msgid "This email address is already exist"
+msgstr "ที่อยู่อีเมลนี้มีอยู่แล้ว"
+
+
+msgid "Ticket"
+msgstr "ตั๋ว"
+
+
+msgid "Ticket Body"
+msgstr "ร่างกายตั๋ว"
+
+
+msgid "Ticket Body is required"
+msgstr "จำเป็นต้องมีตั๋วร่างกาย"
+
+
+msgid "Ticket Category"
+msgstr "ประเภทตั๋ว"
+
+
+msgid "Ticket Details"
+msgstr "รายละเอียดตั๋ว"
+
+
+msgid "Ticket Feedback"
+msgstr "ข้อเสนอแนะบัตรโดยสาร"
+
+
+msgid "Ticket Feedback List"
+msgstr "รายการติชมตั๋ว"
+
+
+msgid "Ticket History"
+msgstr "ประวัติบัตรโดยสาร"
+
+
+msgid "Ticket Information"
+msgstr "ข้อมูลบัตรโดยสาร"
+
+
+msgid "Ticket Payment Details"
+msgstr "รายละเอียดการชำระเงินผ่านบัตร"
+
+
+msgid "Ticket Payment List"
+msgstr "รายการชำระค่าสินค้า"
+
+
+msgid "Ticket Priroty"
+msgstr "ความสำคัญของบัตรโดยสาร"
+
+
+msgid "Ticket Status"
+msgstr "สถานะตั๋ว"
+
+
+msgid "Ticket Subject"
+msgstr "หัวข้อตั๋ว"
+
+
+msgid "Ticket Title"
+msgstr "ชื่อตั๋ว"
+
+
+msgid "Ticket Track ID"
+msgstr "รหัสแทร็กตั๋ว"
+
+
+msgid "Ticket User"
+msgstr "ผู้ใช้ตั๋ว"
+
+
+msgid "Ticket closed do you want to re-open?"
+msgstr "ตั๋วปิดคุณต้องการเปิดอีกครั้งหรือไม่?"
+
+
+msgid "Ticket subject is required"
+msgstr "ต้องระบุเรื่องบัตรโดยสาร"
+
+
+msgid "Tickets"
+msgstr "ตั๋ว"
+
+
+msgid "Time"
+msgstr "เวลา"
+
+
+msgid "Timezone"
+msgstr "เขตเวลา"
+
+
+msgid "Title"
+msgstr "หัวข้อ"
+
+
+msgid "Title is required"
+msgstr "ต้องระบุชื่อ"
+
+
+msgid "To"
+msgstr "ไปยัง"
+
+
+msgid "Today's"
+msgstr "ของวันนี้"
+
+
+msgid "Topbar Icon"
+msgstr "ไอคอน Topbar"
+
+
+msgid "Topbar Icon List"
+msgstr "รายการไอคอน Topbar"
+
+
+msgid "Total"
+msgstr "ทั้งหมด"
+
+
+msgid "Total Closed Ticket"
+msgstr "จำนวนตั๋วที่ปิดสนิททั้งหมด"
+
+
+msgid "Total Closed Tickets"
+msgstr "รวมตั๋วที่ปิดแล้ว"
+
+
+msgid "Transction ID"
+msgstr "รหัสธุรกรรม"
+
+
+msgid "Type"
+msgstr "ชนิด"
+
+
+msgid "Tzone is required"
+msgstr "จำเป็นต้องใช้ Tzone"
+
+
+msgid "USER MENU"
+msgstr "USER MENU"
+
+
+msgid "Unassigned Tickets"
+msgstr "ยกเลิกการมอบหมายตั๋วแล้ว"
+
+
+msgid "Update"
+msgstr "ปรับปรุง"
+
+
+msgid "Update User"
+msgstr "อัปเดตผู้ใช้"
+
+
+msgid "Uploaded file is not  supported"
+msgstr "ไฟล์ที่อัปโหลดไม่ได้รับการสนับสนุน"
+
+
+msgid "Use this as your callback url into facebook developer panel"
+msgstr "ใช้ข้อมูลนี้เป็น URL ติดต่อกลับในแผงผู้พัฒนาของ Facebook"
+
+
+msgid "Use this as your callback url into twitter developer panel"
+msgstr "ใช้ข้อมูลนี้เป็น URL ติดต่อกลับของคุณในแผงการทำงานของ twitter"
+
+
+msgid "Use this as your callback url into your google developer console"
+msgstr "ใช้ข้อมูลนี้เป็น URL ติดต่อกลับในคอนโซลนักพัฒนาซอฟต์แวร์ของ Google"
+
+
+msgid "User"
+msgstr "ผู้ใช้งาน"
+
+
+msgid "User (Email)"
+msgstr "ผู้ใช้ (อีเมล)"
+
+
+msgid "User (Email) is required"
+msgstr "ต้องใช้ผู้ใช้ (อีเมล)"
+
+
+msgid "User Id"
+msgstr "รหัสผู้ใช้"
+
+
+msgid "User List"
+msgstr "รายชื่อผู้ใช้"
+
+
+msgid "User Panel"
+msgstr "แผงผู้ใช้"
+
+
+msgid "User Settings"
+msgstr "การตั้งค่าของผู้ใช้"
+
+
+msgid "User is required"
+msgstr "ผู้ใช้ต้อง"
+
+
+msgid "Username"
+msgstr "ชื่อผู้ใช้"
+
+
+msgid "Value"
+msgstr "ความคุ้มค่า"
+
+
+msgid "Verified"
+msgstr "ได้รับการยืนยัน"
+
+
+msgid "View Details"
+msgstr "ดูรายละเอียด"
+
+
+msgid "View Knowledge"
+msgstr "ดูความรู้"
+
+
+msgid "View Site"
+msgstr "ดูไซต์"
+
+
+msgid "View all"
+msgstr "ดูทั้งหมด"
+
+
+msgid "Views"
+msgstr "เข้าชม"
+
+
+msgid "Write here.."
+msgstr "เขียนได้ที่นี่ .."
+
+
+msgid "Write reply here.."
+msgstr "เขียนตอบกลับที่นี่ .."
+
+
+msgid "Yes"
+msgstr "ใช่"
+
+
+msgid "You think it is helpfull"
+msgstr "คุณคิดว่ามันเป็นประโยชน์"
+
+
+msgid "You think it is not helpfull"
+msgstr "คุณคิดว่ามันไม่เป็นประโยชน์"
+
+
+msgid "Your Site URL"
+msgstr "URL เว็บไซต์ของคุณ"
+
+
+msgid "Your application is up to date"
+msgstr "ใบสมัครของคุณทันสมัยอยู่เสมอ"
+
+
+msgid "Your closed ticket list"
+msgstr "รายการตั๋วปิด"
+
+
+msgid "Your current ticket status"
+msgstr "สถานะตั๋วปัจจุบันของคุณ"
+
+
+msgid "Your envato(CodeCanyon, Themeforest,etc) username"
+msgstr "ชื่อผู้ใช้ envato (CodeCanyon, Themeforest ฯลฯ ) ของคุณ"
+
+
+msgid "Your site name"
+msgstr "ชื่อไซต์ของคุณ"
+
+
+msgid "Your total active tickets"
+msgstr "ตั๋วที่ใช้งานอยู่ทั้งหมดของคุณ"
+
+
+msgid "Youtube Accounts"
+msgstr "บัญชี Youtube"
+
+
+msgid "Zip"
+msgstr "ซิป"
+
+
+msgid "Zip is required"
+msgstr "ต้องมีซิป"
+
+
+msgid "by"
+msgstr "โดย"
+
+
+msgid "ex.5"
+msgstr "ex.5"
+
+
+msgid "is required"
+msgstr "จำเป็น"
+
+
+msgid "minuites"
+msgstr "นาที"
+
+
+msgid "miss login in"
+msgstr "พลาดการลงชื่อเข้าใช้"
+
+
+msgid "on"
+msgstr "บน"
+
+
+msgid "seconds, then"
+msgstr "วินาทีแล้ว"
+
+
+msgid "setup for Social Login"
+msgstr "การตั้งค่าสำหรับ Social Login"
+
+
+msgid "to get custom payment"
+msgstr "เพื่อรับการชำระเงินที่กำหนดเอง"
+
+
+msgid "Already registered?"
+msgstr "ลงทะเบียนเรียบร้อยแล้ว?"
+
+
+msgid "E-mail"
+msgstr "E-mail"
+
+
+msgid "Email address is alreay exists"
+msgstr "ที่อยู่อีเมลมีอยู่แล้ว"
+
+
+msgid "Forgot password?"
+msgstr "ลืมรหัสผ่าน?"
+
+
+msgid "Guest Ticket"
+msgstr "Guest Ticket"
+
+
+msgid "Low Priroty"
+msgstr "ลำดับความสำคัญต่ำ"
+
+
+msgid "Not member yet ?"
+msgstr "ยังไม่ได้เป็นสมาชิก?"
+
+
+msgid "Open Ticket With Less Priroty"
+msgstr "เปิดตั๋วที่มีความสำคัญน้อยกว่า"
+
+
+msgid "Open ticket after login"
+msgstr "เปิดตั๋วหลังจากเข้าสู่ระบบแล้ว"
+
+
+msgid "Open ticket after register"
+msgstr "เปิดตั๋วหลังจากลงทะเบียน"
+
+
+msgid "Or Login Using"
+msgstr "หรือเข้าสู่ระบบโดยใช้"
+
+
+msgid "Or Register Using"
+msgstr "หรือลงทะเบียนใช้"
+
+
+msgid "Or open ticket using"
+msgstr "หรือเปิดตั๋วโดยใช้"
+
+
+msgid "Submit"
+msgstr "เสนอ"
+
+
+msgid "Top Priroty"
+msgstr "ความสำคัญสูงสุด"
+
+
+msgid "User Login"
+msgstr "เข้าสู่ระบบผู้ใช้"
+
+
+msgid "User Registration"
+msgstr "การลงทะเบียนผู้ใช้"
+
+
+msgid "You are not logged in. What would you like do now?"
+msgstr "คุณยังไม่ได้เข้าสู่ระบบคุณต้องการทำอะไรตอนนี้?"
+
+
+msgid "fields are required"
+msgstr "ต้องมีฟิลด์"
+
+
+msgid "Confirm Password"
+msgstr "ยืนยันรหัสผ่าน"
+
+
+msgid "Back"
+msgstr "กลับ"
+
+
+msgid "%s is not same"
+msgstr "%s ไม่เหมือนกัน"
+
+
+msgid "Captcha"
+msgstr "แจ้งลบความคิดเห็น"
+
+
+msgid "Invalid email address."
+msgstr "ที่อยู่อีเมลที่ไม่ถูกต้อง."
+
+
+msgid "New Password"
+msgstr "รหัสผ่านใหม่"
+
+
+msgid "The email address is already registered. To login"
+msgstr "ที่อยู่อีเมลได้รับการลงทะเบียนแล้ว เพื่อเข้าสู่ระบบ"
+
+
+msgid "The value is not a valid %s"
+msgstr "ค่านี้ไม่ใช่ %s ที่ถูกต้อง"
+
+
+msgid "Uncategories"
+msgstr "Uncategories"
+
+
+msgid "Assigned & Closed"
+msgstr "มอบหมายและปิด"
+
+
+msgid "CSV Downloaded"
+msgstr "ดาวน์โหลด CSV แล้ว"
+
+
+msgid "Change Timezone"
+msgstr "เปลี่ยนเขตเวลา"
+
+
+msgid "Change padssword of %s"
+msgstr "เปลี่ยนรหัสผ่านของ %s"
+
+
+msgid "Change password of Admin User"
+msgstr "เปลี่ยนรหัสผ่านของผู้ดูแลระบบ"
+
+
+msgid "Day Report"
+msgstr "รายงานประจำวัน"
+
+
+msgid "Member since"
+msgstr "สมาชิกตั้งแต่"
+
+
+msgid "Month Report"
+msgstr "รายงานประจำเดือน"
+
+
+msgid "New User"
+msgstr "ผู้ใช้ใหม่"
+
+
+msgid "Opened & Closed"
+msgstr "เปิดและปิด"
+
+
+msgid "Timezone is required"
+msgstr "ต้องระบุเขตเวลา"
+
+
+msgid "Tzone"
+msgstr "Tzone"
+
+
+msgid "Sign out"
+msgstr "ออกจากระบบ"
+
+
+msgid "Please login to set priroty"
+msgstr "กรุณาเข้าสู่ระบบเพื่อตั้งค่าความสำคัญ"
+
+
+msgid "email address"
+msgstr "ที่อยู่อีเมล"
+
+
+msgid "Allowed File Types"
+msgstr "ประเภทไฟล์ที่อนุญาต"
+
+
+msgid "Any Staff Can Reply"
+msgstr "พนักงานทุกคนสามารถตอบได้"
+
+
+msgid "App Email"
+msgstr "อีเมลในแอป"
+
+
+msgid "App Language"
+msgstr "ภาษาแอป"
+
+
+msgid "App Title"
+msgstr "ชื่อแอป"
+
+
+msgid "Application General Settings"
+msgstr "การตั้งค่า General Application"
+
+
+msgid "Application Layout"
+msgstr "เค้าโครงแอพพลิเคชัน"
+
+
+msgid "Auto Others Color"
+msgstr "สีอื่น ๆ"
+
+
+msgid "Basic Settings"
+msgstr "การตั้งค่าพื้นฐาน"
+
+
+msgid "CSS ( Style)"
+msgstr "CSS (สไตล์)"
+
+
+msgid "Captcha Length"
+msgstr "ความยาว Captcha"
+
+
+msgid "Captcha Settings"
+msgstr "การตั้งค่า Captcha"
+
+
+msgid "Captcha String Type"
+msgstr "ประเภทสตริง Captcha"
+
+
+msgid "Captcha Type"
+msgstr "ประเภทของ Captcha"
+
+
+msgid "Charecter Lenght of default captcha"
+msgstr "อักขระความยาวของ captcha เริ่มต้น"
+
+
+msgid "Choose HTML Editor"
+msgstr "เลือกตัวแก้ไข HTML"
+
+
+msgid "Client ID"
+msgstr "รหัสลูกค้า"
+
+
+msgid "Client Photo Upload"
+msgstr "อัปโหลดภาพลูกค้า"
+
+
+msgid "Copyright Text"
+msgstr "ข้อความลิขสิทธิ์"
+
+
+msgid "Custom CSS & JavaScript"
+msgstr "Custom CSS & JavaScript"
+
+
+msgid "Custom JavaScript"
+msgstr "JavaScript ที่กำหนดเอง"
+
+
+msgid "Date Format"
+msgstr "รูปแบบวันที่"
+
+
+msgid "Disable Registration"
+msgstr "ปิดการลงทะเบียน"
+
+
+msgid "Email Footer Text"
+msgstr "ข้อความส่วนท้ายของอีเมล"
+
+
+msgid "Email Reply Start Text"
+msgstr "ตอบอีเมลเริ่มต้นข้อความ"
+
+
+msgid "Enable Force SSL"
+msgstr "เปิดใช้งาน SSL บังคับ"
+
+
+msgid "Enable Guest Ticket"
+msgstr "เปิดใช้งานบัตรโดยสาร"
+
+
+msgid "Enable HTML Input"
+msgstr "เปิดใช้งานการป้อนข้อมูล HTML"
+
+
+msgid "Enable Public Ticket"
+msgstr "เปิดใช้งานบัตรโดยสารสาธารณะ"
+
+
+msgid "Enable Ticket Feedback"
+msgstr "เปิดใช้งานการตอบรับตั๋ว"
+
+
+msgid "Enable User Online Check"
+msgstr "เปิดใช้งานการตรวจสอบผู้ใช้ออนไลน์"
+
+
+msgid "Ex. Google analytics code, Do not add any tag  like %s"
+msgstr "อดีต รหัสวิเคราะห์ของ Google อย่าเพิ่มแท็กใด ๆ เช่น %s"
+
+
+msgid "Feedback Email Title"
+msgstr "ชื่ออีเมล์"
+
+
+msgid "Field"
+msgstr "สนาม"
+
+
+msgid "File Upload Settings"
+msgstr "การตั้งค่าการอัปโหลดไฟล์"
+
+
+msgid "Footer Background"
+msgstr "พื้นหลังส่วนท้าย"
+
+
+msgid "Footer Text"
+msgstr "ข้อความท้ายกระดาษ"
+
+
+msgid "Header Color"
+msgstr "สีส่วนหัว"
+
+
+msgid "Header Gradient"
+msgstr "ส่วนหัว Gradient"
+
+
+msgid "If enable this then other color will be auto generate based on main color"
+msgstr "หากเปิดใช้งานนี้สีอื่น ๆ จะถูกสร้างโดยอัตโนมัติตามสีหลัก"
+
+
+msgid "If enable this then the header background will be gradient"
+msgstr "หากเปิดใช้งานนี้พื้นหลังส่วนหัวจะถูกไล่ระดับสี"
+
+
+msgid "If you disable this then your will get normal text area box insted of html editor"
+msgstr "ถ้าคุณปิดใช้งานนี้คุณจะได้รับกล่องข้อความพื้นที่ปกติแทนโปรแกรมแก้ไข HTML"
+
+
+msgid "If you enable it a feedback email will be sent to ticket user email address after closing ticket"
+msgstr "หากคุณเปิดใช้งานอีเมลข้อเสนอแนะจะถูกส่งไปยังที่อยู่อีเมลของผู้ใช้ตั๋วหลังจากปิดตั๋ว"
+
+
+msgid "If you enable it then any visitor can open ticket without registration"
+msgstr "หากเปิดใช้งานผู้เข้าชมทุกคนสามารถเปิดตั๋วได้โดยไม่ต้องลงทะเบียน"
+
+
+msgid "If you enable it then captcha will show in admin login form"
+msgstr "หากคุณเปิดใช้งานแล้ว captcha จะแสดงในแบบฟอร์มการเข้าสู่ระบบผู้ดูแลระบบ"
+
+
+msgid "If you enable it then captcha will show in client login form"
+msgstr "หากคุณเปิดใช้งานแล้ว captcha จะแสดงในแบบฟอร์มการเข้าสู่ระบบของไคลเอ็นต์"
+
+
+msgid "If you enable it then captcha will show in client registration form"
+msgstr "หากคุณเปิดใช้งานแล้ว captcha จะแสดงในแบบฟอร์มการลงทะเบียนลูกค้า"
+
+
+msgid "If you enable it then captcha will show in guest ticket opening form"
+msgstr "หากคุณเปิดใช้งาน captcha จะแสดงในแบบฟอร์มการเปิดบัญชีลูกค้า"
+
+
+msgid "If you enable it then user can open their ticket as public mode. Where any user can replay"
+msgstr "หากเปิดใช้งานผู้ใช้สามารถเปิดตั๋วเป็นโหมดสาธารณะได้ ที่ผู้ใช้สามารถเล่นซ้ำได้"
+
+
+msgid "If you enable it then user can upload file when they open ticket and reply any ticket"
+msgstr "หากคุณเปิดใช้งานผู้ใช้สามารถอัปโหลดไฟล์เมื่อเปิดตั๋วและตอบกลับตั๋วใดก็ได้"
+
+
+msgid "If you enable it, then any staff can reply on any ticket, if disable then only assigned staff can reply."
+msgstr "หากคุณเปิดใช้งานพนักงานสามารถตอบกลับได้จากบัตรใด ๆ หากปิดใช้งานแล้วเจ้าหน้าที่ที่ได้รั?"
+
+
+msgid "If you enable it, then you can able to upload their profile photo"
+msgstr "ถ้าคุณเปิดใช้งานคุณสามารถอัปโหลดรูปโปรไฟล์ได้"
+
+
+msgid "If you enable this then this app will check SSL Request, if not then it will redirect to SSL URL."
+msgstr "หากคุณเปิดใช้งานคุณลักษณะนี้แอปพลิเคชันนี้จะตรวจสอบคำขอ SSL ถ้าไม่ใช่จะเป็นการเปลี่ยนเส้?"
+
+
+msgid "If you enable this then this app will check and show user online status."
+msgstr "หากคุณเปิดใช้งานคุณลักษณะนี้แอปนี้จะตรวจสอบและแสดงสถานะออนไลน์ของผู้ใช้"
+
+
+msgid "It will effect in next reload. If you want to now then refresh after save."
+msgstr "จะมีผลในการโหลดครั้งต่อไป หากต้องการตอนนี้ให้รีเฟรชหลังจากบันทึก"
+
+
+msgid "It's background color of footer. Empty value will be auto from main color"
+msgstr "สีพื้นหลังของส่วนท้าย ค่าว่างจะเป็นสีอัตโนมัติจากสีหลัก"
+
+
+msgid "It's background color of menu bar. Empty value will be auto from main color"
+msgstr "เป็นสีพื้นหลังของแถบเมนู ค่าว่างจะเป็นสีอัตโนมัติจากสีหลัก"
+
+
+msgid "It's background color of menu text color when active. Empty value will be auto from main color"
+msgstr "เป็นสีพื้นหลังของสีข้อความเมนูเมื่อใช้งาน ค่าว่างจะเป็นสีอัตโนมัติจากสีหลัก"
+
+
+msgid "It's text color of footer. Empty value will be auto from main color"
+msgstr "สีข้อความเป็นส่วนท้าย ค่าว่างจะเป็นสีอัตโนมัติจากสีหลัก"
+
+
+msgid "It's the background color of welcome message. But you can choose any text color on any text of welcome message using editor. Empty value will be auto from main color"
+msgstr "เป็นสีพื้นหลังของข้อความต้อนรับ แต่คุณสามารถเลือกสีข้อความใด ๆ ในข้อความข้อความต้อนรับโ"
+
+
+msgid "It's the color of anchor link and heading(h1,h2,h3,h4) Color. Empty value will be auto from main color"
+msgstr "เป็นสีของ anchor link และ heading (h1, h2, h3, h4) สี ค่าว่างจะเป็นสีอัตโนมัติจากสีหลัก"
+
+
+msgid "Its background color of header"
+msgstr "สีพื้นหลังของส่วนหัว"
+
+
+msgid "Keep empty if you don't want to show any footer"
+msgstr "เก็บข้อมูลไว้ว่างถ้าคุณไม่ต้องการแสดงส่วนท้ายใด ๆ"
+
+
+msgid "Keep empty if you don't want to show any footer on email"
+msgstr "เก็บข้อมูลไว้ว่างถ้าคุณไม่ต้องการแสดงส่วนท้ายใด ๆ ในอีเมล"
+
+
+msgid "Keep empty if you don't want to show any footer on site copy write text"
+msgstr "เก็บข้อมูลไว้ว่างถ้าคุณไม่ต้องการแสดงส่วนท้ายใด ๆ ในข้อความเขียนคัดลอกไซต์"
+
+
+msgid "Keep empty if you don't want to show any message"
+msgstr "ปล่อยให้ว่างถ้าคุณไม่ต้องการแสดงข้อความใด ๆ"
+
+
+msgid "Layout & Color Settings"
+msgstr "การจัดวางและการตั้งค่าสี"
+
+
+msgid "Link And Heading Text"
+msgstr "ข้อความลิงค์และหัวเรื่อง"
+
+
+msgid "Main Color"
+msgstr "สีหลัก"
+
+
+msgid "Main site color is defined for application main color of client site."
+msgstr "สีเว็บไซต์หลักถูกกำหนดไว้สำหรับสีหลักของแอ็พพลิเคชันของไซต์ไคลเอ็นต์"
+
+
+msgid "Max Upload File Size"
+msgstr "ขนาดไฟล์อัปโหลดสูงสุด"
+
+
+msgid "Menu Active Text Color"
+msgstr "สีข้อความที่ใช้งานได้ของเมนู"
+
+
+msgid "Menu Background"
+msgstr "พื้นหลังของเมนู"
+
+
+msgid "Nagative Feedback Message"
+msgstr "ข้อความข้อเสนอแนะเชิงลบ"
+
+
+msgid "Nagative Message"
+msgstr "ข้อความเชิงลบ"
+
+
+msgid "On Admin Login"
+msgstr "ในการเข้าสู่ระบบของผู้ดูแลระบบ"
+
+
+msgid "On Client Login"
+msgstr "ในการเข้าสู่ระบบของลูกค้า"
+
+
+msgid "On Client Registration"
+msgstr "ในการลงทะเบียนลูกค้า"
+
+
+msgid "On Guest Ticket"
+msgstr "บนบัตรโดยสาร"
+
+
+msgid "Only enter css code. Do not add any tag like %s"
+msgstr "ป้อนเฉพาะ css code อย่าเพิ่มแท็กใด ๆ เช่น %s"
+
+
+msgid "Positive Feedback Message"
+msgstr "ข้อความแสดงความคิดเห็นเชิงบวก"
+
+
+msgid "Positive Message"
+msgstr "ข้อความที่เป็นบวก"
+
+
+msgid "Registration  of visitor. If you disable this then visitor can't register. Only registered client can open ticket after login"
+msgstr "ลงทะเบียนผู้เข้าชม ถ้าคุณปิดการใช้งานนี้ผู้เข้าชมไม่สามารถลงทะเบียนได้ เฉพาะลูกค้าที่ล?"
+
+
+msgid "Site Copyright Text"
+msgstr "ข้อความลิขสิทธิ์เว็บไซต์"
+
+
+msgid "Site Key"
+msgstr "คีย์ไซต์"
+
+
+msgid "The value is not a numeric"
+msgstr "ค่านี้ไม่ใช่ตัวเลข"
+
+
+msgid "Ticket File Upload"
+msgstr "อัปโหลดไฟล์ตั๋ว"
+
+
+msgid "Ticket Settings"
+msgstr "การตั้งค่าตั๋ว"
+
+
+msgid "Time Format"
+msgstr "รูปแบบเวลา"
+
+
+msgid "Value must be between 1 to 99"
+msgstr "ค่าต้องอยู่ระหว่าง 1 ถึง 99"
+
+
+msgid "Welcome & Footer Text"
+msgstr "ข้อความต้อนรับและท้ายกระดาษ"
+
+
+msgid "Welcome Background"
+msgstr "พื้นหลังยินดีต้อนรับ"
+
+
+msgid "Welcome Message"
+msgstr "ข้อความต้อนรับ"
+
+
+msgid "Welcome Text"
+msgstr "ข้อความต้อนรับ"
+
+
+msgid "ex. 2"
+msgstr "อดีต 2"
+
+
+msgid "Successfully updated"
+msgstr "อัปเดตเรียบร้อยแล้ว"
+
+
+msgid "Language changed. Reloading"
+msgstr "เปลี่ยนภาษาแล้ว การบรรจุใหม่"
+
+
+msgid "Download CSV"
+msgstr "ดาวน์โหลด CSV"
+
+
+msgid "No Record Found"
+msgstr "ไม่พบรายการ"
+
+
+msgid "Reload"
+msgstr "โหลด"
+
+
+msgid "Sign In"
+msgstr "ลงชื่อเข้าใช้"
+
+
+msgid "Sign in to start your session"
+msgstr "ลงชื่อเข้าใช้เพื่อเริ่มต้นเซสชันของคุณ"
+
+
+msgid "Admin Panel"
+msgstr "แผงธุรการ"
+
+
+msgid "%s is invalid"
+msgstr "%s ไม่ถูกต้อง"
+
+
+msgid "A ticket email has been sent to your email. Please check that"
+msgstr "อีเมลตั๋วถูกส่งไปยังอีเมลของคุณแล้ว โปรดตรวจสอบว่า"
+
+
+msgid "Admin Notification Settings"
+msgstr "การตั้งค่าการแจ้งเตือนผู้ดูแลระบบ"
+
+
+msgid "Are you sure to assign yourself?"
+msgstr "คุณแน่ใจหรือไม่ว่าจะมอบหมายตัวเอง?"
+
+
+msgid "Are you sure to assign?"
+msgstr "คุณแน่ใจหรือว่าจะมอบหมาย?"
+
+
+msgid "Assign Me"
+msgstr "กำหนดฉัน"
+
+
+msgid "Captcha Success"
+msgstr "ความสำเร็จของ Captcha"
+
+
+msgid "Content"
+msgstr "เนื้อหา"
+
+
+msgid "Controller"
+msgstr "ตัวควบคุม"
+
+
+msgid "Email Field Details"
+msgstr "รายละเอียดฟิลด์อีเมล"
+
+
+msgid "Email Notification Settings"
+msgstr "การตั้งค่าการแจ้งเตือนทางอีเมล"
+
+
+msgid "Email Notification Settions"
+msgstr "การตั้งค่าการแจ้งเตือนทางอีเมล"
+
+
+msgid "Email Template updated successfully"
+msgstr "อัปเดตเทมเพลตอีเมลเรียบร้อยแล้ว"
+
+
+msgid "Email template for  ANR"
+msgstr "เทมเพลตอีเมลสำหรับ ANR"
+
+
+msgid "Enable Admin Notificaiton"
+msgstr "เปิดใช้งานการแจ้งเตือนของผู้ดูแลระบบ"
+
+
+msgid "File Size"
+msgstr "ขนาดไฟล์"
+
+
+msgid "If you enable this then admin will get notification"
+msgstr "ถ้าคุณเปิดใช้งานนี้ผู้ดูแลระบบจะได้รับการแจ้งเตือน"
+
+
+msgid "If you enable this then admin will get notification on ticket open"
+msgstr "ถ้าคุณเปิดใช้งานนี้ผู้ดูแลระบบจะได้รับการแจ้งเตือนเมื่อเปิดตั๋ว"
+
+
+msgid "If you enable this then admin will get notification on ticket user reply"
+msgstr "ถ้าคุณเปิดใช้งานนี้ผู้ดูแลระบบจะได้รับการแจ้งเตือนเกี่ยวกับการตอบกลับของผู้ใช้ตั๋ว"
+
+
+msgid "Logging in.."
+msgstr "เข้าสู่ระบบ .."
+
+
+msgid "Name of ticket user"
+msgstr "ชื่อผู้ใช้ตั๋ว"
+
+
+msgid "New Ticket Opened"
+msgstr "เปิดตั๋วใหม่แล้ว"
+
+
+msgid "Notification Email"
+msgstr "อีเมลการแจ้งเตือน"
+
+
+msgid "Notification Settings"
+msgstr "การตั้งค่าการแจ้งเตือน"
+
+
+msgid "Notification Settions"
+msgstr "การตั้งค่าการแจ้งเตือน"
+
+
+msgid "On Admin/staff Reply"
+msgstr "On Admin / staff ตอบ"
+
+
+msgid "On Screen Notificaiton Settings"
+msgstr "การตั้งค่าการแจ้งเตือนหน้าจอ"
+
+
+msgid "On Ticket Open"
+msgstr "เปิดตั๋ว"
+
+
+msgid "On Ticket User Reply"
+msgstr "ผู้ตอบ Ticket Ticket"
+
+
+msgid "Page List"
+msgstr "รายการหน้าเว็บ"
+
+
+msgid "Please wait"
+msgstr "โปรดรอ"
+
+
+msgid "Replied Text"
+msgstr "ข้อความที่ตอบแล้ว"
+
+
+msgid "Reply text"
+msgstr "ตอบข้อความ"
+
+
+msgid "Resource"
+msgstr "ทรัพยากร"
+
+
+msgid "Set Assign"
+msgstr "ตั้งกำหนด"
+
+
+msgid "Successfully added"
+msgstr "เพิ่มเรียบร้อยแล้ว"
+
+
+msgid "Template List"
+msgstr "รายการเทมเพลต"
+
+
+msgid "Thank you, your ticket has been opened successfully"
+msgstr "ขอบคุณตั๋วของคุณได้รับการเปิดเรียบร้อยแล้ว"
+
+
+msgid "Ticket Open By Guest"
+msgstr "ตั๋วเปิดโดย Guest"
+
+
+msgid "Ticket Other's Info"
+msgstr "ข้อมูลอื่น ๆ ของ Ticket"
+
+
+msgid "Ticket Replied by : %s"
+msgstr "ตั๋วตอบโดย: %s"
+
+
+msgid "Ticket cateroty"
+msgstr "ตั๋ว cateroty"
+
+
+msgid "Ticket link"
+msgstr "ลิงก์ตั๋ว"
+
+
+msgid "Ticket open or reply notification settings"
+msgstr "เปิดการตั้งค่าการแจ้งเตือนตั๋วเปิดหรือตอบกลับ"
+
+
+msgid "Update Email Template"
+msgstr "อัปเดตเทมเพลตอีเมล"
+
+
+msgid "User Ticket"
+msgstr "User Ticket"
+
+
+msgid "User who replied"
+msgstr "ผู้ใช้ที่ตอบกลับ"
+
+
+msgid "View Ticket Details"
+msgstr "ดูรายละเอียดตั๋ว"
+
+
+msgid "ex. email@domain.com"
+msgstr "อดีต email@domain.com"
+
+
+msgid "updated"
+msgstr "อัปเดต"
+
+
+msgid "%s is not a valid URL"
+msgstr "%s ไม่ใช่ URL ที่ถูกต้อง"
+
+
+msgid "Admin Panel Language"
+msgstr "ภาษาแผงการดูแลระบบ"
+
+
+msgid "Admin will hear tone on notification if enabled"
+msgstr "ผู้ดูแลระบบจะได้ยินเสียงแจ้งเตือนหากเปิดใช้งาน"
+
+
+msgid "App Settings"
+msgstr "การตั้งค่าแอป"
+
+
+msgid "Application All Settings"
+msgstr "ใช้การตั้งค่าทั้งหมด"
+
+
+msgid "Are you sure to dismiss?"
+msgstr "คุณต้องการยกเลิกหรือไม่?"
+
+
+msgid "Authentication failed!. May be remote server rejected."
+msgstr "รับรองความถูกต้องล้มเหลว!. อาจปฏิเสธเซิร์ฟเวอร์ระยะไกล"
+
+
+msgid "Button Color"
+msgstr "สีของปุ่ม"
+
+
+msgid "Button Text"
+msgstr "ข้อความปุ่ม"
+
+
+msgid "Button Text Color"
+msgstr "สีข้อความปุ่ม"
+
+
+msgid "Button Txt"
+msgstr "ข้อความปุ่ม"
+
+
+msgid "Button View"
+msgstr "มุมมองปุ่ม"
+
+
+msgid "Button image updated successfully"
+msgstr "อัปเดตภาพปุ่มสำเร็จแล้ว"
+
+
+msgid "Captcha is required"
+msgstr "จำเป็นต้องใช้ Captcha"
+
+
+msgid "Closed On"
+msgstr "ปิด"
+
+
+msgid "Current Status"
+msgstr "สถานะปัจจุบัน"
+
+
+msgid "Custom %s"
+msgstr "%Custom %s"
+
+
+msgid "Default login system form won't not show if it enabled"
+msgstr "รูปแบบระบบการเข้าสู่ระบบเริ่มต้นจะไม่แสดงหากเปิดใช้งาน"
+
+
+msgid "Default login system form won't not show if it enabled, but Remote Login & Social login will show if those are enabled"
+msgstr "รูปแบบระบบการเข้าสู่ระบบเริ่มต้นจะไม่แสดงขึ้นหากเปิดใช้งาน แต่การเข้าสู่ระบบจากระยะไก??"
+
+
+msgid "Disable Default Login"
+msgstr "ปิดใช้งานการล็อกอินเริ่มต้น"
+
+
+msgid "Disable Guest Open Popup"
+msgstr "ปิดใช้งานป๊อปอัพ Guest Open"
+
+
+msgid "Edit Remote Login"
+msgstr "แก้ไขการเข้าสู่ระบบจากระยะไกล"
+
+
+msgid "Email to Ticket"
+msgstr "ส่งอีเมลไปที่ Ticket"
+
+
+msgid "Enable Tone (Sound)"
+msgstr "เปิดใช้เสียง (เสียง)"
+
+
+msgid "Featured Video"
+msgstr "วีดิโอแนะนำ"
+
+
+msgid "File Upload"
+msgstr "อัปโหลดไฟล์"
+
+
+msgid "If you enable this then admin will hear tone on notification"
+msgstr "ถ้าคุณเปิดใช้งานนี้ผู้ดูแลระบบจะได้ยินเสียงในการแจ้งเตือน"
+
+
+msgid "If you enable this then guest user also get all priroty as dropdown option"
+msgstr "ถ้าคุณเปิดใช้งานนี้ผู้ใช้ทั่วไปจะได้รับเลือกเป็นตัวเลือกแบบเลื่อนลง"
+
+
+msgid "It is your remote server login URL. You can add extra parameter to detect, %s"
+msgstr "เป็น URL การเข้าสู่ระบบเซิร์ฟเวอร์ระยะไกลของคุณ คุณสามารถเพิ่มพารามิเตอร์พิเศษในการตรวจสอ"
+
+
+msgid "It is your remote server login URL. You can add extra parameter to detect, ex. %s"
+msgstr "เป็น URL การเข้าสู่ระบบเซิร์ฟเวอร์ระยะไกลของคุณ คุณสามารถเพิ่มพารามิเตอร์พิเศษในการตรวจสอ"
+
+
+msgid "It is your remote server login URL. You can add extra parameter to detect, ex. http://zyz.com?from=support-system"
+msgstr "เป็น URL การเข้าสู่ระบบเซิร์ฟเวอร์ระยะไกลของคุณ คุณสามารถเพิ่มพารามิเตอร์พิเศษในการตรวจสอ"
+
+
+msgid "It will redirect to home page within"
+msgstr "จะเปลี่ยนเส้นทางไปยังหน้าแรกภายใน"
+
+
+msgid "It will send this key in verification process as param"
+msgstr "มันจะส่งกุญแจนี้ในการตรวจสอบเป็น param"
+
+
+msgid "Keep empty if you don't want show any video"
+msgstr "ปล่อยให้ว่างเปล่าถ้าคุณไม่ต้องการแสดงวิดีโอใด ๆ"
+
+
+msgid "Last Replied On"
+msgstr "ตอบครั้งล่าสุดเมื่อ"
+
+
+msgid "Layout & Color"
+msgstr "เค้าโครงและสี"
+
+
+msgid "Log uploaded"
+msgstr "อัปโหลดแล้ว"
+
+
+msgid "Login Email"
+msgstr "อีเมลเข้าสู่ระบบ"
+
+
+msgid "Login Link"
+msgstr "ล็อกอินเข้าสู่ระบบ"
+
+
+msgid "Login URL"
+msgstr "URL เข้าสู่ระบบ"
+
+
+msgid "Login Using"
+msgstr "เข้าสู่ระบบโดยใช้"
+
+
+msgid "NB. %s will be your server's api key, by this we validate the response"
+msgstr "NB  %s จะเป็นคีย์ API ของเซิร์ฟเวอร์ของคุณโดยเราจะตรวจสอบความถูกต้องของคำตอบ"
+
+
+msgid "NB. %s will be your server's login token, by this it can validated the user"
+msgstr "NB  %s จะเป็นโทเค็นการเข้าสู่ระบบของเซิร์ฟเวอร์โดยจะสามารถตรวจสอบความถูกต้องของผู้ใช้ได้"
+
+
+msgid "New Remote Login"
+msgstr "เข้าสู่ระบบใหม่ระยะไกล"
+
+
+msgid "Normally visitor will show a popup it s/he doesn't logged in. If you don't want to show that then enable it"
+msgstr "โดยปกติผู้เข้าชมจะแสดงป๊อปอัพมัน / เขาไม่ได้เข้าสู่ระบบหากคุณไม่ต้องการแสดงว่าเปิดใช้งา"
+
+
+msgid "Notification Tone (Sound)"
+msgstr "เสียงแจ้งเตือน (เสียง)"
+
+
+msgid "Opened On"
+msgstr "เปิดแล้ว"
+
+
+msgid "Our server will post to this URL with the response token.%s Post paramater will be look like %s"
+msgstr "เซิร์ฟเวอร์ของเราจะโพสต์ URL นี้ด้วยโทเค็นการตอบกลับ %s พารามิเตอร์โพสต์จะมีลักษณะเหมือน %s"
+
+
+msgid "Pay Now"
+msgstr "จ่ายตอนนี้"
+
+
+msgid "Payment Added"
+msgstr "ชำระเงินเพิ่มแล้ว"
+
+
+msgid "Preview"
+msgstr "ดูตัวอย่าง"
+
+
+msgid "Private Key"
+msgstr "คีย์ส่วนตัว"
+
+
+msgid "Remote Login"
+msgstr "เข้าสู่ระบบจากระยะไกล"
+
+
+msgid "Remote Login Error"
+msgstr "ข้อผิดพลาดการเข้าสู่ระบบจากระยะไกล"
+
+
+msgid "Remote Login List"
+msgstr "รายการเข้าสู่ระบบจากระยะไกล"
+
+
+msgid "Remote Server Login"
+msgstr "เข้าสู่ระบบเซิร์ฟเวอร์ระยะไกล"
+
+
+msgid "Remote_server"
+msgstr "remote_server"
+
+
+msgid "Request Count"
+msgstr "ขอนับ"
+
+
+msgid "Response Data Error"
+msgstr "เกิดข้อผิดพลาดของข้อมูล"
+
+
+msgid "Response URL"
+msgstr "URL ตอบกลับ"
+
+
+msgid "Same As Admin"
+msgstr "เช่นเดียวกับผู้ดูแลระบบ"
+
+
+msgid "Seconds"
+msgstr "วินาที"
+
+
+msgid "Select icon"
+msgstr "เลือกไอคอน"
+
+
+msgid "Server Type"
+msgstr "ประเภทเซิร์ฟเวอร์"
+
+
+msgid "Show all priroty on Guest Ticket"
+msgstr "แสดงความสำคัญทั้งหมดใน Guest Ticket"
+
+
+msgid "Site Language"
+msgstr "ภาษาเว็บไซต์"
+
+
+msgid "Site Theme Settings"
+msgstr "การตั้งค่าธีมไซต์"
+
+
+msgid "Social Login Setting"
+msgstr "การตั้งค่าการเข้าสู่ระบบสังคม"
+
+
+msgid "Successfully Dismissed"
+msgstr "คัดออกเรียบร้อยแล้ว"
+
+
+msgid "Successfully deleted"
+msgstr "ลบเรียบร้อยแล้ว"
+
+
+msgid "Successfully logged in"
+msgstr "เข้าสู่ระบบสำเร็จแล้ว"
+
+
+msgid "Successfully saved"
+msgstr "บันทึกเรียบร้อยแล้ว"
+
+
+msgid "Thank you for registering with us"
+msgstr "ขอขอบคุณที่ลงทะเบียนกับเรา"
+
+
+msgid "Theme"
+msgstr "กระทู้"
+
+
+msgid "This account has been temporary locked for 30 minutes, try again later or contact with admin to unlock"
+msgstr "บัญชีนี้ถูกล็อคชั่วคราวเป็นเวลา 30 นาทีโปรดลองอีกครั้งในภายหลังหรือติดต่อผู้ดูแลระบบเพื??"
+
+
+msgid "This servers's configuration"
+msgstr "การกำหนดค่าของเซิร์ฟเวอร์นี้"
+
+
+msgid "Ticket Email"
+msgstr "อีเมลตั๋ว"
+
+
+msgid "Ticket Re-Opened"
+msgstr "บัตรเปิดใหม่"
+
+
+msgid "Unknown"
+msgstr "ไม่ทราบ"
+
+
+msgid "User Login Using"
+msgstr "การใช้งานของผู้ใช้"
+
+
+msgid "Valid Url"
+msgstr "URL ที่ถูกต้อง"
+
+
+msgid "Validation URL"
+msgstr "URL การตรวจสอบความถูกต้อง"
+
+
+msgid "Video"
+msgstr "วีดีโอ"
+
+
+msgid "View Update Details"
+msgstr "ดูรายละเอียดการอัพเดท"
+
+
+msgid "Welcome to"
+msgstr "ยินดีต้อนรับสู่"
+
+
+msgid "Your server's redirect URL"
+msgstr "URL การเปลี่ยนเส้นทางเซิร์ฟเวอร์ของคุณ"
+
+
+msgid "View All"
+msgstr "ดูทั้งหมด"
+
+
+msgid "%s replied a message"
+msgstr "%s ตอบกลับข้อความ"
+
+
+msgid "API Name"
+msgstr "ชื่อ API"
+
+
+msgid "About Support System-help"
+msgstr "เกี่ยวกับ Support System-help"
+
+
+msgid "Agent Welcome Text"
+msgstr "ข้อความต้อนรับตัวแทน"
+
+
+msgid "All Paid Ticket"
+msgstr "ตั๋วชำระเงินทั้งหมด"
+
+
+msgid "Analytics Gtag ID"
+msgstr "Analytics Gtag ID"
+
+
+msgid "App User Details"
+msgstr "รายละเอียดผู้ใช้ App"
+
+
+msgid "Archive"
+msgstr "เอกสารเก่า"
+
+
+msgid "Are you sure to archive?"
+msgstr "คุณแน่ใจหรือยังว่าจะเก็บถาวร"
+
+
+msgid "Are you sure to archive? Archive is like Delete. You can inactive for temporary basis"
+msgstr "คุณแน่ใจหรือยังว่าจะเก็บถาวร ที่เก็บเหมือนลบ คุณสามารถใช้งานชั่วคราวได้"
+
+
+msgid "Are you sure to archive? Archive is like as delete. If you want to do it for temporary, then set inactive status instead of archive. You cann&#96;t revert if you process it."
+msgstr "คุณแน่ใจหรือยังว่าจะเก็บถาวร ที่เก็บเหมือนการลบ ถ้าคุณต้องการทำแบบชั่วคราวให้ตั้งสถานะ?"
+
+
+msgid "Are you sure to archive? Archive is like as delete. If you want to do it for temporary, then you can inactive this user."
+msgstr "คุณแน่ใจหรือยังว่าจะเก็บถาวร ที่เก็บเหมือนการลบ ถ้าคุณต้องการใช้งานชั่วคราวคุณจะไม่สาม?"
+
+
+msgid "Are you sure to archive? Archive is like as delete. It you want do it for temporary then you can inactive this user."
+msgstr "คุณแน่ใจหรือยังว่าจะเก็บถาวร ที่เก็บเหมือนการลบ คุณต้องการทำชั่วคราวเพื่อให้คุณไม่สามา?"
+
+
+msgid "Are you sure to archive? Archive is like as delete. You can inactive for temporary basis"
+msgstr "คุณแน่ใจหรือยังว่าจะเก็บถาวร ที่เก็บเหมือนการลบ คุณสามารถใช้งานชั่วคราวได้"
+
+
+msgid "Are you sure to change chat status?"
+msgstr "คุณแน่ใจหรือไม่ว่าต้องการเปลี่ยนแปลงสถานะการแชท"
+
+
+msgid "Are you sure to unlock?"
+msgstr "คุณแน่ใจหรือไม่ว่าจะปลดล็อก"
+
+
+msgid "Asigned By"
+msgstr "มอบหมายโดย"
+
+
+msgid "Authentication failed!. May be you didn't authenticate."
+msgstr "รับรองความถูกต้องล้มเหลว!. อาจคุณไม่ได้ตรวจสอบ"
+
+
+msgid "Best Ranker Wordpress tool"
+msgstr "เครื่องมือ Wordpress Ranker ที่ดีที่สุด"
+
+
+msgid "Browser"
+msgstr "เบราว์เซอร์"
+
+
+msgid "Canned Message"
+msgstr "ข้อความที่บรรจุกระป๋อง"
+
+
+msgid "Change Profile Photo"
+msgstr "เปลี่ยนรูปโปรไฟล์"
+
+
+msgid "Chat Canned Message"
+msgstr "แชทข้อความที่บรรจุไว้"
+
+
+msgid "Chat Canned Msg List"
+msgstr "รายชื่อสนทนาของกระป๋อง"
+
+
+msgid "Chat Online Status"
+msgstr "สถานะออนไลน์ของ Chat"
+
+
+msgid "Chat Opening Text"
+msgstr "ข้อความเปิดแชท"
+
+
+msgid "Chat Panel"
+msgstr "แผงแชท"
+
+
+msgid "Chat Receive Status"
+msgstr "สถานะการรับแชท"
+
+
+msgid "Chat Settings"
+msgstr "การตั้งค่าการแชท"
+
+
+msgid "Chat Status"
+msgstr "สถานะแชท"
+
+
+msgid "Check On Submit"
+msgstr "ตรวจสอบเมื่อส่ง"
+
+
+msgid "Choose API"
+msgstr "เลือก API"
+
+
+msgid "Choose API from available APIs"
+msgstr "เลือก API จาก APIs ที่พร้อมใช้งาน"
+
+
+msgid "Choose Chat Type"
+msgstr "เลือกประเภทแชท"
+
+
+msgid "Choose Type or Category"
+msgstr "เลือกประเภทหรือประเภท"
+
+
+msgid "Click here to watch the video tutorial"
+msgstr "คลิกที่นี่เพื่อดูบทแนะนำวิดีโอ"
+
+
+msgid "Click on the Image to change. Best size is 250px x 200px"
+msgstr "คลิกที่รูปเพื่อเปลี่ยน ขนาดที่ดีที่สุดคือ 250px x 200px"
+
+
+msgid "Client Profile"
+msgstr "โปรไฟล์ลูกค้า"
+
+
+msgid "Close Chat Status"
+msgstr "ปิดสถานะแชท"
+
+
+msgid "Closed Chat List"
+msgstr "รายชื่อสนทนาแบบปิด"
+
+
+msgid "Closed Failed"
+msgstr "ปิดสำเร็จแล้ว"
+
+
+msgid "Closed Successfully"
+msgstr "ปิดสำเร็จ"
+
+
+msgid "Color Settings"
+msgstr "การตั้งค่าสี"
+
+
+msgid "Comma( , ) separated. Ex: OptionA,OptionB,OptionC"
+msgstr "คั่นด้วยจุลภาค () เช่น OptionA, OptionB, OptionC"
+
+
+msgid "Do you want to take?"
+msgstr "คุณต้องการที่จะใช้?"
+
+
+msgid "Download"
+msgstr "ดาวน์โหลด"
+
+
+msgid "Edit Ticket Reply"
+msgstr "แก้ไขการตอบกลับตั๋ว"
+
+
+msgid "Email Password Reset Link"
+msgstr "ลิงก์รีเซ็ตรหัสผ่านอีเมล"
+
+
+msgid "Enable"
+msgstr "ทำให้สามารถ"
+
+
+msgid "Enable API Validation"
+msgstr "เปิดใช้การตรวจสอบ API"
+
+
+msgid "End Time"
+msgstr "เวลาสิ้นสุด"
+
+
+msgid "Enter License Info"
+msgstr "ป้อนข้อมูลใบอนุญาต"
+
+
+msgid "Entry Date"
+msgstr "วันที่รายการ"
+
+
+msgid "Envato Settings"
+msgstr "การตั้งค่า Envato"
+
+
+msgid "Facebook Chat"
+msgstr "Facebook แชท"
+
+
+msgid "Facebook Chat Settings"
+msgstr "การตั้งค่า Facebook Chat"
+
+
+msgid "Facebook Page ID"
+msgstr "รหัสหน้า Facebook"
+
+
+msgid "Failed to assigning you on this chat"
+msgstr "ไม่สามารถมอบหมายคุณในการแชทนี้"
+
+
+msgid "Failed to update"
+msgstr "ไม่สามารถอัปเดต"
+
+
+msgid "Field Label"
+msgstr "ป้ายฟิลด์"
+
+
+msgid "File Settings"
+msgstr "การตั้งค่าไฟล์"
+
+
+msgid "GUEST USER"
+msgstr "GUEST USER"
+
+
+msgid "Genaral"
+msgstr "ทั่วไป"
+
+
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+
+msgid "Google Analytics Gtag ID"
+msgstr "Google Analytics Gtag ID"
+
+
+msgid "Google Analytics Settings"
+msgstr "การตั้งค่า Google Analytics"
+
+
+msgid "Gtag ID"
+msgstr "รหัส Gtag"
+
+
+msgid "Help Text"
+msgstr "ช่วยเหลือข้อความ"
+
+
+msgid "How to use all feature of this support system"
+msgstr "วิธีการใช้คุณลักษณะทั้งหมดของระบบสนับสนุนนี้"
+
+
+msgid "IMAP module is not activated in you php"
+msgstr "โมดูล IMAP ไม่ได้เปิดใช้งานในตัวคุณ php"
+
+
+msgid "If you choose this then this field will be displayed on choosen category only"
+msgstr "หากคุณเลือกฟิลด์นี้ช่องนี้จะแสดงเฉพาะในหมวดหมู่ที่เลือกเท่านั้น"
+
+
+msgid "If you enable this then the field will be check using selected API"
+msgstr "หากคุณเปิดใช้งานฟิลด์นี้จะเป็นการเลือกใช้ API ที่เลือก"
+
+
+msgid "If you enable this then the value of this field is always be private"
+msgstr "ถ้าคุณเปิดใช้งานนี้ค่าของฟิลด์นี้จะเป็นแบบส่วนตัวเสมอ"
+
+
+msgid "If you enable this, the field value need to be valid on form submission. Otherwise you will get a button to check manually"
+msgstr "ถ้าคุณเปิดใช้งานค่านี้ฟิลด์ต้องถูกต้องเมื่อส่งฟอร์ม มิฉะนั้นคุณจะได้รับปุ่มเพื่อตรวจส??"
+
+
+msgid "If you want to set %s. Then please go to %s or  %s"
+msgstr "ถ้าคุณต้องการตั้งค่า %s จากนั้นโปรดไปที่ %s หรือ %s"
+
+
+msgid "Is Private"
+msgstr "เป็นส่วนตัว"
+
+
+msgid "It set a limit,how many chat a agent(Admin User) can take  simultaneously"
+msgstr "ตั้งค่าขีด จำกัด จำนวนแชทที่ตัวแทน (Admin User) สามารถใช้งานได้พร้อม ๆ กัน"
+
+
+msgid "It will show when a agent start a chat session."
+msgstr "จะแสดงเมื่อเอเจนต์เริ่มเซสชันการแชท"
+
+
+msgid "It will show when a agent start a chat session. You can use some property which is given bello:"
+msgstr "จะแสดงเมื่อเอเจนต์เริ่มเซสชันการแชท คุณสามารถใช้คุณสมบัติบางอย่างที่ให้ไว้กับ bello:"
+
+
+msgid "It will show when a agent start a chat session. You can use some property which is given bellow:"
+msgstr "จะแสดงเมื่อเอเจนต์เริ่มเซสชันการแชท คุณสามารถใช้คุณสมบัติบางอย่างที่ได้รับการร้อง:"
+
+
+msgid "It will show when a user want to start chat"
+msgstr "จะแสดงเมื่อผู้ใช้ต้องการเริ่มแชท"
+
+
+msgid "It will show when all user are offline"
+msgstr "จะแสดงเมื่อผู้ใช้ทั้งหมดออฟไลน์"
+
+
+msgid "It will show when all user busy,"
+msgstr "จะแสดงเมื่อผู้ใช้ไม่ว่าง,"
+
+
+msgid "Item Purchase Code"
+msgstr "รหัสการซื้อสินค้า"
+
+
+msgid "Its the field label"
+msgstr "ป้ายฟิลด์ของมัน"
+
+
+msgid "Knowledge Search"
+msgstr "ค้นหาความรู้"
+
+
+msgid "Last 5 Closed Chat"
+msgstr "แชทปิดครั้งสุดท้าย 5 ครั้ง"
+
+
+msgid "Last Change Date"
+msgstr "วันที่เปลี่ยนล่าสุด"
+
+
+msgid "Last Date"
+msgstr "วันที่ล่าสุด"
+
+
+msgid "Latest Knowledge"
+msgstr "ความรู้ล่าสุด"
+
+
+msgid "Load More"
+msgstr "โหลดเพิ่มเติม"
+
+
+msgid "Loading Chat Data Please wait.."
+msgstr "กำลังโหลดข้อมูลแชทโปรดรอสักครู่"
+
+
+msgid "Locked_user_confirm"
+msgstr "Locked_user_confirm"
+
+
+msgid "Login using social"
+msgstr "ลงชื่อเข้าใช้โดยใช้ Social"
+
+
+msgid "Low Priority"
+msgstr "ลำดับความสำคัญต่ำ"
+
+
+msgid "Max chat count"
+msgstr "จำนวนการแชทสูงสุด"
+
+
+msgid "Max. Chat Per Agent"
+msgstr "แม็กซ์ แชทต่อตัวแทน"
+
+
+msgid "Max. Chat Per Agent %s"
+msgstr "แม็กซ์ แชทต่อตัวแทน %s"
+
+
+msgid "Max. Chat Per Agent(simultaneously)"
+msgstr "แม็กซ์ แชทต่อตัวแทน (พร้อมกัน)"
+
+
+msgid "Message List"
+msgstr "รายการข้อความ"
+
+
+msgid "Missing chat id"
+msgstr "ไม่มีรหัสแชท"
+
+
+msgid "My Closed Ticket"
+msgstr "ตั๋วปิดของฉัน"
+
+
+msgid "My Paid Tickets"
+msgstr "ตั๋วชำระเงินของฉัน"
+
+
+msgid "Name of user"
+msgstr "ชื่อผู้ใช้"
+
+
+msgid "Need Support? Create a Ticket."
+msgstr "ต้องการการสนับสนุนหรือไม่? สร้างตั๋ว"
+
+
+msgid "New Chat Canned Message"
+msgstr "แชทข้อความใหม่"
+
+
+msgid "New Chat Canned Msg"
+msgstr "แชทใหม่รายละเอียดกระป๋อง"
+
+
+msgid "New Chat Request"
+msgstr "คำขอแชทใหม่"
+
+
+msgid "New Custom Field"
+msgstr "ฟิลด์ที่กำหนดเองใหม่"
+
+
+msgid "New Product"
+msgstr "ผลิตภัณฑ์ใหม่"
+
+
+msgid "No result found"
+msgstr "ไม่พบผลลัพธ์"
+
+
+msgid "Offline Text"
+msgstr "ข้อความแบบออฟไลน์"
+
+
+msgid "On Screeen Notification Settings"
+msgstr "การตั้งค่าการแจ้งเตือนหน้าจอ"
+
+
+msgid "On Screeen Notification Settions"
+msgstr "การตั้งค่าการแจ้งเตือนหน้าจอ"
+
+
+msgid "Only profile image updated"
+msgstr "อัปเดตเฉพาะรูปโปรไฟล์แล้ว"
+
+
+msgid "Open Text"
+msgstr "เปิดข้อความ"
+
+
+msgid "Open Ticket With Less Priority"
+msgstr "เปิดตั๋วที่มีความสำคัญน้อยกว่า"
+
+
+msgid "Page Builder"
+msgstr "เครื่องมือสร้างหน้าเว็บ"
+
+
+msgid "Page Editor"
+msgstr "ตัวแก้ไขหน้า"
+
+
+msgid "Password 18DDC9E196"
+msgstr "รหัสผ่าน 18DDC9E196"
+
+
+msgid "Password Successfully Updated"
+msgstr "อัปเดตรหัสสำเร็จแล้ว"
+
+
+msgid "Please Rate it !!"
+msgstr "กรุณาให้คะแนน !!"
+
+
+msgid "Please put this into your facebook page settings"
+msgstr "โปรดใส่ข้อมูลนี้ในการตั้งค่าหน้า Facebook ของคุณ"
+
+
+msgid "Priority"
+msgstr "ลำดับความสำคัญ"
+
+
+msgid "Products"
+msgstr "ผลิตภัณฑ์"
+
+
+msgid "Profile Photo"
+msgstr "รูปประจำตัว"
+
+
+msgid "Queue Text"
+msgstr "ข้อความแถว"
+
+
+msgid "Rate it"
+msgstr "ให้คะแนนมัน"
+
+
+msgid "Replied"
+msgstr "ตอบ"
+
+
+msgid "Replied By"
+msgstr "ตอบกลับโดย"
+
+
+msgid "Replied By Type"
+msgstr "ตอบกลับตามประเภท"
+
+
+msgid "Replied Successfully"
+msgstr "ตอบกลับเรียบร้อยแล้ว"
+
+
+msgid "Reply Time"
+msgstr "ตอบเวลา"
+
+
+msgid "Reset Password"
+msgstr "รีเซ็ตรหัสผ่าน"
+
+
+msgid "Screen Notificaiton Settings"
+msgstr "การตั้งค่าการแจ้งเตือนหน้าจอ"
+
+
+msgid "Search Result"
+msgstr "ผลการค้นหา"
+
+
+msgid "Seen by ticket owner"
+msgstr "เห็นโดยเจ้าของตั๋ว"
+
+
+msgid "Set Category"
+msgstr "ตั้งค่าหมวดหมู่"
+
+
+msgid "Set New Password"
+msgstr "ตั้งรหัสผ่านใหม่"
+
+
+msgid "Set Passowrd"
+msgstr "ตั้งรหัสผ่าน"
+
+
+msgid "Set Password"
+msgstr "ตั้งรหัสผ่าน"
+
+
+msgid "Set User Password"
+msgstr "ตั้งรหัสผ่านของผู้ใช้"
+
+
+msgid "Site Info"
+msgstr "ข้อมูลไซต์"
+
+
+msgid "Social Login Error"
+msgstr "ข้อผิดพลาดในการเข้าสู่ระบบสังคม"
+
+
+msgid "Start Time"
+msgstr "เวลาเริ่มต้น"
+
+
+msgid "Successfully Archived"
+msgstr "เก็บไว้เรียบร้อยแล้ว"
+
+
+msgid "Successfully assign"
+msgstr "กำหนดเรียบร้อยแล้ว"
+
+
+msgid "Successfully assigned you"
+msgstr "มอบหมายให้คุณเรียบร้อยแล้ว"
+
+
+msgid "Successfully closed"
+msgstr "ปิดสำเร็จแล้ว"
+
+
+msgid "Successfully unlocked"
+msgstr "ปลดล็อกเรียบร้อยแล้ว"
+
+
+msgid "The text will be show like this text after the field"
+msgstr "ข้อความจะปรากฏเหมือนกับข้อความหลังฟิลด์"
+
+
+msgid "The user is already archived. You can't active or inactive"
+msgstr "ผู้ใช้ถูกเก็บถาวรแล้ว คุณไม่สามารถใช้งานหรือไม่ใช้งานได้"
+
+
+msgid "The user who replaied last"
+msgstr "ผู้ใช้ที่ทำสัญญาครั้งสุดท้าย"
+
+
+msgid "This chat request has been accepted by %s"
+msgstr "คำขอการแชทนี้ได้รับการยอมรับโดย %s"
+
+
+msgid "This chat request has been accepted by Sarwar Hasan"
+msgstr "คำขอแชทนี้ได้รับการยอมรับจาก Sarwar Hasan"
+
+
+msgid "Ticket Form Category"
+msgstr "ประเภทฟอร์มตั๋ว"
+
+
+msgid "Ticket Opened"
+msgstr "เปิดตั๋วแล้ว"
+
+
+msgid "Ticket Payment"
+msgstr "การชำระเงินผ่านบัตร"
+
+
+msgid "Ticket Priority"
+msgstr "ความสำคัญของบัตรโดยสาร"
+
+
+msgid "Ticket open time in app timezone (UTC)"
+msgstr "เวลาเปิดตั๋วในเขตเวลาแอป (UTC)"
+
+
+msgid "Ticket owner doesn't seen"
+msgstr "เจ้าของตั๋วไม่เห็น"
+
+
+msgid "Ticket owner seen"
+msgstr "เจ้าของตั๋วเห็น"
+
+
+msgid "Ticket reply saved error"
+msgstr "ข้อผิดพลาดที่บันทึกไว้ในการตอบกลับตั๋ว"
+
+
+msgid "Ticket_confirm"
+msgstr "ยืนยันตั๋ว"
+
+
+msgid "To enable chat"
+msgstr "เพื่อเปิดใช้งานการแชท"
+
+
+msgid "To enable facebook messenger chat"
+msgstr "เพื่อเปิดใช้งาน Facebook messenger chat"
+
+
+msgid "Top Priority"
+msgstr "ความสำคัญสูงสุด"
+
+
+msgid "Unlock"
+msgstr "ปลดล็อค"
+
+
+msgid "Unseened by ticket owner"
+msgstr "ไม่ได้รับการบันทึกโดยเจ้าของตั๋ว"
+
+
+msgid "Updated successfully"
+msgstr "อัปเดตเรียบร้อยแล้ว"
+
+
+msgid "Use this as your confirmation url into your envato app register page."
+msgstr "ใช้ URL นี้เป็น URL การยืนยันลงในหน้าลงทะเบียน app envato"
+
+
+msgid "User Info"
+msgstr "ข้อมูลผู้ใช้"
+
+
+msgid "User Password"
+msgstr "รหัสผ่านผู้ใช้"
+
+
+msgid "User login information"
+msgstr "ข้อมูลการเข้าสู่ระบบของผู้ใช้"
+
+
+msgid "View"
+msgstr "ดู"
+
+
+msgid "WP Best Ranker"
+msgstr "WP Best Ranker"
+
+
+msgid "WP Rank Ninja"
+msgstr "WP Rank Ninja"
+
+
+msgid "Web Chat"
+msgstr "Web Chat"
+
+
+msgid "Web Chat Settings"
+msgstr "การตั้งค่าการแชททางเว็บ"
+
+
+msgid "Would You Please Rate it?"
+msgstr "คุณจะให้คะแนนหรือไม่?"
+
+
+msgid "Write here"
+msgstr "เขียนได้ที่นี่"
+
+
+msgid "YYYY-MM-DD"
+msgstr "YYYY-MM-DD"
+
+
+msgid "You can use some property which is given bellow:"
+msgstr "คุณสามารถใช้คุณสมบัติบางอย่างที่ให้ไว้ด้านล่าง:"
+
+
+msgid "You can't set pro version now. Pro version is coming soon. Please choose default chat now"
+msgstr "คุณไม่สามารถตั้งค่าเวอร์ชัน Pro ได้เลย เวอร์ชัน Pro จะมีในเร็ว ๆ นี้ โปรดเลือกการแชทเริ่มต้นเด?"
+
+
+msgid "You have no notifications right now"
+msgstr "คุณไม่มีการแจ้งเตือนในขณะนี้"
+
+
+msgid "Your Domain URL"
+msgstr "URL โดเมนของคุณ"
+
+
+msgid "[GUEST USER]"
+msgstr "[GUEST USER]"
+
+
+msgid "agent_welcome_text"
+msgstr "agent_welcome_text"
+
+
+msgid "e"
+msgstr "อี"
+
+
+msgid "ex. 5"
+msgstr "อดีต 5"
+
+
+msgid "snippets"
+msgstr "เกร็ดเล็กเกร็ดน้อย"
+
+
+msgid "to see the video tutorial"
+msgstr "เพื่อดูบทแนะนำวิดีโอ"
+
+
+msgid "typing"
+msgstr "การพิมพ์"
+
+
+msgid "%.2f"
+msgstr "%.2f"
+
+
+msgid "%s is already exists"
+msgstr "%s มีอยู่แล้ว"
+
+
+msgid "A  ticket reply has been received from ticket user"
+msgstr "ได้รับการตอบกลับจากผู้ซื้อตั๋วแล้ว"
+
+
+msgid "A new ticket is assigned to you"
+msgstr "มีการมอบตั๋วใหม่ให้กับคุณ"
+
+
+msgid "A new ticket is received please assign"
+msgstr "กรุณารับบัตรใหม่"
+
+
+msgid "A reset link has been sent to your email address. Please check that"
+msgstr "ลิงก์รีเซ็ตได้ถูกส่งไปยังที่อยู่อีเมลของคุณแล้ว โปรดตรวจสอบว่า"
+
+
+msgid "Add"
+msgstr "เพิ่ม"
+
+
+msgid "Add Another File"
+msgstr "เพิ่มไฟล์อื่น"
+
+
+msgid "Add Note"
+msgstr "เพิ่มหมายเหตุ"
+
+
+msgid "Admin Notes"
+msgstr "หมายเหตุผู้ดูแลระบบ"
+
+
+msgid "Admin ticket creation"
+msgstr "การสร้างตั๋วผู้ดูแลระบบ"
+
+
+msgid "All Categories"
+msgstr "ทุกประเภท"
+
+
+msgid "All Category"
+msgstr "ทุกหมวด"
+
+
+msgid "Application"
+msgstr "ใบสมัคร"
+
+
+msgid "Are you sure to delete attached file (%s)?"
+msgstr "คุณแน่ใจหรือไม่ว่าต้องการลบไฟล์ที่แนบมา ( %s)?"
+
+
+msgid "Are you sure to delete attached file?"
+msgstr "คุณแน่ใจหรือไม่ว่าต้องการลบไฟล์ที่แนบ"
+
+
+msgid "Are you sure to delete feature image?"
+msgstr "คุณแน่ใจหรือไม่ว่าต้องการลบภาพคุณลักษณะ?"
+
+
+msgid "Assign On Ticket"
+msgstr "กำหนด On Ticket"
+
+
+msgid "Attach more file"
+msgstr "แนบไฟล์เพิ่มเติม"
+
+
+msgid "Attached"
+msgstr "แนบมาด้วย"
+
+
+msgid "Attached file"
+msgstr "ไฟล์ที่แนบมา"
+
+
+msgid "Authentication Error"
+msgstr "ข้อผิดพลาดในการตรวจสอบสิทธิ์"
+
+
+msgid "Auto Closing Rule"
+msgstr "กฎการปิดอัตโนมัติ"
+
+
+msgid "Auto assign equally based on current month assigning"
+msgstr "กำหนดให้โดยอัตโนมัติตามการกำหนดเดือนปัจจุบัน"
+
+
+msgid "Based on ticket assigning rule"
+msgstr "ขึ้นอยู่กับกฎการกำหนดตั๋ว"
+
+
+msgid "Button Icon"
+msgstr "ไอคอนปุ่ม"
+
+
+msgid "Cat Ids"
+msgstr "รหัสแมว"
+
+
+msgid "Change Category"
+msgstr "เปลี่ยนหมวด"
+
+
+msgid "Change Category of ticket: T6DD28E9B-012-1P9"
+msgstr "เปลี่ยนประเภทตั๋ว: T6DD28E9B-012-1P9"
+
+
+msgid "Change Category of ticket: T84B12BAE-001-ZCO"
+msgstr "เปลี่ยนประเภทตั๋ว: T84B12BAE-001-ZCO"
+
+
+msgid "Chat Auto Close"
+msgstr "แชทอัตโนมัติปิด"
+
+
+msgid "Chat Auto Close Interval"
+msgstr "ช่วงแชทอัตโนมัติปิด"
+
+
+msgid "Chat Background Pattern"
+msgstr "รูปแบบพื้นหลังของแชท"
+
+
+msgid "Chat Button Icon"
+msgstr "ไอคอนปุ่มแชท"
+
+
+msgid "Chat Closing Text"
+msgstr "ข้อความปิดการแชท"
+
+
+msgid "Chat Logo"
+msgstr "โลโก้ Chat"
+
+
+msgid "Chat Tag Line"
+msgstr "สายสนทนาแท็ก"
+
+
+msgid "Chat Title"
+msgstr "ชื่อแชท"
+
+
+msgid "Chat Window and Button Color"
+msgstr "หน้าต่างแชทและสีปุ่ม"
+
+
+msgid "Chat closing interval"
+msgstr "ช่วงปิดแชท"
+
+
+msgid "Chat has been auto closed by system"
+msgstr "การแชทถูกปิดโดยระบบ"
+
+
+msgid "Chat main color"
+msgstr "แชทสีหลัก"
+
+
+msgid "Chat will be closed which is inactive for entered value. Enter 0 to disable auto close"
+msgstr "ระบบจะปิดการแชทซึ่งไม่ได้ใช้งานสำหรับป้อนค่า ป้อน 0 เพื่อปิดการปิดอัตโนมัติ"
+
+
+msgid "Choose Category"
+msgstr "เลือกหมวด"
+
+
+msgid "Choose Pattern"
+msgstr "เลือกรูปแบบ"
+
+
+msgid "Choose Staff"
+msgstr "เลือกพนักงาน"
+
+
+msgid "Choose chat button icon"
+msgstr "เลือกไอคอนปุ่มแชท"
+
+
+msgid "Close ticket which has been inactive for"
+msgstr "ปิดตั๋วที่ไม่ได้ใช้งาน"
+
+
+msgid "Close ticket which is inactivated for"
+msgstr "ปิดตั๋วที่ไม่ได้ใช้งาน"
+
+
+msgid "Closing Message"
+msgstr "ปิดข้อความ"
+
+
+msgid "Closing Rule"
+msgstr "กฎการปิดบัญชี"
+
+
+msgid "Closing Text"
+msgstr "ปิดข้อความ"
+
+
+msgid "Currency"
+msgstr "เงินตรา"
+
+
+msgid "Custom_field"
+msgstr "Custom_field"
+
+
+msgid "Delete failed"
+msgstr "ลบล้มเหลว"
+
+
+msgid "Demo Mode"
+msgstr "โหมดสาธิต"
+
+
+msgid "Disable Knowledge Stat In Homepage"
+msgstr "ปิดใช้งานสถิติความรู้ในโฮมเพจ"
+
+
+msgid "Disable knowledge statistics in home page"
+msgstr "ปิดการใช้งานสถิติความรู้ในหน้าแรก"
+
+
+msgid "Edit Ticket Assign Rule"
+msgstr "แก้ไขกฎการกำหนดตั๋ว"
+
+
+msgid "Email template for  AAT"
+msgstr "เทมเพลตอีเมลสำหรับ AAT"
+
+
+msgid "Email template for  TAC"
+msgstr "เทมเพลตอีเมลสำหรับ TAC"
+
+
+msgid "Enable Auto Close"
+msgstr "เปิดใช้การปิดอัตโนมัติ"
+
+
+msgid "Enable this to disable %s,%s,%s in homepage"
+msgstr "เปิดใช้งานคุณลักษณะนี้เพื่อปิดใช้งาน %s, %s, %s ในหน้าแรก"
+
+
+msgid "Files:"
+msgstr "ไฟล์:"
+
+
+msgid "Forgot Password"
+msgstr "ลืมรหัสผ่าน"
+
+
+msgid "Go to Login"
+msgstr "ไปที่ล็อกอิน"
+
+
+msgid "Hour"
+msgstr "ชั่วโมง"
+
+
+msgid "If you don't know how you will configure the Facebook Page settings then"
+msgstr "ถ้าคุณไม่ทราบวิธีที่คุณจะกำหนดการตั้งค่า Facebook Page จากนั้น"
+
+
+msgid "If you enable it, then inactive ticket will be closed automatically by auto closing rule"
+msgstr "หากคุณเปิดใช้งานบัตรโดยสารที่ไม่ได้ใช้งานจะถูกปิดโดยอัตโนมัติตามกฎการปิดอัตโนมัติ"
+
+
+msgid "If you enable this then assigned user will get notification on ticket assigning"
+msgstr "หากคุณเปิดใช้งานระบบนี้ผู้ใช้ที่ได้รับมอบหมายจะได้รับการแจ้งเตือนเกี่ยวกับการกำหนดตั๋"
+
+
+msgid "Inactive Interval"
+msgstr "ช่วงที่ไม่ใช้งาน"
+
+
+msgid "Inactive Interval min"
+msgstr "ช่วงเวลาที่ไม่ได้ใช้งาน min"
+
+
+msgid "It set a limit,how many chat per agent(Admin User) can take  simultaneously"
+msgstr "กำหนดจำนวนการแชทต่อตัวแทน (ผู้ดูแลระบบ) จำนวนหนึ่งสามารถใช้พร้อมกันได้"
+
+
+msgid "It will display in chat window"
+msgstr "จะปรากฏในหน้าต่างแชท"
+
+
+msgid "It will redirect within"
+msgstr "จะเปลี่ยนเส้นทางภายใน"
+
+
+msgid "It will show when all agent close the chat,"
+msgstr "มันจะแสดงเมื่อตัวแทนทั้งหมดปิดการแชท,"
+
+
+msgid "Knowledge Categories"
+msgstr "หมวดหมู่ความรู้"
+
+
+msgid "Knowledge attached file"
+msgstr "ไฟล์แนบความรู้"
+
+
+msgid "Knowledge feature image"
+msgstr "รูปภาพคุณลักษณะความรู้"
+
+
+msgid "Main color of chat window."
+msgstr "สีหลักของหน้าต่างแชท"
+
+
+msgid "N B. If you select Facebook Chat then you have to reply form Facebook Page Manager App or from Facebook. You can't reply from this app"
+msgstr "N B. ถ้าคุณเลือก Facebook Chat คุณต้องตอบแบบฟอร์ม Facebook Page Manager App หรือจาก Facebook คุณไม่สามารถตอบกลับจากแอปนี้ได"
+
+
+msgid "Name of ticket assigned user"
+msgstr "ชื่อผู้ใช้ที่ได้รับมอบหมายตั๋ว"
+
+
+msgid "New Admin Note"
+msgstr "หมายเหตุผู้ดูแลระบบใหม่"
+
+
+msgid "New Ticket Assign Rule"
+msgstr "กฎการกำหนดตั๋วใหม่"
+
+
+msgid "New message or chat"
+msgstr "ข้อความหรือแชทใหม่"
+
+
+msgid "New ticket assigned"
+msgstr "กำหนดตั๋วใหม่แล้ว"
+
+
+msgid "New ticket assigned by you"
+msgstr "ตั๋วใหม่ที่ได้รับมอบหมายจากคุณ"
+
+
+msgid "New ticket received"
+msgstr "ได้รับตั๋วใหม่แล้ว"
+
+
+msgid "No note founds"
+msgstr "ไม่มีการค้นพบโน้ต"
+
+
+msgid "No ticket open by %s"
+msgstr "ไม่มีตั๋วเปิดโดย %s"
+
+
+msgid "Note"
+msgstr "บันทึก"
+
+
+msgid "Note On"
+msgstr "หมายเหตุเปิด"
+
+
+msgid "Notification List"
+msgstr "รายการประกาศ"
+
+
+msgid "On Ticket Assign"
+msgstr "เกี่ยวกับการกำหนดตั๋ว"
+
+
+msgid "Password changed successfully"
+msgstr "เปลี่ยนรหัสผ่านเรียบร้อยแล้ว"
+
+
+msgid "Password info"
+msgstr "ข้อมูลรหัสผ่าน"
+
+
+msgid "Payment Amount (%s)"
+msgstr "จำนวนเงินที่ชำระ ( %s)"
+
+
+msgid "Payment Amount(%s)"
+msgstr "จำนวนเงินที่ชำระ ( %s)"
+
+
+msgid "Permission Denied or logged out."
+msgstr "การอนุญาตถูกปฏิเสธหรือออกจากระบบ"
+
+
+msgid "Please read it first"
+msgstr "โปรดอ่านก่อน"
+
+
+msgid "Popular Knowledge"
+msgstr "ความรู้ยอดนิยม"
+
+
+msgid "Recover Password"
+msgstr "กู้คืนรหัสผ่าน"
+
+
+msgid "Ref Id"
+msgstr "รหัสอ้างอิง"
+
+
+msgid "Ref Type"
+msgstr "ประเภท Ref"
+
+
+msgid "Reset failed try again"
+msgstr "รีเซ็ตล้มเหลวลองอีกครั้ง"
+
+
+msgid "Rule Id"
+msgstr "รหัสกฎ"
+
+
+msgid "Rule Type"
+msgstr "ประเภทกฎ"
+
+
+msgid "SYSTEM"
+msgstr "ระบบ"
+
+
+msgid "Select Category"
+msgstr "เลือกประเภท"
+
+
+msgid "Select Role"
+msgstr "เลือกบทบาท"
+
+
+msgid "Select User"
+msgstr "เลือกผู้ใช้"
+
+
+msgid "Select User/Agent/Supervisor"
+msgstr "เลือก User / Agent / Supervisor"
+
+
+msgid "Selected agent/supervisor/admin will be notified on new ticket"
+msgstr "ตัวแทน / ผู้ควบคุม / ผู้ดูแลระบบที่ได้รับเลือกจะได้รับแจ้งเกี่ยวกับบัตรใหม่"
+
+
+msgid "Selected agent/supervisor/admin will be notified on new ticket assigning"
+msgstr "ตัวแทน / ผู้ควบคุม / ผู้ดูแลระบบที่ได้รับเลือกจะได้รับแจ้งเกี่ยวกับการกำหนดตั๋วใหม่"
+
+
+msgid "Successfully assigned"
+msgstr "มอบหมายสำเร็จแล้ว"
+
+
+msgid "Test Knowledge"
+msgstr "ทดสอบความรู้"
+
+
+msgid "Test attachedxcx"
+msgstr "ทดสอบ attachxcx"
+
+
+msgid "The ticket will be close which is inactive for client response"
+msgstr "ตั๋วจะปิดซึ่งไม่ได้ใช้งานสำหรับการตอบกลับของลูกค้า"
+
+
+msgid "The update has been disabled in DEMO MODE"
+msgstr "การอัปเดตถูกปิดใช้งานในโหมดการสาธิต"
+
+
+msgid "The user who reopen this ticket"
+msgstr "ผู้ใช้ที่เปิดบัตรนี้อีกครั้ง"
+
+
+msgid "This user can be agent/supervisor/admin"
+msgstr "ผู้ใช้รายนี้สามารถเป็นตัวแทน / ผู้บังคับบัญชา / ผู้ดูแลระบบได้"
+
+
+msgid "Ticket Assign Rule"
+msgstr "กฎกำหนดตั๋ว"
+
+
+msgid "Ticket Assign Rule List"
+msgstr "กำหนดรายชื่อกฎ"
+
+
+msgid "Ticket Closing Message"
+msgstr "ข้อความปิดบัญชีตั๋ว"
+
+
+msgid "Ticket Closing Message defined in Ticket settings"
+msgstr "ปิดข้อความการจองตั๋วไว้ในการตั้งค่าตั๋ว"
+
+
+msgid "Ticket Feedback Buttons"
+msgstr "ปุ่มคำติชมตั๋ว"
+
+
+msgid "Ticket Open By Admin"
+msgstr "เปิดจองโดยผู้ดูแลระบบ"
+
+
+msgid "Ticket Payment Process"
+msgstr "ขั้นตอนการชำระเงินผ่านบัตร"
+
+
+msgid "Ticket user  replied"
+msgstr "ผู้ใช้ตั๋วตอบ"
+
+
+msgid "Ticket_assign_rule"
+msgstr "Ticket_assign_rule"
+
+
+msgid "Timezone updated successfully"
+msgstr "อัปเดตเขตเวลาสำเร็จแล้ว"
+
+
+msgid "Title :"
+msgstr "ชื่อ:"
+
+
+msgid "To see all settings effect on site, Please logout this session or try with other bowser. If admin logged in then you won't see the chat button"
+msgstr "หากต้องการดูผลการตั้งค่าทั้งหมดในไซต์โปรดออกจากระบบเซสชันนี้หรือลองใช้ Bowser อื่น ถ้าผู้ดู"
+
+
+msgid "To see all settings effect on site, please logout admin user or try with other browser. If admin logged in then you won't see the chat button"
+msgstr "หากต้องการดูผลการตั้งค่าทั้งหมดในไซต์โปรดออกจากระบบผู้ดูแลระบบหรือลองใช้เบราว์เซอร์อื"
+
+
+msgid "User Or Role"
+msgstr "ผู้ใช้หรือบทบาท"
+
+
+msgid "View Closing Email Template"
+msgstr "ดูเทมเพลตอีเมลการปิดบัญชี"
+
+
+msgid "You have assigned self to a ticket"
+msgstr "คุณได้กำหนดตัวเองให้กับตั๋วแล้ว"
+
+
+msgid "You have been replied a ticket"
+msgstr "คุณได้รับการตอบกลับตั๋วแล้ว"
+
+
+msgid "You replied a ticket"
+msgstr "คุณตอบตั๋วแล้ว"
+
+
+msgid "Your password has been changed successfully"
+msgstr "เปลี่ยนรหัสผ่านสำเร็จแล้ว"
+
+
+msgid "hours"
+msgstr "ชั่วโมง"
+
+
+msgid "second(s)"
+msgstr "วินาที (s)"
+
+
+msgid "to view the ticket assigning rule"
+msgstr "เพื่อดูกฎการกำหนดตั๋ว"
+
+
+msgid "Assign user"
+msgstr "กำหนดผู้ใช้"
+
+
+msgid "Bad, dissatisfied"
+msgstr "แย่ไม่พอใจ"
+
+
+msgid "Both"
+msgstr "ทั้งสอง"
+
+
+msgid "Closed"
+msgstr "ปิด"
+
+
+msgid "DB Query"
+msgstr "แบบสอบถาม DB"
+
+
+msgid "Edit Chat Canned Message"
+msgstr "แก้ไขข้อความที่ส่งถึงกระป๋อง"
+
+
+msgid "Edit Menu"
+msgstr "แก้ไขเมนู"
+
+
+msgid "Ex. http://xyz.com"
+msgstr "อดีต http://xyz.com"
+
+
+msgid "Failed"
+msgstr "ล้มเหลว"
+
+
+msgid "Feedback message"
+msgstr "ข้อความแสดงความคิดเห็น"
+
+
+msgid "Guest"
+msgstr "แขก"
+
+
+msgid "Guest Ticket User"
+msgstr "Guest Ticket User"
+
+
+msgid "High"
+msgstr "สูง"
+
+
+msgid "Icon"
+msgstr "ไอคอน"
+
+
+msgid "In Progress"
+msgstr "กำลังดำเนินการ"
+
+
+msgid "Is New Window"
+msgstr "เป็นหน้าต่างใหม่"
+
+
+msgid "Leave as Current"
+msgstr "ปล่อยให้เป็นปัจจุบัน"
+
+
+msgid "Loading"
+msgstr "กำลังโหลด"
+
+
+msgid "Low"
+msgstr "ต่ำ"
+
+
+msgid "Medium"
+msgstr "กลาง"
+
+
+msgid "My Assigned All Tickets"
+msgstr "ตั๋ว My Assigned All"
+
+
+msgid "New"
+msgstr "ใหม่"
+
+
+msgid "New Menu"
+msgstr "เมนูใหม่"
+
+
+msgid "No search result found"
+msgstr "ไม่พบผลการค้นหา"
+
+
+msgid "Not Found"
+msgstr "ไม่พบ"
+
+
+msgid "Notice_confirm"
+msgstr "Notice_confirm"
+
+
+msgid "Only On Knowledge"
+msgstr "เฉพาะความรู้เท่านั้น"
+
+
+msgid "Only on Ticket"
+msgstr "เฉพาะตั๋ว"
+
+
+msgid "Page %s of %s"
+msgstr "หน้า %s ของ %s"
+
+
+msgid "Paid"
+msgstr "ต้องจ่าย"
+
+
+msgid "Pending"
+msgstr "รอดำเนินการ"
+
+
+msgid "Please write a comment on us here"
+msgstr "กรุณาเขียนความคิดเห็นเกี่ยวกับเราที่นี่"
+
+
+msgid "Refunded"
+msgstr "คืนเงิน"
+
+
+msgid "Show Ticket"
+msgstr "แสดงตั๋ว"
+
+
+msgid "Staff"
+msgstr "บุคลากร"
+
+
+msgid "Text Icon"
+msgstr "ไอคอนข้อความ"
+
+
+msgid "Thank you for your feedback"
+msgstr "ขอบคุณสำหรับความคิดเห็นของคุณ"
+
+
+msgid "Thank you for your feedback. It will help us."
+msgstr "ขอบคุณสำหรับความคิดเห็นของคุณ. จะช่วยเราได้"
+
+
+msgid "The website address is not valid"
+msgstr "ที่อยู่เว็บไซต์ไม่ถูกต้อง"
+
+
+msgid "URL"
+msgstr "URL"
+
+
+msgid "Urgent"
+msgstr "ด่วน"
+
+
+msgid "View %s - %s of %s"
+msgstr "ดู %s - %s ของ %s"
+
+
+msgid "Well, satisfied"
+msgstr "ดีพอใจ"
+
+
+msgid "Would you please share your experience with us?"
+msgstr "คุณกรุณาแบ่งปันประสบการณ์ของคุณกับเราหรือไม่?"
+
+
+msgid "You are not authorizse to see this ticket"
+msgstr "คุณไม่ได้รับอนุญาตให้ดูตั๋วนี้"
+
+
+msgid "day"
+msgstr "วัน"
+
+
+msgid "days"
+msgstr "วัน"
+
+
+msgid "minute"
+msgstr "นาที"
+
+
+msgid "minutes"
+msgstr "นาที"
+
+
+msgid "month"
+msgstr "เดือน"
+
+
+msgid "months"
+msgstr "เดือน"
+
+
+msgid "second"
+msgstr "ที่สอง"
+
+
+msgid "week"
+msgstr "สัปดาห์"
+
+
+msgid "weeks"
+msgstr "สัปดาห์ที่ผ่านมา"
+
+
+msgid "year"
+msgstr "ปี"
+
+
+msgid "years"
+msgstr "ปี"
+
+
+msgid "ago"
+msgstr "มาแล้ว"
+
+
+msgid "Ticket user(%s) replied"
+msgstr "ผู้ใช้ตั๋ว ( %s) ตอบ"
+
+
+msgid "No category found"
+msgstr "ไม่พบหมวด"
+
+
+msgid "Ticket Reply"
+msgstr "การตอบกลับตั๋ว"
+
+
+msgid "Invalid Information"
+msgstr "ข้อมูลไม่ถูกต้อง"
+
+
+msgid "Captcha Error"
+msgstr "ข้อผิดพลาดของ Captcha"
+
+
+msgid "Assign self"
+msgstr "กำหนดตัวเอง"
+
+
+msgid "Assign user %s"
+msgstr "กำหนดผู้ใช้ %s"
+
+
+msgid "Choose country block rule"
+msgstr "เลือกกฎการบล็อกประเทศ"
+
+
+msgid "Choose.."
+msgstr "เลือก.."
+
+
+msgid "Country Block Rule"
+msgstr "กฎกติกาของประเทศ"
+
+
+msgid "Country Block Settings"
+msgstr "การตั้งค่าประเทศบล็อก"
+
+
+msgid "Country List"
+msgstr "รายชื่อประเทศ"
+
+
+msgid "Enter 2 digit Country Code(ex. US,CA,BD), Separated by comma"
+msgstr "ป้อนรหัสประเทศ 2 หลัก (เช่น US, CA, BD), คั่นด้วยเครื่องหมายจุลภาค"
+
+
+msgid "If you enable it then app check country for allow or block."
+msgstr "หากคุณเปิดใช้งานระบบนี้ให้ตรวจสอบประเทศสำหรับอนุญาตหรือบล็อก"
+
+
+msgid "No user found with this email address"
+msgstr "ไม่พบผู้ใช้ที่มีที่อยู่อีเมลนี้"
+
+
+msgid "Separated by comma"
+msgstr "คั่นด้วยเครื่องหมายจุลภาค"
+
+
+msgid "Seperated by comma"
+msgstr "คั่นด้วยเครื่องหมายจุลภาค"
+
+
+msgid "simultaneously"
+msgstr "พร้อมกัน"
+
+
+msgid "%d MIN"
+msgstr "%d MIN"
+
+
+msgid "Accept"
+msgstr "ยอมรับ"
+
+
+msgid "Access denied for hacking attempts"
+msgstr "การเข้าถึงถูกปฏิเสธเนื่องจากความพยายามในการแฮ็ก"
+
+
+msgid "Admin Work Log"
+msgstr "บันทึกงานธุรการ"
+
+
+msgid "Allow User Own Account Delete Option"
+msgstr "อนุญาตให้ผู้ใช้ลบตัวเลือกบัญชีด้วยตัวเอง"
+
+
+msgid "Allow User To Download Their User Data"
+msgstr "อนุญาตให้ผู้ใช้ดาวน์โหลดข้อมูลผู้ใช้ของตนได้"
+
+
+msgid "Are you sure to delete your account?"
+msgstr "คุณแน่ใจหรือไม่ว่าต้องการลบบัญชีของคุณ?"
+
+
+msgid "Are you sure to reset?"
+msgstr "คุณต้องการรีเซ็ตหรือไม่?"
+
+
+msgid "Assign"
+msgstr "กำหนด"
+
+
+msgid "Auto"
+msgstr "รถยนต์"
+
+
+msgid "Auto Assigned"
+msgstr "กำหนดโดยอัตโนมัติ"
+
+
+msgid "Background Color"
+msgstr "สีพื้นหลัง"
+
+
+msgid "Background Opacity"
+msgstr "ความทึบของพื้นหลัง"
+
+
+msgid "Background Opacity is required"
+msgstr "จำเป็นต้องมีความโปร่งแสง"
+
+
+msgid "Choose Bar Close Animation"
+msgstr "เลือกแอนิเมชั่นปิดบาร์"
+
+
+msgid "Choose Bar Open Animation"
+msgstr "เลือกแถบเปิดภาพเคลื่อนไหว"
+
+
+msgid "Choose Display Event"
+msgstr "เลือกแสดงเหตุการณ์"
+
+
+msgid "Choose Policy Page"
+msgstr "เลือกหน้านโยบาย"
+
+
+msgid "Cookie Bar Background Color"
+msgstr "สีพื้นหลังของคุกกี้บาร์"
+
+
+msgid "Cookie Message"
+msgstr "ข้อความคุกกี้"
+
+
+msgid "Cookie bar text color"
+msgstr "สีของคุกกี้บาร์"
+
+
+msgid "Copy Link"
+msgstr "คัดลอกลิงค์"
+
+
+msgid "Date"
+msgstr "วันที่"
+
+
+msgid "Default Value"
+msgstr "ค่าเริ่มต้น"
+
+
+msgid "Delete my account"
+msgstr "ลบบัญชีของฉัน"
+
+
+msgid "Deleted"
+msgstr "ที่ถูกลบ"
+
+
+msgid "Download this account data"
+msgstr "ดาวน์โหลดข้อมูลบัญชีนี้"
+
+
+msgid "Dropdown"
+msgstr "หล่นลง"
+
+
+msgid "Edit Custom Field"
+msgstr "แก้ไขฟิลด์ที่กำหนดเอง"
+
+
+msgid "Edit Page"
+msgstr "แก้ไขหน้า"
+
+
+msgid "Error"
+msgstr "ความผิดพลาด"
+
+
+msgid "Field Validation"
+msgstr "การตรวจสอบความถูกต้องของฟิลด์"
+
+
+msgid "GDPR Settings"
+msgstr "การตั้งค่า GDPR"
+
+
+msgid "General"
+msgstr "ทั่วไป"
+
+
+msgid "Go Home Page"
+msgstr "ไปที่หน้าแรก"
+
+
+msgid "If you enable it, then app will show a notification bar for cookie message"
+msgstr "หากคุณเปิดใช้งานแอปจะแสดงแถบการแจ้งเตือนสำหรับข้อความคุกกี้"
+
+
+msgid "If you enable it, then site user or visitor can delete their account from their panel"
+msgstr "หากคุณเปิดใช้งานผู้ใช้หรือผู้เข้าชมเว็บไซต์สามารถลบบัญชีของตนออกจากแผงควบคุมได้"
+
+
+msgid "If you enable it, then site user or visitor can download their account data from their panel"
+msgstr "หากคุณเปิดใช้งานผู้ใช้หรือผู้เข้าชมไซต์สามารถดาวน์โหลดข้อมูลบัญชีของตนจากแผงควบคุมได้"
+
+
+msgid "If you enable it, then when visitor click the privacy policy then that will be show in lighbox window"
+msgstr "หากคุณเปิดใช้งานเมื่อผู้เข้าชมคลิกที่นโยบายความเป็นส่วนตัวแล้วระบบจะแสดงในหน้าต่าง lighbox"
+
+
+msgid "If you enable this then it field show in All Ticket list as column in admin panel"
+msgstr "ถ้าคุณเปิดใช้งานฟิลด์นี้แสดงฟิลด์ในรายการตั๋วทั้งหมดเป็นคอลัมน์ในแผงการดูแลระบบ"
+
+
+msgid "In Form"
+msgstr "ในแบบฟอร์ม"
+
+
+msgid "Is Api Based"
+msgstr "เป็น Api Based"
+
+
+msgid "Is On Grid"
+msgstr "อยู่ในตาราง"
+
+
+msgid "It is the cookie bar background color"
+msgstr "เป็นสีพื้นหลังของคุกกี้บาร์"
+
+
+msgid "It will control the opacity or background transparency of cookie bar background"
+msgstr "จะควบคุมความทึบหรือความโปร่งใสพื้นหลังของพื้นหลังคุกกี้"
+
+
+msgid "Locked"
+msgstr "ล็อค"
+
+
+msgid "Locked(Hack)"
+msgstr "ล็อค (สับ)"
+
+
+msgid "Login Server"
+msgstr "เข้าสู่ระบบเซิร์ฟเวอร์"
+
+
+msgid "Malicious Attempt on attached file. Attached file(s) has been skipped"
+msgstr "การดาวน์โหลดที่ไม่เหมาะสมในไฟล์แนบ ไฟล์ที่แนบมาได้ข้ามไปแล้ว"
+
+
+msgid "Manual"
+msgstr "คู่มือ"
+
+
+msgid "New IP"
+msgstr "IP ใหม่"
+
+
+msgid "New Page"
+msgstr "หน้าใหม่"
+
+
+msgid "New Work Log"
+msgstr "บันทึกงานใหม่"
+
+
+msgid "No work log founds"
+msgstr "ไม่มีบันทึกงาน"
+
+
+msgid "Normal"
+msgstr "ปกติ"
+
+
+msgid "Notifiy"
+msgstr "แจ้ง"
+
+
+msgid "Numeric"
+msgstr "เป็นตัวเลข"
+
+
+msgid "On Submit Api Check"
+msgstr "ในการส่งการตรวจสอบ Api"
+
+
+msgid "On Ticket Opening Form Category"
+msgstr "เกี่ยวกับประเภทฟอร์มการเปิดบัญชีตั๋ว"
+
+
+msgid "Others"
+msgstr "คนอื่น ๆ"
+
+
+msgid "Page"
+msgstr "หน้า"
+
+
+msgid "Page Body"
+msgstr "Body หน้า"
+
+
+msgid "Pages"
+msgstr "หน้า"
+
+
+msgid "Policy Page is required"
+msgstr "จำเป็นต้องมีหน้านโยบาย"
+
+
+msgid "Published"
+msgstr "การตีพิมพ์"
+
+
+msgid "Radio"
+msgstr "วิทยุ"
+
+
+msgid "Read"
+msgstr "อ่าน"
+
+
+msgid "Reset IP"
+msgstr "รีเซ็ต IP"
+
+
+msgid "Select page"
+msgstr "เลือกหน้า"
+
+
+msgid "Show on Table Data List"
+msgstr "แสดงในรายการข้อมูลตาราง"
+
+
+msgid "Slag Title"
+msgstr "Slag Title"
+
+
+msgid "Success"
+msgstr "ความสำเร็จ"
+
+
+msgid "Suspicious : Malicious attempt  on attached file: %s"
+msgstr "น่าสงสัย: มีความพยายามที่เป็นอันตรายต่อไฟล์ที่แนบมา: %s"
+
+
+msgid "Suspicious: Malicious File Upload Attempts. If you tried to upload again then your ip will be blocked automatically"
+msgstr "น่าสงสัย: ความพยายามในการดาวน์โหลดไฟล์ที่เป็นอันตราย หากคุณพยายามอัปโหลดอีกครั้ง ip ของคุ??"
+
+
+msgid "Switch"
+msgstr "สวิตซ์"
+
+
+msgid "Textbox"
+msgstr "กล่องข้อความ"
+
+
+msgid "This key is already used in another site. contact support team"
+msgstr "คีย์นี้ใช้อยู่แล้วในไซต์อื่น ติดต่อฝ่ายสนับสนุน"
+
+
+msgid "Ticket Id"
+msgstr "Id บัตรโดยสาร"
+
+
+msgid "Ticket Re-Open"
+msgstr "บัตรเปิดใหม่"
+
+
+msgid "Ticket user has been data deleted"
+msgstr "ผู้ใช้บัตรถูกลบข้อมูลแล้ว"
+
+
+msgid "Undefined page"
+msgstr "หน้าเว็บที่ไม่ได้ระบุ"
+
+
+msgid "Unpublished"
+msgstr "ไม่ได้พิมพ์"
+
+
+msgid "View Cookie Notification Bar"
+msgstr "ดูแถบการแจ้งเตือนคุกกี้"
+
+
+msgid "View Page"
+msgstr "ดูหน้าเว็บ"
+
+
+msgid "View Policy In POP UP window(Lightbox)"
+msgstr "ดูนโยบายในหน้าต่าง POP UP (Lightbox)"
+
+
+msgid "Viewed"
+msgstr "มีผู้เข้าชม"
+
+
+msgid "Work Time"
+msgstr "เวลางาน"
+
+
+msgid "Write %s for Policy Link and %s for only policy URL"
+msgstr "เขียน %s สำหรับ Policy Link และ %s สำหรับ URL นโยบายเท่านั้น"
+
+
+msgid "Write {{PolicyLink}} for Policy Link and {{PolicyURL}} for only policy URL"
+msgstr "เขียน {{PolicyLink}} สำหรับลิงก์นโยบายและ {{PolicyURL}} สำหรับ URL นโยบายเท่านั้น"
+
+
+msgid "You can create many page in page menu. Go to Admin Settings > Pages or %s"
+msgstr "คุณสามารถสร้างหน้าเว็บจำนวนมากในเมนูหน้าเว็บ ไปที่การตั้งค่าผู้ดูแลระบบ> เพจหรือ %s"
+
+
+msgid "You logged in using %s"
+msgstr "คุณเข้าสู่ระบบโดยใช้ %s"
+
+
+msgid "Disable Counter Icon"
+msgstr "Disable Counter Icon"
+
+
+msgid "Disable Knowledge Like/Dislike Button"
+msgstr "Disable Knowledge Like/Dislike Button"
+
+
+msgid "Disable knowledge like and dislike button"
+msgstr "Disable knowledge like and dislike button"
+
+
+msgid "Do Not Show Last Update Date"
+msgstr "Do Not Show Last Update Date"
+
+
+msgid "Do Not Show Last Update Date on Knowledge Details"
+msgstr "Do Not Show Last Update Date on Knowledge Details"
+
+
+msgid "Do Not Show counter icon with knowledge"
+msgstr "Do Not Show counter icon with knowledge"
+
+
+msgid "Do Not Show counter with knowledge"
+msgstr "Do Not Show counter with knowledge"
+
+
+msgid "If you enable this then it won't show the like or dislike button on knowledge details."
+msgstr "If you enable this then it won't show the like or dislike button on knowledge details."
+
+
+msgid "If you enable this then, it won't show the last update date on knowledge details."
+msgstr "If you enable this then, it won't show the last update date on knowledge details."
+
+
+msgid "If you enable this then, it won't show the view/rate counter."
+msgstr "If you enable this then, it won't show the view/rate counter."
+
+
+msgid "Last Update Date"
+msgstr "Last Update Date"
+
+
+msgid "Login Required, Please login"
+msgstr "Login Required, Please login"
+
+
+msgid "OR"
+msgstr "OR"
+

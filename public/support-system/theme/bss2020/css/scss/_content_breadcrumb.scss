@@ -1,0 +1,17 @@
+.content-breadcrumb{
+  margin-top: 15px;
+  background: #ffffff;
+  .breadcrumb {
+    box-shadow: 0 0px 1px -1px rgba(177, 172, 172, 0.5);
+    background: #fff;
+    border: 1px solid rgba(177, 172, 172, 0.5);
+    >li a{
+      padding-right: 5px;
+      text-decoration: none;
+
+    }
+    >li+li::before {
+      content: '» ';
+    }
+  }
+}

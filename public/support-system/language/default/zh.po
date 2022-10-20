@@ -1,0 +1,4972 @@
+msgid ""
+msgstr ""                   
+"Project-Id-Version: v1.0 \n"
+"POT-Creation-Date: 2016-10-29 01:29+0600\n"
+"PO-Revision-Date: 2016-10-29 01:29+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: UTF-8\n"
+"Language: zh\n"
+"X-Generator: AppsBD Translator App\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+msgid "!! You need to click save button to complete"
+msgstr "您需要单击“保存”按钮才能完成"
+
+
+msgid "%s Popular Knowledge"
+msgstr "%s热门知识"
+
+
+msgid "%s Settings"
+msgstr "%s设置"
+
+
+msgid "%s is required"
+msgstr "%s是必需的"
+
+
+msgid "ADMIN MENU"
+msgstr "管理员菜单"
+
+
+msgid "API Based"
+msgstr "基于API"
+
+
+msgid "API Description"
+msgstr "API描述"
+
+
+msgid "API Setting"
+msgstr "API设置"
+
+
+msgid "API Settings"
+msgstr "API设置"
+
+
+msgid "API Token"
+msgstr "API令牌"
+
+
+msgid "API Type"
+msgstr "API类型"
+
+
+msgid "APP User"
+msgstr "APP用户"
+
+
+msgid "About Support System"
+msgstr "关于支持系统"
+
+
+msgid "Action"
+msgstr "行动"
+
+
+msgid "Action Required"
+msgstr "需要采取的行动"
+
+
+msgid "Active"
+msgstr "激活"
+
+
+msgid "Active Members"
+msgstr "活跃会员"
+
+
+msgid "Active Paid Ticket"
+msgstr "有效付费支持票"
+
+
+msgid "Active Paid Tickets"
+msgstr "有效付费支持票"
+
+
+msgid "Active Tickets"
+msgstr "打开的支持票"
+
+
+msgid "Add New"
+msgstr "添新"
+
+
+msgid "Added By"
+msgstr "添加于"
+
+
+msgid "Added On"
+msgstr "添加了"
+
+
+msgid "Address"
+msgstr "地址"
+
+
+msgid "Address is required"
+msgstr "地址是必需的"
+
+
+msgid "Admin Dashboard"
+msgstr "管理员仪表板"
+
+
+msgid "Admin Report"
+msgstr "管理员报告"
+
+
+msgid "Admin Setting"
+msgstr "管理员设置"
+
+
+msgid "Admin Settings"
+msgstr "管理员设置"
+
+
+msgid "Admin User"
+msgstr "管理员用户"
+
+
+msgid "Admin User Login Security"
+msgstr "管理员用户登录安全"
+
+
+msgid "Agent"
+msgstr "客服"
+
+
+msgid "Agent replied, needs your action"
+msgstr "客服回复，需要你的行动"
+
+
+msgid "All Active Tickets"
+msgstr "所有活动的支持票"
+
+
+msgid "All Closed Tickets"
+msgstr "所有已关闭的支持票"
+
+
+msgid "All Paid Tickets"
+msgstr "所有付费支持票"
+
+
+msgid "All Unassigned Tickets"
+msgstr "所有未分配的支持票"
+
+
+msgid "Amount"
+msgstr "计数"
+
+
+msgid "Amount must be between %.2f and %.2f"
+msgstr "金额必须介于 %.2f 和 %.2f 之间"
+
+
+msgid "Announcements"
+msgstr "通告"
+
+
+msgid "Announcements List"
+msgstr "公告清单"
+
+
+msgid "App Information"
+msgstr "应用信息"
+
+
+msgid "App Logo"
+msgstr "应用徽标"
+
+
+msgid "App Update"
+msgstr "应用更新"
+
+
+msgid "App White Logo"
+msgstr "App白色徽标"
+
+
+msgid "App update information"
+msgstr "应用更新信息"
+
+
+msgid "Application Security Settings"
+msgstr "应用安全设置"
+
+
+msgid "Application Theme Settings"
+msgstr "应用主题设置"
+
+
+msgid "Are you sure to change?"
+msgstr "你确定要改变吗？"
+
+
+msgid "Are you sure to delete?"
+msgstr "你确定要删除吗？"
+
+
+msgid "Assigned"
+msgstr "分配"
+
+
+msgid "Assigned On"
+msgstr "已分配"
+
+
+msgid "Assigned Tickets"
+msgstr "已分配的支持票"
+
+
+msgid "Attach File"
+msgstr "附加文件"
+
+
+msgid "Best size is 400px x 400px"
+msgstr "最佳尺寸为400px x 400px"
+
+
+msgid "Birthday"
+msgstr "生日"
+
+
+msgid "Birthday is required"
+msgstr "生日是必需的"
+
+
+msgid "Body"
+msgstr "Body"
+
+
+msgid "Body is required"
+msgstr "Body是必需的"
+
+
+msgid "Cancel"
+msgstr "取消"
+
+
+msgid "Canned Message Fields"
+msgstr "固定消息字段"
+
+
+msgid "Canned Message List"
+msgstr "固定消息列表"
+
+
+msgid "Canned Messages"
+msgstr "预设消息"
+
+
+msgid "Canned Msg"
+msgstr "预设消息"
+
+
+msgid "Canned Msg is required"
+msgstr "预设消息是必需的"
+
+
+msgid "Canned_msg"
+msgstr "预设消息"
+
+
+msgid "Categories"
+msgstr "分类"
+
+
+msgid "Category"
+msgstr "类别"
+
+
+msgid "Category List"
+msgstr "分类清单"
+
+
+msgid "Category is required"
+msgstr "类别是必需的"
+
+
+msgid "Change"
+msgstr "更改"
+
+
+msgid "Change Password"
+msgstr "更改密码"
+
+
+msgid "Change password of %s"
+msgstr "更改 %s的密码"
+
+
+msgid "Choose Homepage"
+msgstr "选择主页"
+
+
+msgid "Choose Theme"
+msgstr "选择主题"
+
+
+msgid "City"
+msgstr "市"
+
+
+msgid "City is required"
+msgstr "城市是必需的"
+
+
+msgid "Click here"
+msgstr "点击这里"
+
+
+msgid "Click on the Image to change"
+msgstr "单击图像进行更改"
+
+
+msgid "Click on the Image to change or upload."
+msgstr "单击图像进行更改或上传。"
+
+
+msgid "Click on the Image to change. Best size hight is 40px"
+msgstr "单击图像进行更改。最佳尺寸高度为40px"
+
+
+msgid "Click on the Image to change. Best size is 75px x 75px"
+msgstr "单击图像进行更改。最佳尺寸为75px x 75px"
+
+
+msgid "Click to see details"
+msgstr "点击查看详细信息"
+
+
+msgid "Client"
+msgstr "客户"
+
+
+msgid "Client List"
+msgstr "客户名单"
+
+
+msgid "Close"
+msgstr "关"
+
+
+msgid "Close Tickets"
+msgstr "关闭支持票"
+
+
+msgid "Closed Tickets"
+msgstr "关闭支持票"
+
+
+msgid "Contact Number"
+msgstr "联系电话"
+
+
+msgid "Controller Title"
+msgstr "管理者标题"
+
+
+msgid "Copy Cron Link"
+msgstr "复制Cron Link"
+
+
+msgid "Copy callback url"
+msgstr "复制回调网址"
+
+
+msgid "Country"
+msgstr "国家"
+
+
+msgid "Country Code"
+msgstr "国家代码"
+
+
+msgid "Country Name"
+msgstr "国家的名字"
+
+
+msgid "Country is required"
+msgstr "国家是必需的"
+
+
+msgid "Create Date"
+msgstr "创建日期"
+
+
+msgid "Create Ticket"
+msgstr "创建支持单"
+
+
+msgid "Create Time"
+msgstr "创建时间"
+
+
+msgid "Created By"
+msgstr "由...制作"
+
+
+msgid "Cron Job Command"
+msgstr "Cron Job Command"
+
+
+msgid "Current Ticket Status"
+msgstr "当前的支持票状态"
+
+
+msgid "Current version is : %s"
+msgstr "当前版本是 : %s"
+
+
+msgid "Custom Field List"
+msgstr "自定义字段列表"
+
+
+msgid "Custom Fields"
+msgstr "自定义字段"
+
+
+msgid "Dashboard"
+msgstr "仪表板"
+
+
+msgid "Date of Birth"
+msgstr "出生日期"
+
+
+msgid "Debug Log"
+msgstr "调试日志"
+
+
+msgid "Debug Log List"
+msgstr "调试日志列表"
+
+
+msgid "Delete"
+msgstr "删除"
+
+
+msgid "Description"
+msgstr "描述"
+
+
+msgid "Description is required"
+msgstr "描述是必需的"
+
+
+msgid "Details"
+msgstr "细节"
+
+
+msgid "Details Debug Log"
+msgstr "详细调试日志"
+
+
+msgid "Details Log"
+msgstr "详细日志"
+
+
+msgid "Details info of IP(192.168.10.71)"
+msgstr "IP详细信息（192.168.10.71）"
+
+
+msgid "Disable this if you want real payment"
+msgstr "如果您想要真正付款，请禁用此功能"
+
+
+msgid "DoS Attack Security"
+msgstr "DoS攻击安全"
+
+
+msgid "Don't upload if you don't want"
+msgstr "如果你不想上传，请不要上传"
+
+
+msgid "Edit"
+msgstr "编辑"
+
+
+msgid "Edit Announcements"
+msgstr "编辑公告"
+
+
+msgid "Edit Canned Message"
+msgstr "编辑预设消息"
+
+
+msgid "Edit Category"
+msgstr "编辑类别"
+
+
+msgid "Edit Client"
+msgstr "编辑客户"
+
+
+msgid "Edit IP"
+msgstr "编辑IP"
+
+
+msgid "Edit Knowledge"
+msgstr "编辑知识"
+
+
+msgid "Edit Role"
+msgstr "编辑角色"
+
+
+msgid "Email"
+msgstr "电子邮件"
+
+
+msgid "Email Address"
+msgstr "电子邮件地址"
+
+
+msgid "Email Outgoing Settings"
+msgstr "电子邮件传出设置"
+
+
+msgid "Email Settings"
+msgstr "电邮设定"
+
+
+msgid "Email Templates"
+msgstr "邮件模板"
+
+
+msgid "Email Templates List"
+msgstr "邮件模板列表"
+
+
+msgid "Email To Ticket Settings"
+msgstr "电子邮件到支持单设置"
+
+
+msgid "Email is required"
+msgstr "需要电子邮件"
+
+
+msgid "Email to Ticket Settings Form"
+msgstr "电邮至支持票设置表格"
+
+
+msgid "Enable Auto Reload (every %d min)"
+msgstr "启用自动重新加载(每 %d 分钟)"
+
+
+msgid "Enable Email To Ticket/Reply"
+msgstr "启用电子邮件到支持票/回复"
+
+
+msgid "Enable it if your protocol is secure"
+msgstr "如果您的协议是安全的，请启用它"
+
+
+msgid "Enable it to secure admin/staff user"
+msgstr "启用它以保护管理员/客服用户"
+
+
+msgid "Enable this to enable paypal payment"
+msgstr "启用此选项以启用PayPal付款"
+
+
+msgid "Enable to convert email to ticket"
+msgstr "启用将电子邮件转换为支持票"
+
+
+msgid "End Date"
+msgstr "结束日期"
+
+
+msgid "End Date is required"
+msgstr "结束日期是必需的"
+
+
+msgid "Entry Time"
+msgstr "输入时间"
+
+
+msgid "Entry Type"
+msgstr "输入类型"
+
+
+msgid "Envato"
+msgstr "ENVATO"
+
+
+msgid "Envato Setting"
+msgstr "ENVATO设定"
+
+
+msgid "Envato Username"
+msgstr "Envato用户名"
+
+
+msgid "Ex. 192.168.10.1"
+msgstr "如: 192.168.10.1"
+
+
+msgid "Example: Temporary lock admin or staff user if attempts 5 miss login in 30 minutes"
+msgstr "示例：如果尝试5在30分钟内错过登录，则为临时锁定管理员或客服用户"
+
+
+msgid "Example: if request more then 5 in 5 second then show captcha or block ip"
+msgstr "示例：如果请求超过5秒，则显示验证码或阻止ip"
+
+
+msgid "Featured Image"
+msgstr "特色图片"
+
+
+msgid "File Attached"
+msgstr "文件附加"
+
+
+msgid "File Type"
+msgstr "文件类型"
+
+
+msgid "First Name"
+msgstr "名字"
+
+
+msgid "First Name is required"
+msgstr "名字是必需的"
+
+
+msgid "From"
+msgstr "从"
+
+
+msgid "From Email"
+msgstr "来自电邮"
+
+
+msgid "From Email is required"
+msgstr "从电子邮件是必需的"
+
+
+msgid "From Name"
+msgstr "来自名字"
+
+
+msgid "From Name is required"
+msgstr "来自名字是必需的"
+
+
+msgid "Gender"
+msgstr "性别"
+
+
+msgid "General Settings"
+msgstr "常规设置"
+
+
+msgid "Generate an API key in your envato account and enter here"
+msgstr "在您的envato帐户中生成API密钥并在此处输入"
+
+
+msgid "Has Super Power"
+msgstr "拥有超能力"
+
+
+msgid "Hello, %s"
+msgstr "你好， %s"
+
+
+msgid "Helpfull"
+msgstr "帮助"
+
+
+msgid "Home"
+msgstr "主页"
+
+
+msgid "Host"
+msgstr "主机"
+
+
+msgid "Host & Port"
+msgstr "主机和端口"
+
+
+msgid "Host is required"
+msgstr "主 是必需的"
+
+
+msgid "IMAP Help"
+msgstr "IMAP帮助"
+
+
+msgid "IMAP Settings"
+msgstr "IMAP设置"
+
+
+msgid "IP"
+msgstr "IP"
+
+
+msgid "IP List"
+msgstr "IP列表"
+
+
+msgid "IP is required"
+msgstr "IP是必需的"
+
+
+msgid "If request more than"
+msgstr "如果请求超过"
+
+
+msgid "If you don't choose the white logo then primary logo will be displayed in site header"
+msgstr "如果您不选择白色徽标，则主徽标将显示在站点标题中"
+
+
+msgid "If you enable it then app prevent DoS Attack."
+msgstr "如果您启用它，则应用程序会阻止DoS攻击。"
+
+
+msgid "If you enable this then logo only show in site header"
+msgstr "如果启用此功能，则徽标仅显示在站点标题中"
+
+
+msgid "If you enable this, then all payment will be in test mode. Don't do this if you want real payment"
+msgstr "如果启用此功能，则所有付款都将处于测试模式。如果您想要真正的付款，请不要这样做"
+
+
+msgid "If you want to remove license form this site then click"
+msgstr "如果要删除此站点的许可证表单，请单击"
+
+
+msgid "Inactive"
+msgstr "禁用"
+
+
+msgid "Invalid Information"
+msgstr "信息无效"
+
+
+msgid "Invalid data"
+msgstr "无效数据"
+
+
+msgid "Is Secure Protocol (SSL)"
+msgstr "是安全协议（SSL）"
+
+
+msgid "Is Sticky/Pinned ?"
+msgstr "顺序/置顶？"
+
+
+msgid "Is it helpfull?"
+msgstr "有用吗？"
+
+
+msgid "It won't show any where, It is just for track"
+msgstr "它不会显示任何地方，它只是为了记录"
+
+
+msgid "Join : %s"
+msgstr "加入: %s"
+
+
+msgid "Join Date"
+msgstr "加入日期"
+
+
+msgid "Key is already exists"
+msgstr "密钥已经存在"
+
+
+msgid "Knowledge"
+msgstr "知识"
+
+
+msgid "Knowledge List"
+msgstr "知识清单"
+
+
+msgid "L.Reply Time"
+msgstr "最后回复时间"
+
+
+msgid "Label"
+msgstr "标签"
+
+
+msgid "Last Name"
+msgstr "姓"
+
+
+msgid "Last Name is required"
+msgstr "姓氏是必需的"
+
+
+msgid "Last Replied"
+msgstr "最后回复"
+
+
+msgid "Last Reply"
+msgstr "最后回复"
+
+
+msgid "Last Reply Time"
+msgstr "最后回复时间"
+
+
+msgid "Last updated on"
+msgstr "最后更新"
+
+
+msgid "Latitude"
+msgstr "纬度"
+
+
+msgid "License"
+msgstr "许可"
+
+
+msgid "License Domain"
+msgstr "许可证域名"
+
+
+msgid "License Info"
+msgstr "许可证信息"
+
+
+msgid "License Information"
+msgstr "许可证信息"
+
+
+msgid "License Key"
+msgstr "注册码"
+
+
+msgid "License Title"
+msgstr "许可证标题"
+
+
+msgid "Link"
+msgstr "链接"
+
+
+msgid "Locked User"
+msgstr "锁定的用户"
+
+
+msgid "Locked User List"
+msgstr "锁定的用户列表"
+
+
+msgid "Log Type"
+msgstr "日志类型"
+
+
+msgid "Login"
+msgstr "登录"
+
+
+msgid "Logout"
+msgstr "登出"
+
+
+msgid "Longitude"
+msgstr "经度"
+
+
+msgid "MENU"
+msgstr "菜单"
+
+
+msgid "Max file size is  %s MB"
+msgstr "最大文件大小为 %sMB"
+
+
+msgid "Max file size is %s MB"
+msgstr "最大文件大小为 %s MB"
+
+
+msgid "Menu List"
+msgstr "菜单列表"
+
+
+msgid "Message"
+msgstr "信息"
+
+
+msgid "Message Details"
+msgstr "信息详情"
+
+
+msgid "Method"
+msgstr "方法"
+
+
+msgid "Miss Login Tried"
+msgstr "登录尝试"
+
+
+msgid "More homepage will be come in next version"
+msgstr "更多主页将在下一个版本中出现"
+
+
+msgid "More theme will be come in next version"
+msgstr "更多主题将在下一个版本中出现"
+
+
+msgid "Most Helpful Articles"
+msgstr "最有帮助的文章"
+
+
+msgid "My Active Paid Tickets"
+msgstr "我的有效付费支持票"
+
+
+msgid "My Active Tickets"
+msgstr "我的打开支持票"
+
+
+msgid "My Assigned Tickets"
+msgstr "我分配的门票"
+
+
+msgid "My Closed Tickets"
+msgstr "我的关闭支持票"
+
+
+msgid "My Dashboard"
+msgstr "我的仪表板"
+
+
+msgid "My Menu"
+msgstr "我的菜单"
+
+
+msgid "My Message"
+msgstr "我的留言"
+
+
+msgid "N"
+msgstr "N"
+
+
+msgid "Name"
+msgstr "名称"
+
+
+msgid "New Announcements"
+msgstr "新公告"
+
+
+msgid "New Canned Message"
+msgstr "新的预设消息"
+
+
+msgid "New Category"
+msgstr "新类别"
+
+
+msgid "New Client"
+msgstr "新客户"
+
+
+msgid "New Knowledge"
+msgstr "新知识"
+
+
+msgid "New Role"
+msgstr "新角色"
+
+
+msgid "New Ticket"
+msgstr "新支持票"
+
+
+msgid "New Ticket Form"
+msgstr "新的支持票表格"
+
+
+msgid "New Window"
+msgstr "新窗口"
+
+
+msgid "No"
+msgstr "没有"
+
+
+msgid "No active ticket found"
+msgstr "找不到打开支持票"
+
+
+msgid "No closed ticket found"
+msgstr "没有找到关闭的支持票"
+
+
+msgid "Not Helpfull"
+msgstr "没有帮助"
+
+
+msgid "Notice For"
+msgstr "请注意"
+
+
+msgid "Notice Text"
+msgstr "注意文字"
+
+
+msgid "Notice text is required"
+msgstr "通知文本是必需的"
+
+
+msgid "Notification"
+msgstr "通知"
+
+
+msgid "Old Password"
+msgstr "旧密码"
+
+
+msgid "Open Ticket"
+msgstr "创建支持票"
+
+
+msgid "Open Time"
+msgstr "打开时间"
+
+
+msgid "Opened"
+msgstr "打开"
+
+
+msgid "Opened Time"
+msgstr "开放时间"
+
+
+msgid "Options"
+msgstr "选项"
+
+
+msgid "Order"
+msgstr "订单"
+
+
+msgid "Page Name"
+msgstr "页面名称"
+
+
+msgid "Parent Category"
+msgstr "父类别"
+
+
+msgid "Parent Category is required"
+msgstr "父类别是必需的"
+
+
+msgid "Password"
+msgstr "密码"
+
+
+msgid "Password is required"
+msgstr "密码是必需的"
+
+
+msgid "Password reset"
+msgstr "重设密码"
+
+
+msgid "Payer Email"
+msgstr "付款人电邮"
+
+
+msgid "Payment Amount"
+msgstr "支付金额"
+
+
+msgid "Payment Amount is required"
+msgstr "付款金额是必需的"
+
+
+msgid "Payment Description"
+msgstr "付款说明"
+
+
+msgid "Payment Details"
+msgstr "付款详情"
+
+
+msgid "Payment List"
+msgstr "付款清单"
+
+
+msgid "Payment Method Status"
+msgstr "付款方式状态"
+
+
+msgid "Paypal Setting"
+msgstr "Paypal设置"
+
+
+msgid "Paypal Settings"
+msgstr "Paypal设置"
+
+
+msgid "Permission"
+msgstr "允许"
+
+
+msgid "Pinned Articles"
+msgstr "固定文章"
+
+
+msgid "Popular Articles"
+msgstr "热门文章"
+
+
+msgid "Port"
+msgstr "端口"
+
+
+msgid "Port is required"
+msgstr "端口是必需的"
+
+
+msgid "Posted By"
+msgstr "发布于"
+
+
+msgid "Priroty"
+msgstr "优先"
+
+
+msgid "Priroty is required"
+msgstr "需要优先权"
+
+
+msgid "Process Date"
+msgstr "处理日期"
+
+
+msgid "Process Log"
+msgstr "处理日志"
+
+
+msgid "Process Time"
+msgstr "处理时间"
+
+
+msgid "Processing"
+msgstr "处理"
+
+
+msgid "Profile"
+msgstr "简介"
+
+
+msgid "Property"
+msgstr "属性"
+
+
+msgid "Re-Check Update"
+msgstr "重新检查更新"
+
+
+msgid "Re-Open"
+msgstr "重新打开"
+
+
+msgid "Read article to provide best support"
+msgstr "阅读文章以提供最佳支持"
+
+
+msgid "Recent Articles"
+msgstr "最近的文章"
+
+
+msgid "Register"
+msgstr "注册"
+
+
+msgid "Remove"
+msgstr "删除"
+
+
+msgid "Remove License"
+msgstr "删除许可证"
+
+
+msgid "Replay"
+msgstr "重播"
+
+
+msgid "Reply"
+msgstr "答复"
+
+
+msgid "Reply To Ticket"
+msgstr "回复支持票"
+
+
+msgid "Reply is required"
+msgstr "需要回复"
+
+
+msgid "Reply text is required"
+msgstr "回复文字是必需的"
+
+
+msgid "Reply user group"
+msgstr "回复用户组"
+
+
+msgid "Reply user name"
+msgstr "回复用户名"
+
+
+msgid "Request Count is required"
+msgstr "请求计数是必需的"
+
+
+msgid "Required"
+msgstr "需要"
+
+
+msgid "Reset"
+msgstr "重启"
+
+
+msgid "Reset link has been sent to the user"
+msgstr "重置链接已发送给用户"
+
+
+msgid "Role"
+msgstr "角色"
+
+
+msgid "Role  List"
+msgstr "角色列表"
+
+
+msgid "Role Access"
+msgstr "角色访问"
+
+
+msgid "Role List"
+msgstr "角色列表"
+
+
+msgid "Role is required"
+msgstr "角色是必需的"
+
+
+msgid "SMTP Settings"
+msgstr "SMTP设置"
+
+
+msgid "STAFF MENU"
+msgstr "客服菜单"
+
+
+msgid "Save"
+msgstr "保存"
+
+
+msgid "Schedule"
+msgstr "时间表"
+
+
+msgid "Search"
+msgstr "搜索"
+
+
+msgid "Seconds is required"
+msgstr "秒数是必需的"
+
+
+msgid "Security Settings"
+msgstr "安全设定"
+
+
+msgid "Select"
+msgstr "选择"
+
+
+msgid "Send"
+msgstr "发送"
+
+
+msgid "Sendmail Path"
+msgstr "Sendmail Path"
+
+
+msgid "Sendmail Path is required"
+msgstr "Sendmail路径是必需的"
+
+
+msgid "Sendmail or SMTP"
+msgstr "Sendmail或SMTP"
+
+
+msgid "Sent Message"
+msgstr "已发送消息"
+
+
+msgid "Set Status"
+msgstr "设置状态"
+
+
+msgid "Set this cron command into your server cron list, otherwise email to ticket won't work"
+msgstr "将此cron命令设置为您的服务器cron列表，否则电子邮件到票证将不起作用"
+
+
+msgid "Show IP List"
+msgstr "显示IP列表"
+
+
+msgid "Show List"
+msgstr "显示列表"
+
+
+msgid "Show Locked User List"
+msgstr "显示锁定的用户列表"
+
+
+msgid "Show On"
+msgstr "显示开"
+
+
+msgid "Show only logo in header"
+msgstr "在标题中仅显示徽标"
+
+
+msgid "Site Menu"
+msgstr "网站菜单"
+
+
+msgid "Site Security"
+msgstr "网站安全"
+
+
+msgid "Social Setting"
+msgstr "社交设置"
+
+
+msgid "Social Settings"
+msgstr "社交设置"
+
+
+msgid "Start Date"
+msgstr "开始日期"
+
+
+msgid "Start Date is required"
+msgstr "开始日期是必需的"
+
+
+msgid "Status"
+msgstr "状态"
+
+
+msgid "Status is required"
+msgstr "状态是必需的"
+
+
+msgid "Sticky/Pinned"
+msgstr "顺序/置顶"
+
+
+msgid "Still Need Support?"
+msgstr "需要更多支持"
+
+
+msgid "Sub Title"
+msgstr "子标题"
+
+
+msgid "Subject"
+msgstr "主题"
+
+
+msgid "Successfully Updated"
+msgstr "成功更新"
+
+
+msgid "Suggested Knowledge"
+msgstr "建议的知识"
+
+
+msgid "Super Admin"
+msgstr "超级管理员"
+
+
+msgid "Supervisor"
+msgstr "检查员"
+
+
+msgid "Support System"
+msgstr "方塔客户支持"
+
+
+msgid "System Update"
+msgstr "系统更新"
+
+
+msgid "Tag"
+msgstr "标签"
+
+
+msgid "Tag is required"
+msgstr "标签是必需的"
+
+
+msgid "Temporary lock admin or staff user, if attempts"
+msgstr "临时锁定管理员或客服用户，如果尝试"
+
+
+msgid "Text must be less then %d characters length"
+msgstr "文本必须小于 %d个字符长度"
+
+
+msgid "Thank you for being with us"
+msgstr "谢谢你和我们在一起"
+
+
+msgid "The time is base on %s timezone"
+msgstr "时间基于 %s时区"
+
+
+msgid "The user who has opened ticket"
+msgstr "已打开支持票的用户"
+
+
+msgid "Theme Settings"
+msgstr "主题设置"
+
+
+msgid "This email address is already exist"
+msgstr "此电子邮件地址已存在"
+
+
+msgid "Ticket"
+msgstr "支持票"
+
+
+msgid "Ticket Body"
+msgstr "支持票Body"
+
+
+msgid "Ticket Body is required"
+msgstr "支持票正文是必需的"
+
+
+msgid "Ticket Category"
+msgstr "支持票类别"
+
+
+msgid "Ticket Details"
+msgstr "支持票详情"
+
+
+msgid "Ticket Feedback"
+msgstr "支持票反馈"
+
+
+msgid "Ticket Feedback List"
+msgstr "支持票反馈清单"
+
+
+msgid "Ticket History"
+msgstr "支持票历史"
+
+
+msgid "Ticket Information"
+msgstr "支持票信息"
+
+
+msgid "Ticket Payment Details"
+msgstr "支持票付款细节"
+
+
+msgid "Ticket Payment List"
+msgstr "支持票付款清单"
+
+
+msgid "Ticket Priroty"
+msgstr "支持票优先"
+
+
+msgid "Ticket Status"
+msgstr "支持票状态"
+
+
+msgid "Ticket Subject"
+msgstr "支持票主题"
+
+
+msgid "Ticket Title"
+msgstr "支持票标题"
+
+
+msgid "Ticket Track ID"
+msgstr "支持票跟踪ID"
+
+
+msgid "Ticket User"
+msgstr "支持票用户"
+
+
+msgid "Ticket closed do you want to re-open?"
+msgstr "支持票关闭你想重新打开吗？"
+
+
+msgid "Ticket subject is required"
+msgstr "支持票主题是必需的"
+
+
+msgid "Tickets"
+msgstr "支持票"
+
+
+msgid "Time"
+msgstr "时间"
+
+
+msgid "Timezone"
+msgstr "时区"
+
+
+msgid "Title"
+msgstr "标题"
+
+
+msgid "Title is required"
+msgstr "标题是必需的"
+
+
+msgid "To"
+msgstr "至"
+
+
+msgid "Today's"
+msgstr "今天的"
+
+
+msgid "Topbar Icon"
+msgstr "Topbar图标"
+
+
+msgid "Topbar Icon List"
+msgstr "Topbar图标列表"
+
+
+msgid "Total"
+msgstr "总"
+
+
+msgid "Total Closed Ticket"
+msgstr "总关闭支持票"
+
+
+msgid "Total Closed Tickets"
+msgstr "总关闭支持票"
+
+
+msgid "Transction ID"
+msgstr "交易ID"
+
+
+msgid "Type"
+msgstr "类型"
+
+
+msgid "Tzone is required"
+msgstr "时区是必需的"
+
+
+msgid "USER MENU"
+msgstr "用户菜单"
+
+
+msgid "Unassigned Tickets"
+msgstr "未分配的支持票"
+
+
+msgid "Update"
+msgstr "更新"
+
+
+msgid "Update User"
+msgstr "更新用户"
+
+
+msgid "Uploaded file is not  supported"
+msgstr "不支持上传的文件"
+
+
+msgid "Use this as your callback url into facebook developer panel"
+msgstr "将此作为您的回调网址进入Facebook开发人员面板"
+
+
+msgid "Use this as your callback url into twitter developer panel"
+msgstr "将此作为您的回调网址进入Twitter开发人员面板"
+
+
+msgid "Use this as your callback url into your google developer console"
+msgstr "将此作为您的回调网址添加到您的Google开发者控制台中"
+
+
+msgid "User"
+msgstr "用户"
+
+
+msgid "User (Email)"
+msgstr "用户（电子邮件）"
+
+
+msgid "User (Email) is required"
+msgstr "用户（电子邮件）是必需的"
+
+
+msgid "User Id"
+msgstr "用户ID"
+
+
+msgid "User List"
+msgstr "用户列表"
+
+
+msgid "User Panel"
+msgstr "用户面板"
+
+
+msgid "User Settings"
+msgstr "用户设置"
+
+
+msgid "User is required"
+msgstr "用户是必需的"
+
+
+msgid "Username"
+msgstr "用户名"
+
+
+msgid "Value"
+msgstr "值"
+
+
+msgid "Verified"
+msgstr "验证"
+
+
+msgid "View Details"
+msgstr "查看详情"
+
+
+msgid "View Knowledge"
+msgstr "查看知识"
+
+
+msgid "View Site"
+msgstr "查看网站"
+
+
+msgid "View all"
+msgstr "查看全部"
+
+
+msgid "Views"
+msgstr "查看"
+
+
+msgid "Write here.."
+msgstr "写在这里.."
+
+
+msgid "Write reply here.."
+msgstr "在这里写回复.."
+
+
+msgid "Yes"
+msgstr "是"
+
+
+msgid "You think it is helpfull"
+msgstr "你认为这很有帮助"
+
+
+msgid "You think it is not helpfull"
+msgstr "你认为它没有帮助"
+
+
+msgid "Your Site URL"
+msgstr "您的网站网址"
+
+
+msgid "Your application is up to date"
+msgstr "您的申请是最新的"
+
+
+msgid "Your closed ticket list"
+msgstr "您关闭的支持票清单"
+
+
+msgid "Your current ticket status"
+msgstr "您当前的支持票状态"
+
+
+msgid "Your envato(CodeCanyon, Themeforest,etc) username"
+msgstr "您的envato（CodeCanyon，Themeforest等）用户名"
+
+
+msgid "Your site name"
+msgstr "您的网站名称"
+
+
+msgid "Your total active tickets"
+msgstr "您的总活跃支持票"
+
+
+msgid "Youtube Accounts"
+msgstr "Youtube账户"
+
+
+msgid "Zip"
+msgstr "邮编"
+
+
+msgid "Zip is required"
+msgstr "邮编是必需的"
+
+
+msgid "by"
+msgstr "by"
+
+
+msgid "ex.5"
+msgstr "例如.5"
+
+
+msgid "is required"
+msgstr "是必须的"
+
+
+msgid "minuites"
+msgstr "分钟"
+
+
+msgid "miss login in"
+msgstr "登录"
+
+
+msgid "on"
+msgstr "on"
+
+
+msgid "seconds, then"
+msgstr "秒，然后"
+
+
+msgid "setup for Social Login"
+msgstr "社交登录的设置"
+
+
+msgid "to get custom payment"
+msgstr "获得自定义付款"
+
+
+msgid "Already registered?"
+msgstr "已经注册了？"
+
+
+msgid "E-mail"
+msgstr "电子邮件"
+
+
+msgid "Email address is alreay exists"
+msgstr "电子邮件地址已存在"
+
+
+msgid "Forgot password?"
+msgstr "忘记密码？"
+
+
+msgid "Guest Ticket"
+msgstr "访客支持票"
+
+
+msgid "Low Priroty"
+msgstr "低优先级"
+
+
+msgid "Not member yet ?"
+msgstr "还不是会员？"
+
+
+msgid "Open Ticket With Less Priroty"
+msgstr "优先级较低的打开支持票"
+
+
+msgid "Open ticket after login"
+msgstr "登录后打开支持票"
+
+
+msgid "Open ticket after register"
+msgstr "注册后打开支持票"
+
+
+msgid "Or Login Using"
+msgstr "或登录使用"
+
+
+msgid "Or Register Using"
+msgstr "或者注册使用"
+
+
+msgid "Or open ticket using"
+msgstr "或者打开支持票使用"
+
+
+msgid "Submit"
+msgstr "提交"
+
+
+msgid "Top Priroty"
+msgstr "最优先的"
+
+
+msgid "User Login"
+msgstr "用户登录"
+
+
+msgid "User Registration"
+msgstr "用户注册"
+
+
+msgid "You are not logged in. What would you like do now?"
+msgstr "您尚未登录。您现在想做什么？"
+
+
+msgid "fields are required"
+msgstr "字段是必需的"
+
+
+msgid "Confirm Password"
+msgstr "确认密码"
+
+
+msgid "Back"
+msgstr "返回"
+
+
+msgid "%s is not same"
+msgstr "%s 不一样"
+
+
+msgid "Captcha"
+msgstr "Captcha"
+
+
+msgid "Invalid email address."
+msgstr "无效的邮件地址"
+
+
+msgid "New Password"
+msgstr "新密码"
+
+
+msgid "The email address is already registered. To login"
+msgstr "电子邮件地址已经注册。登录"
+
+
+msgid "The value is not a valid %s"
+msgstr "该值不是有效的 %s"
+
+
+msgid "Uncategories"
+msgstr "没有类别"
+
+
+msgid "Assigned & Closed"
+msgstr "已分配和已关闭"
+
+
+msgid "CSV Downloaded"
+msgstr "CSV已下载"
+
+
+msgid "Change Timezone"
+msgstr "更改时区"
+
+
+msgid "Change padssword of %s"
+msgstr "更改  %s的密码"
+
+
+msgid "Change password of Admin User"
+msgstr "更改管理员用户的密码"
+
+
+msgid "Day Report"
+msgstr "日报告"
+
+
+msgid "Member since"
+msgstr "会员来自"
+
+
+msgid "Month Report"
+msgstr "月报告"
+
+
+msgid "New User"
+msgstr "新用户"
+
+
+msgid "Opened & Closed"
+msgstr "打开和关闭"
+
+
+msgid "Timezone is required"
+msgstr "时区是必需的"
+
+
+msgid "Tzone"
+msgstr "时区"
+
+
+msgid "Sign out"
+msgstr "登出"
+
+
+msgid "Please login to set priroty"
+msgstr "请登录以设置优先级"
+
+
+msgid "email address"
+msgstr "电子邮件地址"
+
+
+msgid "Allowed File Types"
+msgstr "允许的文件类型"
+
+
+msgid "Any Staff Can Reply"
+msgstr "任何客服都可以回复"
+
+
+msgid "App Email"
+msgstr "应用电邮"
+
+
+msgid "App Language"
+msgstr "应用语言"
+
+
+msgid "App Title"
+msgstr "应用标题"
+
+
+msgid "Application General Settings"
+msgstr "应用程序常规设置"
+
+
+msgid "Application Layout"
+msgstr "应用布局"
+
+
+msgid "Auto Others Color"
+msgstr "自动其他颜色"
+
+
+msgid "Basic Settings"
+msgstr "基本设置"
+
+
+msgid "CSS ( Style)"
+msgstr "CSS（风格）"
+
+
+msgid "Captcha Length"
+msgstr "验证码长度"
+
+
+msgid "Captcha Settings"
+msgstr "验证码设置"
+
+
+msgid "Captcha String Type"
+msgstr "验证字符串类型"
+
+
+msgid "Captcha Type"
+msgstr "验证码类型"
+
+
+msgid "Charecter Lenght of default captcha"
+msgstr "默认验证码的字符长度"
+
+
+msgid "Choose HTML Editor"
+msgstr "选择HTML编辑器"
+
+
+msgid "Client ID"
+msgstr "客户ID"
+
+
+msgid "Client Photo Upload"
+msgstr "客户端照片上传"
+
+
+msgid "Copyright Text"
+msgstr "官方文本"
+
+
+msgid "Custom CSS & JavaScript"
+msgstr "自定义CSS和JavaScript"
+
+
+msgid "Custom JavaScript"
+msgstr "自定义JavaScript"
+
+
+msgid "Date Format"
+msgstr "日期格式"
+
+
+msgid "Disable Registration"
+msgstr "禁用注册"
+
+
+msgid "Email Footer Text"
+msgstr "电子邮件页脚文本"
+
+
+msgid "Email Reply Start Text"
+msgstr "电子邮件回复开始文本"
+
+
+msgid "Enable Force SSL"
+msgstr "启用强制SSL"
+
+
+msgid "Enable Guest Ticket"
+msgstr "启用访客支持票"
+
+
+msgid "Enable HTML Input"
+msgstr "启用HTML输入"
+
+
+msgid "Enable Public Ticket"
+msgstr "启用公共支持票"
+
+
+msgid "Enable Ticket Feedback"
+msgstr "启用支持票反馈"
+
+
+msgid "Enable User Online Check"
+msgstr "启用用户在线检查"
+
+
+msgid "Ex. Google analytics code, Do not add any tag  like %s"
+msgstr "Google分析代码，请勿添加 %s等任何标记"
+
+
+msgid "Feedback Email Title"
+msgstr "反馈邮件标题"
+
+
+msgid "Field"
+msgstr "领域"
+
+
+msgid "File Upload Settings"
+msgstr "文件上传设置"
+
+
+msgid "Footer Background"
+msgstr "页脚背景"
+
+
+msgid "Footer Text"
+msgstr "页脚文本"
+
+
+msgid "Header Color"
+msgstr "标题颜色"
+
+
+msgid "Header Gradient"
+msgstr "标题渐变"
+
+
+msgid "If enable this then other color will be auto generate based on main color"
+msgstr "如果启用此功能，则将根据主色自动生成其他颜色"
+
+
+msgid "If enable this then the header background will be gradient"
+msgstr "如果启用此选项，则标题背景将为渐变"
+
+
+msgid "If you disable this then your will get normal text area box insted of html editor"
+msgstr "如果你禁用它，那么你将得到普通的文本区域框而不是html编辑器"
+
+
+msgid "If you enable it a feedback email will be sent to ticket user email address after closing ticket"
+msgstr "如果您启用它，将在关闭票证后将反馈电子邮件发送到票证用户电子邮件地址"
+
+
+msgid "If you enable it then any visitor can open ticket without registration"
+msgstr "如果您启用它，那么任何访问者都可以在没有注册"
+
+
+msgid "If you enable it then captcha will show in admin login form"
+msgstr "如果您启用它，则验证码将以管理员登录表单显示"
+
+
+msgid "If you enable it then captcha will show in client login form"
+msgstr "如果您启用它，则验证码将以客户端登录表单显示"
+
+
+msgid "If you enable it then captcha will show in client registration form"
+msgstr "如果您启用它，则验证码将显示在客户注册表单中"
+
+
+msgid "If you enable it then captcha will show in guest ticket opening form"
+msgstr "如果您启用它，则验证码将显示在客人机票开放表单中"
+
+
+msgid "If you enable it then user can open their ticket as public mode. Where any user can replay"
+msgstr "如果您启用它，则用户可以将其票证作为公共模式打开。任何用户都可以重播的地方"
+
+
+msgid "If you enable it then user can upload file when they open ticket and reply any ticket"
+msgstr "如果您启用它，则用户可以在打开票证时上传文件并回复任何票证"
+
+
+msgid "If you enable it, then any staff can reply on any ticket, if disable then only assigned staff can reply."
+msgstr "如果您启用它，那么任何工作人员都可以回复任何故障单，如果禁用，则只有指定的工作人员才能回复。"
+
+
+msgid "If you enable it, then you can able to upload their profile photo"
+msgstr "如果您启用它，则可以上传他们的个人资料照片"
+
+
+msgid "If you enable this then this app will check SSL Request, if not then it will redirect to SSL URL."
+msgstr "如果你启用了这个，那么这个应用程序将检查SSL请求，如果没有，那么它将重定向到SSL URL。"
+
+
+msgid "If you enable this then this app will check and show user online status."
+msgstr "如果您启用此功能，则此应用将检查并显示用户在线状态。"
+
+
+msgid "It will effect in next reload. If you want to now then refresh after save."
+msgstr "它将在下次重新加载时生效。如果您现在想要保存后再刷新。"
+
+
+msgid "It's background color of footer. Empty value will be auto from main color"
+msgstr "它是页脚的背景颜色。空值将从主色自动"
+
+
+msgid "It's background color of menu bar. Empty value will be auto from main color"
+msgstr "它是菜单栏的背景颜色。空值将从主色自动"
+
+
+msgid "It's background color of menu text color when active. Empty value will be auto from main color"
+msgstr "它是活动时菜单文本颜色的背景颜色。空值将从主色自动"
+
+
+msgid "It's text color of footer. Empty value will be auto from main color"
+msgstr "这是页脚的文字颜色。空值将从主色自动"
+
+
+msgid "It's the background color of welcome message. But you can choose any text color on any text of welcome message using editor. Empty value will be auto from main color"
+msgstr "这是欢迎信息的背景颜色。但您可以使用编辑器在欢迎消息的任何文本上选择任何文本颜色。空值将从主色自动"
+
+
+msgid "It's the color of anchor link and heading(h1,h2,h3,h4) Color. Empty value will be auto from main color"
+msgstr "它是锚链接和航向（h1，h2，h3，h4）颜色的颜色。空值将从主色自动"
+
+
+msgid "Its background color of header"
+msgstr "它的标题背景颜色"
+
+
+msgid "Keep empty if you don't want to show any footer"
+msgstr "如果您不想显示任何页脚，请保持空白"
+
+
+msgid "Keep empty if you don't want to show any footer on email"
+msgstr "如果您不想在电子邮件中显示任何页脚，请保持为空"
+
+
+msgid "Keep empty if you don't want to show any footer on site copy write text"
+msgstr "如果您不想在网站上显示任何页脚复制写入文本，请保持为空"
+
+
+msgid "Keep empty if you don't want to show any message"
+msgstr "如果您不想显示任何消息，请保持为空"
+
+
+msgid "Layout & Color Settings"
+msgstr "布局和颜色设置"
+
+
+msgid "Link And Heading Text"
+msgstr "链接和标题文本"
+
+
+msgid "Main Color"
+msgstr "主要颜色"
+
+
+msgid "Main site color is defined for application main color of client site."
+msgstr "主站点颜色是为客户端站点的应用程序主颜色定义的。"
+
+
+msgid "Max Upload File Size"
+msgstr "最大上传文件大小"
+
+
+msgid "Menu Active Text Color"
+msgstr "菜单活动文本颜色"
+
+
+msgid "Menu Background"
+msgstr "菜单背景"
+
+
+msgid "Nagative Feedback Message"
+msgstr "负反馈消息"
+
+
+msgid "Nagative Message"
+msgstr "否定消息"
+
+
+msgid "On Admin Login"
+msgstr "在管理员登录"
+
+
+msgid "On Client Login"
+msgstr "在客户登录"
+
+
+msgid "On Client Registration"
+msgstr "关于客户注册"
+
+
+msgid "On Guest Ticket"
+msgstr "在访客支持票上"
+
+
+msgid "Only enter css code. Do not add any tag like %s"
+msgstr "只输入css代码。不要添加 %s之类的任何标签"
+
+
+msgid "Positive Feedback Message"
+msgstr "积极的反馈信息"
+
+
+msgid "Positive Message"
+msgstr "积极的消息"
+
+
+msgid "Registration  of visitor. If you disable this then visitor can't register. Only registered client can open ticket after login"
+msgstr "访客登记。如果禁用此功能，则访问者无法注册。只有注册的客户才能在登录后打开机票"
+
+
+msgid "Site Copyright Text"
+msgstr "网站版权文本"
+
+
+msgid "Site Key"
+msgstr "网站密钥"
+
+
+msgid "The value is not a numeric"
+msgstr "该值不是数字"
+
+
+msgid "Ticket File Upload"
+msgstr "票证文件上传"
+
+
+msgid "Ticket Settings"
+msgstr "支持票设置"
+
+
+msgid "Time Format"
+msgstr "时间格式"
+
+
+msgid "Value must be between 1 to 99"
+msgstr "值必须介于1到99之间"
+
+
+msgid "Welcome & Footer Text"
+msgstr "欢迎和页脚文本"
+
+
+msgid "Welcome Background"
+msgstr "欢迎背景"
+
+
+msgid "Welcome Message"
+msgstr "欢迎辞"
+
+
+msgid "Welcome Text"
+msgstr "欢迎文字"
+
+
+msgid "ex. 2"
+msgstr "例.2"
+
+
+msgid "Successfully updated"
+msgstr "成功更新"
+
+
+msgid "Language changed. Reloading"
+msgstr "语言改变了。刷新"
+
+
+msgid "Download CSV"
+msgstr "下载CSV"
+
+
+msgid "No Record Found"
+msgstr "没有找到记录"
+
+
+msgid "Reload"
+msgstr "刷新"
+
+
+msgid "Sign In"
+msgstr "登陆"
+
+
+msgid "Sign in to start your session"
+msgstr "登录以开始您的会话"
+
+
+msgid "Admin Panel"
+msgstr "管理面板"
+
+
+msgid "%s is invalid"
+msgstr "%s无效"
+
+
+msgid "A ticket email has been sent to your email. Please check that"
+msgstr "已将电子邮件发送到您的电子邮箱。请检查一下"
+
+
+msgid "Admin Notification Settings"
+msgstr "管理员通知设置"
+
+
+msgid "Are you sure to assign yourself?"
+msgstr "你确定要自己分配吗？"
+
+
+msgid "Are you sure to assign?"
+msgstr "你确定要分配吗？"
+
+
+msgid "Assign Me"
+msgstr "分配给我"
+
+
+msgid "Captcha Success"
+msgstr "验证成功"
+
+
+msgid "Content"
+msgstr "内容"
+
+
+msgid "Controller"
+msgstr "管理者"
+
+
+msgid "Email Field Details"
+msgstr "电邮字段详情"
+
+
+msgid "Email Notification Settings"
+msgstr "电子邮件通知设置"
+
+
+msgid "Email Notification Settions"
+msgstr "电子邮件通知设置"
+
+
+msgid "Email Template updated successfully"
+msgstr "电子邮件模板更新成功"
+
+
+msgid "Email template for  ANR"
+msgstr "ANR的电子邮件模板"
+
+
+msgid "Enable Admin Notificaiton"
+msgstr "启用管理员通知"
+
+
+msgid "File Size"
+msgstr "文件大小"
+
+
+msgid "If you enable this then admin will get notification"
+msgstr "如果您启用此功能，则管理员将收到通知"
+
+
+msgid "If you enable this then admin will get notification on ticket open"
+msgstr "如果您启用此功能，则管理员将在打开故障单时收到通知"
+
+
+msgid "If you enable this then admin will get notification on ticket user reply"
+msgstr "如果启用此功能，则admin将收到有关故障单用户回复的通知"
+
+
+msgid "Logging in.."
+msgstr "登录中.."
+
+
+msgid "Name of ticket user"
+msgstr "支持票用户的名称"
+
+
+msgid "New Ticket Opened"
+msgstr "打开新的支持票"
+
+
+msgid "Notification Email"
+msgstr "通知电子邮件"
+
+
+msgid "Notification Settings"
+msgstr "通知设置"
+
+
+msgid "Notification Settions"
+msgstr "通知设置"
+
+
+msgid "On Admin/staff Reply"
+msgstr "关于管理员/客服回复"
+
+
+msgid "On Screen Notificaiton Settings"
+msgstr "屏幕通知设置"
+
+
+msgid "On Ticket Open"
+msgstr "在支持票开放"
+
+
+msgid "On Ticket User Reply"
+msgstr "关于支持票用户回复"
+
+
+msgid "Page List"
+msgstr "页面列表"
+
+
+msgid "Please wait"
+msgstr "请耐心等待"
+
+
+msgid "Replied Text"
+msgstr "回复文字"
+
+
+msgid "Reply text"
+msgstr "回复文字"
+
+
+msgid "Resource"
+msgstr "资源"
+
+
+msgid "Set Assign"
+msgstr "设置分配"
+
+
+msgid "Successfully added"
+msgstr "成功添加"
+
+
+msgid "Template List"
+msgstr "模板列表"
+
+
+msgid "Thank you, your ticket has been opened successfully"
+msgstr "谢谢，您的支持票已成功打开"
+
+
+msgid "Ticket Open By Guest"
+msgstr "支持票由访客开放"
+
+
+msgid "Ticket Other's Info"
+msgstr "支持票 Other的信息"
+
+
+msgid "Ticket Replied by : %s"
+msgstr "支持票回复者: %s"
+
+
+msgid "Ticket cateroty"
+msgstr "支持票类别"
+
+
+msgid "Ticket link"
+msgstr "支持票链接"
+
+
+msgid "Ticket open or reply notification settings"
+msgstr "支持票打开或回复通知设置"
+
+
+msgid "Update Email Template"
+msgstr "更新邮件模板"
+
+
+msgid "User Ticket"
+msgstr "用户支持票"
+
+
+msgid "User who replied"
+msgstr "回复的用户"
+
+
+msgid "View Ticket Details"
+msgstr "查看支持票详细信息"
+
+
+msgid "ex. email@domain.com"
+msgstr "例. email@domain.com"
+
+
+msgid "updated"
+msgstr "更新"
+
+
+msgid "%s is not a valid URL"
+msgstr "%s不是有效的网址"
+
+
+msgid "Admin Panel Language"
+msgstr "管理面板语言"
+
+
+msgid "Admin will hear tone on notification if enabled"
+msgstr "如果启用，管理员将听到通知音"
+
+
+msgid "App Settings"
+msgstr "应用设置"
+
+
+msgid "Application All Settings"
+msgstr "应用所有设置"
+
+
+msgid "Are you sure to dismiss?"
+msgstr "你确定要解雇吗？"
+
+
+msgid "Authentication failed!. May be remote server rejected."
+msgstr "身份验证失败！可能是远程服务器被拒绝。"
+
+
+msgid "Button Color"
+msgstr "按钮颜色"
+
+
+msgid "Button Text"
+msgstr "按钮文字"
+
+
+msgid "Button Text Color"
+msgstr "按钮文字颜色"
+
+
+msgid "Button Txt"
+msgstr "按钮文字"
+
+
+msgid "Button View"
+msgstr "查看按钮"
+
+
+msgid "Button image updated successfully"
+msgstr "按钮图像已成功更新"
+
+
+msgid "Captcha is required"
+msgstr "验证码是必需的"
+
+
+msgid "Closed On"
+msgstr "关闭"
+
+
+msgid "Current Status"
+msgstr "当前状态"
+
+
+msgid "Custom %s"
+msgstr "惯例 %s"
+
+
+msgid "Default login system form won't not show if it enabled"
+msgstr "如果启用，则不会显示默认登录系统表单"
+
+
+msgid "Default login system form won't not show if it enabled, but Remote Login & Social login will show if those are enabled"
+msgstr "如果启用了默认登录系统表单，则不会显示，但如果启用了远程登录和社交登录，则会显示远程登录和社交登录"
+
+
+msgid "Disable Default Login"
+msgstr "禁用默认登录"
+
+
+msgid "Disable Guest Open Popup"
+msgstr "禁用访客打开弹出窗口"
+
+
+msgid "Edit Remote Login"
+msgstr "编辑远程登录"
+
+
+msgid "Email to Ticket"
+msgstr "发送电子邮件至支持票"
+
+
+msgid "Enable Tone (Sound)"
+msgstr "启用音（声音）"
+
+
+msgid "Featured Video"
+msgstr "精选视频"
+
+
+msgid "File Upload"
+msgstr "上传文件"
+
+
+msgid "If you enable this then admin will hear tone on notification"
+msgstr "如果启用此功能，管理员将听到通知音"
+
+
+msgid "If you enable this then guest user also get all priroty as dropdown option"
+msgstr "如果启用此选项，则guest用户也将获得所有优先级作为下拉选项"
+
+
+msgid "It is your remote server login URL. You can add extra parameter to detect, %s"
+msgstr "它是您的远程服务器登录URL。您可以添加额外的参数来检测 %s"
+
+
+msgid "It is your remote server login URL. You can add extra parameter to detect, ex. %s"
+msgstr "它是您的远程服务器登录URL。你可以添加额外的参数来检测，例如 %s"
+
+
+msgid "It is your remote server login URL. You can add extra parameter to detect, ex. http://zyz.com?from=support-system"
+msgstr "它是您的远程服务器登录URL。你可以添加额外的参数来检测，例如。 http://acb.com?from=support-system"
+
+
+msgid "It will redirect to home page within"
+msgstr "它将重定向到主页内"
+
+
+msgid "It will send this key in verification process as param"
+msgstr "它会在验证过程中将此密钥作为参数发送"
+
+
+msgid "Keep empty if you don't want show any video"
+msgstr "如果您不想显示任何视频，请保持空白"
+
+
+msgid "Last Replied On"
+msgstr "最后回复"
+
+
+msgid "Layout & Color"
+msgstr "布局和颜色"
+
+
+msgid "Log uploaded"
+msgstr "日志已上传"
+
+
+msgid "Login Email"
+msgstr "登录邮箱"
+
+
+msgid "Login Link"
+msgstr "登录链接"
+
+
+msgid "Login URL"
+msgstr "登录URL"
+
+
+msgid "Login Using"
+msgstr "登录使用"
+
+
+msgid "NB. %s will be your server's api key, by this we validate the response"
+msgstr "%s 将是您服务器的api密钥，通过此我们验证响应"
+
+
+msgid "NB. %s will be your server's login token, by this it can validated the user"
+msgstr "%s 将是您服务器的登录令牌，由此可以验证用户"
+
+
+msgid "New Remote Login"
+msgstr "新的远程登录"
+
+
+msgid "Normally visitor will show a popup it s/he doesn't logged in. If you don't want to show that then enable it"
+msgstr "通常访问者会显示他/她未登录的弹出窗口。如果您不想显示，则启用它"
+
+
+msgid "Notification Tone (Sound)"
+msgstr "通知音（声音）"
+
+
+msgid "Opened On"
+msgstr "打开"
+
+
+msgid "Our server will post to this URL with the response token.%s Post paramater will be look like %s"
+msgstr "我们的服务器将使用响应令牌发布到此URL。  %s  Post参数将看起来像  %s"
+
+
+msgid "Pay Now"
+msgstr "现在付款"
+
+
+msgid "Payment Added"
+msgstr "付款已添加"
+
+
+msgid "Preview"
+msgstr "预览"
+
+
+msgid "Private Key"
+msgstr "私钥"
+
+
+msgid "Remote Login"
+msgstr "远程登录"
+
+
+msgid "Remote Login Error"
+msgstr "远程登录错误"
+
+
+msgid "Remote Login List"
+msgstr "远程登录列表"
+
+
+msgid "Remote Server Login"
+msgstr "远程服务器登录"
+
+
+msgid "Remote_server"
+msgstr "remote_server的"
+
+
+msgid "Request Count"
+msgstr "请求计数"
+
+
+msgid "Response Data Error"
+msgstr "响应数据错误"
+
+
+msgid "Response URL"
+msgstr "响应URL"
+
+
+msgid "Same As Admin"
+msgstr "与管理员相同"
+
+
+msgid "Seconds"
+msgstr "秒"
+
+
+msgid "Select icon"
+msgstr "选择图标"
+
+
+msgid "Server Type"
+msgstr "服务器类型"
+
+
+msgid "Show all priroty on Guest Ticket"
+msgstr "显示访客的所有优先级"
+
+
+msgid "Site Language"
+msgstr "网站语言"
+
+
+msgid "Site Theme Settings"
+msgstr "网站主题设置"
+
+
+msgid "Social Login Setting"
+msgstr "社交登录设置"
+
+
+msgid "Successfully Dismissed"
+msgstr "成功解雇"
+
+
+msgid "Successfully deleted"
+msgstr "成功删除"
+
+
+msgid "Successfully logged in"
+msgstr "成功登录"
+
+
+msgid "Successfully saved"
+msgstr "成功保存"
+
+
+msgid "Thank you for registering with us"
+msgstr "感谢您注册我们"
+
+
+msgid "Theme"
+msgstr "主题"
+
+
+msgid "This account has been temporary locked for 30 minutes, try again later or contact with admin to unlock"
+msgstr "此帐户已暂时锁定30分钟，稍后再试或与管理员联系以解锁"
+
+
+msgid "This servers's configuration"
+msgstr "这个服务器的配置"
+
+
+msgid "Ticket Email"
+msgstr "票务电子邮件"
+
+
+msgid "Ticket Re-Opened"
+msgstr "支持票重新开放"
+
+
+msgid "Unknown"
+msgstr "未知"
+
+
+msgid "User Login Using"
+msgstr "用户登录使用"
+
+
+msgid "Valid Url"
+msgstr "有效的网址"
+
+
+msgid "Validation URL"
+msgstr "验证URL"
+
+
+msgid "Video"
+msgstr "视频"
+
+
+msgid "View Update Details"
+msgstr "查看更新细节"
+
+
+msgid "Welcome to"
+msgstr "欢迎来到"
+
+
+msgid "Your server's redirect URL"
+msgstr "您服务器的重定向URL"
+
+
+msgid "View All"
+msgstr "查看全部"
+
+
+msgid "%s replied a message"
+msgstr "%s回复了一条消息"
+
+
+msgid "API Name"
+msgstr "API名称"
+
+
+msgid "About Support System-help"
+msgstr "关于支持系统 - 帮助"
+
+
+msgid "Agent Welcome Text"
+msgstr "客服欢迎文本"
+
+
+msgid "All Paid Ticket"
+msgstr "所有付费支持票"
+
+
+msgid "Analytics Gtag ID"
+msgstr "Google Analytics Gtag ID"
+
+
+msgid "App User Details"
+msgstr "应用用户详情"
+
+
+msgid "Archive"
+msgstr "档案"
+
+
+msgid "Are you sure to archive?"
+msgstr "你确定要存档吗？"
+
+
+msgid "Are you sure to archive? Archive is like Delete. You can inactive for temporary basis"
+msgstr "你确定要存档吗？存档就像删除。您可以暂时停用"
+
+
+msgid "Are you sure to archive? Archive is like as delete. If you want to do it for temporary, then set inactive status instead of archive. You cann&#96;t revert if you process it."
+msgstr "你确定要存档吗？存档就像删除一样。如果要将其设置为临时，则设置非活动状态而不是存档。如果你处理它，你就不会恢复。"
+
+
+msgid "Are you sure to archive? Archive is like as delete. If you want to do it for temporary, then you can inactive this user."
+msgstr "你确定要存档吗？存档就像删除一样。如果您想要临时执行此操作，则可以禁用此用户。"
+
+
+msgid "Are you sure to archive? Archive is like as delete. It you want do it for temporary then you can inactive this user."
+msgstr "你确定要存档吗？存档就像删除一样。你想要临时做它然后你可以使这个用户无效。"
+
+
+msgid "Are you sure to archive? Archive is like as delete. You can inactive for temporary basis"
+msgstr "你确定要存档吗？存档就像删除一样。您可以暂时停用"
+
+
+msgid "Are you sure to change chat status?"
+msgstr "您确定要更改聊天状态吗？"
+
+
+msgid "Are you sure to unlock?"
+msgstr "你确定要解锁吗？"
+
+
+msgid "Asigned By"
+msgstr "分配给"
+
+
+msgid "Authentication failed!. May be you didn't authenticate."
+msgstr "身份验证失败！可能是你没有验证。"
+
+
+msgid "Best Ranker Wordpress tool"
+msgstr "最好的Ranker Wordpress工具"
+
+
+msgid "Browser"
+msgstr "浏览器"
+
+
+msgid "Canned Message"
+msgstr "预设消息"
+
+
+msgid "Change Profile Photo"
+msgstr "更改档案照片"
+
+
+msgid "Chat Canned Message"
+msgstr "聊天预设消息"
+
+
+msgid "Chat Canned Msg List"
+msgstr "聊天预设消息列表"
+
+
+msgid "Chat Online Status"
+msgstr "在线聊天状态"
+
+
+msgid "Chat Opening Text"
+msgstr "聊天打开文本"
+
+
+msgid "Chat Panel"
+msgstr "聊天面板"
+
+
+msgid "Chat Receive Status"
+msgstr "聊天接收状态"
+
+
+msgid "Chat Settings"
+msgstr "聊天设置"
+
+
+msgid "Chat Status"
+msgstr "聊天状态"
+
+
+msgid "Check On Submit"
+msgstr "检查提交"
+
+
+msgid "Choose API"
+msgstr "选择API"
+
+
+msgid "Choose API from available APIs"
+msgstr "从可用的API中选择API"
+
+
+msgid "Choose Chat Type"
+msgstr "选择聊天类型"
+
+
+msgid "Choose Type or Category"
+msgstr "选择类型或类别"
+
+
+msgid "Click here to watch the video tutorial"
+msgstr "点击此处观看视频教程"
+
+
+msgid "Click on the Image to change. Best size is 250px x 200px"
+msgstr "单击图像进行更改。最佳尺寸为250px x 200px"
+
+
+msgid "Client Profile"
+msgstr "客户资料"
+
+
+msgid "Close Chat Status"
+msgstr "关闭聊天状态"
+
+
+msgid "Closed Chat List"
+msgstr "关闭的聊天列表"
+
+
+msgid "Closed Failed"
+msgstr "关闭失败"
+
+
+msgid "Closed Successfully"
+msgstr "成功关闭"
+
+
+msgid "Color Settings"
+msgstr "颜色设置"
+
+
+msgid "Comma( , ) separated. Ex: OptionA,OptionB,OptionC"
+msgstr "逗号（，）分开。例如：OptionA，OptionB，OptionC"
+
+
+msgid "Do you want to take?"
+msgstr "你想要吗？"
+
+
+msgid "Download"
+msgstr "下载"
+
+
+msgid "Edit Ticket Reply"
+msgstr "编辑支持单回复"
+
+
+msgid "Email Password Reset Link"
+msgstr "电子邮件密码重置链接"
+
+
+msgid "Enable"
+msgstr "启用"
+
+
+msgid "Enable API Validation"
+msgstr "启用API验证"
+
+
+msgid "End Time"
+msgstr "结束时间"
+
+
+msgid "Enter License Info"
+msgstr "输入许可证信息"
+
+
+msgid "Entry Date"
+msgstr "输入日期"
+
+
+msgid "Envato Settings"
+msgstr "Envato设置"
+
+
+msgid "Facebook Chat"
+msgstr "Facebook聊天"
+
+
+msgid "Facebook Chat Settings"
+msgstr "Facebook聊天设置"
+
+
+msgid "Facebook Page ID"
+msgstr "Facebook页面ID"
+
+
+msgid "Failed to assigning you on this chat"
+msgstr "无法在此聊天中指定您"
+
+
+msgid "Failed to update"
+msgstr "无法更新"
+
+
+msgid "Field Label"
+msgstr "现场标签"
+
+
+msgid "File Settings"
+msgstr "文件设置"
+
+
+msgid "GUEST USER"
+msgstr "访客"
+
+
+msgid "Genaral"
+msgstr "常规"
+
+
+msgid "Google Analytics"
+msgstr "谷歌分析"
+
+
+msgid "Google Analytics Gtag ID"
+msgstr "Google Analytics Gtag ID"
+
+
+msgid "Google Analytics Settings"
+msgstr "Google Analytics设置"
+
+
+msgid "Gtag ID"
+msgstr "Gtag ID"
+
+
+msgid "Help Text"
+msgstr "帮助文字"
+
+
+msgid "How to use all feature of this support system"
+msgstr "如何使用此支持系统的所有功能"
+
+
+msgid "IMAP module is not activated in you php"
+msgstr "您的PHP中未激活IMAP模块"
+
+
+msgid "If you choose this then this field will be displayed on choosen category only"
+msgstr "如果选择此选项，则此字段将仅显示在选择的类别上"
+
+
+msgid "If you enable this then the field will be check using selected API"
+msgstr "如果启用此选项，则将使用所选API检查该字段"
+
+
+msgid "If you enable this then the value of this field is always be private"
+msgstr "如果启用此项，则此字段的值始终为私有"
+
+
+msgid "If you enable this, the field value need to be valid on form submission. Otherwise you will get a button to check manually"
+msgstr "如果启用此选项，则字段值必须在表单提交时有效。否则，您将获得一个手动检查的按钮"
+
+
+msgid "If you want to set %s. Then please go to %s or  %s"
+msgstr "如果要设置 %s。那么请转到 %s或 %s"
+
+
+msgid "Is Private"
+msgstr "是私人的"
+
+
+msgid "It set a limit,how many chat a agent(Admin User) can take  simultaneously"
+msgstr "它设置了一个限制，客户（管理员用户）可以同时进行多少聊天"
+
+
+msgid "It will show when a agent start a chat session."
+msgstr "它将显示客服何时开始聊天会话。"
+
+
+msgid "It will show when a agent start a chat session. You can use some property which is given bello:"
+msgstr "它将显示客服何时开始聊天会话。你可以使用一些给出的属性："
+
+
+msgid "It will show when a agent start a chat session. You can use some property which is given bellow:"
+msgstr "它将显示客服何时开始聊天会话。你可以使用下面给出的一些财产："
+
+
+msgid "It will show when a user want to start chat"
+msgstr "它将显示用户何时想要开始聊天"
+
+
+msgid "It will show when all user are offline"
+msgstr "它将显示所有用户何时离线"
+
+
+msgid "It will show when all user busy,"
+msgstr "当所有用户忙，它会显示"
+
+
+msgid "Item Purchase Code"
+msgstr "物品购买代码"
+
+
+msgid "Its the field label"
+msgstr "它的领域标签"
+
+
+msgid "Knowledge Search"
+msgstr "知识搜索"
+
+
+msgid "Last 5 Closed Chat"
+msgstr "最后5个已关闭的聊天"
+
+
+msgid "Last Change Date"
+msgstr "最后更改日期"
+
+
+msgid "Last Date"
+msgstr "最后日期"
+
+
+msgid "Latest Knowledge"
+msgstr "最新知识"
+
+
+msgid "Load More"
+msgstr "装载更多"
+
+
+msgid "Loading Chat Data Please wait.."
+msgstr "正在加载聊天数据请等待.."
+
+
+msgid "Locked_user_confirm"
+msgstr "确认锁定的用户"
+
+
+msgid "Login using social"
+msgstr "使用社交登录"
+
+
+msgid "Low Priority"
+msgstr "低优先级"
+
+
+msgid "Max chat count"
+msgstr "最大聊天次数"
+
+
+msgid "Max. Chat Per Agent"
+msgstr "最大每个客服聊天"
+
+
+msgid "Max. Chat Per Agent %s"
+msgstr "最大按客服聊天 %s"
+
+
+msgid "Max. Chat Per Agent(simultaneously)"
+msgstr "最大每个客服聊天（同时）"
+
+
+msgid "Message List"
+msgstr "消息列表"
+
+
+msgid "Missing chat id"
+msgstr "缺少聊天ID"
+
+
+msgid "My Closed Ticket"
+msgstr "我关闭的支持票"
+
+
+msgid "My Paid Tickets"
+msgstr "我的付费支持票"
+
+
+msgid "Name of user"
+msgstr "用户名"
+
+
+msgid "Need Support? Create a Ticket."
+msgstr "需要支持？创建支持单。"
+
+
+msgid "New Chat Canned Message"
+msgstr "新聊天预设消息"
+
+
+msgid "New Chat Canned Msg"
+msgstr "新聊天预设消息"
+
+
+msgid "New Chat Request"
+msgstr "新聊天请求"
+
+
+msgid "New Custom Field"
+msgstr "新的自定义字段"
+
+
+msgid "New Product"
+msgstr "新产品"
+
+
+msgid "No result found"
+msgstr "没有找到结果"
+
+
+msgid "Offline Text"
+msgstr "离线文字"
+
+
+msgid "On Screeen Notification Settings"
+msgstr "屏幕通知设置"
+
+
+msgid "On Screeen Notification Settions"
+msgstr "屏幕通知设置"
+
+
+msgid "Only profile image updated"
+msgstr "仅更新了个人资料图片"
+
+
+msgid "Open Text"
+msgstr "打开文本"
+
+
+msgid "Open Ticket With Less Priority"
+msgstr "优先级较低的打开支持票"
+
+
+msgid "Page Builder"
+msgstr "页面构建器"
+
+
+msgid "Page Editor"
+msgstr "页面编辑器"
+
+
+msgid "Password 18DDC9E196"
+msgstr "密码18DDC9E196"
+
+
+msgid "Password Successfully Updated"
+msgstr "密码已成功更新"
+
+
+msgid "Please Rate it !!"
+msgstr "请评价!!"
+
+
+msgid "Please put this into your facebook page settings"
+msgstr "请将其放入您的Facebook页面设置中"
+
+
+msgid "Priority"
+msgstr "优先"
+
+
+msgid "Products"
+msgstr "产品"
+
+
+msgid "Profile Photo"
+msgstr "头像照片"
+
+
+msgid "Queue Text"
+msgstr "排队文本"
+
+
+msgid "Rate it"
+msgstr "评分"
+
+
+msgid "Replied"
+msgstr "回答"
+
+
+msgid "Replied By"
+msgstr "回复于"
+
+
+msgid "Replied By Type"
+msgstr "按类型回复"
+
+
+msgid "Replied Successfully"
+msgstr "成功回复"
+
+
+msgid "Reply Time"
+msgstr "回复时间"
+
+
+msgid "Reset Password"
+msgstr "重设密码"
+
+
+msgid "Screen Notificaiton Settings"
+msgstr "屏幕通知设置"
+
+
+msgid "Search Result"
+msgstr "搜索结果"
+
+
+msgid "Seen by ticket owner"
+msgstr "由支持票所有者看到"
+
+
+msgid "Set Category"
+msgstr "设置类别"
+
+
+msgid "Set New Password"
+msgstr "设置新密码"
+
+
+msgid "Set Passowrd"
+msgstr "设置密码"
+
+
+msgid "Set Password"
+msgstr "设置密码"
+
+
+msgid "Set User Password"
+msgstr "设置用户密码"
+
+
+msgid "Site Info"
+msgstr "网站信息"
+
+
+msgid "Social Login Error"
+msgstr "社交登录错误"
+
+
+msgid "Start Time"
+msgstr "开始时间"
+
+
+msgid "Successfully Archived"
+msgstr "成功存档"
+
+
+msgid "Successfully assign"
+msgstr "成功分配"
+
+
+msgid "Successfully assigned you"
+msgstr "成功分配给你"
+
+
+msgid "Successfully closed"
+msgstr "成功关闭"
+
+
+msgid "Successfully unlocked"
+msgstr "成功解锁"
+
+
+msgid "The text will be show like this text after the field"
+msgstr "该字段将在该字段之后显示为此文本"
+
+
+msgid "The user is already archived. You can't active or inactive"
+msgstr "用户已存档。您无法激活或不活动"
+
+
+msgid "The user who replaied last"
+msgstr "最后重播的用户"
+
+
+msgid "This chat request has been accepted by %s"
+msgstr "此聊天请求已被 %s接受"
+
+
+msgid "This chat request has been accepted by Sarwar Hasan"
+msgstr "这个聊天请求已被 接受"
+
+
+msgid "Ticket Form Category"
+msgstr "支持票表格类别"
+
+
+msgid "Ticket Opened"
+msgstr "支持票打开"
+
+
+msgid "Ticket Payment"
+msgstr "支持票付款"
+
+
+msgid "Ticket Priority"
+msgstr "支持票优先"
+
+
+msgid "Ticket open time in app timezone (UTC)"
+msgstr "应用时区（UTC）的支持票开放时间"
+
+
+msgid "Ticket owner doesn't seen"
+msgstr "支持票所有者没有看到"
+
+
+msgid "Ticket owner seen"
+msgstr "支持票所有者可见"
+
+
+msgid "Ticket reply saved error"
+msgstr "支持票回复保存错误"
+
+
+msgid "Ticket_confirm"
+msgstr "支持票确认"
+
+
+msgid "To enable chat"
+msgstr "启用聊天功能"
+
+
+msgid "To enable facebook messenger chat"
+msgstr "启用Facebook Messenger聊天"
+
+
+msgid "Top Priority"
+msgstr "最优先级"
+
+
+msgid "Unlock"
+msgstr "解锁"
+
+
+msgid "Unseened by ticket owner"
+msgstr "支持票所有者不可见"
+
+
+msgid "Updated successfully"
+msgstr "更新成功"
+
+
+msgid "Use this as your confirmation url into your envato app register page."
+msgstr "将此作为您的确认网址进入您的envato应用注册页面。"
+
+
+msgid "User Info"
+msgstr "用户信息"
+
+
+msgid "User Password"
+msgstr "用户密码"
+
+
+msgid "User login information"
+msgstr "用户登录信息"
+
+
+msgid "View"
+msgstr "查看"
+
+
+msgid "WP Best Ranker"
+msgstr "WP最佳排名"
+
+
+msgid "WP Rank Ninja"
+msgstr "WP最佳排名"
+
+
+msgid "Web Chat"
+msgstr "网络聊天"
+
+
+msgid "Web Chat Settings"
+msgstr "网络聊天设置"
+
+
+msgid "Would You Please Rate it?"
+msgstr "你能评价吗？"
+
+
+msgid "Write here"
+msgstr "写在这里"
+
+
+msgid "YYYY-MM-DD"
+msgstr "YYYY-MM-DD"
+
+
+msgid "You can use some property which is given bellow:"
+msgstr "您可以使用下面给出的一些属性："
+
+
+msgid "You can't set pro version now. Pro version is coming soon. Please choose default chat now"
+msgstr "您现在无法设置专业版。专业版即将推出。请立即选择默认聊天"
+
+
+msgid "You have no notifications right now"
+msgstr "你现在没有通知"
+
+
+msgid "Your Domain URL"
+msgstr "您的域名网址"
+
+
+msgid "[GUEST USER]"
+msgstr "[访客]"
+
+
+msgid "agent_welcome_text"
+msgstr "客服欢迎文本"
+
+
+msgid "e"
+msgstr "e"
+
+
+msgid "ex. 5"
+msgstr "ex.5"
+
+
+msgid "snippets"
+msgstr "片段"
+
+
+msgid "to see the video tutorial"
+msgstr "看视频教程"
+
+
+msgid "typing"
+msgstr "打字"
+
+
+msgid "%.2f"
+msgstr "%.2f"
+
+
+msgid "%s is already exists"
+msgstr "%s 已经存在"
+
+
+msgid "A  ticket reply has been received from ticket user"
+msgstr "已从支持票用户收到支持票回复"
+
+
+msgid "A new ticket is assigned to you"
+msgstr "系统会为您分配一张新的支持票"
+
+
+msgid "A new ticket is received please assign"
+msgstr "收到新支持票请指定"
+
+
+msgid "A reset link has been sent to your email address. Please check that"
+msgstr "重置链接已发送到您的电子邮件地址。请检查一下"
+
+
+msgid "Add"
+msgstr "新加"
+
+
+msgid "Add Another File"
+msgstr "添加另一个文件"
+
+
+msgid "Add Note"
+msgstr "添加注释"
+
+
+msgid "Admin Notes"
+msgstr "管理员备注"
+
+
+msgid "Admin ticket creation"
+msgstr "管理员支持票创建"
+
+
+msgid "All Categories"
+msgstr "所有类别"
+
+
+msgid "All Category"
+msgstr "所有类别"
+
+
+msgid "Application"
+msgstr "应用"
+
+
+msgid "Are you sure to delete attached file (%s)?"
+msgstr "您确定要删除附件（ %s）吗？"
+
+
+msgid "Are you sure to delete attached file?"
+msgstr "您确定要删除附件吗？"
+
+
+msgid "Are you sure to delete feature image?"
+msgstr "您确定要删除要素图像吗？"
+
+
+msgid "Assign On Ticket"
+msgstr "分配支持票"
+
+
+msgid "Attach more file"
+msgstr "附加更多文件"
+
+
+msgid "Attached"
+msgstr "附"
+
+
+msgid "Attached file"
+msgstr "附件"
+
+
+msgid "Authentication Error"
+msgstr "授权错误"
+
+
+msgid "Auto Closing Rule"
+msgstr "自动结算规则"
+
+
+msgid "Auto assign equally based on current month assigning"
+msgstr "根据当前月份分配自动分配"
+
+
+msgid "Based on ticket assigning rule"
+msgstr "基于支持票分配规则"
+
+
+msgid "Button Icon"
+msgstr "按钮图标"
+
+
+msgid "Cat Ids"
+msgstr "Cat Ids"
+
+
+msgid "Change Category"
+msgstr "更改类别"
+
+
+msgid "Change Category of ticket: T6DD28E9B-012-1P9"
+msgstr "更改支持票类别：T6DD28E9B-012-1P9"
+
+
+msgid "Change Category of ticket: T84B12BAE-001-ZCO"
+msgstr "更改支持票类别：T84B12BAE-001-ZCO"
+
+
+msgid "Chat Auto Close"
+msgstr "聊天自动关闭"
+
+
+msgid "Chat Auto Close Interval"
+msgstr "聊天自动关闭间隔"
+
+
+msgid "Chat Background Pattern"
+msgstr "聊天背景图案"
+
+
+msgid "Chat Button Icon"
+msgstr "聊天按钮图标"
+
+
+msgid "Chat Closing Text"
+msgstr "聊天结束文本"
+
+
+msgid "Chat Logo"
+msgstr "聊天徽标"
+
+
+msgid "Chat Tag Line"
+msgstr "聊天标记行"
+
+
+msgid "Chat Title"
+msgstr "聊天标题"
+
+
+msgid "Chat Window and Button Color"
+msgstr "聊天窗口和按钮颜色"
+
+
+msgid "Chat closing interval"
+msgstr "聊天关闭间隔"
+
+
+msgid "Chat has been auto closed by system"
+msgstr "聊天已由系统自动关闭"
+
+
+msgid "Chat main color"
+msgstr "聊天主色"
+
+
+msgid "Chat will be closed which is inactive for entered value. Enter 0 to disable auto close"
+msgstr "聊天将关闭，对于输入的值无效。输入0以禁用自动关闭"
+
+
+msgid "Choose Category"
+msgstr "选择类别"
+
+
+msgid "Choose Pattern"
+msgstr "选择模式"
+
+
+msgid "Choose Staff"
+msgstr "选择客服"
+
+
+msgid "Choose chat button icon"
+msgstr "选择聊天按钮图标"
+
+
+msgid "Close ticket which has been inactive for"
+msgstr "关闭支持票已暂停"
+
+
+msgid "Close ticket which is inactivated for"
+msgstr "关闭的支持票已被停用"
+
+
+msgid "Closing Message"
+msgstr "结束消息"
+
+
+msgid "Closing Rule"
+msgstr "结算规则"
+
+
+msgid "Closing Text"
+msgstr "关闭文本"
+
+
+msgid "Currency"
+msgstr "货币"
+
+
+msgid "Custom_field"
+msgstr "Custom_field"
+
+
+msgid "Delete failed"
+msgstr "删除失败"
+
+
+msgid "Demo Mode"
+msgstr "示范模式"
+
+
+msgid "Disable Knowledge Stat In Homepage"
+msgstr "在主页中禁用知识统计"
+
+
+msgid "Disable knowledge statistics in home page"
+msgstr "禁用主页中的知识统计信息"
+
+
+msgid "Edit Ticket Assign Rule"
+msgstr "编辑支持单分配规则"
+
+
+msgid "Email template for  AAT"
+msgstr "AAT的电子邮件模板"
+
+
+msgid "Email template for  TAC"
+msgstr "TAC的电子邮件模板"
+
+
+msgid "Enable Auto Close"
+msgstr "启用自动关闭"
+
+
+msgid "Enable this to disable %s,%s,%s in homepage"
+msgstr "启用此选项可在主页中禁用 %s, %s, %s i"
+
+
+msgid "Files:"
+msgstr "文件："
+
+
+msgid "Forgot Password"
+msgstr "忘记密码"
+
+
+msgid "Go to Login"
+msgstr "转到登录"
+
+
+msgid "Hour"
+msgstr "小时"
+
+
+msgid "If you don't know how you will configure the Facebook Page settings then"
+msgstr "如果您不知道如何配置Facebook页面设置"
+
+
+msgid "If you enable it, then inactive ticket will be closed automatically by auto closing rule"
+msgstr "如果启用它，则自动关闭规则将自动关闭非活动支持票"
+
+
+msgid "If you enable this then assigned user will get notification on ticket assigning"
+msgstr "如果启用此功能，则分配的用户将获得有关支持单分配的通知"
+
+
+msgid "Inactive Interval"
+msgstr "无效间隔"
+
+
+msgid "Inactive Interval min"
+msgstr "非活动间隔时间"
+
+
+msgid "It set a limit,how many chat per agent(Admin User) can take  simultaneously"
+msgstr "它设置了一个限制，每个客服（管理员用户）可以同时进行多少聊天"
+
+
+msgid "It will display in chat window"
+msgstr "它将显示在聊天窗口中"
+
+
+msgid "It will redirect within"
+msgstr "它会在内部重定向"
+
+
+msgid "It will show when all agent close the chat,"
+msgstr "当所有座席关闭聊天时，它会显示"
+
+
+msgid "Knowledge Categories"
+msgstr "知识类别"
+
+
+msgid "Knowledge attached file"
+msgstr "知识附件"
+
+
+msgid "Knowledge feature image"
+msgstr "知识特征图像"
+
+
+msgid "Main color of chat window."
+msgstr "聊天窗口的主要颜色。"
+
+
+msgid "N B. If you select Facebook Chat then you have to reply form Facebook Page Manager App or from Facebook. You can't reply from this app"
+msgstr "N B.如果您选择Facebook聊天，那么您必须回复Facebook页面管理器应用程序或Facebook。你无法从这个应用程序回复"
+
+
+msgid "Name of ticket assigned user"
+msgstr "分配给用户的支持票名称"
+
+
+msgid "New Admin Note"
+msgstr "新管理员注意事项"
+
+
+msgid "New Ticket Assign Rule"
+msgstr "新支持票分配规则"
+
+
+msgid "New message or chat"
+msgstr "新消息或聊天"
+
+
+msgid "New ticket assigned"
+msgstr "已分配新票"
+
+
+msgid "New ticket assigned by you"
+msgstr "您分配的新支持票"
+
+
+msgid "New ticket received"
+msgstr "收到新支持票"
+
+
+msgid "No note founds"
+msgstr "没有注意事项"
+
+
+msgid "No ticket open by %s"
+msgstr "%s没有开门票"
+
+
+msgid "Note"
+msgstr "注意"
+
+
+msgid "Note On"
+msgstr "注意"
+
+
+msgid "Notification List"
+msgstr "通知清单"
+
+
+msgid "On Ticket Assign"
+msgstr "在支持票分配上"
+
+
+msgid "Password changed successfully"
+msgstr "密码更换成功"
+
+
+msgid "Password info"
+msgstr "密码信息"
+
+
+msgid "Payment Amount (%s)"
+msgstr "付款金额 ( %s)"
+
+
+msgid "Payment Amount(%s)"
+msgstr "付款金额( %s)"
+
+
+msgid "Permission Denied or logged out."
+msgstr "权限被拒绝或注销。"
+
+
+msgid "Please read it first"
+msgstr "请先阅读"
+
+
+msgid "Popular Knowledge"
+msgstr "大众知识"
+
+
+msgid "Recover Password"
+msgstr "恢复密码"
+
+
+msgid "Ref Id"
+msgstr "参考ID"
+
+
+msgid "Ref Type"
+msgstr "参考类型"
+
+
+msgid "Reset failed try again"
+msgstr "重置失败再试一次"
+
+
+msgid "Rule Id"
+msgstr "规则ID"
+
+
+msgid "Rule Type"
+msgstr "规则类型"
+
+
+msgid "SYSTEM"
+msgstr "系统"
+
+
+msgid "Select Category"
+msgstr "选择类别"
+
+
+msgid "Select Role"
+msgstr "选择角色"
+
+
+msgid "Select User"
+msgstr "选择用户"
+
+
+msgid "Select User/Agent/Supervisor"
+msgstr "选择用户/客服/主管"
+
+
+msgid "Selected agent/supervisor/admin will be notified on new ticket"
+msgstr "所选客服/主管/管理员将收到新票的通知"
+
+
+msgid "Selected agent/supervisor/admin will be notified on new ticket assigning"
+msgstr "选定的客服/主管/管理员将收到有关新机票分配的通知"
+
+
+msgid "Successfully assigned"
+msgstr "成功分配"
+
+
+msgid "Test Knowledge"
+msgstr "测试知识"
+
+
+msgid "Test attachedxcx"
+msgstr "测试附件xcx"
+
+
+msgid "The ticket will be close which is inactive for client response"
+msgstr "支持票将关闭，对于客户响应无效"
+
+
+msgid "The update has been disabled in DEMO MODE"
+msgstr "DEMO MODE中已禁用更新"
+
+
+msgid "The user who reopen this ticket"
+msgstr "重新打开此支持票的用户"
+
+
+msgid "This user can be agent/supervisor/admin"
+msgstr "该用户可以是客服/主管/管理员"
+
+
+msgid "Ticket Assign Rule"
+msgstr "支持票分配规则"
+
+
+msgid "Ticket Assign Rule List"
+msgstr "支持单分配规则列表"
+
+
+msgid "Ticket Closing Message"
+msgstr "支持票结束消息"
+
+
+msgid "Ticket Closing Message defined in Ticket settings"
+msgstr "支持单结算消息在支持单设置中定义"
+
+
+msgid "Ticket Feedback Buttons"
+msgstr "支持票反馈按钮"
+
+
+msgid "Ticket Open By Admin"
+msgstr "支持票由管理员打开"
+
+
+msgid "Ticket Payment Process"
+msgstr "支持票付款流程"
+
+
+msgid "Ticket user  replied"
+msgstr "支持票用户回复"
+
+
+msgid "Ticket_assign_rule"
+msgstr "支持票分配规则"
+
+
+msgid "Timezone updated successfully"
+msgstr "时区已成功更新"
+
+
+msgid "Title :"
+msgstr "标题："
+
+
+msgid "To see all settings effect on site, Please logout this session or try with other bowser. If admin logged in then you won't see the chat button"
+msgstr "要在网站上查看所有设置效果，请退出此会话或尝试使用其他bowser。如果管理员登录，则您将看不到聊天按钮"
+
+
+msgid "To see all settings effect on site, please logout admin user or try with other browser. If admin logged in then you won't see the chat button"
+msgstr "要查看网站上的所有设置效果，请退出管理员用户或尝试使用其他浏览器。如果管理员登录，则您将看不到聊天按钮"
+
+
+msgid "User Or Role"
+msgstr "用户或角色"
+
+
+msgid "View Closing Email Template"
+msgstr "查看结束电子邮件模板"
+
+
+msgid "You have assigned self to a ticket"
+msgstr "您已将自己分配给支持单"
+
+
+msgid "You have been replied a ticket"
+msgstr "你已经回复了一张支持票"
+
+
+msgid "You replied a ticket"
+msgstr "你回复了一张支持票"
+
+
+msgid "Your password has been changed successfully"
+msgstr "你已经成功更改密码"
+
+
+msgid "hours"
+msgstr "小时"
+
+
+msgid "second(s)"
+msgstr "秒"
+
+
+msgid "to view the ticket assigning rule"
+msgstr "查看支持单分配规则"
+
+
+msgid "Assign user"
+msgstr "分配用户"
+
+
+msgid "Bad, dissatisfied"
+msgstr "不好，不满意"
+
+
+msgid "Both"
+msgstr "都"
+
+
+msgid "Closed"
+msgstr "关闭"
+
+
+msgid "DB Query"
+msgstr "数据库查询"
+
+
+msgid "Edit Chat Canned Message"
+msgstr "编辑聊天固定消息"
+
+
+msgid "Edit Menu"
+msgstr "编辑菜单"
+
+
+msgid "Ex. http://xyz.com"
+msgstr "例http://xyz.com"
+
+
+msgid "Failed"
+msgstr "失败"
+
+
+msgid "Feedback message"
+msgstr "反馈信息"
+
+
+msgid "Guest"
+msgstr "访客"
+
+
+msgid "Guest Ticket User"
+msgstr "访客支持票"
+
+
+msgid "High"
+msgstr "高"
+
+
+msgid "Icon"
+msgstr "图标"
+
+
+msgid "In Progress"
+msgstr "进行中"
+
+
+msgid "Is New Window"
+msgstr "是新窗口"
+
+
+msgid "Leave as Current"
+msgstr "保持当前状态"
+
+
+msgid "Loading"
+msgstr "载入中"
+
+
+msgid "Low"
+msgstr "低"
+
+
+msgid "Medium"
+msgstr "介质"
+
+
+msgid "My Assigned All Tickets"
+msgstr "我分配的所有支持票"
+
+
+msgid "New"
+msgstr "新"
+
+
+msgid "New Menu"
+msgstr "新菜单"
+
+
+msgid "No search result found"
+msgstr "找不到搜索结果"
+
+
+msgid "Not Found"
+msgstr "未找到"
+
+
+msgid "Notice_confirm"
+msgstr "通知确认"
+
+
+msgid "Only On Knowledge"
+msgstr "只有知识"
+
+
+msgid "Only on Ticket"
+msgstr "只在支持票上"
+
+
+msgid "Page %s of %s"
+msgstr "页面  %s of  %s"
+
+
+msgid "Paid"
+msgstr "付费"
+
+
+msgid "Pending"
+msgstr "等待"
+
+
+msgid "Please write a comment on us here"
+msgstr "请在这里写评论"
+
+
+msgid "Refunded"
+msgstr "退款"
+
+
+msgid "Show Ticket"
+msgstr "显示支持票"
+
+
+msgid "Staff"
+msgstr "客服"
+
+
+msgid "Text Icon"
+msgstr "文字图标"
+
+
+msgid "Thank you for your feedback"
+msgstr "感谢您的反馈意见"
+
+
+msgid "Thank you for your feedback. It will help us."
+msgstr "感谢您的反馈意见。它会对我们有所帮助。"
+
+
+msgid "The website address is not valid"
+msgstr "网站地址无效"
+
+
+msgid "URL"
+msgstr "网址"
+
+
+msgid "Urgent"
+msgstr "紧急"
+
+
+msgid "View %s - %s of %s"
+msgstr "查看  %s -  %s of  %s"
+
+
+msgid "Well, satisfied"
+msgstr "很满意"
+
+
+msgid "Would you please share your experience with us?"
+msgstr "您能否与我们分享您的经验？"
+
+
+msgid "You are not authorizse to see this ticket"
+msgstr "您无权查看此支持票"
+
+
+msgid "day"
+msgstr "天"
+
+
+msgid "days"
+msgstr "天"
+
+
+msgid "minute"
+msgstr "分钟"
+
+
+msgid "minutes"
+msgstr "分钟"
+
+
+msgid "month"
+msgstr "月"
+
+
+msgid "months"
+msgstr "个月"
+
+
+msgid "second"
+msgstr "秒"
+
+
+msgid "week"
+msgstr "周"
+
+
+msgid "weeks"
+msgstr "每周"
+
+
+msgid "year"
+msgstr "年"
+
+
+msgid "years"
+msgstr "每年"
+
+
+msgid "ago"
+msgstr "以前"
+
+
+msgid "Ticket user(%s) replied"
+msgstr "支持票用户( %s) 回复"
+
+
+msgid "No category found"
+msgstr "找不到类别"
+
+
+msgid "Ticket Reply"
+msgstr "支持票回复"
+
+
+msgid "Invalid Information"
+msgstr "信息无效"
+
+
+msgid "Captcha Error"
+msgstr "验证错误"
+
+
+msgid "Assign self"
+msgstr "分配自己"
+
+
+msgid "Assign user %s"
+msgstr "分配用户 %s"
+
+
+msgid "Choose country block rule"
+msgstr "选择国家/地区规则"
+
+
+msgid "Choose.."
+msgstr "选择.."
+
+
+msgid "Country Block Rule"
+msgstr "国家区块规则"
+
+
+msgid "Country Block Settings"
+msgstr "国家/地区块设置"
+
+
+msgid "Country List"
+msgstr "国家清单"
+
+
+msgid "Enter 2 digit Country Code(ex. US,CA,BD), Separated by comma"
+msgstr "输入2位数的国家代码（例如US，CA，BD），用逗号分隔"
+
+
+msgid "If you enable it then app check country for allow or block."
+msgstr "如果您启用它，那么app会检查国家/地区是否允许或阻止。"
+
+
+msgid "No user found with this email address"
+msgstr "没有用户找到此电子邮件地址"
+
+
+msgid "Separated by comma"
+msgstr "用逗号分隔"
+
+
+msgid "Seperated by comma"
+msgstr "用逗号分隔"
+
+
+msgid "simultaneously"
+msgstr "同时"
+
+
+msgid "%d MIN"
+msgstr "%d MIN"
+
+
+msgid "Accept"
+msgstr "接受"
+
+
+msgid "Access denied for hacking attempts"
+msgstr "访问被拒绝进行黑客攻击"
+
+
+msgid "Admin Work Log"
+msgstr "管理工作日志"
+
+
+msgid "Allow User Own Account Delete Option"
+msgstr "允许用户自己的帐户删除选项"
+
+
+msgid "Allow User To Download Their User Data"
+msgstr "允许用户下载其用户数据"
+
+
+msgid "Are you sure to delete your account?"
+msgstr "您确定要删除自己的帐户吗？"
+
+
+msgid "Are you sure to reset?"
+msgstr "你确定要重置吗？"
+
+
+msgid "Assign"
+msgstr "分配"
+
+
+msgid "Auto"
+msgstr "自动"
+
+
+msgid "Auto Assigned"
+msgstr "自动分配"
+
+
+msgid "Background Color"
+msgstr "背景颜色"
+
+
+msgid "Background Opacity"
+msgstr "背景不透明度"
+
+
+msgid "Background Opacity is required"
+msgstr "背景不透明度是必需的"
+
+
+msgid "Choose Bar Close Animation"
+msgstr "选择栏关闭动画"
+
+
+msgid "Choose Bar Open Animation"
+msgstr "选择栏打开动画"
+
+
+msgid "Choose Display Event"
+msgstr "选择显示事件"
+
+
+msgid "Choose Policy Page"
+msgstr "选择政策页面"
+
+
+msgid "Cookie Bar Background Color"
+msgstr "Cookie 酒吧背景颜色"
+
+
+msgid "Cookie Message"
+msgstr "Cookie消息"
+
+
+msgid "Cookie bar text color"
+msgstr "Cookie栏文本颜色"
+
+
+msgid "Copy Link"
+msgstr "复制链接"
+
+
+msgid "Date"
+msgstr "日期"
+
+
+msgid "Default Value"
+msgstr "默认值"
+
+
+msgid "Delete my account"
+msgstr "删除我的账户"
+
+
+msgid "Deleted"
+msgstr "删除"
+
+
+msgid "Download this account data"
+msgstr "下载此帐户数据"
+
+
+msgid "Dropdown"
+msgstr "Dropdown"
+
+
+msgid "Edit Custom Field"
+msgstr "编辑自定义字段"
+
+
+msgid "Edit Page"
+msgstr "编辑页面"
+
+
+msgid "Error"
+msgstr "错误"
+
+
+msgid "Field Validation"
+msgstr "现场验证"
+
+
+msgid "GDPR Settings"
+msgstr "GDPR设置"
+
+
+msgid "General"
+msgstr "常规"
+
+
+msgid "Go Home Page"
+msgstr "返回主页"
+
+
+msgid "If you enable it, then app will show a notification bar for cookie message"
+msgstr "如果您启用它，那么应用程序将显示Cookie消息的通知栏"
+
+
+msgid "If you enable it, then site user or visitor can delete their account from their panel"
+msgstr "如果您启用它，则网站用户或访问者可以从其面板中删除其帐户"
+
+
+msgid "If you enable it, then site user or visitor can download their account data from their panel"
+msgstr "如果您启用它，那么网站用户或访问者可以从他们的面板下载他们的帐户数据"
+
+
+msgid "If you enable it, then when visitor click the privacy policy then that will be show in lighbox window"
+msgstr "如果您启用它，那么当访问者单击隐私策略时，将显示在lighbox窗口中"
+
+
+msgid "If you enable this then it field show in All Ticket list as column in admin panel"
+msgstr "如果您启用此功能，则该字段会在“所有故障单”列表中显示为管理面板中的列"
+
+
+msgid "In Form"
+msgstr "通知"
+
+
+msgid "Is Api Based"
+msgstr "基于Api"
+
+
+msgid "Is On Grid"
+msgstr "在网格上"
+
+
+msgid "It is the cookie bar background color"
+msgstr "它是cookie 背景颜色"
+
+
+msgid "It will control the opacity or background transparency of cookie bar background"
+msgstr "它将控制cookie栏背景的不透明度或背景透明度"
+
+
+msgid "Locked"
+msgstr "锁定"
+
+
+msgid "Locked(Hack)"
+msgstr "锁定（破解版）"
+
+
+msgid "Login Server"
+msgstr "登录服务器"
+
+
+msgid "Malicious Attempt on attached file. Attached file(s) has been skipped"
+msgstr "附加文件的恶意尝试。附件已被跳过"
+
+
+msgid "Manual"
+msgstr "手册"
+
+
+msgid "New IP"
+msgstr "新IP"
+
+
+msgid "New Page"
+msgstr "新的一页"
+
+
+msgid "New Work Log"
+msgstr "新工作日志"
+
+
+msgid "No work log founds"
+msgstr "没有找到工作日志"
+
+
+msgid "Normal"
+msgstr "正常"
+
+
+msgid "Notifiy"
+msgstr "通知"
+
+
+msgid "Numeric"
+msgstr "数字"
+
+
+msgid "On Submit Api Check"
+msgstr "提交Api检查"
+
+
+msgid "On Ticket Opening Form Category"
+msgstr "关于支持票开放表格类别"
+
+
+msgid "Others"
+msgstr "其他"
+
+
+msgid "Page"
+msgstr "页"
+
+
+msgid "Page Body"
+msgstr "页面正文"
+
+
+msgid "Pages"
+msgstr "网页"
+
+
+msgid "Policy Page is required"
+msgstr "政策页面是必需的"
+
+
+msgid "Published"
+msgstr "发布时间"
+
+
+msgid "Radio"
+msgstr "Radio"
+
+
+msgid "Read"
+msgstr "读"
+
+
+msgid "Reset IP"
+msgstr "重置IP"
+
+
+msgid "Select page"
+msgstr "选择页面"
+
+
+msgid "Show on Table Data List"
+msgstr "显示在表数据列表中"
+
+
+msgid "Slag Title"
+msgstr "Slag 标题"
+
+
+msgid "Success"
+msgstr "成功"
+
+
+msgid "Suspicious : Malicious attempt  on attached file: %s"
+msgstr "可疑：附加文件的恶意尝试 : %s"
+
+
+msgid "Suspicious: Malicious File Upload Attempts. If you tried to upload again then your ip will be blocked automatically"
+msgstr "可疑：恶意文件上传尝试。如果您尝试再次上传，则会自动阻止您的IP"
+
+
+msgid "Switch"
+msgstr "开关"
+
+
+msgid "Textbox"
+msgstr "文本框"
+
+
+msgid "This key is already used in another site. contact support team"
+msgstr "此密钥已在另一个站点中使用。联系支持团队"
+
+
+msgid "Ticket Id"
+msgstr "支持票ID"
+
+
+msgid "Ticket Re-Open"
+msgstr "支持票重新开放"
+
+
+msgid "Ticket user has been data deleted"
+msgstr "支持票用户已被删除数据"
+
+
+msgid "Undefined page"
+msgstr "未定义的页面"
+
+
+msgid "Unpublished"
+msgstr "未公布"
+
+
+msgid "View Cookie Notification Bar"
+msgstr "查看Cookie通知栏"
+
+
+msgid "View Page"
+msgstr "查看页面"
+
+
+msgid "View Policy In POP UP window(Lightbox)"
+msgstr "在POP UP窗口中查看策略（灯箱）"
+
+
+msgid "Viewed"
+msgstr "看"
+
+
+msgid "Work Time"
+msgstr "工作时间"
+
+
+msgid "Write %s for Policy Link and %s for only policy URL"
+msgstr "为策略链接写 %s，仅为策略URL写 %s"
+
+
+msgid "Write {{PolicyLink}} for Policy Link and {{PolicyURL}} for only policy URL"
+msgstr "为策略链接写{{PolicyLink}}，仅为策略URL写{{PolicyURL}}"
+
+
+msgid "You can create many page in page menu. Go to Admin Settings > Pages or %s"
+msgstr "您可以在页面菜单中创建许多页面。转到管理设置>页面或 %s"
+
+
+msgid "You logged in using %s"
+msgstr "您使用 %s登录"
+
+
+msgid "Disable Counter Icon"
+msgstr "禁用计数器图标"
+
+
+msgid "Disable Knowledge Like/Dislike Button"
+msgstr "禁用知识喜欢/不喜欢按钮"
+
+
+msgid "Disable knowledge like and dislike button"
+msgstr "禁用知识喜欢和不喜欢按钮"
+
+
+msgid "Do Not Show Last Update Date"
+msgstr "不显示上次更新日期"
+
+
+msgid "Do Not Show Last Update Date on Knowledge Details"
+msgstr "不在知识详细信息上显示上次更新日期"
+
+
+msgid "Do Not Show counter icon with knowledge"
+msgstr "不显示带有知识的计数器图标"
+
+
+msgid "Do Not Show counter with knowledge"
+msgstr "不要用知识显示计数器"
+
+
+msgid "If you enable this then it won't show the like or dislike button on knowledge details."
+msgstr "如果启用此功能，则不会在知识详细信息上显示相似或不喜欢的按钮。"
+
+
+msgid "If you enable this then, it won't show the last update date on knowledge details."
+msgstr "如果您启用此功能，则不会在知识详细信息上显示上次更新日期。"
+
+
+msgid "If you enable this then, it won't show the view/rate counter."
+msgstr "如果您启用此功能，则不会显示视图/费率计数器。"
+
+
+msgid "Last Update Date"
+msgstr "最后更新日期"
+
+
+msgid "Login Required, Please login"
+msgstr "需要登录，请登录"
+
+
+msgid "OR"
+msgstr "要么"
+

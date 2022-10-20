@@ -1,0 +1,7 @@
+<FilesMatch "\.(ttf|otf|eot|woff|woff2|png|jpg|svg)$">
+	 <IfModule mod_headers.c>
+        SetEnvIf Origin "http(s)?://(www\.)?(localhost|ytadawl.local)$" AccessControlAllowOrigin=$0
+        Header add Access-Control-Allow-Origin %{AccessControlAllowOrigin}e env=AccessControlAllowOrigin
+        Header merge Vary Origin
+    </IfModule>
+</FilesMatch>

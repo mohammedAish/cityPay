@@ -1,0 +1,4972 @@
+msgid ""
+msgstr ""                   
+"Project-Id-Version: v1.0 \n"
+"POT-Creation-Date: 2016-10-29 01:29+0600\n"
+"PO-Revision-Date: 2016-10-29 01:29+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: UTF-8\n"
+"Language: es\n"
+"X-Generator: AppsBD Translator App\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+msgid "!! You need to click save button to complete"
+msgstr "!! Debes hacer clic en el botón Guardar para completar"
+
+
+msgid "%s Popular Knowledge"
+msgstr "%s Preguntas frecuentes populares"
+
+
+msgid "%s Settings"
+msgstr "Configuración de %s"
+
+
+msgid "%s is required"
+msgstr "Se requiere %s"
+
+
+msgid "ADMIN MENU"
+msgstr "MENÚ ADMIN"
+
+
+msgid "API Based"
+msgstr "Basado en API"
+
+
+msgid "API Description"
+msgstr "Descripción API"
+
+
+msgid "API Setting"
+msgstr "Ajuste de API"
+
+
+msgid "API Settings"
+msgstr "Configuración de API"
+
+
+msgid "API Token"
+msgstr "Token API"
+
+
+msgid "API Type"
+msgstr "Tipo de API"
+
+
+msgid "APP User"
+msgstr "Usuario de la aplicación"
+
+
+msgid "About Support System"
+msgstr "Acerca del sistema de soporte"
+
+
+msgid "Action"
+msgstr "Acción"
+
+
+msgid "Action Required"
+msgstr "Acción requerida"
+
+
+msgid "Active"
+msgstr "Activo"
+
+
+msgid "Active Members"
+msgstr "Miembros activos"
+
+
+msgid "Active Paid Ticket"
+msgstr "Incidente de pago activo"
+
+
+msgid "Active Paid Tickets"
+msgstr "Incidencias pagadas activos"
+
+
+msgid "Active Tickets"
+msgstr "Incidencias activas"
+
+
+msgid "Add New"
+msgstr "Agregar nuevo"
+
+
+msgid "Added By"
+msgstr "Añadido por"
+
+
+msgid "Added On"
+msgstr "Añadido"
+
+
+msgid "Address"
+msgstr "Dirección"
+
+
+msgid "Address is required"
+msgstr "La dirección es necesaria"
+
+
+msgid "Admin Dashboard"
+msgstr "Tablero de administración"
+
+
+msgid "Admin Report"
+msgstr "Informe de administrador"
+
+
+msgid "Admin Setting"
+msgstr "Configuración del administrador"
+
+
+msgid "Admin Settings"
+msgstr "Configuración de administrador"
+
+
+msgid "Admin User"
+msgstr "Usuario administrador"
+
+
+msgid "Admin User Login Security"
+msgstr "Seguridad de inicio de sesión del usuario administrador"
+
+
+msgid "Agent"
+msgstr "Agente"
+
+
+msgid "Agent replied, needs your action"
+msgstr "El agente respondió, necesita tu acción"
+
+
+msgid "All Active Tickets"
+msgstr "Todas las incidencias activas"
+
+
+msgid "All Closed Tickets"
+msgstr "Todas las incidencias cerradas"
+
+
+msgid "All Paid Tickets"
+msgstr "Todas las incidencias pagadas"
+
+
+msgid "All Unassigned Tickets"
+msgstr "Todas las incidencias no asignadas"
+
+
+msgid "Amount"
+msgstr "Cantidad"
+
+
+msgid "Amount must be between %.2f and %.2f"
+msgstr "La cantidad debe estar entre %.2f y %.2f"
+
+
+msgid "Announcements"
+msgstr "Anuncios"
+
+
+msgid "Announcements List"
+msgstr "Lista de anuncios"
+
+
+msgid "App Information"
+msgstr "Información de la aplicación"
+
+
+msgid "App Logo"
+msgstr "Logotipo de la aplicación"
+
+
+msgid "App Update"
+msgstr "Actualización de la aplicación"
+
+
+msgid "App White Logo"
+msgstr "Logotipo aplicación en blanco"
+
+
+msgid "App update information"
+msgstr "Información de actualización de la aplicación"
+
+
+msgid "Application Security Settings"
+msgstr "Configuración de seguridad de la aplicación"
+
+
+msgid "Application Theme Settings"
+msgstr "Configuración del tema de la aplicación"
+
+
+msgid "Are you sure to change?"
+msgstr "¿Estás seguro de cambiar?"
+
+
+msgid "Are you sure to delete?"
+msgstr "¿Estás seguro de eliminar?"
+
+
+msgid "Assigned"
+msgstr "Asignado"
+
+
+msgid "Assigned On"
+msgstr "Asignado en"
+
+
+msgid "Assigned Tickets"
+msgstr "Incidencias asignadas"
+
+
+msgid "Attach File"
+msgstr "Adjuntar archivo"
+
+
+msgid "Best size is 400px x 400px"
+msgstr "El mejor tamaño es 400px x 400px"
+
+
+msgid "Birthday"
+msgstr "Cumpleaños"
+
+
+msgid "Birthday is required"
+msgstr "Cumpleaños es obligatorio"
+
+
+msgid "Body"
+msgstr "Contenido"
+
+
+msgid "Body is required"
+msgstr "Contenido es requerido"
+
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+
+msgid "Canned Message Fields"
+msgstr "Campos de mensajes almacenados"
+
+
+msgid "Canned Message List"
+msgstr "Lista de mensajes almacenados"
+
+
+msgid "Canned Messages"
+msgstr "Mensajes almacenados"
+
+
+msgid "Canned Msg"
+msgstr "Mensaje almacenado"
+
+
+msgid "Canned Msg is required"
+msgstr "Se requiere Mensaje almacenado"
+
+
+msgid "Canned_msg"
+msgstr "Mensaje almacenado"
+
+
+msgid "Categories"
+msgstr "Categorías"
+
+
+msgid "Category"
+msgstr "Categoría"
+
+
+msgid "Category List"
+msgstr "Lista de categoría"
+
+
+msgid "Category is required"
+msgstr "la categoria es requerida"
+
+
+msgid "Change"
+msgstr "Cambio"
+
+
+msgid "Change Password"
+msgstr "Cambia la contraseña"
+
+
+msgid "Change password of %s"
+msgstr "Cambiar contraseña de %s"
+
+
+msgid "Choose Homepage"
+msgstr "Elija la página principal"
+
+
+msgid "Choose Theme"
+msgstr "Escoge un tema"
+
+
+msgid "City"
+msgstr "Ciudad"
+
+
+msgid "City is required"
+msgstr "Ciudad es requerida"
+
+
+msgid "Click here"
+msgstr "haga clic aquí"
+
+
+msgid "Click on the Image to change"
+msgstr "Haga clic en la imagen para cambiar"
+
+
+msgid "Click on the Image to change or upload."
+msgstr "Haga clic en la imagen para cambiar o cargar."
+
+
+msgid "Click on the Image to change. Best size hight is 40px"
+msgstr "Haga clic en la imagen para cambiar. La mejor altura del tamaño es 40px"
+
+
+msgid "Click on the Image to change. Best size is 75px x 75px"
+msgstr "Haga clic en la imagen para cambiar. El mejor tamaño es 75px x 75px"
+
+
+msgid "Click to see details"
+msgstr "Haga clic para ver los detalles"
+
+
+msgid "Client"
+msgstr "Cliente"
+
+
+msgid "Client List"
+msgstr "Lista de clientes"
+
+
+msgid "Close"
+msgstr "Cerrar"
+
+
+msgid "Close Tickets"
+msgstr "Cerrar incidencias"
+
+
+msgid "Closed Tickets"
+msgstr "Incidencias cerradas"
+
+
+msgid "Contact Number"
+msgstr "Número de contacto"
+
+
+msgid "Controller Title"
+msgstr "Título del controlador"
+
+
+msgid "Copy Cron Link"
+msgstr "Copiar Cron Link"
+
+
+msgid "Copy callback url"
+msgstr "Copiar URL de devolución de llamada"
+
+
+msgid "Country"
+msgstr "País"
+
+
+msgid "Country Code"
+msgstr "Código de país"
+
+
+msgid "Country Name"
+msgstr "Nombre del país"
+
+
+msgid "Country is required"
+msgstr "El país es requerido"
+
+
+msgid "Create Date"
+msgstr "Fecha de Creación"
+
+
+msgid "Create Ticket"
+msgstr "Crear incidencia"
+
+
+msgid "Create Time"
+msgstr "Crear tiempo"
+
+
+msgid "Created By"
+msgstr "Creado por"
+
+
+msgid "Cron Job Command"
+msgstr "Comando Cron Job"
+
+
+msgid "Current Ticket Status"
+msgstr "Estado actual de la incidencia"
+
+
+msgid "Current version is : %s"
+msgstr "La versión actual es: %s"
+
+
+msgid "Custom Field List"
+msgstr "Lista de campos personalizados"
+
+
+msgid "Custom Fields"
+msgstr "Campos Personalizados"
+
+
+msgid "Dashboard"
+msgstr "Tablero"
+
+
+msgid "Date of Birth"
+msgstr "Fecha de nacimiento"
+
+
+msgid "Debug Log"
+msgstr "Registro de depuración"
+
+
+msgid "Debug Log List"
+msgstr "Lista de registro de depuración"
+
+
+msgid "Delete"
+msgstr "Borrar"
+
+
+msgid "Description"
+msgstr "Descripción"
+
+
+msgid "Description is required"
+msgstr "Descripción es requerida"
+
+
+msgid "Details"
+msgstr "Detalles"
+
+
+msgid "Details Debug Log"
+msgstr "Detalles Debug Log"
+
+
+msgid "Details Log"
+msgstr "Registro de detalles"
+
+
+msgid "Details info of IP(192.168.10.71)"
+msgstr "Detalles de información de IP (192.168.10.71)"
+
+
+msgid "Disable this if you want real payment"
+msgstr "Deshabilita esto si quieres un pago real"
+
+
+msgid "DoS Attack Security"
+msgstr "Seguridad de ataque DoS"
+
+
+msgid "Don't upload if you don't want"
+msgstr "No subir si no quieres"
+
+
+msgid "Edit"
+msgstr "Editar"
+
+
+msgid "Edit Announcements"
+msgstr "Editar anuncios"
+
+
+msgid "Edit Canned Message"
+msgstr "Editar mensaje guardado"
+
+
+msgid "Edit Category"
+msgstr "Editar categoria"
+
+
+msgid "Edit Client"
+msgstr "Editar cliente"
+
+
+msgid "Edit IP"
+msgstr "Editar IP"
+
+
+msgid "Edit Knowledge"
+msgstr "Editar preguntas frecuentes"
+
+
+msgid "Edit Role"
+msgstr "Editar rol"
+
+
+msgid "Email"
+msgstr "Email"
+
+
+msgid "Email Address"
+msgstr "Dirección de correo electrónico"
+
+
+msgid "Email Outgoing Settings"
+msgstr "Configuración de salida de correo electrónico"
+
+
+msgid "Email Settings"
+msgstr "Ajustes del correo electrónico"
+
+
+msgid "Email Templates"
+msgstr "Plantillas de correo electrónico"
+
+
+msgid "Email Templates List"
+msgstr "Lista de plantillas de correo electrónico"
+
+
+msgid "Email To Ticket Settings"
+msgstr "Configuración de correo electrónico a ticket"
+
+
+msgid "Email is required"
+msgstr "correo electronico es requerido"
+
+
+msgid "Email to Ticket Settings Form"
+msgstr "Correo electrónico a formulario de configuración de incidencias"
+
+
+msgid "Enable Auto Reload (every %d min)"
+msgstr "Habilitar recarga automática (cada %d min)"
+
+
+msgid "Enable Email To Ticket/Reply"
+msgstr "Habilitar Email para respuesta de la incidencia"
+
+
+msgid "Enable it if your protocol is secure"
+msgstr "Habilítelo si su protocolo es seguro"
+
+
+msgid "Enable it to secure admin/staff user"
+msgstr "Habilítalo para proteger al usuario de administrador / personal"
+
+
+msgid "Enable this to enable paypal payment"
+msgstr "Habilítalo para habilitar el pago de PayPal"
+
+
+msgid "Enable to convert email to ticket"
+msgstr "Habilitar para convertir el correo electrónico al ticket"
+
+
+msgid "End Date"
+msgstr "Fecha final"
+
+
+msgid "End Date is required"
+msgstr "La fecha de finalización es obligatoria"
+
+
+msgid "Entry Time"
+msgstr "Hora de entrada"
+
+
+msgid "Entry Type"
+msgstr "Tipo de entrada"
+
+
+msgid "Envato"
+msgstr "Envato"
+
+
+msgid "Envato Setting"
+msgstr "Envato Setting"
+
+
+msgid "Envato Username"
+msgstr "Nombre de usuario Envato"
+
+
+msgid "Ex. 192.168.10.1"
+msgstr "Ex. 192.168.10.1"
+
+
+msgid "Example: Temporary lock admin or staff user if attempts 5 miss login in 30 minutes"
+msgstr "Ejemplo: administrador de bloqueo temporal o usuario del personal si los intentos 5 fallan al iniciar sesión en 30 minutos"
+
+
+msgid "Example: if request more then 5 in 5 second then show captcha or block ip"
+msgstr "Ejemplo: si solicita más de 5 en 5 segundos, entonces muestre captcha o bloquee ip"
+
+
+msgid "Featured Image"
+msgstr "Foto principal"
+
+
+msgid "File Attached"
+msgstr "Archivo adjunto"
+
+
+msgid "File Type"
+msgstr "Tipo de archivo"
+
+
+msgid "First Name"
+msgstr "Nombre"
+
+
+msgid "First Name is required"
+msgstr "Se requiere el primer nombre"
+
+
+msgid "From"
+msgstr "De"
+
+
+msgid "From Email"
+msgstr "Desde el e-mail"
+
+
+msgid "From Email is required"
+msgstr "De correo electrónico es obligatorio"
+
+
+msgid "From Name"
+msgstr "De nombre"
+
+
+msgid "From Name is required"
+msgstr "De nombre es obligatorio"
+
+
+msgid "Gender"
+msgstr "Género"
+
+
+msgid "General Settings"
+msgstr "Configuración general"
+
+
+msgid "Generate an API key in your envato account and enter here"
+msgstr "Genera una clave API en tu cuenta envato e ingresa aquí"
+
+
+msgid "Has Super Power"
+msgstr "Tiene superpotencia"
+
+
+msgid "Hello, %s"
+msgstr "Hola, %s"
+
+
+msgid "Helpfull"
+msgstr "Útil"
+
+
+msgid "Home"
+msgstr "Inicio"
+
+
+msgid "Host"
+msgstr "Anfitrión"
+
+
+msgid "Host & Port"
+msgstr "Puerto host"
+
+
+msgid "Host is required"
+msgstr "Se requiere host"
+
+
+msgid "IMAP Help"
+msgstr "Ayuda de IMAP"
+
+
+msgid "IMAP Settings"
+msgstr "Configuración de IMAP"
+
+
+msgid "IP"
+msgstr "IP"
+
+
+msgid "IP List"
+msgstr "Lista de IP"
+
+
+msgid "IP is required"
+msgstr "IP es requerido"
+
+
+msgid "If request more than"
+msgstr "Si solicita más de"
+
+
+msgid "If you don't choose the white logo then primary logo will be displayed in site header"
+msgstr "Si no elige el logotipo blanco, el logotipo principal se mostrará en el encabezado del sitio"
+
+
+msgid "If you enable it then app prevent DoS Attack."
+msgstr "Si lo habilita, la aplicación previene el ataque DoS."
+
+
+msgid "If you enable this then logo only show in site header"
+msgstr "Si habilita esto, entonces el logotipo solo se muestra en el encabezado del sitio"
+
+
+msgid "If you enable this, then all payment will be in test mode. Don't do this if you want real payment"
+msgstr "Si habilita esto, todo el pago se realizará en modo de prueba. No hagas esto si quieres un pago real"
+
+
+msgid "If you want to remove license form this site then click"
+msgstr "Si desea eliminar la licencia de este sitio, haga clic en"
+
+
+msgid "Inactive"
+msgstr "Inactivo"
+
+
+msgid "Invalid Information"
+msgstr "Información inválida"
+
+
+msgid "Invalid data"
+msgstr "Datos inválidos"
+
+
+msgid "Is Secure Protocol (SSL)"
+msgstr "Es protocolo seguro (SSL)"
+
+
+msgid "Is Sticky/Pinned ?"
+msgstr "¿Está fijado?"
+
+
+msgid "Is it helpfull?"
+msgstr "¿Es útil?"
+
+
+msgid "It won't show any where, It is just for track"
+msgstr "No mostrará ningún lugar, es solo para seguir"
+
+
+msgid "Join : %s"
+msgstr "Unirse: %s"
+
+
+msgid "Join Date"
+msgstr "Fecha de Ingreso"
+
+
+msgid "Key is already exists"
+msgstr "La clave ya existe"
+
+
+msgid "Knowledge"
+msgstr "Preguntas frecuentes"
+
+
+msgid "Knowledge List"
+msgstr "Lista de preguntas frecuentes"
+
+
+msgid "L.Reply Time"
+msgstr "Tiempo de respuesta"
+
+
+msgid "Label"
+msgstr "Etiqueta"
+
+
+msgid "Last Name"
+msgstr "Apellido"
+
+
+msgid "Last Name is required"
+msgstr "El apellido es obligatorio"
+
+
+msgid "Last Replied"
+msgstr "Última respuesta"
+
+
+msgid "Last Reply"
+msgstr "Última respuesta"
+
+
+msgid "Last Reply Time"
+msgstr "Última hora de respuesta"
+
+
+msgid "Last updated on"
+msgstr "ultima actualizacion en"
+
+
+msgid "Latitude"
+msgstr "Latitud"
+
+
+msgid "License"
+msgstr "Licencia"
+
+
+msgid "License Domain"
+msgstr "Dominio de licencia"
+
+
+msgid "License Info"
+msgstr "Información de licencia"
+
+
+msgid "License Information"
+msgstr "Información de licencia"
+
+
+msgid "License Key"
+msgstr "Clave de licencia"
+
+
+msgid "License Title"
+msgstr "Título de licencia"
+
+
+msgid "Link"
+msgstr "Enlazar"
+
+
+msgid "Locked User"
+msgstr "Usuario bloqueado"
+
+
+msgid "Locked User List"
+msgstr "Lista de usuarios bloqueados"
+
+
+msgid "Log Type"
+msgstr "Tipo de registro"
+
+
+msgid "Login"
+msgstr "Iniciar sesión"
+
+
+msgid "Logout"
+msgstr "Cerrar sesión"
+
+
+msgid "Longitude"
+msgstr "Longitud"
+
+
+msgid "MENU"
+msgstr "MENÚ"
+
+
+msgid "Max file size is  %s MB"
+msgstr "El tamaño máximo de archivo es %s MB"
+
+
+msgid "Max file size is %s MB"
+msgstr "El tamaño máximo de archivo es %s MB"
+
+
+msgid "Menu List"
+msgstr "Lista de menú"
+
+
+msgid "Message"
+msgstr "Mensaje"
+
+
+msgid "Message Details"
+msgstr "Detalles del mensaje"
+
+
+msgid "Method"
+msgstr "Método"
+
+
+msgid "Miss Login Tried"
+msgstr "Intentos fallidos de inicio"
+
+
+msgid "More homepage will be come in next version"
+msgstr "Más página de inicio vendrá en la próxima versión"
+
+
+msgid "More theme will be come in next version"
+msgstr "Más tema vendrá en la próxima versión"
+
+
+msgid "Most Helpful Articles"
+msgstr "Artículos más útiles"
+
+
+msgid "My Active Paid Tickets"
+msgstr "Mis incidencias pagadas activas"
+
+
+msgid "My Active Tickets"
+msgstr "Mis incidencias activas"
+
+
+msgid "My Assigned Tickets"
+msgstr "Mis incidencias asignadas"
+
+
+msgid "My Closed Tickets"
+msgstr "Mis incidencias cerradas"
+
+
+msgid "My Dashboard"
+msgstr "Mi tablero"
+
+
+msgid "My Menu"
+msgstr "Mi menú"
+
+
+msgid "My Message"
+msgstr "Mi mensaje"
+
+
+msgid "N"
+msgstr "norte"
+
+
+msgid "Name"
+msgstr "Nombre"
+
+
+msgid "New Announcements"
+msgstr "Nuevos anuncios"
+
+
+msgid "New Canned Message"
+msgstr "Nuevo mensaje almacenado"
+
+
+msgid "New Category"
+msgstr "Nueva categoría"
+
+
+msgid "New Client"
+msgstr "Cliente nuevo"
+
+
+msgid "New Knowledge"
+msgstr "Nuevos preguntas frecuentes"
+
+
+msgid "New Role"
+msgstr "Nuevo rol"
+
+
+msgid "New Ticket"
+msgstr "Nueva incidencia"
+
+
+msgid "New Ticket Form"
+msgstr "Nuevo formulario de incidencia"
+
+
+msgid "New Window"
+msgstr "Nueva ventana"
+
+
+msgid "No"
+msgstr "No"
+
+
+msgid "No active ticket found"
+msgstr "No se encontró incidencia activa"
+
+
+msgid "No closed ticket found"
+msgstr "No se ha encontrado una incidencia cerrada"
+
+
+msgid "Not Helpfull"
+msgstr "No es útil"
+
+
+msgid "Notice For"
+msgstr "Aviso para"
+
+
+msgid "Notice Text"
+msgstr "Texto de aviso"
+
+
+msgid "Notice text is required"
+msgstr "El texto del aviso es obligatorio"
+
+
+msgid "Notification"
+msgstr "Notificación"
+
+
+msgid "Old Password"
+msgstr "Contraseña anterior"
+
+
+msgid "Open Ticket"
+msgstr "Abrir incidencia"
+
+
+msgid "Open Time"
+msgstr "Tiempo abierto"
+
+
+msgid "Opened"
+msgstr "Abrió"
+
+
+msgid "Opened Time"
+msgstr "Tiempo abierto"
+
+
+msgid "Options"
+msgstr "Opciones"
+
+
+msgid "Order"
+msgstr "Orden"
+
+
+msgid "Page Name"
+msgstr "Nombre de la página"
+
+
+msgid "Parent Category"
+msgstr "Categoría principal"
+
+
+msgid "Parent Category is required"
+msgstr "Se requiere categoría principal"
+
+
+msgid "Password"
+msgstr "Contraseña"
+
+
+msgid "Password is required"
+msgstr "se requiere contraseña"
+
+
+msgid "Password reset"
+msgstr "Restablecimiento de contraseña"
+
+
+msgid "Payer Email"
+msgstr "Email del pagador"
+
+
+msgid "Payment Amount"
+msgstr "Total a pagar"
+
+
+msgid "Payment Amount is required"
+msgstr "Se requiere pago"
+
+
+msgid "Payment Description"
+msgstr "descripción de pago"
+
+
+msgid "Payment Details"
+msgstr "Detalles del pago"
+
+
+msgid "Payment List"
+msgstr "Lista de pagos"
+
+
+msgid "Payment Method Status"
+msgstr "Estado de método de pago"
+
+
+msgid "Paypal Setting"
+msgstr "Configuración de Paypal"
+
+
+msgid "Paypal Settings"
+msgstr "Configuración de Paypal"
+
+
+msgid "Permission"
+msgstr "Permiso"
+
+
+msgid "Pinned Articles"
+msgstr "Artículos con chincheta"
+
+
+msgid "Popular Articles"
+msgstr "Artículos más vistos"
+
+
+msgid "Port"
+msgstr "Puerto"
+
+
+msgid "Port is required"
+msgstr "El puerto es requerido"
+
+
+msgid "Posted By"
+msgstr "Publicado por"
+
+
+msgid "Priroty"
+msgstr "Prioridad"
+
+
+msgid "Priroty is required"
+msgstr "Se requiere prioridad"
+
+
+msgid "Process Date"
+msgstr "Fecha de procesamiento"
+
+
+msgid "Process Log"
+msgstr "Registro de proceso"
+
+
+msgid "Process Time"
+msgstr "Tiempo de procesamiento"
+
+
+msgid "Processing"
+msgstr "Tratamiento"
+
+
+msgid "Profile"
+msgstr "Perfil"
+
+
+msgid "Property"
+msgstr "Propiedad"
+
+
+msgid "Re-Check Update"
+msgstr "Volver a verificar la actualización"
+
+
+msgid "Re-Open"
+msgstr "Reabrir"
+
+
+msgid "Read article to provide best support"
+msgstr "Lea el artículo para proporcionar el mejor soporte"
+
+
+msgid "Recent Articles"
+msgstr "Artículos Recientes"
+
+
+msgid "Register"
+msgstr "Registro"
+
+
+msgid "Remove"
+msgstr "retirar"
+
+
+msgid "Remove License"
+msgstr "Eliminar licencia"
+
+
+msgid "Replay"
+msgstr "Repetición"
+
+
+msgid "Reply"
+msgstr "Respuesta"
+
+
+msgid "Reply To Ticket"
+msgstr "Responder a la entrada"
+
+
+msgid "Reply is required"
+msgstr "Responder es requerido"
+
+
+msgid "Reply text is required"
+msgstr "El texto de respuesta es obligatorio"
+
+
+msgid "Reply user group"
+msgstr "Grupo de usuarios de respuesta"
+
+
+msgid "Reply user name"
+msgstr "Responder nombre de usuario"
+
+
+msgid "Request Count is required"
+msgstr "El conteo de solicitudes es obligatorio"
+
+
+msgid "Required"
+msgstr "Necesario"
+
+
+msgid "Reset"
+msgstr "Reiniciar"
+
+
+msgid "Reset link has been sent to the user"
+msgstr "El enlace de restablecimiento ha sido enviado al usuario"
+
+
+msgid "Role"
+msgstr "Rol"
+
+
+msgid "Role  List"
+msgstr "Lista de roles"
+
+
+msgid "Role Access"
+msgstr "Acceso a roles"
+
+
+msgid "Role List"
+msgstr "Lista de roles"
+
+
+msgid "Role is required"
+msgstr "Se requiere un rol"
+
+
+msgid "SMTP Settings"
+msgstr "Configuración de SMTP"
+
+
+msgid "STAFF MENU"
+msgstr "MENÚ PERSONAL"
+
+
+msgid "Save"
+msgstr "Salvar"
+
+
+msgid "Schedule"
+msgstr "Calendario"
+
+
+msgid "Search"
+msgstr "Buscar"
+
+
+msgid "Seconds is required"
+msgstr "Se requieren segundos"
+
+
+msgid "Security Settings"
+msgstr "Configuraciones de seguridad"
+
+
+msgid "Select"
+msgstr "Seleccionar"
+
+
+msgid "Send"
+msgstr "Enviar"
+
+
+msgid "Sendmail Path"
+msgstr "Ruta de Sendmail"
+
+
+msgid "Sendmail Path is required"
+msgstr "La ruta de Sendmail es obligatoria"
+
+
+msgid "Sendmail or SMTP"
+msgstr "Sendmail o SMTP"
+
+
+msgid "Sent Message"
+msgstr "Mensaje enviado"
+
+
+msgid "Set Status"
+msgstr "Establecer estado"
+
+
+msgid "Set this cron command into your server cron list, otherwise email to ticket won't work"
+msgstr "Establezca este comando cron en la lista cron de su servidor; de lo contrario, no funcionará el correo electrónico al ticket"
+
+
+msgid "Show IP List"
+msgstr "Mostrar lista de IP"
+
+
+msgid "Show List"
+msgstr "Mostrar lista"
+
+
+msgid "Show Locked User List"
+msgstr "Mostrar la lista de usuarios bloqueados"
+
+
+msgid "Show On"
+msgstr "Mostrar en"
+
+
+msgid "Show only logo in header"
+msgstr "Mostrar solo logotipo en el encabezado"
+
+
+msgid "Site Menu"
+msgstr "Menú del sitio"
+
+
+msgid "Site Security"
+msgstr "Seguridad del sitio"
+
+
+msgid "Social Setting"
+msgstr "Entorno social"
+
+
+msgid "Social Settings"
+msgstr "Ajustes sociales"
+
+
+msgid "Start Date"
+msgstr "Fecha de inicio"
+
+
+msgid "Start Date is required"
+msgstr "La fecha de inicio es obligatoria"
+
+
+msgid "Status"
+msgstr "Estado"
+
+
+msgid "Status is required"
+msgstr "El estado es requerido"
+
+
+msgid "Sticky/Pinned"
+msgstr "Fijado"
+
+
+msgid "Still Need Support?"
+msgstr "Todavía necesita ayuda?"
+
+
+msgid "Sub Title"
+msgstr "Subtítulo"
+
+
+msgid "Subject"
+msgstr "Tema"
+
+
+msgid "Successfully Updated"
+msgstr "Actualizado exitosamente"
+
+
+msgid "Suggested Knowledge"
+msgstr "Pregunta frecuente sugerida"
+
+
+msgid "Super Admin"
+msgstr "Super administrador"
+
+
+msgid "Supervisor"
+msgstr "Supervisor"
+
+
+msgid "Support System"
+msgstr "Sistema de apoyo"
+
+
+msgid "System Update"
+msgstr "Actualizacion del sistema"
+
+
+msgid "Tag"
+msgstr "Etiqueta"
+
+
+msgid "Tag is required"
+msgstr "Tag es requerido"
+
+
+msgid "Temporary lock admin or staff user, if attempts"
+msgstr "Administrador de bloqueo temporal o usuario de personal, si intenta"
+
+
+msgid "Text must be less then %d characters length"
+msgstr "El texto debe ser inferior a la longitud de los caracteres %d"
+
+
+msgid "Thank you for being with us"
+msgstr "Gracias por estar con nosotros"
+
+
+msgid "The time is base on %s timezone"
+msgstr "La hora es base en %s zona horaria"
+
+
+msgid "The user who has opened ticket"
+msgstr "El usuario que ha abierto el ticket"
+
+
+msgid "Theme Settings"
+msgstr "Ajustes de tema"
+
+
+msgid "This email address is already exist"
+msgstr "Esta dirección de correo electrónico ya existe"
+
+
+msgid "Ticket"
+msgstr "Incidencia"
+
+
+msgid "Ticket Body"
+msgstr "Contenido de la incidencia"
+
+
+msgid "Ticket Body is required"
+msgstr "El contenido de la incidencia es obligatorio"
+
+
+msgid "Ticket Category"
+msgstr "Categoría de incidencias"
+
+
+msgid "Ticket Details"
+msgstr "Detalles de la incidencia"
+
+
+msgid "Ticket Feedback"
+msgstr "Comentarios de incidencias"
+
+
+msgid "Ticket Feedback List"
+msgstr "Lista de comentarios de incidencias"
+
+
+msgid "Ticket History"
+msgstr "Historial de incidencias"
+
+
+msgid "Ticket Information"
+msgstr "información de incidencias"
+
+
+msgid "Ticket Payment Details"
+msgstr "Detalles de pago de incidencias"
+
+
+msgid "Ticket Payment List"
+msgstr "Lista de pago de incidencias"
+
+
+msgid "Ticket Priroty"
+msgstr "Prioridad de incidencia"
+
+
+msgid "Ticket Status"
+msgstr "Estado de la incidencia"
+
+
+msgid "Ticket Subject"
+msgstr "Contenido de la incidencia"
+
+
+msgid "Ticket Title"
+msgstr "Título de la entrada"
+
+
+msgid "Ticket Track ID"
+msgstr "Identificación de seguimiento de incidencias"
+
+
+msgid "Ticket User"
+msgstr "Usuario de incidencias"
+
+
+msgid "Ticket closed do you want to re-open?"
+msgstr "Incidencia cerrada ¿quieres volver a abrir?"
+
+
+msgid "Ticket subject is required"
+msgstr "El contenido de la incidencia es obligatorio"
+
+
+msgid "Tickets"
+msgstr "Incidencias"
+
+
+msgid "Time"
+msgstr "Hora"
+
+
+msgid "Timezone"
+msgstr "Zona horaria"
+
+
+msgid "Title"
+msgstr "Título"
+
+
+msgid "Title is required"
+msgstr "Título es requerido"
+
+
+msgid "To"
+msgstr "A"
+
+
+msgid "Today's"
+msgstr "Hoy"
+
+
+msgid "Topbar Icon"
+msgstr "Icono de barra superior"
+
+
+msgid "Topbar Icon List"
+msgstr "Lista de iconos de la barra superior"
+
+
+msgid "Total"
+msgstr "Total"
+
+
+msgid "Total Closed Ticket"
+msgstr "Incidencia cerrada total"
+
+
+msgid "Total Closed Tickets"
+msgstr "Total de incidencias cerradas"
+
+
+msgid "Transction ID"
+msgstr "ID de transacción"
+
+
+msgid "Type"
+msgstr "Tipo"
+
+
+msgid "Tzone is required"
+msgstr "Tzone es obligatorio"
+
+
+msgid "USER MENU"
+msgstr "MENÚ DEL USUARIO"
+
+
+msgid "Unassigned Tickets"
+msgstr "Incidencias no asignadas"
+
+
+msgid "Update"
+msgstr "Actualizar"
+
+
+msgid "Update User"
+msgstr "Actualizar usuario"
+
+
+msgid "Uploaded file is not  supported"
+msgstr "El archivo subido no es compatible"
+
+
+msgid "Use this as your callback url into facebook developer panel"
+msgstr "Use esto como su url de devolución de llamada en el panel de desarrolladores de Facebook"
+
+
+msgid "Use this as your callback url into twitter developer panel"
+msgstr "Use esto como su url de devolución de llamada en el panel de desarrolladores de Twitter"
+
+
+msgid "Use this as your callback url into your google developer console"
+msgstr "Use esto como su url de devolución de llamada en su consola de desarrollador de Google"
+
+
+msgid "User"
+msgstr "Usuario"
+
+
+msgid "User (Email)"
+msgstr "Usuario (correo electrónico)"
+
+
+msgid "User (Email) is required"
+msgstr "Usuario (correo electrónico) es obligatorio"
+
+
+msgid "User Id"
+msgstr "Identidad de usuario"
+
+
+msgid "User List"
+msgstr "Lista de usuarios"
+
+
+msgid "User Panel"
+msgstr "Panel de usuario"
+
+
+msgid "User Settings"
+msgstr "Ajustes de usuario"
+
+
+msgid "User is required"
+msgstr "El usuario es requerido"
+
+
+msgid "Username"
+msgstr "Nombre de usuario"
+
+
+msgid "Value"
+msgstr "Valor"
+
+
+msgid "Verified"
+msgstr "Verificado"
+
+
+msgid "View Details"
+msgstr "Ver detalles"
+
+
+msgid "View Knowledge"
+msgstr "Ver conocimiento"
+
+
+msgid "View Site"
+msgstr "Ver sitio"
+
+
+msgid "View all"
+msgstr "Ver todo"
+
+
+msgid "Views"
+msgstr "Puntos de vista"
+
+
+msgid "Write here.."
+msgstr "Escriba aqui.."
+
+
+msgid "Write reply here.."
+msgstr "Escribir respuesta aquí .."
+
+
+msgid "Yes"
+msgstr "Sí"
+
+
+msgid "You think it is helpfull"
+msgstr "Crees que es útil"
+
+
+msgid "You think it is not helpfull"
+msgstr "Crees que no es útil"
+
+
+msgid "Your Site URL"
+msgstr "La URL de su sitio"
+
+
+msgid "Your application is up to date"
+msgstr "Su aplicación está actualizada"
+
+
+msgid "Your closed ticket list"
+msgstr "Su lista de incidencias cerrada"
+
+
+msgid "Your current ticket status"
+msgstr "Su estado actual de incidencia"
+
+
+msgid "Your envato(CodeCanyon, Themeforest,etc) username"
+msgstr "Su nombre de usuario envato (CodeCanyon, Themeforest, etc.)"
+
+
+msgid "Your site name"
+msgstr "El nombre de su sitio"
+
+
+msgid "Your total active tickets"
+msgstr "Tus incidencias activas totales"
+
+
+msgid "Youtube Accounts"
+msgstr "Cuentas de Youtube"
+
+
+msgid "Zip"
+msgstr "ZIP"
+
+
+msgid "Zip is required"
+msgstr "Se requiere Zip"
+
+
+msgid "by"
+msgstr "por"
+
+
+msgid "ex.5"
+msgstr "ex.5"
+
+
+msgid "is required"
+msgstr "es requerido"
+
+
+msgid "minuites"
+msgstr "minutos"
+
+
+msgid "miss login in"
+msgstr "Inicio fallido a"
+
+
+msgid "on"
+msgstr "en"
+
+
+msgid "seconds, then"
+msgstr "segundos, luego"
+
+
+msgid "setup for Social Login"
+msgstr "Configuración para Social Login"
+
+
+msgid "to get custom payment"
+msgstr "para obtener pagos personalizados"
+
+
+msgid "Already registered?"
+msgstr "¿Ya registrado?"
+
+
+msgid "E-mail"
+msgstr "Email"
+
+
+msgid "Email address is alreay exists"
+msgstr "La dirección de correo electrónico ya existe"
+
+
+msgid "Forgot password?"
+msgstr "¿Se te olvidó tu contraseña?"
+
+
+msgid "Guest Ticket"
+msgstr "Entrada de invitado"
+
+
+msgid "Low Priroty"
+msgstr "Baja prioridad"
+
+
+msgid "Not member yet ?"
+msgstr "No miembro todavía?"
+
+
+msgid "Open Ticket With Less Priroty"
+msgstr "Incidencia abierta con menos prioridad"
+
+
+msgid "Open ticket after login"
+msgstr "Abrir incidencia después de iniciar sesión"
+
+
+msgid "Open ticket after register"
+msgstr "Abrir incidencia después de registrarse"
+
+
+msgid "Or Login Using"
+msgstr "O inicie sesión usando"
+
+
+msgid "Or Register Using"
+msgstr "O Registrarse usando"
+
+
+msgid "Or open ticket using"
+msgstr "O abra incidencia usando"
+
+
+msgid "Submit"
+msgstr "Enviar"
+
+
+msgid "Top Priroty"
+msgstr "Máxima prioridad"
+
+
+msgid "User Login"
+msgstr "Inicio de sesión de usuario"
+
+
+msgid "User Registration"
+msgstr "registro de usuario"
+
+
+msgid "You are not logged in. What would you like do now?"
+msgstr "No has iniciado sesión. ¿Qué te gustaría hacer ahora?"
+
+
+msgid "fields are required"
+msgstr "los campos son obligatorios"
+
+
+msgid "Confirm Password"
+msgstr "Confirmar contraseña"
+
+
+msgid "Back"
+msgstr "Atrás"
+
+
+msgid "%s is not same"
+msgstr "%s no es lo mismo"
+
+
+msgid "Captcha"
+msgstr "Captcha"
+
+
+msgid "Invalid email address."
+msgstr "Dirección de correo electrónico no válida"
+
+
+msgid "New Password"
+msgstr "Nueva contraseña"
+
+
+msgid "The email address is already registered. To login"
+msgstr "La dirección de correo electrónico ya está registrada. Iniciar sesión"
+
+
+msgid "The value is not a valid %s"
+msgstr "El valor no es un %s válido"
+
+
+msgid "Uncategories"
+msgstr "Sin categoria"
+
+
+msgid "Assigned & Closed"
+msgstr "Asignado y cerrado"
+
+
+msgid "CSV Downloaded"
+msgstr "CSV descargado"
+
+
+msgid "Change Timezone"
+msgstr "Cambiar zona horaria"
+
+
+msgid "Change padssword of %s"
+msgstr "Cambiar contraseña de %s"
+
+
+msgid "Change password of Admin User"
+msgstr "Cambiar la contraseña del usuario administrador"
+
+
+msgid "Day Report"
+msgstr "Informe del día"
+
+
+msgid "Member since"
+msgstr "Miembro desde"
+
+
+msgid "Month Report"
+msgstr "Informe del mes"
+
+
+msgid "New User"
+msgstr "Nuevo usuario"
+
+
+msgid "Opened & Closed"
+msgstr "Abierto y cerrado"
+
+
+msgid "Timezone is required"
+msgstr "La zona horaria es obligatoria"
+
+
+msgid "Tzone"
+msgstr "Tzone"
+
+
+msgid "Sign out"
+msgstr "desconectar"
+
+
+msgid "Please login to set priroty"
+msgstr "Por favor inicie sesión para establecer la prioridad"
+
+
+msgid "email address"
+msgstr "dirección de correo electrónico"
+
+
+msgid "Allowed File Types"
+msgstr "Tipos de archivo permitidos"
+
+
+msgid "Any Staff Can Reply"
+msgstr "Cualquier miembro del personal puede responder"
+
+
+msgid "App Email"
+msgstr "Email de la aplicación"
+
+
+msgid "App Language"
+msgstr "Idioma de la aplicación"
+
+
+msgid "App Title"
+msgstr "Título de la aplicación"
+
+
+msgid "Application General Settings"
+msgstr "Configuración general de la aplicación"
+
+
+msgid "Application Layout"
+msgstr "Diseño de aplicación"
+
+
+msgid "Auto Others Color"
+msgstr "Auto Otros Color"
+
+
+msgid "Basic Settings"
+msgstr "Ajustes básicos"
+
+
+msgid "CSS ( Style)"
+msgstr "CSS (Estilo)"
+
+
+msgid "Captcha Length"
+msgstr "Captcha Longitud"
+
+
+msgid "Captcha Settings"
+msgstr "Configuraciones de Captcha"
+
+
+msgid "Captcha String Type"
+msgstr "Tipo de cadena Captcha"
+
+
+msgid "Captcha Type"
+msgstr "Tipo de Captcha"
+
+
+msgid "Charecter Lenght of default captcha"
+msgstr "Longitud del carácter del captcha predeterminado"
+
+
+msgid "Choose HTML Editor"
+msgstr "Elija el editor de HTML"
+
+
+msgid "Client ID"
+msgstr "Identificación del cliente"
+
+
+msgid "Client Photo Upload"
+msgstr "Carga de fotos del cliente"
+
+
+msgid "Copyright Text"
+msgstr "Texto de Copyright"
+
+
+msgid "Custom CSS & JavaScript"
+msgstr "CSS personalizado y JavaScript"
+
+
+msgid "Custom JavaScript"
+msgstr "JavaScript personalizado"
+
+
+msgid "Date Format"
+msgstr "Formato de fecha"
+
+
+msgid "Disable Registration"
+msgstr "Deshabilitar registro"
+
+
+msgid "Email Footer Text"
+msgstr "Texto de pie de página de correo electrónico"
+
+
+msgid "Email Reply Start Text"
+msgstr "Respuesta por correo electrónico Texto de inicio"
+
+
+msgid "Enable Force SSL"
+msgstr "Habilitar Force SSL"
+
+
+msgid "Enable Guest Ticket"
+msgstr "Habilitar ticket de invitado"
+
+
+msgid "Enable HTML Input"
+msgstr "Habilitar entrada de HTML"
+
+
+msgid "Enable Public Ticket"
+msgstr "Habilitar incidencia pública"
+
+
+msgid "Enable Ticket Feedback"
+msgstr "Habilitar comentarios de incidencias"
+
+
+msgid "Enable User Online Check"
+msgstr "Habilitar comprobación en línea del usuario"
+
+
+msgid "Ex. Google analytics code, Do not add any tag  like %s"
+msgstr "Ex. Código de Google Analytics, No agregue ninguna etiqueta como %s"
+
+
+msgid "Feedback Email Title"
+msgstr "Título del correo electrónico de comentarios"
+
+
+msgid "Field"
+msgstr "Campo"
+
+
+msgid "File Upload Settings"
+msgstr "Configuración de carga de archivos"
+
+
+msgid "Footer Background"
+msgstr "Fondo de pie de página"
+
+
+msgid "Footer Text"
+msgstr "Texto de pie de página"
+
+
+msgid "Header Color"
+msgstr "Color del encabezado"
+
+
+msgid "Header Gradient"
+msgstr "Degradado de encabezado"
+
+
+msgid "If enable this then other color will be auto generate based on main color"
+msgstr "Si habilita esto, se generará automáticamente otro color según el color principal"
+
+
+msgid "If enable this then the header background will be gradient"
+msgstr "Si habilita esto, el fondo del encabezado será degradado"
+
+
+msgid "If you disable this then your will get normal text area box insted of html editor"
+msgstr "Si deshabilita esto, obtendrá un cuadro de área de texto normal en lugar de un editor html"
+
+
+msgid "If you enable it a feedback email will be sent to ticket user email address after closing ticket"
+msgstr "Si lo habilita, se enviará un correo electrónico de respuesta a la dirección de correo electrónico del usuario del ticket después de cerrar el ticket."
+
+
+msgid "If you enable it then any visitor can open ticket without registration"
+msgstr "Si lo habilita, cualquier visitante puede abrir la incidencia sin registrarse"
+
+
+msgid "If you enable it then captcha will show in admin login form"
+msgstr "Si lo habilita, captcha se mostrará en el formulario de inicio de sesión de administrador"
+
+
+msgid "If you enable it then captcha will show in client login form"
+msgstr "Si lo habilita, captcha se mostrará en el formulario de inicio de sesión del cliente"
+
+
+msgid "If you enable it then captcha will show in client registration form"
+msgstr "Si lo habilita, captcha se mostrará en el formulario de registro del cliente"
+
+
+msgid "If you enable it then captcha will show in guest ticket opening form"
+msgstr "Si lo habilita, el captcha se mostrará en el formulario de apertura dela incidencia de invitado"
+
+
+msgid "If you enable it then user can open their ticket as public mode. Where any user can replay"
+msgstr "Si lo habilita, el usuario puede abrir su incidencia como modo público. Donde cualquier usuario puede reproducir"
+
+
+msgid "If you enable it then user can upload file when they open ticket and reply any ticket"
+msgstr "Si lo habilita, el usuario puede cargar el archivo cuando abre la incidencia y responde cualquier incidencia"
+
+
+msgid "If you enable it, then any staff can reply on any ticket, if disable then only assigned staff can reply."
+msgstr "Si lo habilita, cualquier miembro del personal puede responder en cualquier incidencia; si lo desactiva, solo el personal asignado puede responder."
+
+
+msgid "If you enable it, then you can able to upload their profile photo"
+msgstr "Si lo habilitas, entonces puedes subir su foto de perfil"
+
+
+msgid "If you enable this then this app will check SSL Request, if not then it will redirect to SSL URL."
+msgstr "Si habilita esto, esta aplicación verificará SSL Request, de lo contrario, se redireccionará a SSL URL."
+
+
+msgid "If you enable this then this app will check and show user online status."
+msgstr "Si habilita esto, esta aplicación verificará y mostrará el estado en línea del usuario."
+
+
+msgid "It will effect in next reload. If you want to now then refresh after save."
+msgstr "Tendrá efecto en la próxima recarga. Si desea ahora, actualice luego de guardar."
+
+
+msgid "It's background color of footer. Empty value will be auto from main color"
+msgstr "Es el color de fondo del pie de página. El valor vacío será automático desde el color principal"
+
+
+msgid "It's background color of menu bar. Empty value will be auto from main color"
+msgstr "Es el color de fondo de la barra de menú. El valor vacío será automático desde el color principal"
+
+
+msgid "It's background color of menu text color when active. Empty value will be auto from main color"
+msgstr "Es el color de fondo del color del texto del menú cuando está activo. El valor vacío será automático desde el color principal"
+
+
+msgid "It's text color of footer. Empty value will be auto from main color"
+msgstr "Es el color del texto del pie de página. El valor vacío será automático desde el color principal"
+
+
+msgid "It's the background color of welcome message. But you can choose any text color on any text of welcome message using editor. Empty value will be auto from main color"
+msgstr "Es el color de fondo del mensaje de bienvenida. Pero puede elegir cualquier color de texto en cualquier texto de bienvenida mediante el editor. El valor vacío será automático desde el color principal"
+
+
+msgid "It's the color of anchor link and heading(h1,h2,h3,h4) Color. Empty value will be auto from main color"
+msgstr "Es el color del enlace de anclaje y del título (h1, h2, h3, h4) Color. El valor vacío será automático desde el color principal"
+
+
+msgid "Its background color of header"
+msgstr "Su color de fondo del encabezado"
+
+
+msgid "Keep empty if you don't want to show any footer"
+msgstr "Manténgase vacío si no desea mostrar ningún pie de página"
+
+
+msgid "Keep empty if you don't want to show any footer on email"
+msgstr "Manténgase vacío si no desea mostrar ningún pie de página en el correo electrónico"
+
+
+msgid "Keep empty if you don't want to show any footer on site copy write text"
+msgstr "Manténgase vacío si no desea mostrar ningún pie de página en el sitio copiar texto de escritura"
+
+
+msgid "Keep empty if you don't want to show any message"
+msgstr "Mantente vacío si no quieres mostrar ningún mensaje"
+
+
+msgid "Layout & Color Settings"
+msgstr "Configuración de diseño y color"
+
+
+msgid "Link And Heading Text"
+msgstr "Texto de enlace y encabezado"
+
+
+msgid "Main Color"
+msgstr "Color principal"
+
+
+msgid "Main site color is defined for application main color of client site."
+msgstr "El color principal del sitio se define para el color principal de la aplicación del sitio del cliente."
+
+
+msgid "Max Upload File Size"
+msgstr "Tamaño máximo de archivo de carga"
+
+
+msgid "Menu Active Text Color"
+msgstr "Menú Color de texto activo"
+
+
+msgid "Menu Background"
+msgstr "Fondo del menú"
+
+
+msgid "Nagative Feedback Message"
+msgstr "Mensaje de retroalimentación negativa"
+
+
+msgid "Nagative Message"
+msgstr "Mensaje negativo"
+
+
+msgid "On Admin Login"
+msgstr "En la sesión de administrador"
+
+
+msgid "On Client Login"
+msgstr "En Inicio de sesión de cliente"
+
+
+msgid "On Client Registration"
+msgstr "En el registro del cliente"
+
+
+msgid "On Guest Ticket"
+msgstr "En el ticket de invitado"
+
+
+msgid "Only enter css code. Do not add any tag like %s"
+msgstr "Solo ingrese el código css. No agregue ninguna etiqueta como %s"
+
+
+msgid "Positive Feedback Message"
+msgstr "Mensaje de retroalimentación positiva"
+
+
+msgid "Positive Message"
+msgstr "Mensaje positivo"
+
+
+msgid "Registration  of visitor. If you disable this then visitor can't register. Only registered client can open ticket after login"
+msgstr "Registro de visitante. Si deshabilita esto, el visitante no puede registrarse. Solo el cliente registrado puede abrir el ticket después del inicio de sesión"
+
+
+msgid "Site Copyright Text"
+msgstr "Texto de Copyright del sitio"
+
+
+msgid "Site Key"
+msgstr "Clave del sitio"
+
+
+msgid "The value is not a numeric"
+msgstr "El valor no es numérico"
+
+
+msgid "Ticket File Upload"
+msgstr "Subida de fichero de incidencia"
+
+
+msgid "Ticket Settings"
+msgstr "Configuración de incidencias"
+
+
+msgid "Time Format"
+msgstr "Formato de tiempo"
+
+
+msgid "Value must be between 1 to 99"
+msgstr "El valor debe estar entre 1 y 99"
+
+
+msgid "Welcome & Footer Text"
+msgstr "Texto de bienvenida y pie de página"
+
+
+msgid "Welcome Background"
+msgstr "Bienvenido a fondo"
+
+
+msgid "Welcome Message"
+msgstr "Mensaje de bienvenida"
+
+
+msgid "Welcome Text"
+msgstr "Texto de Bienvenida"
+
+
+msgid "ex. 2"
+msgstr "ex. 2"
+
+
+msgid "Successfully updated"
+msgstr "Actualizado exitosamente"
+
+
+msgid "Language changed. Reloading"
+msgstr "Cambio de idioma Recargando"
+
+
+msgid "Download CSV"
+msgstr "Descargar CSV"
+
+
+msgid "No Record Found"
+msgstr "ningún registro encontrado"
+
+
+msgid "Reload"
+msgstr "Recargar"
+
+
+msgid "Sign In"
+msgstr "Registrarse"
+
+
+msgid "Sign in to start your session"
+msgstr "Inicia sesión para comenzar tu sesión"
+
+
+msgid "Admin Panel"
+msgstr "Panel de administrador"
+
+
+msgid "%s is invalid"
+msgstr "%s no es válido"
+
+
+msgid "A ticket email has been sent to your email. Please check that"
+msgstr "Se envió un correo electrónico con una incidencia a su correo electrónico. Por favor revisa eso"
+
+
+msgid "Admin Notification Settings"
+msgstr "Configuración de notificación de administrador"
+
+
+msgid "Are you sure to assign yourself?"
+msgstr "¿Estás seguro de asignarte?"
+
+
+msgid "Are you sure to assign?"
+msgstr "¿Estás seguro de asignar?"
+
+
+msgid "Assign Me"
+msgstr "Asignarme"
+
+
+msgid "Captcha Success"
+msgstr "Captcha Success"
+
+
+msgid "Content"
+msgstr "Contenido"
+
+
+msgid "Controller"
+msgstr "Controlador"
+
+
+msgid "Email Field Details"
+msgstr "Detalles del campo de correo electrónico"
+
+
+msgid "Email Notification Settings"
+msgstr "Configuraciones de notificación de correo electrónico"
+
+
+msgid "Email Notification Settions"
+msgstr "Configuraciones de notificación de correo electrónico"
+
+
+msgid "Email Template updated successfully"
+msgstr "Plantilla de correo electrónico actualizada con éxito"
+
+
+msgid "Email template for  ANR"
+msgstr "Plantilla de correo electrónico para ANR"
+
+
+msgid "Enable Admin Notificaiton"
+msgstr "Habilitar notificación de administrador"
+
+
+msgid "File Size"
+msgstr "Tamaño del archivo"
+
+
+msgid "If you enable this then admin will get notification"
+msgstr "Si habilita esto, el administrador recibirá la notificación"
+
+
+msgid "If you enable this then admin will get notification on ticket open"
+msgstr "Si habilitas esto, el administrador recibirá una notificación en el ticket abierto"
+
+
+msgid "If you enable this then admin will get notification on ticket user reply"
+msgstr "Si habilitas esto, el administrador recibirá una notificación sobre la respuesta del usuario del ticket"
+
+
+msgid "Logging in.."
+msgstr "Iniciar sesión.."
+
+
+msgid "Name of ticket user"
+msgstr "Nombre del usuario de la incidencia"
+
+
+msgid "New Ticket Opened"
+msgstr "Nueva incidencia abierta"
+
+
+msgid "Notification Email"
+msgstr "Correo electrónico de notificación"
+
+
+msgid "Notification Settings"
+msgstr "Configuración de las notificaciones"
+
+
+msgid "Notification Settions"
+msgstr "Configuración de las notificaciones"
+
+
+msgid "On Admin/staff Reply"
+msgstr "En la respuesta del administrador / personal"
+
+
+msgid "On Screen Notificaiton Settings"
+msgstr "Configuración de notificación en pantalla"
+
+
+msgid "On Ticket Open"
+msgstr "En la incidencia abierta"
+
+
+msgid "On Ticket User Reply"
+msgstr "En la respuesta del usuario de la incidencia"
+
+
+msgid "Page List"
+msgstr "Lista de páginas"
+
+
+msgid "Please wait"
+msgstr "por favor espera"
+
+
+msgid "Replied Text"
+msgstr "Texto respondido"
+
+
+msgid "Reply text"
+msgstr "Texto de respuesta"
+
+
+msgid "Resource"
+msgstr "Recurso"
+
+
+msgid "Set Assign"
+msgstr "Establecer asignación"
+
+
+msgid "Successfully added"
+msgstr "Agregado exitosamente"
+
+
+msgid "Template List"
+msgstr "Lista de plantillas"
+
+
+msgid "Thank you, your ticket has been opened successfully"
+msgstr "Gracias, tu incidencia ha sido abierta con éxito"
+
+
+msgid "Ticket Open By Guest"
+msgstr "Incidencia por invitado"
+
+
+msgid "Ticket Other's Info"
+msgstr "Incidencia otra información"
+
+
+msgid "Ticket Replied by : %s"
+msgstr "Incidencia respondida por: %s"
+
+
+msgid "Ticket cateroty"
+msgstr "Venta incidencias"
+
+
+msgid "Ticket link"
+msgstr "Enlace de incidencias"
+
+
+msgid "Ticket open or reply notification settings"
+msgstr "Incidencia abierta o configuración de notificación de respuesta"
+
+
+msgid "Update Email Template"
+msgstr "Actualizar plantilla de correo electrónico"
+
+
+msgid "User Ticket"
+msgstr "Incidencia de usuario"
+
+
+msgid "User who replied"
+msgstr "Usuario que respondió"
+
+
+msgid "View Ticket Details"
+msgstr "Ver detalles de la incidencias"
+
+
+msgid "ex. email@domain.com"
+msgstr "ex. email@dominio.com"
+
+
+msgid "updated"
+msgstr "actualizado"
+
+
+msgid "%s is not a valid URL"
+msgstr "%s no es una URL válida"
+
+
+msgid "Admin Panel Language"
+msgstr "Idioma del Panel de administración"
+
+
+msgid "Admin will hear tone on notification if enabled"
+msgstr "El administrador escuchará el tono en la notificación si está habilitado"
+
+
+msgid "App Settings"
+msgstr "Ajustes de Aplicacion"
+
+
+msgid "Application All Settings"
+msgstr "Aplicación Todos los ajustes"
+
+
+msgid "Are you sure to dismiss?"
+msgstr "¿Estás seguro de descartar?"
+
+
+msgid "Authentication failed!. May be remote server rejected."
+msgstr "Autenticación fallida !. Puede ser servidor remoto rechazado."
+
+
+msgid "Button Color"
+msgstr "Color del boton"
+
+
+msgid "Button Text"
+msgstr "Botón de texto"
+
+
+msgid "Button Text Color"
+msgstr "Color del texto del botón"
+
+
+msgid "Button Txt"
+msgstr "Botón de texto"
+
+
+msgid "Button View"
+msgstr "Vista de botones"
+
+
+msgid "Button image updated successfully"
+msgstr "Imagen del botón actualizada con éxito"
+
+
+msgid "Captcha is required"
+msgstr "Captcha es obligatorio"
+
+
+msgid "Closed On"
+msgstr "Cerrado en"
+
+
+msgid "Current Status"
+msgstr "Estado actual"
+
+
+msgid "Custom %s"
+msgstr "Personalizado"
+
+
+msgid "Default login system form won't not show if it enabled"
+msgstr "El formulario del sistema de inicio de sesión predeterminado no se mostrará si está habilitado"
+
+
+msgid "Default login system form won't not show if it enabled, but Remote Login & Social login will show if those are enabled"
+msgstr "El formulario del sistema de inicio de sesión predeterminado no se mostrará si está habilitado, pero el inicio de sesión remoto y el inicio de sesión social se mostrarán si están habilitados."
+
+
+msgid "Disable Default Login"
+msgstr "Deshabilitar inicio de sesión predeterminado"
+
+
+msgid "Disable Guest Open Popup"
+msgstr "Desactivar Guest Popup abierto"
+
+
+msgid "Edit Remote Login"
+msgstr "Editar inicio de sesión remoto"
+
+
+msgid "Email to Ticket"
+msgstr "Correo electrónico a la entrada"
+
+
+msgid "Enable Tone (Sound)"
+msgstr "Habilitar tono (sonido)"
+
+
+msgid "Featured Video"
+msgstr "vídeo destacado"
+
+
+msgid "File Upload"
+msgstr "Subir archivo"
+
+
+msgid "If you enable this then admin will hear tone on notification"
+msgstr "Si habilita esto, el administrador escuchará el tono en la notificación"
+
+
+msgid "If you enable this then guest user also get all priroty as dropdown option"
+msgstr "Si habilita esto, el usuario invitado también obtendrá todas las prioridades como opción desplegable"
+
+
+msgid "It is your remote server login URL. You can add extra parameter to detect, %s"
+msgstr "Es la URL de inicio de sesión del servidor remoto. Puede agregar parámetros adicionales para detectar, %s"
+
+
+msgid "It is your remote server login URL. You can add extra parameter to detect, ex. %s"
+msgstr "Es la URL de inicio de sesión del servidor remoto. Puede agregar parámetros adicionales para detectar, ej.  %s"
+
+
+msgid "It is your remote server login URL. You can add extra parameter to detect, ex. http://zyz.com?from=support-system"
+msgstr "Es la URL de inicio de sesión del servidor remoto. Puede agregar parámetros adicionales para detectar, ej. http://zyz.com?from=support-system"
+
+
+msgid "It will redirect to home page within"
+msgstr "Redireccionará a la página de inicio dentro de"
+
+
+msgid "It will send this key in verification process as param"
+msgstr "Enviará esta clave en el proceso de verificación como parámetro"
+
+
+msgid "Keep empty if you don't want show any video"
+msgstr "Mantente vacío si no quieres mostrar ningún video"
+
+
+msgid "Last Replied On"
+msgstr "Última respuesta en"
+
+
+msgid "Layout & Color"
+msgstr "Diseño y color"
+
+
+msgid "Log uploaded"
+msgstr "Log cargado"
+
+
+msgid "Login Email"
+msgstr "Ingreso (correo"
+
+
+msgid "Login Link"
+msgstr "Enlace de acceso"
+
+
+msgid "Login URL"
+msgstr "URL de acceso"
+
+
+msgid "Login Using"
+msgstr "Ingresar usando"
+
+
+msgid "NB. %s will be your server's api key, by this we validate the response"
+msgstr "NÓTESE BIEN.  %s será la clave api de tu servidor, con esto validaremos la respuesta"
+
+
+msgid "NB. %s will be your server's login token, by this it can validated the user"
+msgstr "NÓTESE BIEN.  %s será el token de inicio de sesión de su servidor, con esto puede validar al usuario"
+
+
+msgid "New Remote Login"
+msgstr "Nuevo inicio de sesión remoto"
+
+
+msgid "Normally visitor will show a popup it s/he doesn't logged in. If you don't want to show that then enable it"
+msgstr "Normalmente, el visitante mostrará una ventana emergente en la que no ha iniciado sesión. Si no desea mostrarla, actívela."
+
+
+msgid "Notification Tone (Sound)"
+msgstr "Tono de notificación (sonido)"
+
+
+msgid "Opened On"
+msgstr "Abierto en"
+
+
+msgid "Our server will post to this URL with the response token.%s Post paramater will be look like %s"
+msgstr "Nuestro servidor publicará en esta URL con el token de respuesta. El parámetro de publicación %s se verá como %s"
+
+
+msgid "Pay Now"
+msgstr "Pague ahora"
+
+
+msgid "Payment Added"
+msgstr "Pago agregado"
+
+
+msgid "Preview"
+msgstr "Avance"
+
+
+msgid "Private Key"
+msgstr "Llave privada"
+
+
+msgid "Remote Login"
+msgstr "Acceso remoto"
+
+
+msgid "Remote Login Error"
+msgstr "Error de inicio de sesión remoto"
+
+
+msgid "Remote Login List"
+msgstr "Lista de inicio de sesión remota"
+
+
+msgid "Remote Server Login"
+msgstr "Inicio de sesión remoto del servidor"
+
+
+msgid "Remote_server"
+msgstr "Servidor remoto"
+
+
+msgid "Request Count"
+msgstr "Solicitar recuento"
+
+
+msgid "Response Data Error"
+msgstr "Error de datos de respuesta"
+
+
+msgid "Response URL"
+msgstr "URL de respuesta"
+
+
+msgid "Same As Admin"
+msgstr "Igual que administrador"
+
+
+msgid "Seconds"
+msgstr "Segundos"
+
+
+msgid "Select icon"
+msgstr "Seleccionar ícono"
+
+
+msgid "Server Type"
+msgstr "Tipo de servidor"
+
+
+msgid "Show all priroty on Guest Ticket"
+msgstr "Mostrar todas las prioridades en Guest Ticket"
+
+
+msgid "Site Language"
+msgstr "Idioma del sitio"
+
+
+msgid "Site Theme Settings"
+msgstr "Configuración del tema del sitio"
+
+
+msgid "Social Login Setting"
+msgstr "Configuración de inicio de sesión social"
+
+
+msgid "Successfully Dismissed"
+msgstr "Descartado con éxito"
+
+
+msgid "Successfully deleted"
+msgstr "Eliminado exitosamente"
+
+
+msgid "Successfully logged in"
+msgstr "Ha iniciado sesión correctamente"
+
+
+msgid "Successfully saved"
+msgstr "Guardado con éxito"
+
+
+msgid "Thank you for registering with us"
+msgstr "Gracias por registrarse con nosotros"
+
+
+msgid "Theme"
+msgstr "Tema"
+
+
+msgid "This account has been temporary locked for 30 minutes, try again later or contact with admin to unlock"
+msgstr "Esta cuenta se ha bloqueado temporalmente durante 30 minutos, inténtalo de nuevo más tarde o ponte en contacto con el administrador para desbloquearlo"
+
+
+msgid "This servers's configuration"
+msgstr "La configuración de este servidor"
+
+
+msgid "Ticket Email"
+msgstr "Correo electrónico de incidencias"
+
+
+msgid "Ticket Re-Opened"
+msgstr "Incidencia re-abierta"
+
+
+msgid "Unknown"
+msgstr "Desconocido"
+
+
+msgid "User Login Using"
+msgstr "Inicio de sesión de usuario usando"
+
+
+msgid "Valid Url"
+msgstr "URL válida"
+
+
+msgid "Validation URL"
+msgstr "URL de validación"
+
+
+msgid "Video"
+msgstr "Vídeo"
+
+
+msgid "View Update Details"
+msgstr "Ver los detalles de la actualización"
+
+
+msgid "Welcome to"
+msgstr "Bienvenido a"
+
+
+msgid "Your server's redirect URL"
+msgstr "URL de redirección de tu servidor"
+
+
+msgid "View All"
+msgstr "Ver todo"
+
+
+msgid "%s replied a message"
+msgstr "%s respondió un mensaje"
+
+
+msgid "API Name"
+msgstr "Nombre de la API"
+
+
+msgid "About Support System-help"
+msgstr "Acerca de Support System-help"
+
+
+msgid "Agent Welcome Text"
+msgstr "Texto de bienvenida del agente"
+
+
+msgid "All Paid Ticket"
+msgstr "Toda la incidencia pagada"
+
+
+msgid "Analytics Gtag ID"
+msgstr "ID de Gtag de Analytics"
+
+
+msgid "App User Details"
+msgstr "Detalles del usuario de la aplicación"
+
+
+msgid "Archive"
+msgstr "Archivo"
+
+
+msgid "Are you sure to archive?"
+msgstr "¿Estás seguro de archivar?"
+
+
+msgid "Are you sure to archive? Archive is like Delete. You can inactive for temporary basis"
+msgstr "¿Estás seguro de archivar? El archivo es como Eliminar. Puedes inactiva temporalmente"
+
+
+msgid "Are you sure to archive? Archive is like as delete. If you want to do it for temporary, then set inactive status instead of archive. You cann&#96;t revert if you process it."
+msgstr "¿Estás seguro de archivar? Archive es como eliminar. Si desea hacerlo temporalmente, establezca el estado inactivo en lugar de archivar. No puede revertir si lo procesa."
+
+
+msgid "Are you sure to archive? Archive is like as delete. If you want to do it for temporary, then you can inactive this user."
+msgstr "¿Estás seguro de archivar? Archive es como eliminar. Si desea hacerlo temporalmente, puede desactivar este usuario."
+
+
+msgid "Are you sure to archive? Archive is like as delete. It you want do it for temporary then you can inactive this user."
+msgstr "¿Estás seguro de archivar? Archive es como eliminar. Si lo desea, puede hacerlo temporalmente y luego puede inactivar a este usuario."
+
+
+msgid "Are you sure to archive? Archive is like as delete. You can inactive for temporary basis"
+msgstr "¿Estás seguro de archivar? Archive es como eliminar. Puedes inactiva temporalmente"
+
+
+msgid "Are you sure to change chat status?"
+msgstr "¿Estás seguro de cambiar el estado del chat?"
+
+
+msgid "Are you sure to unlock?"
+msgstr "¿Estás seguro de desbloquear?"
+
+
+msgid "Asigned By"
+msgstr "Asignado por"
+
+
+msgid "Authentication failed!. May be you didn't authenticate."
+msgstr "Autenticación fallida !. Puede ser que no hayas autenticado"
+
+
+msgid "Best Ranker Wordpress tool"
+msgstr "La mejor herramienta de Wordpress de Ranker"
+
+
+msgid "Browser"
+msgstr "Navegador"
+
+
+msgid "Canned Message"
+msgstr "Mensaje almacenado"
+
+
+msgid "Change Profile Photo"
+msgstr "Cambiar foto de perfil"
+
+
+msgid "Chat Canned Message"
+msgstr "Mensaje almacenado de chat"
+
+
+msgid "Chat Canned Msg List"
+msgstr "Lista de mensajes almacenados en el chat"
+
+
+msgid "Chat Online Status"
+msgstr "Estado en línea del chat"
+
+
+msgid "Chat Opening Text"
+msgstr "Texto de apertura del chat"
+
+
+msgid "Chat Panel"
+msgstr "Panel de chat"
+
+
+msgid "Chat Receive Status"
+msgstr "Estado de recepción de chat"
+
+
+msgid "Chat Settings"
+msgstr "configuraciones de chat"
+
+
+msgid "Chat Status"
+msgstr "Estado de chat"
+
+
+msgid "Check On Submit"
+msgstr "Verificar en Enviar"
+
+
+msgid "Choose API"
+msgstr "Elige la API"
+
+
+msgid "Choose API from available APIs"
+msgstr "Elija la API de las API disponibles"
+
+
+msgid "Choose Chat Type"
+msgstr "Elija el tipo de chat"
+
+
+msgid "Choose Type or Category"
+msgstr "Elija Tipo o Categoría"
+
+
+msgid "Click here to watch the video tutorial"
+msgstr "Haga clic aquí para ver el video tutorial"
+
+
+msgid "Click on the Image to change. Best size is 250px x 200px"
+msgstr "Haga clic en la imagen para cambiar. El mejor tamaño es 250px x 200px"
+
+
+msgid "Client Profile"
+msgstr "Perfil del cliente"
+
+
+msgid "Close Chat Status"
+msgstr "Cerrar el estado de chat"
+
+
+msgid "Closed Chat List"
+msgstr "Lista de chat cerrada"
+
+
+msgid "Closed Failed"
+msgstr "Cerrado Fallido"
+
+
+msgid "Closed Successfully"
+msgstr "Cerrado con éxito"
+
+
+msgid "Color Settings"
+msgstr "Configuraciones de color"
+
+
+msgid "Comma( , ) separated. Ex: OptionA,OptionB,OptionC"
+msgstr "Separado por comas. Ej: OptionA, OptionB, OptionC"
+
+
+msgid "Do you want to take?"
+msgstr "¿Quieres tomar?"
+
+
+msgid "Download"
+msgstr "Descargar"
+
+
+msgid "Edit Ticket Reply"
+msgstr "Editar respuesta de incidencia"
+
+
+msgid "Email Password Reset Link"
+msgstr "Correo electrónico Restablecer enlace de contraseña"
+
+
+msgid "Enable"
+msgstr "Habilitar"
+
+
+msgid "Enable API Validation"
+msgstr "Habilitar Validación de API"
+
+
+msgid "End Time"
+msgstr "Hora de finalización"
+
+
+msgid "Enter License Info"
+msgstr "Ingrese la información de licencia"
+
+
+msgid "Entry Date"
+msgstr "Fecha de entrada"
+
+
+msgid "Envato Settings"
+msgstr "Configuración de Envato"
+
+
+msgid "Facebook Chat"
+msgstr "El chat de Facebook"
+
+
+msgid "Facebook Chat Settings"
+msgstr "Configuración de chat de Facebook"
+
+
+msgid "Facebook Page ID"
+msgstr "ID de página de Facebook"
+
+
+msgid "Failed to assigning you on this chat"
+msgstr "Error al asignarte en este chat"
+
+
+msgid "Failed to update"
+msgstr "Error al actualizar"
+
+
+msgid "Field Label"
+msgstr "Etiqueta de campo"
+
+
+msgid "File Settings"
+msgstr "Configuración de archivo"
+
+
+msgid "GUEST USER"
+msgstr "USUARIO INVITADO"
+
+
+msgid "Genaral"
+msgstr "General"
+
+
+msgid "Google Analytics"
+msgstr "Google analitico"
+
+
+msgid "Google Analytics Gtag ID"
+msgstr "ID de Google Analytics Gtag"
+
+
+msgid "Google Analytics Settings"
+msgstr "Configuración de Google Analytics"
+
+
+msgid "Gtag ID"
+msgstr "ID de Gtag"
+
+
+msgid "Help Text"
+msgstr "texto de ayuda"
+
+
+msgid "How to use all feature of this support system"
+msgstr "Cómo usar todas las funciones de este sistema de soporte"
+
+
+msgid "IMAP module is not activated in you php"
+msgstr "El módulo IMAP no está activado en tu php"
+
+
+msgid "If you choose this then this field will be displayed on choosen category only"
+msgstr "Si elige esto, este campo se mostrará únicamente en la categoría elegida"
+
+
+msgid "If you enable this then the field will be check using selected API"
+msgstr "Si habilita esto, el campo será verificado usando la API seleccionada"
+
+
+msgid "If you enable this then the value of this field is always be private"
+msgstr "Si habilita esto, el valor de este campo siempre será privado"
+
+
+msgid "If you enable this, the field value need to be valid on form submission. Otherwise you will get a button to check manually"
+msgstr "Si habilita esto, el valor del campo debe ser válido en el envío del formulario. De lo contrario, obtendrá un botón para verificar manualmente"
+
+
+msgid "If you want to set %s. Then please go to %s or  %s"
+msgstr "Si quieres establecer %s. Luego, vaya a %s o %s"
+
+
+msgid "Is Private"
+msgstr "Es privado"
+
+
+msgid "It set a limit,how many chat a agent(Admin User) can take  simultaneously"
+msgstr "Establece un límite, cuántos chat un agente (Usuario administrador) puede tomar simultáneamente"
+
+
+msgid "It will show when a agent start a chat session."
+msgstr "Se mostrará cuando un agente inicie una sesión de chat."
+
+
+msgid "It will show when a agent start a chat session. You can use some property which is given bello:"
+msgstr "Se mostrará cuando un agente inicie una sesión de chat. Puede usar alguna propiedad que se le da bello:"
+
+
+msgid "It will show when a agent start a chat session. You can use some property which is given bellow:"
+msgstr "Se mostrará cuando un agente inicie una sesión de chat. Puede usar alguna propiedad que se da a continuación:"
+
+
+msgid "It will show when a user want to start chat"
+msgstr "Se mostrará cuando un usuario quiera iniciar el chat"
+
+
+msgid "It will show when all user are offline"
+msgstr "Se mostrará cuando todos los usuarios estén desconectados"
+
+
+msgid "It will show when all user busy,"
+msgstr "Se mostrará cuando todos los usuarios estén ocupados"
+
+
+msgid "Item Purchase Code"
+msgstr "Código de compra del artículo"
+
+
+msgid "Its the field label"
+msgstr "Es la etiqueta de campo"
+
+
+msgid "Knowledge Search"
+msgstr "Búsqueda preguntas frecuentes"
+
+
+msgid "Last 5 Closed Chat"
+msgstr "Últimos 5 Chats cerrados"
+
+
+msgid "Last Change Date"
+msgstr "Última fecha de cambio"
+
+
+msgid "Last Date"
+msgstr "Ultima cita"
+
+
+msgid "Latest Knowledge"
+msgstr "Última pregunta frecuente"
+
+
+msgid "Load More"
+msgstr "Carga más"
+
+
+msgid "Loading Chat Data Please wait.."
+msgstr "Cargando datos de chat Por favor espere .."
+
+
+msgid "Locked_user_confirm"
+msgstr "Locked_user_confirm"
+
+
+msgid "Login using social"
+msgstr "Ingresar usando social"
+
+
+msgid "Low Priority"
+msgstr "Baja prioridad"
+
+
+msgid "Max chat count"
+msgstr "Cuenta de chat máxima"
+
+
+msgid "Max. Chat Per Agent"
+msgstr "Max. Chat por agente"
+
+
+msgid "Max. Chat Per Agent %s"
+msgstr "Max. Chat por agente %s"
+
+
+msgid "Max. Chat Per Agent(simultaneously)"
+msgstr "Max. Chat por agente (simultáneamente)"
+
+
+msgid "Message List"
+msgstr "Lista de mensajes"
+
+
+msgid "Missing chat id"
+msgstr "Falta la identificación del chat"
+
+
+msgid "My Closed Ticket"
+msgstr "Mi incidencia cerrada"
+
+
+msgid "My Paid Tickets"
+msgstr "Mis incidencias pagadas"
+
+
+msgid "Name of user"
+msgstr "Nombre del usuario"
+
+
+msgid "Need Support? Create a Ticket."
+msgstr "¿Necesita ayuda? Cree una incidencia."
+
+
+msgid "New Chat Canned Message"
+msgstr "Nuevo mensaje almacenado en lata"
+
+
+msgid "New Chat Canned Msg"
+msgstr "Nuevo mensaje almacenado del chat"
+
+
+msgid "New Chat Request"
+msgstr "Nueva solicitud de chat"
+
+
+msgid "New Custom Field"
+msgstr "Nuevo campo personalizado"
+
+
+msgid "New Product"
+msgstr "Nuevo producto"
+
+
+msgid "No result found"
+msgstr "No se han encontrado resultados"
+
+
+msgid "Offline Text"
+msgstr "Texto sin conexión"
+
+
+msgid "On Screeen Notification Settings"
+msgstr "Configuración de notificación en pantalla"
+
+
+msgid "On Screeen Notification Settions"
+msgstr "Configuración de notificación en pantalla"
+
+
+msgid "Only profile image updated"
+msgstr "Solo la imagen de perfil actualizada"
+
+
+msgid "Open Text"
+msgstr "Texto abierto"
+
+
+msgid "Open Ticket With Less Priority"
+msgstr "Incidencia abierta con menos prioridad"
+
+
+msgid "Page Builder"
+msgstr "Constructor de página"
+
+
+msgid "Page Editor"
+msgstr "Editor de página"
+
+
+msgid "Password 18DDC9E196"
+msgstr "Contraseña 18DDC9E196"
+
+
+msgid "Password Successfully Updated"
+msgstr "Contraseña exitosamente actualizada"
+
+
+msgid "Please Rate it !!"
+msgstr "Por favor califícalo !!"
+
+
+msgid "Please put this into your facebook page settings"
+msgstr "Por favor, ponga esto en la configuración de su página de Facebook"
+
+
+msgid "Priority"
+msgstr "Prioridad"
+
+
+msgid "Products"
+msgstr "Productos"
+
+
+msgid "Profile Photo"
+msgstr "Foto de perfil"
+
+
+msgid "Queue Text"
+msgstr "Texto de cola"
+
+
+msgid "Rate it"
+msgstr "Puntúalo"
+
+
+msgid "Replied"
+msgstr "Respondido"
+
+
+msgid "Replied By"
+msgstr "Respondido por"
+
+
+msgid "Replied By Type"
+msgstr "Respondido por tipo"
+
+
+msgid "Replied Successfully"
+msgstr "Respondió con éxito"
+
+
+msgid "Reply Time"
+msgstr "Tiempo de respuesta"
+
+
+msgid "Reset Password"
+msgstr "Restablecer la contraseña"
+
+
+msgid "Screen Notificaiton Settings"
+msgstr "Configuración de notificación de pantalla"
+
+
+msgid "Search Result"
+msgstr "Resultado de búsqueda"
+
+
+msgid "Seen by ticket owner"
+msgstr "Visto por el dueño de la incidencia"
+
+
+msgid "Set Category"
+msgstr "Establecer categoría"
+
+
+msgid "Set New Password"
+msgstr "Establecer nueva contraseña"
+
+
+msgid "Set Passowrd"
+msgstr "Configurar la clave"
+
+
+msgid "Set Password"
+msgstr "Configurar la clave"
+
+
+msgid "Set User Password"
+msgstr "Establecer contraseña de usuario"
+
+
+msgid "Site Info"
+msgstr "Información del sitio"
+
+
+msgid "Social Login Error"
+msgstr "Error de inicio de sesión social"
+
+
+msgid "Start Time"
+msgstr "Hora de inicio"
+
+
+msgid "Successfully Archived"
+msgstr "Archivado con éxito"
+
+
+msgid "Successfully assign"
+msgstr "Asignar con éxito"
+
+
+msgid "Successfully assigned you"
+msgstr "Le asignó con éxito"
+
+
+msgid "Successfully closed"
+msgstr "Cerrado exitosamente"
+
+
+msgid "Successfully unlocked"
+msgstr "Desbloqueado con éxito"
+
+
+msgid "The text will be show like this text after the field"
+msgstr "El texto se mostrará como este texto después del campo"
+
+
+msgid "The user is already archived. You can't active or inactive"
+msgstr "El usuario ya está archivado. No puedes activar o desactivar"
+
+
+msgid "The user who replaied last"
+msgstr "El usuario que reprodujo el último"
+
+
+msgid "This chat request has been accepted by %s"
+msgstr "Esta solicitud de chat ha sido aceptada por %s"
+
+
+msgid "This chat request has been accepted by Sarwar Hasan"
+msgstr "Esta solicitud de chat ha sido aceptada por Sarwar Hasan"
+
+
+msgid "Ticket Form Category"
+msgstr "Formulario de categoría de incidencias"
+
+
+msgid "Ticket Opened"
+msgstr "Incidencia abierta"
+
+
+msgid "Ticket Payment"
+msgstr "Pago de incidencias"
+
+
+msgid "Ticket Priority"
+msgstr "Prioridad de incidencia"
+
+
+msgid "Ticket open time in app timezone (UTC)"
+msgstr "Hora abierta de la incidencia en la zona horaria de la aplicación (UTC)"
+
+
+msgid "Ticket owner doesn't seen"
+msgstr "El propietario de la incidencia no se ve"
+
+
+msgid "Ticket owner seen"
+msgstr "Propietario de incidencia visto"
+
+
+msgid "Ticket reply saved error"
+msgstr "Error guardado de la respuesta de la incidencia"
+
+
+msgid "Ticket_confirm"
+msgstr "Confirmación de la incidencia"
+
+
+msgid "To enable chat"
+msgstr "Para habilitar el chat"
+
+
+msgid "To enable facebook messenger chat"
+msgstr "Para habilitar el chat de Facebook Messenger"
+
+
+msgid "Top Priority"
+msgstr "Máxima prioridad"
+
+
+msgid "Unlock"
+msgstr "desbloquear"
+
+
+msgid "Unseened by ticket owner"
+msgstr "No fue visto por el dueño de la incidencia"
+
+
+msgid "Updated successfully"
+msgstr "Actualizado con éxito"
+
+
+msgid "Use this as your confirmation url into your envato app register page."
+msgstr "Úselo como su URL de confirmación en la página de registro de la aplicación envato."
+
+
+msgid "User Info"
+msgstr "Información de usuario"
+
+
+msgid "User Password"
+msgstr "Contraseña de usuario"
+
+
+msgid "User login information"
+msgstr "Información de inicio de sesión"
+
+
+msgid "View"
+msgstr "Ver"
+
+
+msgid "WP Best Ranker"
+msgstr "WP Best Ranker"
+
+
+msgid "WP Rank Ninja"
+msgstr "WP Rank Ninja"
+
+
+msgid "Web Chat"
+msgstr "Chat web"
+
+
+msgid "Web Chat Settings"
+msgstr "Configuración de chat web"
+
+
+msgid "Would You Please Rate it?"
+msgstr "¿Lo calificarías por favor?"
+
+
+msgid "Write here"
+msgstr "Escriba aqui"
+
+
+msgid "YYYY-MM-DD"
+msgstr "AAAA-MM-DD"
+
+
+msgid "You can use some property which is given bellow:"
+msgstr "Puede usar alguna propiedad que se proporciona a continuación:"
+
+
+msgid "You can't set pro version now. Pro version is coming soon. Please choose default chat now"
+msgstr "No puede configurar la versión pro ahora. La versión Pro llegará pronto. Elija el chat predeterminado ahora"
+
+
+msgid "You have no notifications right now"
+msgstr "No tienes notificaciones ahora"
+
+
+msgid "Your Domain URL"
+msgstr "Su URL de Dominio"
+
+
+msgid "[GUEST USER]"
+msgstr "[USUARIO INVITADO]"
+
+
+msgid "agent_welcome_text"
+msgstr "agent_welcome_text"
+
+
+msgid "e"
+msgstr "mi"
+
+
+msgid "ex. 5"
+msgstr "ex. 5"
+
+
+msgid "snippets"
+msgstr "fragmentos"
+
+
+msgid "to see the video tutorial"
+msgstr "para ver el video tutorial"
+
+
+msgid "typing"
+msgstr "mecanografía"
+
+
+msgid "%.2f"
+msgstr "%.2f"
+
+
+msgid "%s is already exists"
+msgstr "%s ya existe"
+
+
+msgid "A  ticket reply has been received from ticket user"
+msgstr "Se recibió una respuesta del usuario de la incidencia"
+
+
+msgid "A new ticket is assigned to you"
+msgstr "Se te ha asignado una nueva incidencia"
+
+
+msgid "A new ticket is received please assign"
+msgstr "Se recibe una nueva incidencia por favor asigne"
+
+
+msgid "A reset link has been sent to your email address. Please check that"
+msgstr "Se ha enviado un enlace de reinicio a su dirección de correo electrónico. Por favor revisa eso"
+
+
+msgid "Add"
+msgstr "Añadir"
+
+
+msgid "Add Another File"
+msgstr "Agregar otro archivo"
+
+
+msgid "Add Note"
+msgstr "Añadir la nota"
+
+
+msgid "Admin Notes"
+msgstr "Notas de administrador"
+
+
+msgid "Admin ticket creation"
+msgstr "Creación de incidencias de administrador"
+
+
+msgid "All Categories"
+msgstr "todas las categorias"
+
+
+msgid "All Category"
+msgstr "Toda la categoría"
+
+
+msgid "Application"
+msgstr "Solicitud"
+
+
+msgid "Are you sure to delete attached file (%s)?"
+msgstr "¿Estás seguro de borrar el archivo adjunto ( %s)?"
+
+
+msgid "Are you sure to delete attached file?"
+msgstr "¿Estás seguro de borrar el archivo adjunto?"
+
+
+msgid "Are you sure to delete feature image?"
+msgstr "¿Estás seguro de borrar la imagen de la función?"
+
+
+msgid "Assign On Ticket"
+msgstr "Asignar en la incidencia"
+
+
+msgid "Attach more file"
+msgstr "Adjunte más archivo"
+
+
+msgid "Attached"
+msgstr "Adjunto"
+
+
+msgid "Attached file"
+msgstr "Archivo adjunto"
+
+
+msgid "Authentication Error"
+msgstr "Error de autenticación"
+
+
+msgid "Auto Closing Rule"
+msgstr "Regla de cierre automático"
+
+
+msgid "Auto assign equally based on current month assigning"
+msgstr "Asignación automática por igual en función de la asignación de mes actual"
+
+
+msgid "Based on ticket assigning rule"
+msgstr "Basado en la regla de asignación de incidencias"
+
+
+msgid "Button Icon"
+msgstr "Icono de botón"
+
+
+msgid "Cat Ids"
+msgstr "Cat Ids"
+
+
+msgid "Change Category"
+msgstr "Cambiar categoría"
+
+
+msgid "Change Category of ticket: T6DD28E9B-012-1P9"
+msgstr "Cambiar categoría de ticket: T6DD28E9B-012-1P9"
+
+
+msgid "Change Category of ticket: T84B12BAE-001-ZCO"
+msgstr "Cambiar categoría de ticket: T84B12BAE-001-ZCO"
+
+
+msgid "Chat Auto Close"
+msgstr "Chat Auto Cerrar"
+
+
+msgid "Chat Auto Close Interval"
+msgstr "Intervalo de cierre automático de chat"
+
+
+msgid "Chat Background Pattern"
+msgstr "Patrón de fondo de chat"
+
+
+msgid "Chat Button Icon"
+msgstr "Icono de botón de chat"
+
+
+msgid "Chat Closing Text"
+msgstr "Texto de cierre de charla"
+
+
+msgid "Chat Logo"
+msgstr "Chat Logo"
+
+
+msgid "Chat Tag Line"
+msgstr "Línea de etiqueta de chat"
+
+
+msgid "Chat Title"
+msgstr "Título del chat"
+
+
+msgid "Chat Window and Button Color"
+msgstr "Ventana de charla y color de botón"
+
+
+msgid "Chat closing interval"
+msgstr "Intervalo de cierre de chat"
+
+
+msgid "Chat has been auto closed by system"
+msgstr "El sistema ha cerrado automáticamente el chat"
+
+
+msgid "Chat main color"
+msgstr "Color principal del chat"
+
+
+msgid "Chat will be closed which is inactive for entered value. Enter 0 to disable auto close"
+msgstr "El chat se cerrará y estará inactivo para el valor ingresado. Ingrese 0 para deshabilitar el cierre automático"
+
+
+msgid "Choose Category"
+msgstr "Elegir la categoría"
+
+
+msgid "Choose Pattern"
+msgstr "Elija el patrón"
+
+
+msgid "Choose Staff"
+msgstr "Elige el personal"
+
+
+msgid "Choose chat button icon"
+msgstr "Elija el ícono de botón"
+
+
+msgid "Close ticket which has been inactive for"
+msgstr "Cerrar incidencia que ha estado inactivo para"
+
+
+msgid "Close ticket which is inactivated for"
+msgstr "Cerrar incidencia que está inactiva para"
+
+
+msgid "Closing Message"
+msgstr "Mensaje de cierre"
+
+
+msgid "Closing Rule"
+msgstr "Regla de cierre"
+
+
+msgid "Closing Text"
+msgstr "Texto de cierre"
+
+
+msgid "Currency"
+msgstr "Moneda"
+
+
+msgid "Custom_field"
+msgstr "Campo personalizado"
+
+
+msgid "Delete failed"
+msgstr "Error de borrado"
+
+
+msgid "Demo Mode"
+msgstr "Modo de demostración"
+
+
+msgid "Disable Knowledge Stat In Homepage"
+msgstr "Deshabilitar Knowledge Stat en la página de inicio"
+
+
+msgid "Disable knowledge statistics in home page"
+msgstr "Deshabilitar las estadísticas de preguntas frecuentes en la página de inicio"
+
+
+msgid "Edit Ticket Assign Rule"
+msgstr "Editar regla de asignación de incidencias"
+
+
+msgid "Email template for  AAT"
+msgstr "Plantilla de correo electrónico para AAT"
+
+
+msgid "Email template for  TAC"
+msgstr "Plantilla de correo electrónico para TAC"
+
+
+msgid "Enable Auto Close"
+msgstr "Habilitar cierre automático"
+
+
+msgid "Enable this to disable %s,%s,%s in homepage"
+msgstr "Habilítelo para desactivar %s, %s, %s en la página de inicio"
+
+
+msgid "Files:"
+msgstr "Archivos:"
+
+
+msgid "Forgot Password"
+msgstr "Se te olvidó tu contraseña"
+
+
+msgid "Go to Login"
+msgstr "Ir a Iniciar sesión"
+
+
+msgid "Hour"
+msgstr "Hora"
+
+
+msgid "If you don't know how you will configure the Facebook Page settings then"
+msgstr "Si no sabe cómo configurará la configuración de la página de Facebook,"
+
+
+msgid "If you enable it, then inactive ticket will be closed automatically by auto closing rule"
+msgstr "Si lo habilita, la incidencia inactiva se cerrará automáticamente mediante la regla de cierre automático."
+
+
+msgid "If you enable this then assigned user will get notification on ticket assigning"
+msgstr "Si habilita esto, el usuario asignado recibirá una notificación sobre la asignación de incidencias"
+
+
+msgid "Inactive Interval"
+msgstr "Intervalo inactivo"
+
+
+msgid "Inactive Interval min"
+msgstr "Minuto de intervalo inactivo"
+
+
+msgid "It set a limit,how many chat per agent(Admin User) can take  simultaneously"
+msgstr "Establece un límite, la cantidad de chat por agente (usuario de administrador) puede tomar simultáneamente"
+
+
+msgid "It will display in chat window"
+msgstr "Se mostrará en la ventana de chat"
+
+
+msgid "It will redirect within"
+msgstr "Redirigirá dentro de"
+
+
+msgid "It will show when all agent close the chat,"
+msgstr "Se mostrará cuando todos los agentes cierren el chat,"
+
+
+msgid "Knowledge Categories"
+msgstr "Categorías de preguntas frecuentes"
+
+
+msgid "Knowledge attached file"
+msgstr "Archivo adjunto preguntas frecuentes"
+
+
+msgid "Knowledge feature image"
+msgstr "Imagen de la función de preguntas frecuentes"
+
+
+msgid "Main color of chat window."
+msgstr "Color principal de la ventana de chat"
+
+
+msgid "N B. If you select Facebook Chat then you have to reply form Facebook Page Manager App or from Facebook. You can't reply from this app"
+msgstr "N B. Si selecciona el Chat de Facebook, debe responder la aplicación del Administrador de Página de Facebook o desde Facebook. No puedes responder desde esta aplicación"
+
+
+msgid "Name of ticket assigned user"
+msgstr "Nombre del usuario asignado a la incidencia"
+
+
+msgid "New Admin Note"
+msgstr "Nueva nota de administrador"
+
+
+msgid "New Ticket Assign Rule"
+msgstr "Nueva regla de asignación de incidencias"
+
+
+msgid "New message or chat"
+msgstr "Nuevo mensaje o chat"
+
+
+msgid "New ticket assigned"
+msgstr "Nueva incidencia asignada"
+
+
+msgid "New ticket assigned by you"
+msgstr "Nueva incidencia asignada por ti"
+
+
+msgid "New ticket received"
+msgstr "Nueva incidencia recibida"
+
+
+msgid "No note founds"
+msgstr "No se encontraron notas"
+
+
+msgid "No ticket open by %s"
+msgstr "No hay incidencia abierta por %s"
+
+
+msgid "Note"
+msgstr "Nota"
+
+
+msgid "Note On"
+msgstr "Nota sobre"
+
+
+msgid "Notification List"
+msgstr "Lista de notificaciones"
+
+
+msgid "On Ticket Assign"
+msgstr "En la asignación de incidencias"
+
+
+msgid "Password changed successfully"
+msgstr "Contraseña cambiada con éxito"
+
+
+msgid "Password info"
+msgstr "Información de contraseña"
+
+
+msgid "Payment Amount (%s)"
+msgstr "Total a pagar ( %s)"
+
+
+msgid "Payment Amount(%s)"
+msgstr "Total a pagar ( %s)"
+
+
+msgid "Permission Denied or logged out."
+msgstr "Permiso denegado o cerrado."
+
+
+msgid "Please read it first"
+msgstr "Por favor léelo primero"
+
+
+msgid "Popular Knowledge"
+msgstr "Preguntas frecuentes más vistas"
+
+
+msgid "Recover Password"
+msgstr "Recuperar contraseña"
+
+
+msgid "Ref Id"
+msgstr "Ref Id"
+
+
+msgid "Ref Type"
+msgstr "Tipo de Ref."
+
+
+msgid "Reset failed try again"
+msgstr "Restablecer fallido intente nuevamente"
+
+
+msgid "Rule Id"
+msgstr "ID de regla"
+
+
+msgid "Rule Type"
+msgstr "Tipo de regla"
+
+
+msgid "SYSTEM"
+msgstr "SISTEMA"
+
+
+msgid "Select Category"
+msgstr "selecciona una categoría"
+
+
+msgid "Select Role"
+msgstr "Seleccionar rol"
+
+
+msgid "Select User"
+msgstr "Seleccionar usuario"
+
+
+msgid "Select User/Agent/Supervisor"
+msgstr "Seleccionar usuario / agente / supervisor"
+
+
+msgid "Selected agent/supervisor/admin will be notified on new ticket"
+msgstr "El agente / supervisor / administrador seleccionado será notificado en una nueva incidencia"
+
+
+msgid "Selected agent/supervisor/admin will be notified on new ticket assigning"
+msgstr "El agente / supervisor / administrador seleccionado será notificado sobre la nueva asignación de incidencias"
+
+
+msgid "Successfully assigned"
+msgstr "Asignado con éxito"
+
+
+msgid "Test Knowledge"
+msgstr "Prueba de preguntas frecuentes"
+
+
+msgid "Test attachedxcx"
+msgstr "Prueba adjuntaxcx"
+
+
+msgid "The ticket will be close which is inactive for client response"
+msgstr "La incidencia estará cerrada, que está inactiva para la respuesta del cliente"
+
+
+msgid "The update has been disabled in DEMO MODE"
+msgstr "La actualización ha sido desactivada en DEMO MODE"
+
+
+msgid "The user who reopen this ticket"
+msgstr "El usuario que vuelve a abrir esta incidencia"
+
+
+msgid "This user can be agent/supervisor/admin"
+msgstr "Este usuario puede ser agente / supervisor / administrador"
+
+
+msgid "Ticket Assign Rule"
+msgstr "Regla de asignación de incidencias"
+
+
+msgid "Ticket Assign Rule List"
+msgstr "Lista de roles de la incidencias"
+
+
+msgid "Ticket Closing Message"
+msgstr "Mensaje de cierre de incidencia"
+
+
+msgid "Ticket Closing Message defined in Ticket settings"
+msgstr "Mensaje de cierre de incidencia definida en la configuración de incidencia"
+
+
+msgid "Ticket Feedback Buttons"
+msgstr "Botones de comentarios de incidencias"
+
+
+msgid "Ticket Open By Admin"
+msgstr "Incidencia abierta por administrador"
+
+
+msgid "Ticket Payment Process"
+msgstr "Proceso de pago de incidencias"
+
+
+msgid "Ticket user  replied"
+msgstr "El usuario de la incidencia respondió"
+
+
+msgid "Ticket_assign_rule"
+msgstr "Rol de incidencia"
+
+
+msgid "Timezone updated successfully"
+msgstr "Zona horaria actualizada con éxito"
+
+
+msgid "Title :"
+msgstr "Título:"
+
+
+msgid "To see all settings effect on site, Please logout this session or try with other bowser. If admin logged in then you won't see the chat button"
+msgstr "Para ver todas las configuraciones de efecto en el sitio, cierre la sesión o pruebe con otro bowser. Si el administrador inició sesión, no verá el botón de chat"
+
+
+msgid "To see all settings effect on site, please logout admin user or try with other browser. If admin logged in then you won't see the chat button"
+msgstr "Para ver el efecto de todas las configuraciones en el sitio, desconecte el usuario administrador o intente con otro navegador. Si el administrador inició sesión, no verá el botón de chat"
+
+
+msgid "User Or Role"
+msgstr "Usuario o Rol"
+
+
+msgid "View Closing Email Template"
+msgstr "Ver la plantilla de correo electrónico de cierre"
+
+
+msgid "You have assigned self to a ticket"
+msgstr "Te has asignado una incidencia"
+
+
+msgid "You have been replied a ticket"
+msgstr "Le han respondido una  incidencia"
+
+
+msgid "You replied a ticket"
+msgstr "Usted respondió una incidencia"
+
+
+msgid "Your password has been changed successfully"
+msgstr "tu contraseña ha sido cambiada exitosamente"
+
+
+msgid "hours"
+msgstr "horas"
+
+
+msgid "second(s)"
+msgstr "segundos)"
+
+
+msgid "to view the ticket assigning rule"
+msgstr "para ver la regla de asignación de incidencias"
+
+
+msgid "Assign user"
+msgstr "Asignar usuario"
+
+
+msgid "Bad, dissatisfied"
+msgstr "Malo, insatisfecho"
+
+
+msgid "Both"
+msgstr "Ambos"
+
+
+msgid "Closed"
+msgstr "Cerrado"
+
+
+msgid "DB Query"
+msgstr "DB Query"
+
+
+msgid "Edit Chat Canned Message"
+msgstr "Editar mensaje enlatado"
+
+
+msgid "Edit Menu"
+msgstr "Menú de edición"
+
+
+msgid "Ex. http://xyz.com"
+msgstr "Ex. http://xyz.com"
+
+
+msgid "Failed"
+msgstr "Ha fallado"
+
+
+msgid "Feedback message"
+msgstr "Mensaje de respuesta"
+
+
+msgid "Guest"
+msgstr "Huésped"
+
+
+msgid "Guest Ticket User"
+msgstr "Usuario de incidencia invitado"
+
+
+msgid "High"
+msgstr "Alto"
+
+
+msgid "Icon"
+msgstr "Icono"
+
+
+msgid "In Progress"
+msgstr "En progreso"
+
+
+msgid "Is New Window"
+msgstr "Es una nueva ventana"
+
+
+msgid "Leave as Current"
+msgstr "Dejar como actual"
+
+
+msgid "Loading"
+msgstr "Cargando"
+
+
+msgid "Low"
+msgstr "Bajo"
+
+
+msgid "Medium"
+msgstr "Medio"
+
+
+msgid "My Assigned All Tickets"
+msgstr "Mis incidencias asignadas"
+
+
+msgid "New"
+msgstr "Nuevo"
+
+
+msgid "New Menu"
+msgstr "Nuevo menú"
+
+
+msgid "No search result found"
+msgstr "No se encontraron resultados de búsqueda"
+
+
+msgid "Not Found"
+msgstr "Extraviado"
+
+
+msgid "Notice_confirm"
+msgstr "Notice_confirm"
+
+
+msgid "Only On Knowledge"
+msgstr "Solo en preguntas frecuentes"
+
+
+msgid "Only on Ticket"
+msgstr "Solo en la incidencia"
+
+
+msgid "Page %s of %s"
+msgstr "Página %s de %s"
+
+
+msgid "Paid"
+msgstr "Pagado"
+
+
+msgid "Pending"
+msgstr "Pendiente"
+
+
+msgid "Please write a comment on us here"
+msgstr "Por favor escribe un comentario aquí"
+
+
+msgid "Refunded"
+msgstr "Reintegrado"
+
+
+msgid "Show Ticket"
+msgstr "Mostrar incidencia"
+
+
+msgid "Staff"
+msgstr "Personal"
+
+
+msgid "Text Icon"
+msgstr "Icono de texto"
+
+
+msgid "Thank you for your feedback"
+msgstr "Gracias por tus comentarios"
+
+
+msgid "Thank you for your feedback. It will help us."
+msgstr "Gracias por tus comentarios. Nos ayudará."
+
+
+msgid "The website address is not valid"
+msgstr "La dirección del sitio web no es válida"
+
+
+msgid "URL"
+msgstr "URL"
+
+
+msgid "Urgent"
+msgstr "Urgente"
+
+
+msgid "View %s - %s of %s"
+msgstr "Ver %s - %s de %s"
+
+
+msgid "Well, satisfied"
+msgstr "Bien, satisfecho"
+
+
+msgid "Would you please share your experience with us?"
+msgstr "¿Podría compartir su experiencia con nosotros?"
+
+
+msgid "You are not authorizse to see this ticket"
+msgstr "Usted no está autorizado para ver esta incidencia"
+
+
+msgid "day"
+msgstr "día"
+
+
+msgid "days"
+msgstr "dias"
+
+
+msgid "minute"
+msgstr "minuto"
+
+
+msgid "minutes"
+msgstr "minutos"
+
+
+msgid "month"
+msgstr "mes"
+
+
+msgid "months"
+msgstr "meses"
+
+
+msgid "second"
+msgstr "segundo"
+
+
+msgid "week"
+msgstr "semana"
+
+
+msgid "weeks"
+msgstr "semanas"
+
+
+msgid "year"
+msgstr "año"
+
+
+msgid "years"
+msgstr "años"
+
+
+msgid "ago"
+msgstr "hace"
+
+
+msgid "Ticket user(%s) replied"
+msgstr "El usuario de la incidencia ( %s) respondió"
+
+
+msgid "No category found"
+msgstr "No se encontró categoría"
+
+
+msgid "Ticket Reply"
+msgstr "Respuesta de la incidencia"
+
+
+msgid "Invalid Information"
+msgstr "Información inválida"
+
+
+msgid "Captcha Error"
+msgstr "Error de CAPTCHA"
+
+
+msgid "Assign self"
+msgstr "Asignar auto"
+
+
+msgid "Assign user %s"
+msgstr "Asignar usuario %s"
+
+
+msgid "Choose country block rule"
+msgstr "Elija la regla de bloque de país"
+
+
+msgid "Choose.."
+msgstr "Escoger.."
+
+
+msgid "Country Block Rule"
+msgstr "Regla de bloque de país"
+
+
+msgid "Country Block Settings"
+msgstr "Configuración de bloque de país"
+
+
+msgid "Country List"
+msgstr "Lista de países"
+
+
+msgid "Enter 2 digit Country Code(ex. US,CA,BD), Separated by comma"
+msgstr "Ingrese el código de país de 2 dígitos (por ejemplo, EE. UU., CA, BD), separados por comas."
+
+
+msgid "If you enable it then app check country for allow or block."
+msgstr "Si lo habilita, la aplicación verifica país para permitir o bloquear."
+
+
+msgid "No user found with this email address"
+msgstr "Ningún usuario encontrado con esta dirección de correo electrónico"
+
+
+msgid "Separated by comma"
+msgstr "Separados por comas"
+
+
+msgid "Seperated by comma"
+msgstr "Separados por comas"
+
+
+msgid "simultaneously"
+msgstr "simultaneamente"
+
+
+msgid "%d MIN"
+msgstr "%d MIN"
+
+
+msgid "Accept"
+msgstr "Aceptar"
+
+
+msgid "Access denied for hacking attempts"
+msgstr "Acceso denegado por intentos de pirateo"
+
+
+msgid "Admin Work Log"
+msgstr "Registro de trabajo administrativo"
+
+
+msgid "Allow User Own Account Delete Option"
+msgstr "Permitir opción de eliminación de cuenta propia del usuario"
+
+
+msgid "Allow User To Download Their User Data"
+msgstr "Permitir al usuario descargar sus datos de usuario"
+
+
+msgid "Are you sure to delete your account?"
+msgstr "¿Estás seguro de borrar tu cuenta?"
+
+
+msgid "Are you sure to reset?"
+msgstr "¿Estás seguro de reiniciar?"
+
+
+msgid "Assign"
+msgstr "Asignar"
+
+
+msgid "Auto"
+msgstr "Auto"
+
+
+msgid "Auto Assigned"
+msgstr "Auto asignado"
+
+
+msgid "Background Color"
+msgstr "Color de fondo"
+
+
+msgid "Background Opacity"
+msgstr "Opacidad de fondo"
+
+
+msgid "Background Opacity is required"
+msgstr "Se requiere Opacidad de fondo"
+
+
+msgid "Choose Bar Close Animation"
+msgstr "Elija Bar Close Animation"
+
+
+msgid "Choose Bar Open Animation"
+msgstr "Elija Bar Animación Abierta"
+
+
+msgid "Choose Display Event"
+msgstr "Elija Mostrar evento"
+
+
+msgid "Choose Policy Page"
+msgstr "Elija la página de política"
+
+
+msgid "Cookie Bar Background Color"
+msgstr "Color de fondo de la barra de cookies"
+
+
+msgid "Cookie Message"
+msgstr "Mensaje de cookie"
+
+
+msgid "Cookie bar text color"
+msgstr "Color del texto de la barra de cookies"
+
+
+msgid "Copy Link"
+msgstr "Copiar link"
+
+
+msgid "Date"
+msgstr "Fecha"
+
+
+msgid "Default Value"
+msgstr "Valor por defecto"
+
+
+msgid "Delete my account"
+msgstr "Borrar mi cuenta"
+
+
+msgid "Deleted"
+msgstr "Eliminado"
+
+
+msgid "Download this account data"
+msgstr "Descargue esta información de cuenta"
+
+
+msgid "Dropdown"
+msgstr "Desplegable"
+
+
+msgid "Edit Custom Field"
+msgstr "Editar campo personalizado"
+
+
+msgid "Edit Page"
+msgstr "Editar página"
+
+
+msgid "Error"
+msgstr "Error"
+
+
+msgid "Field Validation"
+msgstr "Validación de campo"
+
+
+msgid "GDPR Settings"
+msgstr "Configuraciones GDPR"
+
+
+msgid "General"
+msgstr "General"
+
+
+msgid "Go Home Page"
+msgstr "Ir a la página de inicio"
+
+
+msgid "If you enable it, then app will show a notification bar for cookie message"
+msgstr "Si lo habilita, la aplicación mostrará una barra de notificaciones para el mensaje de cookie"
+
+
+msgid "If you enable it, then site user or visitor can delete their account from their panel"
+msgstr "Si lo habilita, el usuario del sitio o visitante puede eliminar su cuenta de su panel"
+
+
+msgid "If you enable it, then site user or visitor can download their account data from their panel"
+msgstr "Si lo habilita, el usuario del sitio o visitante puede descargar los datos de su cuenta de su panel"
+
+
+msgid "If you enable it, then when visitor click the privacy policy then that will be show in lighbox window"
+msgstr "Si lo habilita, cuando el visitante haga clic en la política de privacidad, se mostrará en la ventana de lighbox."
+
+
+msgid "If you enable this then it field show in All Ticket list as column in admin panel"
+msgstr "Si habilita esto, entonces el campo se muestra en la lista Todas las incidencias como columna en el panel de administración"
+
+
+msgid "In Form"
+msgstr "En forma"
+
+
+msgid "Is Api Based"
+msgstr "Está Api Based"
+
+
+msgid "Is On Grid"
+msgstr "Está en cuadrícula"
+
+
+msgid "It is the cookie bar background color"
+msgstr "Es el color de fondo de la barra de cookies"
+
+
+msgid "It will control the opacity or background transparency of cookie bar background"
+msgstr "Controlará la opacidad o transparencia de fondo del fondo de la barra de cookies"
+
+
+msgid "Locked"
+msgstr "Bloqueado"
+
+
+msgid "Locked(Hack)"
+msgstr "Bloqueado (Hack)"
+
+
+msgid "Login Server"
+msgstr "Servidor de acceso"
+
+
+msgid "Malicious Attempt on attached file. Attached file(s) has been skipped"
+msgstr "Intento malicioso en el archivo adjunto. Archivo adjunto (s) ha sido salteado"
+
+
+msgid "Manual"
+msgstr "Manual"
+
+
+msgid "New IP"
+msgstr "Nueva IP"
+
+
+msgid "New Page"
+msgstr "Nueva pagina"
+
+
+msgid "New Work Log"
+msgstr "Nuevo registro de trabajo"
+
+
+msgid "No work log founds"
+msgstr "No se crea ningún registro de trabajo"
+
+
+msgid "Normal"
+msgstr "Normal"
+
+
+msgid "Notifiy"
+msgstr "Notificar"
+
+
+msgid "Numeric"
+msgstr "Numérico"
+
+
+msgid "On Submit Api Check"
+msgstr "En Enviar Api Check"
+
+
+msgid "On Ticket Opening Form Category"
+msgstr "En la categoría de formulario de apertura de incidencia"
+
+
+msgid "Others"
+msgstr "Otros"
+
+
+msgid "Page"
+msgstr "Página"
+
+
+msgid "Page Body"
+msgstr "Contenido de página"
+
+
+msgid "Pages"
+msgstr "Páginas"
+
+
+msgid "Policy Page is required"
+msgstr "La página de política es obligatoria"
+
+
+msgid "Published"
+msgstr "Publicado"
+
+
+msgid "Radio"
+msgstr "Radio"
+
+
+msgid "Read"
+msgstr "Leer"
+
+
+msgid "Reset IP"
+msgstr "Restablecer IP"
+
+
+msgid "Select page"
+msgstr "Seleccionar página"
+
+
+msgid "Show on Table Data List"
+msgstr "Mostrar en la lista de datos de la tabla"
+
+
+msgid "Slag Title"
+msgstr "Título de papelera"
+
+
+msgid "Success"
+msgstr "Éxito"
+
+
+msgid "Suspicious : Malicious attempt  on attached file: %s"
+msgstr "Sospechoso: intento malicioso de archivo adjunto: %s"
+
+
+msgid "Suspicious: Malicious File Upload Attempts. If you tried to upload again then your ip will be blocked automatically"
+msgstr "Sospechoso: Intentos de carga de archivos maliciosos. Si intenta subir de nuevo, su IP se bloqueará automáticamente"
+
+
+msgid "Switch"
+msgstr "Cambiar"
+
+
+msgid "Textbox"
+msgstr "Caja de texto"
+
+
+msgid "This key is already used in another site. contact support team"
+msgstr "Esta clave ya se usa en otro sitio. contactar al equipo de soporte"
+
+
+msgid "Ticket Id"
+msgstr "Identificación de incidencias"
+
+
+msgid "Ticket Re-Open"
+msgstr "Incidencia re-abierta"
+
+
+msgid "Ticket user has been data deleted"
+msgstr "El usuario de la incidencia ha sido eliminado"
+
+
+msgid "Undefined page"
+msgstr "Página no definida"
+
+
+msgid "Unpublished"
+msgstr "Inédito"
+
+
+msgid "View Cookie Notification Bar"
+msgstr "Ver barra de notificaciones de cookies"
+
+
+msgid "View Page"
+msgstr "Ver pagina"
+
+
+msgid "View Policy In POP UP window(Lightbox)"
+msgstr "Ver política en la ventana POP UP (Lightbox)"
+
+
+msgid "Viewed"
+msgstr "Visto"
+
+
+msgid "Work Time"
+msgstr "Tiempo de trabajo"
+
+
+msgid "Write %s for Policy Link and %s for only policy URL"
+msgstr "Escriba %s para el Enlace de política y %s para solo URL de política"
+
+
+msgid "Write {{PolicyLink}} for Policy Link and {{PolicyURL}} for only policy URL"
+msgstr "Escriba {{PolicyLink}} para Policy Link y {{PolicyURL}} para URL de política solo"
+
+
+msgid "You can create many page in page menu. Go to Admin Settings > Pages or %s"
+msgstr "Puede crear muchas páginas en el menú de la página. Vaya a Configuración de administrador> Páginas o %s"
+
+
+msgid "You logged in using %s"
+msgstr "Usted inició sesión usando %s"
+
+
+msgid "Disable Counter Icon"
+msgstr "Desactivar icono de contador"
+
+
+msgid "Disable Knowledge Like/Dislike Button"
+msgstr "Desactivar conocimiento como / no me gusta el botón"
+
+
+msgid "Disable knowledge like and dislike button"
+msgstr "Desactivar el conocimiento como y no me gusta el botón"
+
+
+msgid "Do Not Show Last Update Date"
+msgstr "No mostrar la fecha de la última actualización"
+
+
+msgid "Do Not Show Last Update Date on Knowledge Details"
+msgstr "No mostrar la fecha de la última actualización en los detalles del conocimiento"
+
+
+msgid "Do Not Show counter icon with knowledge"
+msgstr "No mostrar el icono del contador con conocimiento"
+
+
+msgid "Do Not Show counter with knowledge"
+msgstr "No mostrar contador con conocimiento"
+
+
+msgid "If you enable this then it won't show the like or dislike button on knowledge details."
+msgstr "Si habilitas esto, entonces no mostrará el botón "Me gusta" o "No me gusta" en los detalles de conocimiento."
+
+
+msgid "If you enable this then, it won't show the last update date on knowledge details."
+msgstr "Si habilita esto entonces, no mostrará la última fecha de actualización en los detalles de conocimiento."
+
+
+msgid "If you enable this then, it won't show the view/rate counter."
+msgstr "Si habilita esto entonces, no mostrará el contador de vista / tasa."
+
+
+msgid "Last Update Date"
+msgstr "Última Fecha de Actualización"
+
+
+msgid "Login Required, Please login"
+msgstr "Se requiere iniciar sesión, por favor inicie sesión"
+
+
+msgid "OR"
+msgstr "O"
+

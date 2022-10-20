@@ -1,0 +1,29 @@
+body{
+    direction: ltr;
+    text-align: left;
+}
+
+
+
+.btns{
+    margin-left: 140px !important;
+
+}
+.margin{
+    margin-left: 150px !important;
+}
+.accordion-wrapper .card .card-header a:after{
+    margin-left: 320px;
+}
+.wallet-top-header-box{
+    margin-left: 150px !important;
+}
+section{
+    text-align: left;
+}
+form label{
+    float: left;
+}
+form label.error{
+    float: right;
+}

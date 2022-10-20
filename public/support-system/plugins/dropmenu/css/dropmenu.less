@@ -1,0 +1,58 @@
+//out:dropmenu.css, compress: true, sourceMap: false
+.app-dropdownmenu{
+    padding: 0px;
+	position: absolute;
+	background: #fff;
+	border: 1px solid rgba(0, 0, 0, 0.03);
+	min-width: 150px;
+	z-index: 9999;
+	display: none;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+    border-radius: 3px;
+    	
+	-webkit-box-shadow: 0 2px 4px -1px rgb(96, 94, 94);
+	-moz-box-shadow: 0 2px 4px -1px rgb(96, 94, 94);
+    box-shadow: 0 2px 4px -1px rgb(96, 94, 94); 
+    li{
+        &.menu-divider,&.divider{
+            border-bottom: 1px solid rgba(0, 0, 0, 0.1);            
+            min-height: 1px;
+            margin: 0;
+            font-size: 12px;
+            padding: 0 5px;
+            color:#898686;
+
+        }
+        list-style: none;
+        cursor: pointer;
+        a{
+            position: relative;
+            i{
+               margin-right: 5px;
+               margin-left: -5px;               
+            }
+            kbd{
+               float: right; 
+               background: transparent;
+               color: #898686;
+               border: none;
+               margin-right: -5px;
+               font-family:  sans-serif, Tahoma,;
+               -webkit-box-shadow: unset;
+               -moz-box-shadow: unset;
+               box-shadow: unset;
+               &::after{
+                   content: " ";
+                   clear: both;
+               }
+            }
+            display: block;           
+            padding: 5px 10px;
+            &:hover{
+                background: rgba(0, 0, 0, 0.02);
+            }
+        }
+       
+    }
+}

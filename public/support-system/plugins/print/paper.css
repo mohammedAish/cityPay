@@ -1,0 +1,116 @@
+@page { margin: 0 }
+body { margin: 0 }
+.sheet {
+  margin: 0;
+  overflow: hidden;
+  position: relative;
+  box-sizing: border-box;
+  page-break-after: always;
+}
+
+/** Paper sizes **/
+body.A3           .sheet { width: 297mm; height: 419mm }
+body.A3.landscape .sheet { width: 420mm; height: 296mm }
+body.A4           .sheet { width: 210mm; height: 296mm }
+body.A4.landscape .sheet { width: 297mm; height: 209mm }
+body.A5           .sheet { width: 148mm; height: 209mm }
+body.A5.landscape .sheet { width: 210mm; height: 147mm }
+body.Cheque 	  .sheet { width: 190.5mm; height: 76.2mm }
+body.Cheque.Portrait .sheet { width: 76.2mm; height: 190.5mm }
+/** Padding area **/
+.sheet.padding-10mm { padding: 10mm }
+.sheet.padding-15mm { padding: 15mm }
+.sheet.padding-20mm { padding: 20mm }
+.sheet.padding-25mm { padding: 25mm }
+
+
+/** For screen preview **/
+@media screen {
+	body {
+		background: #e0e0e0 !important;
+	}
+	.sheet {
+		background: white;
+		box-shadow: 0 .5mm 2mm rgba(0, 0, 0, .3);
+		margin: 5mm;
+	}
+	body.A3           .toolbox-container { width: 297mm; }
+	body.A3.landscape .toolbox-container { width: 420mm; }
+	body.A4           .toolbox-container { width: 210mm;}
+	body.A4.landscape .toolbox-container { width: 297mm; }
+	body.A5           .toolbox-container { width: 148mm;}
+	body.A5.landscape .toolbox-container { width: 210mm;}
+	body.Cheque 	  .toolbox-container { width: 190.5mm; }
+	body.Cheque.Portrait .toolbox-container { width: 76.2mm;}
+	.toolbox-container {
+		text-align: center;
+	}
+	.toolbox-container  .toolbox {
+		padding: 5px 5mm;
+		text-align: center;
+		display: inline-block;
+		margin-top: 5px;
+		background: #eeeeee; /* Old browsers */
+		-webkit-border-radius: 2px;
+		-moz-border-radius: 2px;
+		border-radius: 2px;
+		-webkit-box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.4);
+		-moz-box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.4);
+		box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.4);
+		display: inline-block;		
+		padding: 5px 5mm;
+		min-width: 200px;
+		
+	}
+	.toolbox .btn {
+		border: 1px solid #625d5d;
+		padding: 2px 5px;
+		/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#e2e2e2+0,dbdbdb+50,d1d1d1+51,fefefe+100;Grey+Gloss+%231 */
+		background: #eeeeee; /* Old browsers */
+		background: -moz-linear-gradient(top, #eeeeee 0%, #cccccc 100%);
+		/* FF3.6-15 */
+		background: -webkit-linear-gradient(top, #eeeeee 0%, #cccccc 100%);
+		/* Chrome10-25,Safari5.1-6 */
+		background: linear-gradient(to bottom, #eeeeee 0%, #cccccc 100%);
+		/* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+		filter: progid:DXImageTransform.Microsoft.gradient(    startColorstr='#eeeeee',
+			endColorstr='#cccccc', GradientType=0); /* IE6-9 */
+		-webkit-border-radius: 2px;
+		-moz-border-radius: 2px;
+		border-radius: 2px;
+	}
+	.toolbox-container .toolbox label {
+		
+		font-size: 15px;
+		font-weight: normal;
+		margin: 0 2px;
+		color: #505050;
+	}
+	.toolbox-container .toolbox input {
+	  font-size: 13px;
+	  line-height: 16px;
+	  padding: 2px 5px;	 
+	 
+		-webkit-border-radius: 2px;
+		-moz-border-radius: 2px;
+		border-radius: 2px;
+		border-style: solid;
+		 border: 1px solid #CCC;
+		
+	}
+}
+/** Fix for Chrome issue #273306 **/
+@media print {
+           body.A3.landscape { width: 420mm }
+  body.A3, body.A4.landscape { width: 297mm }
+  body.A4, body.A5.landscape { width: 210mm }
+  body.A5                    { width: 148mm }
+  body.Cheque 				 {width: 190.5mm}
+	
+  .toolbox-container,.toolbox,.no-print {
+		display: none;
+	}
+	.no-gutter .sheet{
+		margin: 0;
+	}
+}

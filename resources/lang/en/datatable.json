@@ -1,0 +1,23 @@
+{
+  "sEmptyTable":     "لا توجد بيانات في",
+  "sInfo":           "عرض _START_ الى _END_ من _TOTAL_ اجمالي السجلات",
+  "sInfoEmpty":      "عرض 0 الى 0 من 0 اجمالي السجلات",
+  "sInfoFiltered":   "(فلترة من _MAX_ اجمالي السجلات)",
+  "sInfoPostFix":    "",
+  "sInfoThousands":  ",",
+  "sLengthMenu":     "عرض  _MENU_ سجلات",
+  "sLoadingRecords": "تحميل...",
+  "sProcessing":     "معالجة...",
+  "sSearch":         "بحث:",
+  "sZeroRecords":    "لا توجد سجلات متوافقة",
+  "oPaginate": {
+    "sFirst":    "الاول",
+    "sLast":     "الاخير",
+    "sNext":     "التالي",
+    "sPrevious": "السابق"
+  },
+  "oAria": {
+    "sSortAscending":  ": تفعيل الترتيب التصاعدي",
+    "sSortDescending": ": تفعيل الترتيب التنازلي"
+  }
+}

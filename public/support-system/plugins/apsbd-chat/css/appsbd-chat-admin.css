@@ -1,0 +1,792 @@
+#apbd-cht-admin-container .apc-main-container,
+.apbd-cht-admin-container .apc-main-container {
+	position: absolute;
+	right: 0;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	-ms-box-orient: horizontal;
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -moz-flex;
+	display: -webkit-flex;
+	display: flex;
+	height: 100%
+}
+#apbd-cht-admin-container .apc-main-container .apc-spinner,
+.apbd-cht-admin-container .apc-main-container .apc-spinner {
+	display: inline;
+	margin-right: 10px
+}
+#apbd-cht-admin-container .apc-main-container .apc-diver,
+.apbd-cht-admin-container .apc-main-container .apc-diver {
+	background: #fef8f8;
+	color: #b22e20;
+	font-weight: bold;
+	border-bottom: 0px;
+	border-top: 0px;
+	padding: 2px;
+	position: relative;
+	min-height: 35px
+}
+#apbd-cht-admin-container .apc-main-container .apc-diver input,
+.apbd-cht-admin-container .apc-main-container .apc-diver input {
+	color: #aaaaaa;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+	border: 0px;
+	padding: 0 10px;
+	height: 26px;
+	margin-top: -2px;
+	position: absolute;
+	left: 5px;
+	right: 5px;
+	font-weight: 500;
+	top: 5px
+}
+#apbd-cht-admin-container .apc-main-container .apc-spinner>div,
+.apbd-cht-admin-container .apc-main-container .apc-spinner>div {
+	width: 8px;
+	height: 8px;
+	background-color: #000;
+	border-radius: 100%;
+	display: inline-block;
+	-webkit-animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+	animation: sk-bouncedelay 1.4s infinite ease-in-out both
+}
+#apbd-cht-admin-container .apc-main-container .apc-spinner .apc-bounce1,
+.apbd-cht-admin-container .apc-main-container .apc-spinner .apc-bounce1 {
+	-webkit-animation-delay: -0.32s;
+	animation-delay: -0.32s
+}
+#apbd-cht-admin-container .apc-main-container .apc-spinner .apc-bounce2,
+.apbd-cht-admin-container .apc-main-container .apc-spinner .apc-bounce2 {
+	-webkit-animation-delay: -0.16s;
+	animation-delay: -0.16s
+}
+@-webkit-keyframes sk-bouncedelay {
+	0%, 80%, 100% {
+		-webkit-transform: scale(0)
+	}
+	40% {
+		-webkit-transform: scale(1)
+	}
+}
+@keyframes sk-bouncedelay {
+	0%, 80%, 100% {
+		-webkit-transform: scale(0);
+		transform: scale(0)
+	}
+	40% {
+		-webkit-transform: scale(1);
+		transform: scale(1)
+	}
+}
+#apbd-cht-admin-container .apc-main-container .apc-chat-container,
+.apbd-cht-admin-container .apc-main-container .apc-chat-container,
+#apbd-cht-admin-container .apc-main-container .apc-user-list,
+.apbd-cht-admin-container .apc-main-container .apc-user-list,
+#apbd-cht-admin-container .apc-main-container .apc-chat-user-info,
+.apbd-cht-admin-container .apc-main-container .apc-chat-user-info {
+	padding: 0px 10px 0px 10px
+}
+#apbd-cht-admin-container .apc-main-container #chat-canned-msg-btn,
+.apbd-cht-admin-container .apc-main-container #chat-canned-msg-btn {
+	margin-top: -2px
+}
+#apbd-cht-admin-container .apc-main-container .apc-loading,
+.apbd-cht-admin-container .apc-main-container .apc-loading {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	background: rgba(0, 0, 0, 0.9);
+	z-index: 991;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px
+}
+#apbd-cht-admin-container .apc-main-container .apc-loading>.apc-loading-msg,
+.apbd-cht-admin-container .apc-main-container .apc-loading>.apc-loading-msg {
+	position: absolute;
+	left: 0;
+	right: 0;
+	text-align: center;
+	top: 50%;
+	margin-top: -20px;
+	font-weight: bold;
+	font-size: 24px;
+	color: #fff
+}
+#apbd-cht-admin-container .apc-main-container>div,
+.apbd-cht-admin-container .apc-main-container>div {
+	display: inline;
+	height: 100%
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-header,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-header {
+	font-weight: bold;
+	border-bottom: 1px solid rgba(201, 201, 201, 0.67);
+	margin-left: -10px;
+	margin-right: -10px;
+	padding: 10px;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	height: 50px
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-header .apc-open-user-list,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-header .apc-open-user-list,
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-header .apc-open-chatinfo,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-header .apc-open-chatinfo {
+	display: none
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-header .apc-chat-desi,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-header .apc-chat-desi {
+	font-size: 10px
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content {
+	height: 80%;
+	height: calc(100% - 50px);
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-direction: column;
+	flex-direction: column;
+	-webkit-align-items: flex-start;
+	align-items: flex-start
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content>div,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content>div {
+	margin-right: -10px;
+	margin-left: -10px;
+	padding: 10px;
+	width: 100%;
+	width: calc(100% + 20px)
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content {
+	height: 100%;
+	position: relative
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs {
+	overflow: auto;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	padding: 30px;
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs .apc-load-move,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs .apc-load-move {
+	display: none
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs .apc-chat-img-dl,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs .apc-chat-img-dl {
+	display: block
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs .apc-chat-img,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs .apc-chat-img {
+	display: block
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs .apc-chat-img img,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs .apc-chat-img img {
+	max-height: 200px;
+	border: 2px solid rgba(204, 204, 204, 0.31);
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs .apc-chat-img img:hover,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs .apc-chat-img img:hover {
+	border: 2px solid rgba(175, 34, 38, 0.44)
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs .apc-msg-time,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs .apc-msg-time {
+	display: table;
+	clear: both;
+	width: 90%;
+	width: calc(100% - 64px);
+	text-align: right;
+	font-size: 10px;
+	font-style: italic;
+	font-weight: bold;
+	letter-spacing: 1px;
+	color: #595e5f
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs>.apc-msg-sys-item,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs>.apc-msg-sys-item {
+	overflow-wrap: break-word
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs>.apc-msg-sys-item .apc-msg,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs>.apc-msg-sys-item .apc-msg {
+	float: none;
+	width: 90%;
+	background: rgba(77, 77, 77, 0.3);
+	margin-left: 11px;
+	border-radius: 16px 16px 16px 16px;
+	padding: 7px;
+	box-shadow: 0 0 2px 0px rgba(0, 0, 0, 0.72);
+	margin: 5px auto
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs>.apc-msg-sys-item .apc-msg>.apc-msg-item-header,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs>.apc-msg-sys-item .apc-msg>.apc-msg-item-header {
+	border-bottom: 1px solid rgba(100, 100, 100, 0.04);
+	text-align: center;
+	margin-top: -2px;
+	margin-bottom: 5px;
+	padding-bottom: 5px;
+	font-size: 10px;
+	font-style: italic;
+	font-weight: bold;
+	letter-spacing: 1px;
+	color: rgba(89, 94, 95, 0.5)
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs>.apc-msg-sys-item .apc-msg>.apc-msg-item-footer,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs>.apc-msg-sys-item .apc-msg>.apc-msg-item-footer {
+	border-top: 1px solid rgba(100, 100, 100, 0.04);
+	text-align: center;
+	margin-top: 5px;
+	padding-top: 5px;
+	font-size: 10px;
+	font-style: italic;
+	font-weight: bold;
+	letter-spacing: 1px;
+	color: rgba(89, 94, 95, 0.5)
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs>.apc-msg-sys-item .apc-msg-time,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs>.apc-msg-sys-item .apc-msg-time {
+	width: 90%;
+	width: calc(100% - 103px)
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs>.apc-msg-item,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs>.apc-msg-item {
+	margin: 10px 0;
+	overflow-wrap: break-word
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs>.apc-msg-item>.apc-umg,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs>.apc-msg-item>.apc-umg {
+	border-radius: 50%;
+	background: #fff;
+	width: 40px;
+	height: 40px;
+	float: left;
+	overflow: hidden;
+	box-shadow: 0 0 2px 0px rgba(0, 0, 0, 0.72)
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs>.apc-msg-item>.apc-umg img,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs>.apc-msg-item>.apc-umg img {
+	width: 40px;
+	height: 40px
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs>.apc-msg-item>.apc-msg,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs>.apc-msg-item>.apc-msg {
+	margin-top: 5px;
+	float: left;
+	width: 83%;
+	width: calc(100% - 103px);
+	background: rgb(255 255 255);
+	margin-left: 11px;
+	border-radius: 6px 6px 6px 16px;
+	border: 1px solid #e4e8ee;
+	padding: 7px;
+}
+.chat-end-button{
+	width: 100% !important;
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs>.apc-msg-item.apc-me>.apc-umg,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs>.apc-msg-item.apc-me>.apc-umg {
+	float: right
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs>.apc-msg-item.apc-me>.apc-msg,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs>.apc-msg-item.apc-me>.apc-msg {
+	float: right;
+	border-radius: 6px 4px 16px 6px;
+	margin-right: 11px;
+	margin-left: 0px;
+	background: rgba(63,92,134,.14);
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs>.apc-msg-item:after,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs>.apc-msg-item:after {
+	content: "";
+	display: table;
+	clear: both
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs:after,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-content>.apc-msgs:after {
+	content: "";
+	display: table;
+	clear: both
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-msg-divider,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-item-msg-divider {
+	height: 6px;
+	border-top: 1px solid rgba(201, 201, 201, 0.37);
+	border-bottom: 1px solid rgba(201, 201, 201, 0.37);
+	text-align: center;
+	color: #cccccc;
+	background: #fffefe;
+	background: -moz-linear-gradient(top, #fffefe 0%, #f9f6f6 100%);
+	background: -webkit-linear-gradient(top, #fffefe 0%, #f9f6f6 100%);
+	background: linear-gradient(to bottom, #fffefe 0%, #f9f6f6 100%);
+	filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#fffefe', endColorstr='#f9f6f6', GradientType=0);
+	padding: 1px;
+	line-height: 0;
+	font-weight: bold;
+	cursor: row-resize;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel {
+	position: relative;
+	border-top: 1px solid rgba(201, 201, 201, 0.67);
+	height: 100px
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .apc-file-up-status,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .apc-file-up-status {
+	position: absolute;
+	top: -33px;
+	right: 22px;
+	display: none;
+	background: rgba(0, 0, 0, 0.66);
+	padding: 5px;
+	color: #ffffff;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	border: none;
+	padding: 0;
+	margin-bottom: 0 !important
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel .panel-heading,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel .panel-heading {
+	padding: 0 15px;
+	height: 24px;
+	-webkit-border-radius: 0 !important;
+	-moz-border-radius: 0 !important;
+	border-radius: 0 !important
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel .panel-heading .form-group,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel .panel-heading .form-group {
+	margin: 0
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel .panel-heading .form-group .control-label,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel .panel-heading .form-group .control-label {
+	margin-top: -2px
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel .panel-heading .form-group .form-control,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel .panel-heading .form-group .form-control {
+	height: 20px;
+	margin-top: 2px
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel .panel-heading .form-group .form-control:focus,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel .panel-heading .form-group .form-control:focus {
+	background-image: none !important;
+	background-size: 0;
+	box-shadow: none;
+	outline: 0 none;
+	transition-duration: .3s
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel .panel-heading .form-group select,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel .panel-heading .form-group select {
+	min-width: 200px;
+	font-size: 12px;
+	padding: 0
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel .panel-heading .form-group select+.btn,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel .panel-heading .form-group select+.btn {
+	height: 19px;
+	font-size: 10px
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel .panel-body,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel .panel-body {
+	position: relative;
+	height: calc(100% - 24px)
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel .panel-body>.apc-send-ctrl,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel .panel-body>.apc-send-ctrl {
+	text-align: center;
+	white-space: nowrap;
+	margin-right: 5px;
+	position: absolute;
+	right: 13px;
+	z-index: 99
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel .panel-body>.apc-send-ctrl>i,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel .panel-body>.apc-send-ctrl>i {
+	padding: 5px;
+	font-size: 20px;
+	color: #cccccc
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel .panel-body>.apc-send-ctrl>i:hover,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel .panel-body>.apc-send-ctrl>i:hover {
+	color: #4d4d4d
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel .panel-body>textarea,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel .panel-body>textarea {
+	position: absolute;
+	left: 0;
+	right: 110px;
+	height: 99%;
+	width: 99%;
+	width: calc(100% - 110px);
+	bottom: 0;
+	top: 0;
+	border: none;
+	padding: 5px;
+	resize: none;
+	z-index: 98
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel>textarea,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel>textarea {
+	position: absolute;
+	left: 0;
+	right: 0;
+	height: 99%;
+	height: calc(100% - 2px);
+	width: 99%;
+	width: calc(100% - 2px);
+	bottom: 0;
+	top: 0;
+	border: none;
+	padding: 5px;
+	resize: none
+}
+#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .apc-msg-typing,
+.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .apc-msg-typing {
+	position: absolute;
+	top: -23px;
+	left: 10px;
+	background: rgba(0, 0, 0, 0.09);
+	padding: 2px 10px;
+	border-radius: 9px;
+	font-size: 10px;
+	color: #616564;
+	display: none
+}
+#apbd-cht-admin-container .apc-main-container .apc-user-list,
+.apbd-cht-admin-container .apc-main-container .apc-user-list {
+	width: 25%;
+	border-right: 1px solid rgba(201, 201, 201, 0.67)
+}
+#apbd-cht-admin-container .apc-main-container .apc-user-list .apc-pnl-content>.slimScrollDiv,
+.apbd-cht-admin-container .apc-main-container .apc-user-list .apc-pnl-content>.slimScrollDiv {
+	width: calc(100% + 21px) !important;
+	padding-top: 0
+}
+#apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-list,
+.apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-list,
+#apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-end-list,
+.apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-end-list {
+	padding: 0;
+	margin: 0 -10px;
+	width: 100%;
+	width: calc(100% + 20px)
+}
+#apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-list>li,
+.apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-list>li,
+#apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-end-list>li,
+.apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-end-list>li {
+	cursor: pointer;
+	display: block;
+	width: 100%;
+	padding: 10px 20px 10px 25px;
+	list-style: none;
+	border-bottom: 1px solid rgba(201, 201, 201, 0.67);
+	border-left: 4px solid rgba(201, 201, 201, 0.67);
+	position: relative
+}
+#apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-list>li span.apc-rtc-c,
+.apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-list>li span.apc-rtc-c,
+#apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-end-list>li span.apc-rtc-c,
+.apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-end-list>li span.apc-rtc-c {
+	display: none;
+	position: absolute;
+	right: 13px;
+	top: 50%;
+	margin-top: -12px
+}
+#apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-list>li span.apc-rtc-c.badge,
+.apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-list>li span.apc-rtc-c.badge,
+#apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-end-list>li span.apc-rtc-c.badge,
+.apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-end-list>li span.apc-rtc-c.badge {
+	margin-top: -10px
+}
+#apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-list>li span.apc-rtc-c span.apc-btn-rc,
+.apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-list>li span.apc-rtc-c span.apc-btn-rc,
+#apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-end-list>li span.apc-rtc-c span.apc-btn-rc,
+.apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-end-list>li span.apc-rtc-c span.apc-btn-rc {
+	padding: 0 2px
+}
+#apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-list>li.has-msg:not(.apc-active) span.apc-rtc-c,
+.apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-list>li.has-msg:not(.apc-active) span.apc-rtc-c,
+#apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-end-list>li.has-msg:not(.apc-active) span.apc-rtc-c,
+.apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-end-list>li.has-msg:not(.apc-active) span.apc-rtc-c {
+	display: block
+}
+#apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-list>li.has-msg:not(.apc-active)::before,
+.apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-list>li.has-msg:not(.apc-active)::before,
+#apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-end-list>li.has-msg:not(.apc-active)::before,
+.apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-end-list>li.has-msg:not(.apc-active)::before {
+	-webkit-animation-name: flash;
+	animation-name: flash;
+	animation-iteration-count: infinite;
+	animation-duration: 2s
+}
+#apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-list>li.apc-active,
+.apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-list>li.apc-active,
+#apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-end-list>li.apc-active,
+.apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-end-list>li.apc-active {
+	font-weight: bold;
+	position: relative;
+	border-left: 4px solid rgba(0, 0, 0, 0.3) !important
+}
+#apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-list>li.apc-active::after,
+.apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-list>li.apc-active::after,
+#apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-end-list>li.apc-active::after,
+.apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-end-list>li.apc-active::after {
+	content: '\00BB';
+	position: absolute;
+	width: 20px;
+	right: -2px;
+	z-index: 99;
+	background: #fff;
+	top: 0;
+	bottom: 0;
+	font-size: 21px;
+	line-height: 35px;
+	color: rgba(0, 0, 0, 0.12);
+	font-weight: normal
+}
+#apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-list>li::before,
+.apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-list>li::before,
+#apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-end-list>li::before,
+.apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-end-list>li::before {
+	content: ' ';
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 12px;
+	top: 50%;
+	margin-top: -4px;
+	z-index: 99;
+	background: #00a65a;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%
+}
+#apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-list>li:hover,
+.apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-list>li:hover,
+#apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-end-list>li:hover,
+.apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-end-list>li:hover {
+	border-left: 4px solid rgba(176, 176, 176, 0.67)
+}
+#apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-end-list>li::before,
+.apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-end-list>li::before {
+	background: #cc0000;
+	width: 8px;
+	height: 8px;
+	left: 12px;
+	top: 50%;
+	margin-top: -3px
+}
+#apbd-cht-admin-container .apc-main-container .apc-chat-container,
+.apbd-cht-admin-container .apc-main-container .apc-chat-container {
+	width: 100%;
+	border-right: 1px solid rgba(201, 201, 201, 0.67)
+}
+#apbd-cht-admin-container .apc-main-container .apc-chat-user-info,
+.apbd-cht-admin-container .apc-main-container .apc-chat-user-info {
+	width: 25%;
+	overflow: hidden
+}
+#apbd-cht-admin-container .apc-main-container .apc-chat-user-info .dl-horizontal dt,
+.apbd-cht-admin-container .apc-main-container .apc-chat-user-info .dl-horizontal dt {
+	text-align: left;
+	width: 75px;
+	position: relative
+}
+#apbd-cht-admin-container .apc-main-container .apc-chat-user-info .dl-horizontal dt:after,
+.apbd-cht-admin-container .apc-main-container .apc-chat-user-info .dl-horizontal dt:after {
+	content: ':';
+	padding: 0 5px;
+	position: absolute;
+	right: 0
+}
+#apbd-cht-admin-container .apc-main-container .apc-chat-user-info .dl-horizontal dd,
+.apbd-cht-admin-container .apc-main-container .apc-chat-user-info .dl-horizontal dd {
+	width: calc(100% - 34px);
+	margin-left: 75px;
+	padding-left: 0px;
+	margin-bottom: 5px
+}
+#apbd-cht-admin-container .apc-main-container .apc-close-btn,
+.apbd-cht-admin-container .apc-main-container .apc-close-btn {
+	display: none
+}
+@media all and (max-width: 768px) {
+	#apbd-cht-admin-container .apc-main-container>div .apc-pnl-header,
+	.apbd-cht-admin-container .apc-main-container>div .apc-pnl-header {
+		padding: 5px 35px
+	}
+	#apbd-cht-admin-container .apc-main-container>div .apc-pnl-header .apc-open-user-list,
+	.apbd-cht-admin-container .apc-main-container>div .apc-pnl-header .apc-open-user-list,
+	#apbd-cht-admin-container .apc-main-container>div .apc-pnl-header .apc-open-chatinfo,
+	.apbd-cht-admin-container .apc-main-container>div .apc-pnl-header .apc-open-chatinfo {
+		display: block;
+		position: absolute;
+		top: 0px;
+		z-index: 99;
+		padding: 17px 15px
+	}
+	#apbd-cht-admin-container .apc-main-container>div .apc-pnl-header .apc-open-user-list,
+	.apbd-cht-admin-container .apc-main-container>div .apc-pnl-header .apc-open-user-list {
+		left: -5px
+	}
+	#apbd-cht-admin-container .apc-main-container>div .apc-pnl-header .apc-open-chatinfo,
+	.apbd-cht-admin-container .apc-main-container>div .apc-pnl-header .apc-open-chatinfo {
+		right: 5px
+	}
+	#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel,
+	.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel {
+		margin-top: -2px
+	}
+	#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel .panel-heading,
+	.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel .panel-heading {
+		margin-top: -4px;
+		padding: 1px 2px 0 2px
+	}
+	#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel .panel-heading .form-group .control-label,
+	.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel .panel-heading .form-group .control-label {
+		display: none
+	}
+	#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel .panel-heading .form-group .form-control,
+	.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel .panel-heading .form-group .form-control {
+		margin-bottom: 0 !important;
+		margin-top: 1.5px;
+		width: calc(100% - 40px) !important
+	}
+	#apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel .panel-heading .form-group .form-control+.btn,
+	.apbd-cht-admin-container .apc-main-container>div .apc-pnl-content .apc-chat-msg-type-panel .panel .panel-heading .form-group .form-control+.btn {
+		right: 2px;
+		top: 1px;
+		position: absolute
+	}
+	#apbd-cht-admin-container .apc-main-container .apc-user-list,
+	.apbd-cht-admin-container .apc-main-container .apc-user-list {
+		position: absolute;
+		left: -80%;
+		-webkit-transition: all 500ms;
+		-moz-transition: all 500ms;
+		-ms-transition: all 500ms;
+		-o-transition: all 500ms;
+		transition: all 500ms;
+		z-index: 999
+	}
+	#apbd-cht-admin-container .apc-main-container .apc-user-list.apc-show,
+	.apbd-cht-admin-container .apc-main-container .apc-user-list.apc-show {
+		left: 0
+	}
+	#apbd-cht-admin-container .apc-main-container .apc-user-list .apc-close-btn,
+	.apbd-cht-admin-container .apc-main-container .apc-user-list .apc-close-btn {
+		right: 7px
+	}
+	#apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-list>li.apc-active::after,
+	.apbd-cht-admin-container .apc-main-container .apc-user-list ul.apc-chat-list>li.apc-active::after {
+		display: none
+	}
+	#apbd-cht-admin-container .apc-main-container .apc-chat-container,
+	.apbd-cht-admin-container .apc-main-container .apc-chat-container {
+		border: none
+	}
+	#apbd-cht-admin-container .apc-main-container .apc-chat-user-info,
+	.apbd-cht-admin-container .apc-main-container .apc-chat-user-info {
+		-webkit-transition: all 500ms;
+		-moz-transition: all 500ms;
+		-ms-transition: all 500ms;
+		-o-transition: all 500ms;
+		transition: all 500ms;
+		z-index: 999;
+		position: absolute;
+		right: -80%
+	}
+	#apbd-cht-admin-container .apc-main-container .apc-chat-user-info.apc-show,
+	.apbd-cht-admin-container .apc-main-container .apc-chat-user-info.apc-show {
+		right: 0;
+		-webkit-box-shadow: -1px 0px 2px -1px #000;
+		-moz-box-shadow: -1px 0px 2px -1px #000;
+		box-shadow: -1px 0px 2px -1px #000
+	}
+	#apbd-cht-admin-container .apc-main-container .apc-chat-user-info .apc-close-btn,
+	.apbd-cht-admin-container .apc-main-container .apc-chat-user-info .apc-close-btn {
+		right: 7px
+	}
+	#apbd-cht-admin-container .apc-main-container .apc-show,
+	.apbd-cht-admin-container .apc-main-container .apc-show {
+		top: 0px;
+		width: 80%;
+		background: #373737;
+		color: #ffffff;
+		-webkit-border-radius: 4px;
+		-moz-border-radius: 4px;
+		border-radius: 4px
+	}
+	#apbd-cht-admin-container .apc-main-container .apc-close-btn,
+	.apbd-cht-admin-container .apc-main-container .apc-close-btn {
+		top: 8px;
+		position: absolute;
+		display: block;
+		padding: 8px 12px;
+		border: 1px solid rgba(201, 201, 201, 0.67);
+		-webkit-border-radius: 50%;
+		-moz-border-radius: 50%;
+		border-radius: 50%
+	}
+	#apbd-cht-admin-container .apc-main-container .apc-close-btn:hover,
+	.apbd-cht-admin-container .apc-main-container .apc-close-btn:hover {
+		background: rgba(0, 0, 0, 0.13)
+	}
+	#apbd-cht-admin-container .apc-main-container .apc-chat-user-info .dl-horizontal dd,
+	.apbd-cht-admin-container .apc-main-container .apc-chat-user-info .dl-horizontal dd {
+		width: calc(100% - 34px);
+		margin-top: -20px;
+		padding-left: 0;
+		margin-bottom: 5px;
+		margin-left: 75px
+	}
+}
+@media all and (min-width: 769px) and (max-width: 992px) {
+	#apbd-cht-admin-container .apc-main-container .apc-chat-user-info .dl-horizontal dt,
+	.apbd-cht-admin-container .apc-main-container .apc-chat-user-info .dl-horizontal dt {
+		text-align: left;
+		width: 100%;
+		display: block
+	}
+	#apbd-cht-admin-container .apc-main-container .apc-chat-user-info .dl-horizontal dt:after,
+	.apbd-cht-admin-container .apc-main-container .apc-chat-user-info .dl-horizontal dt:after {
+		content: '';
+		display: none
+	}
+	#apbd-cht-admin-container .apc-main-container .apc-chat-user-info .dl-horizontal dd,
+	.apbd-cht-admin-container .apc-main-container .apc-chat-user-info .dl-horizontal dd {
+		width: 100%;
+		padding-left: 0;
+		margin-left: unset;
+		display: block
+	}
+}

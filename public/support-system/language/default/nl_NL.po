@@ -1,0 +1,4972 @@
+msgid ""
+msgstr ""                   
+"Project-Id-Version: v1.0 \n"
+"POT-Creation-Date: 2016-10-29 01:29+0600\n"
+"PO-Revision-Date: 2016-10-29 01:29+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: UTF-8\n"
+"Language: nl-NL\n"
+"X-Generator: AppsBD Translator App\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+msgid "!! You need to click save button to complete"
+msgstr "!! U moet op de knop opslaan klikken om te voltooien"
+
+
+msgid "%s Popular Knowledge"
+msgstr "%s Populair"
+
+
+msgid "%s Settings"
+msgstr "%s Instellingen"
+
+
+msgid "%s is required"
+msgstr "%s is vereist"
+
+
+msgid "ADMIN MENU"
+msgstr "ADMIN MENU"
+
+
+msgid "API Based"
+msgstr "API gebasseerd"
+
+
+msgid "API Description"
+msgstr "API Omschrijving"
+
+
+msgid "API Setting"
+msgstr "API Instelling"
+
+
+msgid "API Settings"
+msgstr "Api Instellingen"
+
+
+msgid "API Token"
+msgstr "API Token"
+
+
+msgid "API Type"
+msgstr "API Type"
+
+
+msgid "APP User"
+msgstr "APP Gebruiker"
+
+
+msgid "About Support System"
+msgstr "Over Support Systeem"
+
+
+msgid "Action"
+msgstr "Actie"
+
+
+msgid "Action Required"
+msgstr "Actie Verplicht"
+
+
+msgid "Active"
+msgstr "Actief"
+
+
+msgid "Active Members"
+msgstr "Actieve Leden"
+
+
+msgid "Active Paid Ticket"
+msgstr "Actief Betaald Ticket"
+
+
+msgid "Active Paid Tickets"
+msgstr "Actief Betaalde Tickets"
+
+
+msgid "Active Tickets"
+msgstr "Actieve Tickets"
+
+
+msgid "Add New"
+msgstr "Voeg nieuwe toe"
+
+
+msgid "Added By"
+msgstr "Toegevoegd door"
+
+
+msgid "Added On"
+msgstr "Toegevoegd Op"
+
+
+msgid "Address"
+msgstr "Adres"
+
+
+msgid "Address is required"
+msgstr "Adres is vereist"
+
+
+msgid "Admin Dashboard"
+msgstr "Admin Dashboard"
+
+
+msgid "Admin Report"
+msgstr "Admin Report"
+
+
+msgid "Admin Setting"
+msgstr "Admin Instelling"
+
+
+msgid "Admin Settings"
+msgstr "Admin Instellingen"
+
+
+msgid "Admin User"
+msgstr "Admin Gebruiker"
+
+
+msgid "Admin User Login Security"
+msgstr "Admin Gebruiker Beveiliging Aanmelding"
+
+
+msgid "Agent"
+msgstr "Agent"
+
+
+msgid "Agent replied, needs your action"
+msgstr "Agent heeft geantwoord, uw actie is vereist"
+
+
+msgid "All Active Tickets"
+msgstr "Alle Actieve Tickets"
+
+
+msgid "All Closed Tickets"
+msgstr "Alle Gesloten Tickets"
+
+
+msgid "All Paid Tickets"
+msgstr "Alle Betaalde Tickets"
+
+
+msgid "All Unassigned Tickets"
+msgstr "Alle Niet Toegewezen Tickets"
+
+
+msgid "Amount"
+msgstr "Bedrag"
+
+
+msgid "Amount must be between %.2f and %.2f"
+msgstr "Bedrag moet tussen  %.2f en  %.2f zijn"
+
+
+msgid "Announcements"
+msgstr "Aankondigingen"
+
+
+msgid "Announcements List"
+msgstr "Aankondigingen Lijst"
+
+
+msgid "App Information"
+msgstr "App Informatie"
+
+
+msgid "App Logo"
+msgstr "App Logo"
+
+
+msgid "App Update"
+msgstr "App Update"
+
+
+msgid "App White Logo"
+msgstr "App Witte Logo"
+
+
+msgid "App update information"
+msgstr "App update informatie"
+
+
+msgid "Application Security Settings"
+msgstr "Applicatie Beveiligings Instellingen"
+
+
+msgid "Application Theme Settings"
+msgstr "Applicatie Thema Instellingen"
+
+
+msgid "Are you sure to change?"
+msgstr "Weet u zeker dat u wilt veranderen?"
+
+
+msgid "Are you sure to delete?"
+msgstr "Weet u zeker dat u wilt verwijderen?"
+
+
+msgid "Assigned"
+msgstr "Toegewezen"
+
+
+msgid "Assigned On"
+msgstr "Toegewezen"
+
+
+msgid "Assigned Tickets"
+msgstr "Toegewezen Tickets"
+
+
+msgid "Attach File"
+msgstr "Bestand Toevoegen"
+
+
+msgid "Best size is 400px x 400px"
+msgstr "Beste formaat is 400px X 400px"
+
+
+msgid "Birthday"
+msgstr "Verjaardag"
+
+
+msgid "Birthday is required"
+msgstr "Verjaardag is verplicht"
+
+
+msgid "Body"
+msgstr "Body"
+
+
+msgid "Body is required"
+msgstr "Body is verplicht"
+
+
+msgid "Cancel"
+msgstr "Annuleren"
+
+
+msgid "Canned Message Fields"
+msgstr "Canned Berichten Velden"
+
+
+msgid "Canned Message List"
+msgstr "Canned Berichten Lijst"
+
+
+msgid "Canned Messages"
+msgstr "Canned Berichten"
+
+
+msgid "Canned Msg"
+msgstr "Canned Bericht"
+
+
+msgid "Canned Msg is required"
+msgstr "Canned Bericht is vereist"
+
+
+msgid "Canned_msg"
+msgstr "Canned_bericht"
+
+
+msgid "Categories"
+msgstr "Categorieën"
+
+
+msgid "Category"
+msgstr "Categorie"
+
+
+msgid "Category List"
+msgstr "Categorieën Lijst"
+
+
+msgid "Category is required"
+msgstr "Categorie is vereist"
+
+
+msgid "Change"
+msgstr "Verander"
+
+
+msgid "Change Password"
+msgstr "Verander Wachtwoord"
+
+
+msgid "Change password of %s"
+msgstr "Verander wachtwoord van  %s"
+
+
+msgid "Choose Homepage"
+msgstr "Kies Homepage"
+
+
+msgid "Choose Theme"
+msgstr "Kies Thema"
+
+
+msgid "City"
+msgstr "Stad"
+
+
+msgid "City is required"
+msgstr "Stad is verplicht"
+
+
+msgid "Click here"
+msgstr "Klik hier"
+
+
+msgid "Click on the Image to change"
+msgstr "Klik op de afbeelding om te wijzigen"
+
+
+msgid "Click on the Image to change or upload."
+msgstr "Klik op de afbeelding om te veranderen of uploaden"
+
+
+msgid "Click on the Image to change. Best size hight is 40px"
+msgstr "Klik op de afbeelding om te veranderen. Beste maat voor hoogte is 40px"
+
+
+msgid "Click on the Image to change. Best size is 75px x 75px"
+msgstr "Klik op de afbeelding om te veranderen. Beste maat is 75px x 75px"
+
+
+msgid "Click to see details"
+msgstr "Klik om details te zien"
+
+
+msgid "Client"
+msgstr "Client"
+
+
+msgid "Client List"
+msgstr "Client lijst"
+
+
+msgid "Close"
+msgstr "Sluiten"
+
+
+msgid "Close Tickets"
+msgstr "Gesloten Tickets"
+
+
+msgid "Closed Tickets"
+msgstr "Gesloten Tickets"
+
+
+msgid "Contact Number"
+msgstr "Contact Nummer"
+
+
+msgid "Controller Title"
+msgstr "Controller Titel"
+
+
+msgid "Copy Cron Link"
+msgstr "Kopieren"
+
+
+msgid "Copy callback url"
+msgstr "Kopiëren callback url"
+
+
+msgid "Country"
+msgstr "Land"
+
+
+msgid "Country Code"
+msgstr "Land Code"
+
+
+msgid "Country Name"
+msgstr "Land Naam"
+
+
+msgid "Country is required"
+msgstr "Land is verplicht"
+
+
+msgid "Create Date"
+msgstr "Datum van aanmaken"
+
+
+msgid "Create Ticket"
+msgstr "Aanmaken Ticket"
+
+
+msgid "Create Time"
+msgstr "Tijd van aanmaken"
+
+
+msgid "Created By"
+msgstr "Aangemaakt door"
+
+
+msgid "Cron Job Command"
+msgstr "Cron Job Commando"
+
+
+msgid "Current Ticket Status"
+msgstr "Huidige Ticket Status"
+
+
+msgid "Current version is : %s"
+msgstr "Huidige versie is :  %s"
+
+
+msgid "Custom Field List"
+msgstr "Aangepaste Veld Lijst"
+
+
+msgid "Custom Fields"
+msgstr "Aangepaste Velden"
+
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+
+msgid "Date of Birth"
+msgstr "Geboortedatum"
+
+
+msgid "Debug Log"
+msgstr "Debug Log"
+
+
+msgid "Debug Log List"
+msgstr "Debug Log Lijst"
+
+
+msgid "Delete"
+msgstr "Verwijderen"
+
+
+msgid "Description"
+msgstr "Omschrijving"
+
+
+msgid "Description is required"
+msgstr "Omschrijving is verplicht"
+
+
+msgid "Details"
+msgstr "Details"
+
+
+msgid "Details Debug Log"
+msgstr "Datails Debug Log"
+
+
+msgid "Details Log"
+msgstr "Details Log"
+
+
+msgid "Details info of IP(192.168.10.71)"
+msgstr "Details info van IP(192.168.10.71)"
+
+
+msgid "Disable this if you want real payment"
+msgstr "Schakel dit uit als u een echte betaling wilt"
+
+
+msgid "DoS Attack Security"
+msgstr "DoS Aanval Beveiliging"
+
+
+msgid "Don't upload if you don't want"
+msgstr "Upload niet als u dat niet wilt"
+
+
+msgid "Edit"
+msgstr "Bewerken"
+
+
+msgid "Edit Announcements"
+msgstr "Bewerk Aankondigingen"
+
+
+msgid "Edit Canned Message"
+msgstr "Bewerk Canned Bericht"
+
+
+msgid "Edit Category"
+msgstr "Bewerk Categorie"
+
+
+msgid "Edit Client"
+msgstr "Bewerk Client"
+
+
+msgid "Edit IP"
+msgstr "Bewerk IP"
+
+
+msgid "Edit Knowledge"
+msgstr "Bewerk Knowledge"
+
+
+msgid "Edit Role"
+msgstr "Bewerk Rol"
+
+
+msgid "Email"
+msgstr "Email"
+
+
+msgid "Email Address"
+msgstr "Email Adres"
+
+
+msgid "Email Outgoing Settings"
+msgstr "Uitgaande Email Instellingen"
+
+
+msgid "Email Settings"
+msgstr "Email Instellingen"
+
+
+msgid "Email Templates"
+msgstr "Email Templates"
+
+
+msgid "Email Templates List"
+msgstr "Email Templates Lijst"
+
+
+msgid "Email To Ticket Settings"
+msgstr "Email Naar Ticket Instellingen"
+
+
+msgid "Email is required"
+msgstr "Email is verplicht"
+
+
+msgid "Email to Ticket Settings Form"
+msgstr "Email Naar Ticket Instellingen Formulier"
+
+
+msgid "Enable Auto Reload (every %d min)"
+msgstr "Inschakelen Auto Herlaad (elke  %d min)"
+
+
+msgid "Enable Email To Ticket/Reply"
+msgstr "Inschakelen Email Naar Ticket/Antwoord"
+
+
+msgid "Enable it if your protocol is secure"
+msgstr "Inschakelen als uw protocol veilig is"
+
+
+msgid "Enable it to secure admin/staff user"
+msgstr "Inschakelen om admin/staff gebruiker te beveiligen"
+
+
+msgid "Enable this to enable paypal payment"
+msgstr "Inschakelen om PayPal betaling in te schakelen"
+
+
+msgid "Enable to convert email to ticket"
+msgstr "Inschakelen om email naar ticket te converteren"
+
+
+msgid "End Date"
+msgstr "Eind Datum"
+
+
+msgid "End Date is required"
+msgstr "Eind Datum is verplicht"
+
+
+msgid "Entry Time"
+msgstr "Ingangstijd"
+
+
+msgid "Entry Type"
+msgstr "Boekingstype"
+
+
+msgid "Envato"
+msgstr "Envato"
+
+
+msgid "Envato Setting"
+msgstr "Envato Instelling"
+
+
+msgid "Envato Username"
+msgstr "Envato Gebruikersnaam"
+
+
+msgid "Ex. 192.168.10.1"
+msgstr "Ex. 192.168.10.1"
+
+
+msgid "Example: Temporary lock admin or staff user if attempts 5 miss login in 30 minutes"
+msgstr "Voorbeeld: Tijdelijk admin of staf gebruiker locken als 5x mislukt is in te loggen in 30 minuten"
+
+
+msgid "Example: if request more then 5 in 5 second then show captcha or block ip"
+msgstr "Voorbeeld: als het verzoek meer dan 5x in 5 seconden is, toon dan captcha of block ip"
+
+
+msgid "Featured Image"
+msgstr "Aanbevolen Afbeelding"
+
+
+msgid "File Attached"
+msgstr "Bestand Bijgevoegd"
+
+
+msgid "File Type"
+msgstr "Bestandstype"
+
+
+msgid "First Name"
+msgstr "Voornaam"
+
+
+msgid "First Name is required"
+msgstr "Voornaam is verplicht"
+
+
+msgid "From"
+msgstr "Van"
+
+
+msgid "From Email"
+msgstr "Van Email"
+
+
+msgid "From Email is required"
+msgstr "Van Email is verplicht"
+
+
+msgid "From Name"
+msgstr "Van Naam"
+
+
+msgid "From Name is required"
+msgstr "Van Naam is verplicht"
+
+
+msgid "Gender"
+msgstr "Geslacht"
+
+
+msgid "General Settings"
+msgstr "Algemene Instellingen"
+
+
+msgid "Generate an API key in your envato account and enter here"
+msgstr "Genereer een API-sleutel in uw Envato-account en voer hier in"
+
+
+msgid "Has Super Power"
+msgstr "Heeft Super Krachten"
+
+
+msgid "Hello, %s"
+msgstr "Hallo,  %s"
+
+
+msgid "Helpfull"
+msgstr "Behulpzaam"
+
+
+msgid "Home"
+msgstr "Home"
+
+
+msgid "Host"
+msgstr "Host"
+
+
+msgid "Host & Port"
+msgstr "Host & Poort"
+
+
+msgid "Host is required"
+msgstr "Host is verplicht"
+
+
+msgid "IMAP Help"
+msgstr "IMAP Help"
+
+
+msgid "IMAP Settings"
+msgstr "IMAP Instellingen"
+
+
+msgid "IP"
+msgstr "IP"
+
+
+msgid "IP List"
+msgstr "IP Lijst"
+
+
+msgid "IP is required"
+msgstr "IP is verplicht"
+
+
+msgid "If request more than"
+msgstr "Als verzoek meer dan"
+
+
+msgid "If you don't choose the white logo then primary logo will be displayed in site header"
+msgstr "Als u het witte logo niet kiest dan word het primaire logo weergegeven in de site header"
+
+
+msgid "If you enable it then app prevent DoS Attack."
+msgstr "Als u dit inschakelt, verhindert de app DoS aanval."
+
+
+msgid "If you enable this then logo only show in site header"
+msgstr "Als u dit inschakelt word het logo alleen in de site header weergegeven"
+
+
+msgid "If you enable this, then all payment will be in test mode. Don't do this if you want real payment"
+msgstr "Als u dit inschakelt bevinden alle betalingen zich in de test mode. Niet inschakelen als u echt betalingen wilt ontvangen"
+
+
+msgid "If you want to remove license form this site then click"
+msgstr "Als u de licentie wilt verwijderen klik dan"
+
+
+msgid "Inactive"
+msgstr "Inactief"
+
+
+msgid "Invalid Information"
+msgstr "Ongeldige informatie"
+
+
+msgid "Invalid data"
+msgstr "Ongeldige data"
+
+
+msgid "Is Secure Protocol (SSL)"
+msgstr "Is beveiligd protocol (SSL)"
+
+
+msgid "Is Sticky/Pinned ?"
+msgstr "Is Sticky/Pinned?"
+
+
+msgid "Is it helpfull?"
+msgstr "Is het nuttig?"
+
+
+msgid "It won't show any where, It is just for track"
+msgstr "Het zal nergens getoond worden, het is alleen om te traceren"
+
+
+msgid "Join : %s"
+msgstr "Deelname :  %s"
+
+
+msgid "Join Date"
+msgstr "Deelname datum"
+
+
+msgid "Key is already exists"
+msgstr "Sleutel bestaat al"
+
+
+msgid "Knowledge"
+msgstr "Kennisitem"
+
+
+msgid "Knowledge List"
+msgstr "Kennisitem lijst"
+
+
+msgid "L.Reply Time"
+msgstr "Antwoord tijd"
+
+
+msgid "Label"
+msgstr "Label"
+
+
+msgid "Last Name"
+msgstr "Achternaam"
+
+
+msgid "Last Name is required"
+msgstr "Achternaam is veprlicht"
+
+
+msgid "Last Replied"
+msgstr "Laatst beantwoord"
+
+
+msgid "Last Reply"
+msgstr "Laatste antwoord"
+
+
+msgid "Last Reply Time"
+msgstr "Laatste antwoordtijd"
+
+
+msgid "Last updated on"
+msgstr "Laatst geupdate op"
+
+
+msgid "Latitude"
+msgstr "Breedtegraad"
+
+
+msgid "License"
+msgstr "Licentie"
+
+
+msgid "License Domain"
+msgstr "Licentie domein"
+
+
+msgid "License Info"
+msgstr "Licentie informtie"
+
+
+msgid "License Information"
+msgstr "Licentie informatie"
+
+
+msgid "License Key"
+msgstr "Licentie sleutel"
+
+
+msgid "License Title"
+msgstr "Licentie titel"
+
+
+msgid "Link"
+msgstr "Link"
+
+
+msgid "Locked User"
+msgstr "Geblokkeerde gebruikers"
+
+
+msgid "Locked User List"
+msgstr "Geblokkeerde gebruikerslijst"
+
+
+msgid "Log Type"
+msgstr "Log Type"
+
+
+msgid "Login"
+msgstr "Log in"
+
+
+msgid "Logout"
+msgstr "Log uit"
+
+
+msgid "Longitude"
+msgstr "Lengtegraad"
+
+
+msgid "MENU"
+msgstr "MENU"
+
+
+msgid "Max file size is  %s MB"
+msgstr "Maximale bestandsgrootte is  %s MB"
+
+
+msgid "Max file size is %s MB"
+msgstr "Maximale bestandsgrootte is  %s MB"
+
+
+msgid "Menu List"
+msgstr "Menu lijst"
+
+
+msgid "Message"
+msgstr "Bericht"
+
+
+msgid "Message Details"
+msgstr "Bericht Details"
+
+
+msgid "Method"
+msgstr "Methode"
+
+
+msgid "Miss Login Tried"
+msgstr "Mislukte login geprobeerd"
+
+
+msgid "More homepage will be come in next version"
+msgstr "Meer startpagina's komen in de volgende versie"
+
+
+msgid "More theme will be come in next version"
+msgstr "Meer thema's komen in de volgende versie"
+
+
+msgid "Most Helpful Articles"
+msgstr "Meest nuttige artikelen"
+
+
+msgid "My Active Paid Tickets"
+msgstr "Mijn actieve betaalde Tickets"
+
+
+msgid "My Active Tickets"
+msgstr "Mijn actieve Tickets"
+
+
+msgid "My Assigned Tickets"
+msgstr "Mijn toegewezen Tickets"
+
+
+msgid "My Closed Tickets"
+msgstr "Mijn gesloten Tickets"
+
+
+msgid "My Dashboard"
+msgstr "Mijn Dashboard"
+
+
+msgid "My Menu"
+msgstr "Mijn Menu"
+
+
+msgid "My Message"
+msgstr "Mijn bericht"
+
+
+msgid "N"
+msgstr "N"
+
+
+msgid "Name"
+msgstr "Naam"
+
+
+msgid "New Announcements"
+msgstr "Nieuwe aankondigingen"
+
+
+msgid "New Canned Message"
+msgstr "Nieuw Canned bericht"
+
+
+msgid "New Category"
+msgstr "Nieuwe categorie"
+
+
+msgid "New Client"
+msgstr "Nieuw client"
+
+
+msgid "New Knowledge"
+msgstr "Nieuw Kennisitem"
+
+
+msgid "New Role"
+msgstr "Nieuwe rol"
+
+
+msgid "New Ticket"
+msgstr "Nieuw Ticket"
+
+
+msgid "New Ticket Form"
+msgstr "Nieuw Ticket formulier"
+
+
+msgid "New Window"
+msgstr "Nieuw venster"
+
+
+msgid "No"
+msgstr "Nee"
+
+
+msgid "No active ticket found"
+msgstr "Geen actief Ticket gevonden"
+
+
+msgid "No closed ticket found"
+msgstr "Geen gesloten Ticket gevonden"
+
+
+msgid "Not Helpfull"
+msgstr "Niet behulpzaam"
+
+
+msgid "Notice For"
+msgstr "Kennisgeving voor"
+
+
+msgid "Notice Text"
+msgstr "Kennisgeving Text"
+
+
+msgid "Notice text is required"
+msgstr "Kennisgeving Test is verplicht"
+
+
+msgid "Notification"
+msgstr "Kennisgeving"
+
+
+msgid "Old Password"
+msgstr "Oud Wachtwoord"
+
+
+msgid "Open Ticket"
+msgstr "Open Ticket"
+
+
+msgid "Open Time"
+msgstr "Open Tijd"
+
+
+msgid "Opened"
+msgstr "Geopend"
+
+
+msgid "Opened Time"
+msgstr "Geopend Tijd"
+
+
+msgid "Options"
+msgstr "Opties"
+
+
+msgid "Order"
+msgstr "Order"
+
+
+msgid "Page Name"
+msgstr "Pagina naam"
+
+
+msgid "Parent Category"
+msgstr "Bovenliggende Categorie"
+
+
+msgid "Parent Category is required"
+msgstr "Bovenliggende Categorie is verplicht"
+
+
+msgid "Password"
+msgstr "Wachtwoord"
+
+
+msgid "Password is required"
+msgstr "Wachtwoord is verplicht"
+
+
+msgid "Password reset"
+msgstr "Wachtwoord reset"
+
+
+msgid "Payer Email"
+msgstr "Email Betaler"
+
+
+msgid "Payment Amount"
+msgstr "Te betalen bedrag"
+
+
+msgid "Payment Amount is required"
+msgstr "Te betalen bedrag is verplicht"
+
+
+msgid "Payment Description"
+msgstr "Betalingsomschrijving"
+
+
+msgid "Payment Details"
+msgstr "Betalingsdetails"
+
+
+msgid "Payment List"
+msgstr "Betalingslijst"
+
+
+msgid "Payment Method Status"
+msgstr "Betalingsmethode Status"
+
+
+msgid "Paypal Setting"
+msgstr "Paypal Instelling"
+
+
+msgid "Paypal Settings"
+msgstr "Paypal Instellingen"
+
+
+msgid "Permission"
+msgstr "Toestemming"
+
+
+msgid "Pinned Articles"
+msgstr "Pinned Artikelen"
+
+
+msgid "Popular Articles"
+msgstr "Populaire Artikelen"
+
+
+msgid "Port"
+msgstr "Poort"
+
+
+msgid "Port is required"
+msgstr "Poort is verplicht"
+
+
+msgid "Posted By"
+msgstr "Gepost Door"
+
+
+msgid "Priroty"
+msgstr "Prioriteit"
+
+
+msgid "Priroty is required"
+msgstr "Prioriteit is verplicht"
+
+
+msgid "Process Date"
+msgstr "Verwerkingsdatum"
+
+
+msgid "Process Log"
+msgstr "Verwerkingslog"
+
+
+msgid "Process Time"
+msgstr "Verwerkingtijd"
+
+
+msgid "Processing"
+msgstr "Verwerken"
+
+
+msgid "Profile"
+msgstr "Profiel"
+
+
+msgid "Property"
+msgstr "Eigendom"
+
+
+msgid "Re-Check Update"
+msgstr "Controleer update opnieuw"
+
+
+msgid "Re-Open"
+msgstr "Heropen"
+
+
+msgid "Read article to provide best support"
+msgstr "Lees artikel voor de beste support"
+
+
+msgid "Recent Articles"
+msgstr "Recente Artikelen"
+
+
+msgid "Register"
+msgstr "Registreren"
+
+
+msgid "Remove"
+msgstr "Verwijderen"
+
+
+msgid "Remove License"
+msgstr "Verwijder Licentie"
+
+
+msgid "Replay"
+msgstr "Herhaling"
+
+
+msgid "Reply"
+msgstr "Antwoord"
+
+
+msgid "Reply To Ticket"
+msgstr "Antwoord op Ticket"
+
+
+msgid "Reply is required"
+msgstr "Antwoord is verplicht"
+
+
+msgid "Reply text is required"
+msgstr "Antwoordtext is verplicht"
+
+
+msgid "Reply user group"
+msgstr "Antwoord gebruikersgroep"
+
+
+msgid "Reply user name"
+msgstr "Antwoord gebruikersnaam"
+
+
+msgid "Request Count is required"
+msgstr "Verzoek telling is verplicht"
+
+
+msgid "Required"
+msgstr "Verplicht"
+
+
+msgid "Reset"
+msgstr "Reset"
+
+
+msgid "Reset link has been sent to the user"
+msgstr "Reset link is verzonden"
+
+
+msgid "Role"
+msgstr "Rol"
+
+
+msgid "Role  List"
+msgstr "Rollijst"
+
+
+msgid "Role Access"
+msgstr "Roltoegang"
+
+
+msgid "Role List"
+msgstr "Rollijst"
+
+
+msgid "Role is required"
+msgstr "Rol is verplicht"
+
+
+msgid "SMTP Settings"
+msgstr "SMTP Instellingen"
+
+
+msgid "STAFF MENU"
+msgstr "STAF MENU"
+
+
+msgid "Save"
+msgstr "Opslaan"
+
+
+msgid "Schedule"
+msgstr "Planning"
+
+
+msgid "Search"
+msgstr "Zoeken"
+
+
+msgid "Seconds is required"
+msgstr "Seconden is verplicht"
+
+
+msgid "Security Settings"
+msgstr "Beveiligingsinstellingen"
+
+
+msgid "Select"
+msgstr "Selecteer"
+
+
+msgid "Send"
+msgstr "Versturen"
+
+
+msgid "Sendmail Path"
+msgstr "Sendmail Pad"
+
+
+msgid "Sendmail Path is required"
+msgstr "Sendmail Pad is verplicht"
+
+
+msgid "Sendmail or SMTP"
+msgstr "Sendmail of SMTP"
+
+
+msgid "Sent Message"
+msgstr "Verstuur Bericht"
+
+
+msgid "Set Status"
+msgstr "Status instellen"
+
+
+msgid "Set this cron command into your server cron list, otherwise email to ticket won't work"
+msgstr "Zet deze cron-opdracht in uw cron-serverlijst, anders zal e-mail naar ticket niet werken"
+
+
+msgid "Show IP List"
+msgstr "Toon IP lijst"
+
+
+msgid "Show List"
+msgstr "Lijst weergeven"
+
+
+msgid "Show Locked User List"
+msgstr "Geblokkeerde gebruikerslijst weergeven"
+
+
+msgid "Show On"
+msgstr "Laat zien"
+
+
+msgid "Show only logo in header"
+msgstr "Toon alleen logo in header"
+
+
+msgid "Site Menu"
+msgstr "Site Menu"
+
+
+msgid "Site Security"
+msgstr "Site Beveiliging"
+
+
+msgid "Social Setting"
+msgstr "Social Instelling"
+
+
+msgid "Social Settings"
+msgstr "Social Instellingen"
+
+
+msgid "Start Date"
+msgstr "Begin Datum"
+
+
+msgid "Start Date is required"
+msgstr "Begin Datum is verplicht"
+
+
+msgid "Status"
+msgstr "Status"
+
+
+msgid "Status is required"
+msgstr "Status is verplicht"
+
+
+msgid "Sticky/Pinned"
+msgstr "Sticky/Pinned"
+
+
+msgid "Still Need Support?"
+msgstr "Heeft u ondersteuning nodig?"
+
+
+msgid "Sub Title"
+msgstr "Subtitel"
+
+
+msgid "Subject"
+msgstr "Onderwerp"
+
+
+msgid "Successfully Updated"
+msgstr "Succesvol geüpdatet"
+
+
+msgid "Suggested Knowledge"
+msgstr "Voorgesteld Kennisitem"
+
+
+msgid "Super Admin"
+msgstr "Super Admin"
+
+
+msgid "Supervisor"
+msgstr "Supervisor"
+
+
+msgid "Support System"
+msgstr "Support Systeem"
+
+
+msgid "System Update"
+msgstr "Systeem Update"
+
+
+msgid "Tag"
+msgstr "Label"
+
+
+msgid "Tag is required"
+msgstr "Label is verplicht"
+
+
+msgid "Temporary lock admin or staff user, if attempts"
+msgstr "Tijdelijk Admin of Staf blokkeren bij"
+
+
+msgid "Text must be less then %d characters length"
+msgstr "Text moet minder dan  %d tekens lang zijn"
+
+
+msgid "Thank you for being with us"
+msgstr "FMPSUPPORT.NL"
+
+
+msgid "The time is base on %s timezone"
+msgstr "De tijd is gebaseerd op %s tijdzone"
+
+
+msgid "The user who has opened ticket"
+msgstr "De gebruiker die het Ticket heeft geopend"
+
+
+msgid "Theme Settings"
+msgstr "Thema Instellingen"
+
+
+msgid "This email address is already exist"
+msgstr "Dit emailadres bestaat al"
+
+
+msgid "Ticket"
+msgstr "Ticket"
+
+
+msgid "Ticket Body"
+msgstr "Ticket Body"
+
+
+msgid "Ticket Body is required"
+msgstr "Ticket Body is verplicht"
+
+
+msgid "Ticket Category"
+msgstr "Ticket Categorie"
+
+
+msgid "Ticket Details"
+msgstr "Ticket Details"
+
+
+msgid "Ticket Feedback"
+msgstr "Ticket Feedback"
+
+
+msgid "Ticket Feedback List"
+msgstr "Ticket Feedback Lijst"
+
+
+msgid "Ticket History"
+msgstr "Ticket Historie"
+
+
+msgid "Ticket Information"
+msgstr "Ticket Informatie"
+
+
+msgid "Ticket Payment Details"
+msgstr "Ticket Betalingsgegevens"
+
+
+msgid "Ticket Payment List"
+msgstr "Ticket Betalingslijst"
+
+
+msgid "Ticket Priroty"
+msgstr "Ticket Prioriteit"
+
+
+msgid "Ticket Status"
+msgstr "Ticket Status"
+
+
+msgid "Ticket Subject"
+msgstr "Ticket Onderwerp"
+
+
+msgid "Ticket Title"
+msgstr "Ticket Titel"
+
+
+msgid "Ticket Track ID"
+msgstr "Ticket Track ID"
+
+
+msgid "Ticket User"
+msgstr "Ticketgebruiker"
+
+
+msgid "Ticket closed do you want to re-open?"
+msgstr "Ticket gesloten wilt u het heropenen??"
+
+
+msgid "Ticket subject is required"
+msgstr "Ticket onderwerp is verplicht"
+
+
+msgid "Tickets"
+msgstr "Tickets"
+
+
+msgid "Time"
+msgstr "Tijd"
+
+
+msgid "Timezone"
+msgstr "Tijdzone"
+
+
+msgid "Title"
+msgstr "Titel"
+
+
+msgid "Title is required"
+msgstr "Titel is verplicht"
+
+
+msgid "To"
+msgstr "Aan"
+
+
+msgid "Today's"
+msgstr "Vandaag"
+
+
+msgid "Topbar Icon"
+msgstr "Topbar pictogram"
+
+
+msgid "Topbar Icon List"
+msgstr "Topbar pictogram lijst"
+
+
+msgid "Total"
+msgstr "Totaal"
+
+
+msgid "Total Closed Ticket"
+msgstr "Totaal Gesloten Ticket"
+
+
+msgid "Total Closed Tickets"
+msgstr "Totaal Gesloten Tickets"
+
+
+msgid "Transction ID"
+msgstr "Transactie ID"
+
+
+msgid "Type"
+msgstr "Type"
+
+
+msgid "Tzone is required"
+msgstr "Tijdzone is verplicht"
+
+
+msgid "USER MENU"
+msgstr "GEBRUIKERSMENU"
+
+
+msgid "Unassigned Tickets"
+msgstr "Niet-toegewezen Tickets"
+
+
+msgid "Update"
+msgstr "Update"
+
+
+msgid "Update User"
+msgstr "Update Gebruiker"
+
+
+msgid "Uploaded file is not  supported"
+msgstr "Geüpload bestand wordt (nog) niet ondersteund"
+
+
+msgid "Use this as your callback url into facebook developer panel"
+msgstr "Gebruik dit als uw callback-URL in het Facebook-ontwikkelaarspaneel"
+
+
+msgid "Use this as your callback url into twitter developer panel"
+msgstr "Gebruik dit als uw callback-URL in het Twitter-ontwikkelaarspaneel"
+
+
+msgid "Use this as your callback url into your google developer console"
+msgstr "Gebruik dit als uw callback-URL in uw Google Developer-console"
+
+
+msgid "User"
+msgstr "Gebruiker"
+
+
+msgid "User (Email)"
+msgstr "Gebruiker (Email)"
+
+
+msgid "User (Email) is required"
+msgstr "Gebruiker (Email) is verplicht"
+
+
+msgid "User Id"
+msgstr "Gebruiker ID"
+
+
+msgid "User List"
+msgstr "Gebruikerslijst"
+
+
+msgid "User Panel"
+msgstr "Gebruikerspaneel"
+
+
+msgid "User Settings"
+msgstr "Gebruikersinstellingen"
+
+
+msgid "User is required"
+msgstr "Gebruiker is verplicht"
+
+
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+
+msgid "Value"
+msgstr "Waarde"
+
+
+msgid "Verified"
+msgstr "Geverifieerd"
+
+
+msgid "View Details"
+msgstr "Bekijk Details"
+
+
+msgid "View Knowledge"
+msgstr "Bekijk Kennisitem"
+
+
+msgid "View Site"
+msgstr "Bekijk Site"
+
+
+msgid "View all"
+msgstr "Bekijk alles"
+
+
+msgid "Views"
+msgstr "Keer bekeken"
+
+
+msgid "Write here.."
+msgstr "Schrijf hier.."
+
+
+msgid "Write reply here.."
+msgstr "Schrijf antwoord hier.."
+
+
+msgid "Yes"
+msgstr "Ja"
+
+
+msgid "You think it is helpfull"
+msgstr "U vindt dat het nuttig is"
+
+
+msgid "You think it is not helpfull"
+msgstr "U vindt dat het niet nuttig is"
+
+
+msgid "Your Site URL"
+msgstr "Uw site url"
+
+
+msgid "Your application is up to date"
+msgstr "Uw applicatie is up-to-date"
+
+
+msgid "Your closed ticket list"
+msgstr "Uw gesloten Ticketlijst"
+
+
+msgid "Your current ticket status"
+msgstr "Uw huidige Ticketstatus"
+
+
+msgid "Your envato(CodeCanyon, Themeforest,etc) username"
+msgstr "Uw Envato (CodeCanyon, ThemeForest, etc) gebruikersnaam"
+
+
+msgid "Your site name"
+msgstr "Uw site naam"
+
+
+msgid "Your total active tickets"
+msgstr "Uw totale actieve Tickets"
+
+
+msgid "Youtube Accounts"
+msgstr "Youtube Accounts"
+
+
+msgid "Zip"
+msgstr "Postcode"
+
+
+msgid "Zip is required"
+msgstr "Postcode is verplicht"
+
+
+msgid "by"
+msgstr "door"
+
+
+msgid "ex.5"
+msgstr "ex.5"
+
+
+msgid "is required"
+msgstr "is verplicht"
+
+
+msgid "minuites"
+msgstr "minuten"
+
+
+msgid "miss login in"
+msgstr "mislukte login in"
+
+
+msgid "on"
+msgstr "op"
+
+
+msgid "seconds, then"
+msgstr "seconden, dan"
+
+
+msgid "setup for Social Login"
+msgstr "setup voor Social login"
+
+
+msgid "to get custom payment"
+msgstr "om aangepaste betaling te ontvangen"
+
+
+msgid "Already registered?"
+msgstr "Al geregistreerd?"
+
+
+msgid "E-mail"
+msgstr "Email"
+
+
+msgid "Email address is alreay exists"
+msgstr "Email adres bestaat al"
+
+
+msgid "Forgot password?"
+msgstr "Wachtwoord vergeten?"
+
+
+msgid "Guest Ticket"
+msgstr "Gast Ticket"
+
+
+msgid "Low Priroty"
+msgstr "Lage Prioriteit"
+
+
+msgid "Not member yet ?"
+msgstr "Nog geen lid?"
+
+
+msgid "Open Ticket With Less Priroty"
+msgstr "Open Ticket met minder prioriteit"
+
+
+msgid "Open ticket after login"
+msgstr "Open Ticket na het inloggen"
+
+
+msgid "Open ticket after register"
+msgstr "Open Ticket na het registreren"
+
+
+msgid "Or Login Using"
+msgstr "Of Login met"
+
+
+msgid "Or Register Using"
+msgstr "Of Registreer met"
+
+
+msgid "Or open ticket using"
+msgstr "Of Open een Ticket met"
+
+
+msgid "Submit"
+msgstr "Versturen"
+
+
+msgid "Top Priroty"
+msgstr "Top Prioriteit"
+
+
+msgid "User Login"
+msgstr "Gebruiker login"
+
+
+msgid "User Registration"
+msgstr "Gebruikersregistratie"
+
+
+msgid "You are not logged in. What would you like do now?"
+msgstr "U bent niet ingelogd. Wat wilt u nu doen?"
+
+
+msgid "fields are required"
+msgstr "velden zijn verplicht"
+
+
+msgid "Confirm Password"
+msgstr "Bevestig Wachtwoord"
+
+
+msgid "Back"
+msgstr "Terug"
+
+
+msgid "%s is not same"
+msgstr "%s is niet hetzelfde"
+
+
+msgid "Captcha"
+msgstr "Captcha"
+
+
+msgid "Invalid email address."
+msgstr "Ongeldig email adres"
+
+
+msgid "New Password"
+msgstr "Nieuw Wachtwoord"
+
+
+msgid "The email address is already registered. To login"
+msgstr "Dit email adres is al geregisteerd. Inloggen"
+
+
+msgid "The value is not a valid %s"
+msgstr "De waarde is niet geldig  %s"
+
+
+msgid "Uncategories"
+msgstr "Niet gecategoriseerd"
+
+
+msgid "Assigned & Closed"
+msgstr "Toegewezen & Gesloten"
+
+
+msgid "CSV Downloaded"
+msgstr "CSV Gedownload"
+
+
+msgid "Change Timezone"
+msgstr "Verander Tijdzone"
+
+
+msgid "Change padssword of %s"
+msgstr "Verander Wachtwoord van  %s"
+
+
+msgid "Change password of Admin User"
+msgstr "Verander Wachtwoord van Admin"
+
+
+msgid "Day Report"
+msgstr "Dag Rapport"
+
+
+msgid "Member since"
+msgstr "Lid dinds"
+
+
+msgid "Month Report"
+msgstr "Maand Rapport"
+
+
+msgid "New User"
+msgstr "Nieuwe Gebruiker"
+
+
+msgid "Opened & Closed"
+msgstr "Geopend & Gesloten"
+
+
+msgid "Timezone is required"
+msgstr "Tijdzone is verplicht"
+
+
+msgid "Tzone"
+msgstr "Tijdzone"
+
+
+msgid "Sign out"
+msgstr "Uitloggen"
+
+
+msgid "Please login to set priroty"
+msgstr "Meldt u aan om de prioriteit in te stellen"
+
+
+msgid "email address"
+msgstr "email adres"
+
+
+msgid "Allowed File Types"
+msgstr "Toegestane bestandstypen"
+
+
+msgid "Any Staff Can Reply"
+msgstr "Elke medewerker kan beantwoorden"
+
+
+msgid "App Email"
+msgstr "Applicatie Email"
+
+
+msgid "App Language"
+msgstr "Applicatie Taal"
+
+
+msgid "App Title"
+msgstr "Applicatie Titel"
+
+
+msgid "Application General Settings"
+msgstr "Applicatie Algemene Instellingen"
+
+
+msgid "Application Layout"
+msgstr "Applicatie Layout"
+
+
+msgid "Auto Others Color"
+msgstr "Auto Overige Kleur"
+
+
+msgid "Basic Settings"
+msgstr "Basis Instellingen"
+
+
+msgid "CSS ( Style)"
+msgstr "CSS (Style)"
+
+
+msgid "Captcha Length"
+msgstr "Captcha Lengte"
+
+
+msgid "Captcha Settings"
+msgstr "Captcha Instellingen"
+
+
+msgid "Captcha String Type"
+msgstr "Captcha String Type"
+
+
+msgid "Captcha Type"
+msgstr "Captcha Type"
+
+
+msgid "Charecter Lenght of default captcha"
+msgstr "Teken Lengte van standaard captcha"
+
+
+msgid "Choose HTML Editor"
+msgstr "Kies HTML Editor"
+
+
+msgid "Client ID"
+msgstr "Client ID"
+
+
+msgid "Client Photo Upload"
+msgstr "Foto uploaden Client"
+
+
+msgid "Copyright Text"
+msgstr "Copyright Text"
+
+
+msgid "Custom CSS & JavaScript"
+msgstr "Aangepaste CSS & Javascript"
+
+
+msgid "Custom JavaScript"
+msgstr "Aangepaste Javascript"
+
+
+msgid "Date Format"
+msgstr "Datumnotitie"
+
+
+msgid "Disable Registration"
+msgstr "Registreren Uitschakelen"
+
+
+msgid "Email Footer Text"
+msgstr "Email Footer Text"
+
+
+msgid "Email Reply Start Text"
+msgstr "Email Reply Start Text"
+
+
+msgid "Enable Force SSL"
+msgstr "Inschakelen Force SSL"
+
+
+msgid "Enable Guest Ticket"
+msgstr "Inschakelen Guest Ticket"
+
+
+msgid "Enable HTML Input"
+msgstr "Inschakelen HTML Input"
+
+
+msgid "Enable Public Ticket"
+msgstr "Inschakelen Openbaar Ticket"
+
+
+msgid "Enable Ticket Feedback"
+msgstr "Inschakelen Ticket Feedback"
+
+
+msgid "Enable User Online Check"
+msgstr "Inschakelen Gebruiker Online Check"
+
+
+msgid "Ex. Google analytics code, Do not add any tag  like %s"
+msgstr "Ex. Google analytics code, voeg geen tags zoals  %s toe"
+
+
+msgid "Feedback Email Title"
+msgstr "Feedback Email Titel"
+
+
+msgid "Field"
+msgstr "Veld"
+
+
+msgid "File Upload Settings"
+msgstr "Instellingen voor bestandsuploads"
+
+
+msgid "Footer Background"
+msgstr "Footer Achtergrond"
+
+
+msgid "Footer Text"
+msgstr "Footer Text"
+
+
+msgid "Header Color"
+msgstr "Header Kleur"
+
+
+msgid "Header Gradient"
+msgstr "Header Gradient"
+
+
+msgid "If enable this then other color will be auto generate based on main color"
+msgstr "Als u dit inschakelt, wordt de kleur automatisch gegenereerd op basis van de hoofdkleur"
+
+
+msgid "If enable this then the header background will be gradient"
+msgstr "Als u dit inschakelt, is de koptekstachtergrond een verloop"
+
+
+msgid "If you disable this then your will get normal text area box insted of html editor"
+msgstr "Als u dit uitschakelt, krijgt u een normaal tekstvakvak in plaats van een html-editor"
+
+
+msgid "If you enable it a feedback email will be sent to ticket user email address after closing ticket"
+msgstr "Als u dit inschakelt, wordt na het sluiten van het ticket een feedback-e-mail verzonden naar het e-mailadres van de ticketgebruiker"
+
+
+msgid "If you enable it then any visitor can open ticket without registration"
+msgstr "Als u het inschakelt, kan elke bezoeker een ticket openen zonder registratie"
+
+
+msgid "If you enable it then captcha will show in admin login form"
+msgstr "Als je het inschakelt, wordt captcha weergegeven in het aanmeldingsformulier voor beheerders"
+
+
+msgid "If you enable it then captcha will show in client login form"
+msgstr "Als u het inschakelt, wordt captcha getoond in het aanmeldingsformulier van de klant"
+
+
+msgid "If you enable it then captcha will show in client registration form"
+msgstr "Als je het inschakelt, wordt captcha weergegeven in het registratieformulier voor klanten"
+
+
+msgid "If you enable it then captcha will show in guest ticket opening form"
+msgstr "Als je het inschakelt, wordt captcha getoond in het openingsformulier van het gastkaart"
+
+
+msgid "If you enable it then user can open their ticket as public mode. Where any user can replay"
+msgstr "Als u het inschakelt, kan de gebruiker zijn ticket openen als openbare modus. Waar elke gebruiker kan herhalen"
+
+
+msgid "If you enable it then user can upload file when they open ticket and reply any ticket"
+msgstr "Als u het inschakelt, kan de gebruiker het bestand uploaden wanneer zij het ticket openen en een ticket beantwoorden"
+
+
+msgid "If you enable it, then any staff can reply on any ticket, if disable then only assigned staff can reply."
+msgstr "Als u dit inschakelt, kan elk personeel op elk ticket antwoorden. Als dit wordt uitgeschakeld, kunnen alleen de medewerkers reageren."
+
+
+msgid "If you enable it, then you can able to upload their profile photo"
+msgstr "Als je het inschakelt, kun je hun profielfoto uploaden"
+
+
+msgid "If you enable this then this app will check SSL Request, if not then it will redirect to SSL URL."
+msgstr "Als u dit inschakelt, zal deze app SSL-aanvraag controleren, zo niet dan zal deze omleiden naar SSL-URL."
+
+
+msgid "If you enable this then this app will check and show user online status."
+msgstr "Als je dit inschakelt, zal deze app de online status van gebruikers controleren en tonen."
+
+
+msgid "It will effect in next reload. If you want to now then refresh after save."
+msgstr "Het zal effect hebben bij de volgende herlaadbeurt. Als u nu wilt vernieuwen na opslaan."
+
+
+msgid "It's background color of footer. Empty value will be auto from main color"
+msgstr "Het is de achtergrondkleur van voettekst. De lege waarde is automatisch van de hoofdkleur"
+
+
+msgid "It's background color of menu bar. Empty value will be auto from main color"
+msgstr "Het is de achtergrondkleur van de menubalk. De lege waarde is automatisch van de hoofdkleur"
+
+
+msgid "It's background color of menu text color when active. Empty value will be auto from main color"
+msgstr "De achtergrondkleur van de menutekstkleur indien actief. De lege waarde is automatisch van de hoofdkleur"
+
+
+msgid "It's text color of footer. Empty value will be auto from main color"
+msgstr "Het is tekstkleur van voettekst. De lege waarde is automatisch van de hoofdkleur"
+
+
+msgid "It's the background color of welcome message. But you can choose any text color on any text of welcome message using editor. Empty value will be auto from main color"
+msgstr "Het is de achtergrondkleur van een welkomstbericht. Maar je kunt elke tekstkleur op elke tekst van een welkomstbericht kiezen met de editor. De lege waarde is automatisch van de hoofdkleur"
+
+
+msgid "It's the color of anchor link and heading(h1,h2,h3,h4) Color. Empty value will be auto from main color"
+msgstr "Het is de kleur van de ankerlink en koers (h1, h2, h3, h4) Kleur. De lege waarde is automatisch van de hoofdkleur"
+
+
+msgid "Its background color of header"
+msgstr "De achtergrondkleur van de koptekst"
+
+
+msgid "Keep empty if you don't want to show any footer"
+msgstr "Blijf leeg als u geen voettekst wilt weergeven"
+
+
+msgid "Keep empty if you don't want to show any footer on email"
+msgstr "Blijf leeg als u geen voettekst op e-mail wilt weergeven"
+
+
+msgid "Keep empty if you don't want to show any footer on site copy write text"
+msgstr "Blijf leeg als u geen footer op de copy-tekst van de kopie wilt laten zien"
+
+
+msgid "Keep empty if you don't want to show any message"
+msgstr "Blijf leeg als je geen bericht wilt weergeven"
+
+
+msgid "Layout & Color Settings"
+msgstr "Layout & Kleur Instellingen"
+
+
+msgid "Link And Heading Text"
+msgstr "Link en Hoofdtext"
+
+
+msgid "Main Color"
+msgstr "Hoofdkleur"
+
+
+msgid "Main site color is defined for application main color of client site."
+msgstr "Hoofdkleur van de site is gedefinieerd voor de hoofdkleur van de toepassing op de clientsite."
+
+
+msgid "Max Upload File Size"
+msgstr "Max. Upload bestandsgrootte"
+
+
+msgid "Menu Active Text Color"
+msgstr "Menu Actieve tekstkleur"
+
+
+msgid "Menu Background"
+msgstr "Menu Achtergrond"
+
+
+msgid "Nagative Feedback Message"
+msgstr "Negatief feedbackbericht"
+
+
+msgid "Nagative Message"
+msgstr "Negatief bericht"
+
+
+msgid "On Admin Login"
+msgstr "Aanmelding voor beheerders"
+
+
+msgid "On Client Login"
+msgstr "Over klantaanmelding"
+
+
+msgid "On Client Registration"
+msgstr "Over klantregistratie"
+
+
+msgid "On Guest Ticket"
+msgstr "Op Guest Ticket"
+
+
+msgid "Only enter css code. Do not add any tag like %s"
+msgstr "Voer alleen css-code in. Voeg geen enkele tag toe zoals %s"
+
+
+msgid "Positive Feedback Message"
+msgstr "Positief feedbackbericht"
+
+
+msgid "Positive Message"
+msgstr "Positief bericht"
+
+
+msgid "Registration  of visitor. If you disable this then visitor can't register. Only registered client can open ticket after login"
+msgstr "Registratie van bezoeker. Als u dit uitschakelt, kan de bezoeker zich niet registreren. Alleen geregistreerde klanten kunnen een ticket openen na inloggen"
+
+
+msgid "Site Copyright Text"
+msgstr "Site Copyright Tekst"
+
+
+msgid "Site Key"
+msgstr "Sitetoets"
+
+
+msgid "The value is not a numeric"
+msgstr "De waarde is geen numeriek"
+
+
+msgid "Ticket File Upload"
+msgstr "Ticketbestand uploaden"
+
+
+msgid "Ticket Settings"
+msgstr "Ticket Instellingen"
+
+
+msgid "Time Format"
+msgstr "Tijdsnotitie"
+
+
+msgid "Value must be between 1 to 99"
+msgstr "De waarde moet liggen tussen 1 en 99"
+
+
+msgid "Welcome & Footer Text"
+msgstr "Welkom & Footer Text"
+
+
+msgid "Welcome Background"
+msgstr "Welkom Achtergrond"
+
+
+msgid "Welcome Message"
+msgstr "Welkom bericht"
+
+
+msgid "Welcome Text"
+msgstr "Welkom text"
+
+
+msgid "ex. 2"
+msgstr "ex. 2"
+
+
+msgid "Successfully updated"
+msgstr "Succesvol geüpdatet"
+
+
+msgid "Language changed. Reloading"
+msgstr "Taal veranderd, herladen.."
+
+
+msgid "Download CSV"
+msgstr "CSV downloaden"
+
+
+msgid "No Record Found"
+msgstr "Geen record gevonden"
+
+
+msgid "Reload"
+msgstr "Herladen"
+
+
+msgid "Sign In"
+msgstr "Aanmelden"
+
+
+msgid "Sign in to start your session"
+msgstr "Meldt u aan om uw sessie te starten"
+
+
+msgid "Admin Panel"
+msgstr "Admin Paneel"
+
+
+msgid "%s is invalid"
+msgstr "%s is ongeldig"
+
+
+msgid "A ticket email has been sent to your email. Please check that"
+msgstr "Een ticket e-mail is verzonden naar uw e-mail. Controleer dat alstublieft"
+
+
+msgid "Admin Notification Settings"
+msgstr "Instellingen voor beheerdersmeldingen"
+
+
+msgid "Are you sure to assign yourself?"
+msgstr "Weet je zeker dat je jezelf toewijst?"
+
+
+msgid "Are you sure to assign?"
+msgstr "Weet je zeker dat je het moet toewijzen?"
+
+
+msgid "Assign Me"
+msgstr "Mezelf"
+
+
+msgid "Captcha Success"
+msgstr "Captcha Successvol"
+
+
+msgid "Content"
+msgstr "Inhoud"
+
+
+msgid "Controller"
+msgstr "Controller"
+
+
+msgid "Email Field Details"
+msgstr "E-mail Velddetails"
+
+
+msgid "Email Notification Settings"
+msgstr "Instellingen voor e-mailmeldingen"
+
+
+msgid "Email Notification Settions"
+msgstr "Instellingen voor e-mailmeldingen"
+
+
+msgid "Email Template updated successfully"
+msgstr "E-mailsjabloon is succesvol bijgewerkt"
+
+
+msgid "Email template for  ANR"
+msgstr "E-mailsjabloon voor ANR"
+
+
+msgid "Enable Admin Notificaiton"
+msgstr "Schakel beheerdersmelding in"
+
+
+msgid "File Size"
+msgstr "Bestandsgrootte"
+
+
+msgid "If you enable this then admin will get notification"
+msgstr "Als u dit inschakelt, krijgt de beheerder een melding"
+
+
+msgid "If you enable this then admin will get notification on ticket open"
+msgstr "Als u dit inschakelt, krijgt de beheerder een melding wanneer het ticket is geopend"
+
+
+msgid "If you enable this then admin will get notification on ticket user reply"
+msgstr "Als u dit inschakelt, krijgt de beheerder een melding over het antwoord van de ticketgebruiker"
+
+
+msgid "Logging in.."
+msgstr "Inloggen.."
+
+
+msgid "Name of ticket user"
+msgstr "Naam van de kaartgebruiker"
+
+
+msgid "New Ticket Opened"
+msgstr "Nieuw ticket geopend"
+
+
+msgid "Notification Email"
+msgstr "Kennisgeving E-mail"
+
+
+msgid "Notification Settings"
+msgstr "Notificatie instellingen"
+
+
+msgid "Notification Settions"
+msgstr "Notificatie instellingen"
+
+
+msgid "On Admin/staff Reply"
+msgstr "Op Admin / personeel Antwoord"
+
+
+msgid "On Screen Notificaiton Settings"
+msgstr "Op meldingsinstellingen op het scherm"
+
+
+msgid "On Ticket Open"
+msgstr "Op Ticket Open"
+
+
+msgid "On Ticket User Reply"
+msgstr "On Ticket User Reply"
+
+
+msgid "Page List"
+msgstr "Paginalijst"
+
+
+msgid "Please wait"
+msgstr "Even geduld aub"
+
+
+msgid "Replied Text"
+msgstr "Geantwoorde text"
+
+
+msgid "Reply text"
+msgstr "Antwoord text"
+
+
+msgid "Resource"
+msgstr "Hulpbron"
+
+
+msgid "Set Assign"
+msgstr "Toewijzen"
+
+
+msgid "Successfully added"
+msgstr "Succesvol toegevoegd"
+
+
+msgid "Template List"
+msgstr "Template Lijst"
+
+
+msgid "Thank you, your ticket has been opened successfully"
+msgstr "Bedankt, je ticket is succesvol geopend"
+
+
+msgid "Ticket Open By Guest"
+msgstr "Ticket Geopend door Guest"
+
+
+msgid "Ticket Other's Info"
+msgstr "Informatie van Ticket Other"
+
+
+msgid "Ticket Replied by : %s"
+msgstr "Ticket beantwoord door :  %s"
+
+
+msgid "Ticket cateroty"
+msgstr "Ticket Categorie"
+
+
+msgid "Ticket link"
+msgstr "Ticket link"
+
+
+msgid "Ticket open or reply notification settings"
+msgstr "Ticket open of antwoord notificatie-instellingen"
+
+
+msgid "Update Email Template"
+msgstr "E-mailsjabloon updaten"
+
+
+msgid "User Ticket"
+msgstr "Gebruikersticket"
+
+
+msgid "User who replied"
+msgstr "Gebruiker die heeft geantwoord"
+
+
+msgid "View Ticket Details"
+msgstr "Bekijk Ticketgegevens"
+
+
+msgid "ex. email@domain.com"
+msgstr "ex. email@domain.com"
+
+
+msgid "updated"
+msgstr "bijgewerkt"
+
+
+msgid "%s is not a valid URL"
+msgstr "%s is geen geldige URL"
+
+
+msgid "Admin Panel Language"
+msgstr "Admin Panel Language"
+
+
+msgid "Admin will hear tone on notification if enabled"
+msgstr "Beheerder hoort toon bij melding als ingeschakeld"
+
+
+msgid "App Settings"
+msgstr "App instellingen"
+
+
+msgid "Application All Settings"
+msgstr "Alle Applicatie Instellingen"
+
+
+msgid "Are you sure to dismiss?"
+msgstr "Weet u zeker dat u wilt annuleren?"
+
+
+msgid "Authentication failed!. May be remote server rejected."
+msgstr "Authenticatie mislukt!"
+
+
+msgid "Button Color"
+msgstr "Knop Kleur"
+
+
+msgid "Button Text"
+msgstr "Knop Text"
+
+
+msgid "Button Text Color"
+msgstr "Knop Text Kleur"
+
+
+msgid "Button Txt"
+msgstr "Knop Text"
+
+
+msgid "Button View"
+msgstr "Knopweergave"
+
+
+msgid "Button image updated successfully"
+msgstr "Knopafbeelding succesvol bijgewerkt"
+
+
+msgid "Captcha is required"
+msgstr "Captcha is verplicht"
+
+
+msgid "Closed On"
+msgstr "Gesloten op"
+
+
+msgid "Current Status"
+msgstr "Huidige Status"
+
+
+msgid "Custom %s"
+msgstr "Aangepast  %s"
+
+
+msgid "Default login system form won't not show if it enabled"
+msgstr "Het standaard login-systeemformulier wordt niet getoond als het is ingeschakeld"
+
+
+msgid "Default login system form won't not show if it enabled, but Remote Login & Social login will show if those are enabled"
+msgstr "Het standaard login-systeemformulier zal niet worden getoond als het is ingeschakeld, maar Remote Login & Social login zal laten zien of deze zijn ingeschakeld"
+
+
+msgid "Disable Default Login"
+msgstr "Uitschakelen Standaard Login"
+
+
+msgid "Disable Guest Open Popup"
+msgstr "Schakel Guest Open Popup uit"
+
+
+msgid "Edit Remote Login"
+msgstr "Bewerken Remote Login"
+
+
+msgid "Email to Ticket"
+msgstr "Email naar Ticket"
+
+
+msgid "Enable Tone (Sound)"
+msgstr "Inschakelen Geluid"
+
+
+msgid "Featured Video"
+msgstr "Aanbevolen Video"
+
+
+msgid "File Upload"
+msgstr "Bestand Upload"
+
+
+msgid "If you enable this then admin will hear tone on notification"
+msgstr "Als u dit inschakelt, hoort de beheerder een toon bij melding"
+
+
+msgid "If you enable this then guest user also get all priroty as dropdown option"
+msgstr "Als u dit inschakelt, krijgt de gastgebruiker ook alle prioriteit als vervolgkeuzemenu"
+
+
+msgid "It is your remote server login URL. You can add extra parameter to detect, %s"
+msgstr "Het is de inlog-URL van uw externe server. U kunt extra parameter toevoegen om te detecteren, %s"
+
+
+msgid "It is your remote server login URL. You can add extra parameter to detect, ex. %s"
+msgstr "Het is de inlog-URL van uw externe server. U kunt extra parameter toevoegen om te detecteren, bijv.  %s"
+
+
+msgid "It is your remote server login URL. You can add extra parameter to detect, ex. http://zyz.com?from=support-system"
+msgstr "Het is de inlog-URL van uw externe server. U kunt extra parameter toevoegen om te detecteren, bijv. http://zyz.com?from=support-system"
+
+
+msgid "It will redirect to home page within"
+msgstr "Het zal doorverwijzen naar de startpagina binnen"
+
+
+msgid "It will send this key in verification process as param"
+msgstr "Het stuurt deze sleutel in het verificatieproces als param"
+
+
+msgid "Keep empty if you don't want show any video"
+msgstr "Blijf leeg als je geen video wilt laten zien"
+
+
+msgid "Last Replied On"
+msgstr "Laatst beantwoord"
+
+
+msgid "Layout & Color"
+msgstr "Layout & kleur"
+
+
+msgid "Log uploaded"
+msgstr "Log geüpload"
+
+
+msgid "Login Email"
+msgstr "Login (e-mail"
+
+
+msgid "Login Link"
+msgstr "Login Link"
+
+
+msgid "Login URL"
+msgstr "Inlog-URL"
+
+
+msgid "Login Using"
+msgstr "Inloggen met"
+
+
+msgid "NB. %s will be your server's api key, by this we validate the response"
+msgstr "NB.  %s is de api-sleutel van uw server, hiermee valideren we het antwoord"
+
+
+msgid "NB. %s will be your server's login token, by this it can validated the user"
+msgstr "NB.  %s is het inlog-token van uw server, waarmee het de gebruiker kan valideren"
+
+
+msgid "New Remote Login"
+msgstr "Nieuwe Remote Login"
+
+
+msgid "Normally visitor will show a popup it s/he doesn't logged in. If you don't want to show that then enable it"
+msgstr "Normaal zal de bezoeker een pop-up laten zien als hij / zij niet is ingelogd. Als u dat niet wilt laten zien, moet u het inschakelen"
+
+
+msgid "Notification Tone (Sound)"
+msgstr "Meldingstoon (geluid)"
+
+
+msgid "Opened On"
+msgstr "Geopend op"
+
+
+msgid "Our server will post to this URL with the response token.%s Post paramater will be look like %s"
+msgstr "Onze server zal naar deze URL posten met het reactietoken.  %s De postparameter zal er uitzien als %s"
+
+
+msgid "Pay Now"
+msgstr "Nu betalen"
+
+
+msgid "Payment Added"
+msgstr "Betaling toegevoegd"
+
+
+msgid "Preview"
+msgstr "Voorbeeld"
+
+
+msgid "Private Key"
+msgstr "Prive sleutel"
+
+
+msgid "Remote Login"
+msgstr "Inloggen op afstand"
+
+
+msgid "Remote Login Error"
+msgstr "Fout bij inloggen op afstand"
+
+
+msgid "Remote Login List"
+msgstr "Remote Login List"
+
+
+msgid "Remote Server Login"
+msgstr "Remote Server Login"
+
+
+msgid "Remote_server"
+msgstr "Remote_server"
+
+
+msgid "Request Count"
+msgstr "Verzoek tellen"
+
+
+msgid "Response Data Error"
+msgstr "Response Data Error"
+
+
+msgid "Response URL"
+msgstr "Respons-URL"
+
+
+msgid "Same As Admin"
+msgstr "Hetzelfde als beheerder"
+
+
+msgid "Seconds"
+msgstr "seconden"
+
+
+msgid "Select icon"
+msgstr "Selecteer een pictogram"
+
+
+msgid "Server Type"
+msgstr "server type"
+
+
+msgid "Show all priroty on Guest Ticket"
+msgstr "Toon alle prioriteit op gastenkaart"
+
+
+msgid "Site Language"
+msgstr "Site Taal"
+
+
+msgid "Site Theme Settings"
+msgstr "Site Thema Instellingen"
+
+
+msgid "Social Login Setting"
+msgstr "Social Login Instelling"
+
+
+msgid "Successfully Dismissed"
+msgstr "Succesvol afgewezen"
+
+
+msgid "Successfully deleted"
+msgstr "Succesvol verwijderd"
+
+
+msgid "Successfully logged in"
+msgstr "Succesvol ingelogd"
+
+
+msgid "Successfully saved"
+msgstr "Succesvol opgeslagen"
+
+
+msgid "Thank you for registering with us"
+msgstr "Bedankt voor uw aanmelding bij ons"
+
+
+msgid "Theme"
+msgstr "Thema"
+
+
+msgid "This account has been temporary locked for 30 minutes, try again later or contact with admin to unlock"
+msgstr "Dit account is 30 minuten tijdelijk vergrendeld, probeer het later opnieuw of neem contact op met de beheerder om te ontgrendelen"
+
+
+msgid "This servers's configuration"
+msgstr "Configuratie van deze server"
+
+
+msgid "Ticket Email"
+msgstr "Ticket Email"
+
+
+msgid "Ticket Re-Opened"
+msgstr "Ticket opnieuw geopend"
+
+
+msgid "Unknown"
+msgstr "Onbekend"
+
+
+msgid "User Login Using"
+msgstr "Gebruikersaanmelding via"
+
+
+msgid "Valid Url"
+msgstr "Geldige URL"
+
+
+msgid "Validation URL"
+msgstr "Validatie URL"
+
+
+msgid "Video"
+msgstr "Video"
+
+
+msgid "View Update Details"
+msgstr "Bekijk de details van de update"
+
+
+msgid "Welcome to"
+msgstr "Welkom bij"
+
+
+msgid "Your server's redirect URL"
+msgstr "Omleidings-URL van uw Server"
+
+
+msgid "View All"
+msgstr "Bekijk Alles"
+
+
+msgid "%s replied a message"
+msgstr "%s heeft een bericht beantwoord"
+
+
+msgid "API Name"
+msgstr "API Naam"
+
+
+msgid "About Support System-help"
+msgstr "Over ondersteuning Systeem-help"
+
+
+msgid "Agent Welcome Text"
+msgstr "Agent welkomsttekst"
+
+
+msgid "All Paid Ticket"
+msgstr "All Paid Ticket"
+
+
+msgid "Analytics Gtag ID"
+msgstr "Analytics Gtag ID"
+
+
+msgid "App User Details"
+msgstr "App gebruikersgegevens"
+
+
+msgid "Archive"
+msgstr "Archief"
+
+
+msgid "Are you sure to archive?"
+msgstr "Weet je zeker dat je wilt archiveren?"
+
+
+msgid "Are you sure to archive? Archive is like Delete. You can inactive for temporary basis"
+msgstr "Weet je zeker dat je wilt archiveren? Archief is net als Verwijderen. Je kunt inactief voor tijdelijke basis"
+
+
+msgid "Are you sure to archive? Archive is like as delete. If you want to do it for temporary, then set inactive status instead of archive. You cann&#96;t revert if you process it."
+msgstr "Weet je zeker dat je wilt archiveren? Archief lijkt op verwijderen. Als u dit tijdelijk wilt doen, stelt u de inactieve status in plaats van het archief in. Je kunt niet teruggaan als je het verwerkt."
+
+
+msgid "Are you sure to archive? Archive is like as delete. If you want to do it for temporary, then you can inactive this user."
+msgstr "Weet je zeker dat je wilt archiveren? Archief lijkt op verwijderen. Als je het tijdelijk wilt doen, kun je deze gebruiker inactief maken."
+
+
+msgid "Are you sure to archive? Archive is like as delete. It you want do it for temporary then you can inactive this user."
+msgstr "Weet je zeker dat je wilt archiveren? Archief lijkt op verwijderen. Als je het tijdelijk wilt doen, kun je deze gebruiker inactief maken."
+
+
+msgid "Are you sure to archive? Archive is like as delete. You can inactive for temporary basis"
+msgstr "Weet je zeker dat je wilt archiveren? Archief lijkt op verwijderen. Je kunt inactief voor tijdelijke basis"
+
+
+msgid "Are you sure to change chat status?"
+msgstr "Weet je zeker dat je de chatstatus moet wijzigen?"
+
+
+msgid "Are you sure to unlock?"
+msgstr "Weet je zeker dat je moet ontgrendelen?"
+
+
+msgid "Asigned By"
+msgstr "Toegekend door"
+
+
+msgid "Authentication failed!. May be you didn't authenticate."
+msgstr "Verificatie is mislukt !. Misschien ben je niet geauthenticeerd."
+
+
+msgid "Best Ranker Wordpress tool"
+msgstr "Beste Ranker Wordpress-tool"
+
+
+msgid "Browser"
+msgstr "browser"
+
+
+msgid "Canned Message"
+msgstr "Ingeblikt bericht"
+
+
+msgid "Change Profile Photo"
+msgstr "Profielfoto wijzigen"
+
+
+msgid "Chat Canned Message"
+msgstr "Chat ingeblikt bericht"
+
+
+msgid "Chat Canned Msg List"
+msgstr "Chat Canned Msg lijst"
+
+
+msgid "Chat Online Status"
+msgstr "Chat online status"
+
+
+msgid "Chat Opening Text"
+msgstr "Chat Opening Text"
+
+
+msgid "Chat Panel"
+msgstr "Chat Panel"
+
+
+msgid "Chat Receive Status"
+msgstr "Chat ontvangststatus"
+
+
+msgid "Chat Settings"
+msgstr "Chat Instellingen"
+
+
+msgid "Chat Status"
+msgstr "Chat Status"
+
+
+msgid "Check On Submit"
+msgstr "Controleer na verzenden"
+
+
+msgid "Choose API"
+msgstr "Kies API"
+
+
+msgid "Choose API from available APIs"
+msgstr "Kies API uit beschikbare API's"
+
+
+msgid "Choose Chat Type"
+msgstr "Kies Chat Type"
+
+
+msgid "Choose Type or Category"
+msgstr "Kies Type of Categorie"
+
+
+msgid "Click here to watch the video tutorial"
+msgstr "Klik hier om de video-zelfstudie te bekijken"
+
+
+msgid "Click on the Image to change. Best size is 250px x 200px"
+msgstr "Klik op de afbeelding om te wijzigen. De beste grootte is 250 px x 200 px"
+
+
+msgid "Client Profile"
+msgstr "Client Profiel"
+
+
+msgid "Close Chat Status"
+msgstr "Sluit Chat Status"
+
+
+msgid "Closed Chat List"
+msgstr "Gesloten chatlijst"
+
+
+msgid "Closed Failed"
+msgstr "Gesloten Mislukt"
+
+
+msgid "Closed Successfully"
+msgstr "Succesvol gesloten"
+
+
+msgid "Color Settings"
+msgstr "Kleur Instellingen"
+
+
+msgid "Comma( , ) separated. Ex: OptionA,OptionB,OptionC"
+msgstr "Kommagescheiden. Ex: OptionA, OptionB, OptionC"
+
+
+msgid "Do you want to take?"
+msgstr "Wilt u nemen?"
+
+
+msgid "Download"
+msgstr "Download"
+
+
+msgid "Edit Ticket Reply"
+msgstr "Bewerk ticketantwoord"
+
+
+msgid "Email Password Reset Link"
+msgstr "Email Password Reset Link"
+
+
+msgid "Enable"
+msgstr "Inschakelen"
+
+
+msgid "Enable API Validation"
+msgstr "Inschakelen API Validatie"
+
+
+msgid "End Time"
+msgstr "Eindtijd"
+
+
+msgid "Enter License Info"
+msgstr "Voer Licentiegegevens in"
+
+
+msgid "Entry Date"
+msgstr "Entry Date"
+
+
+msgid "Envato Settings"
+msgstr "Envato-instellingen"
+
+
+msgid "Facebook Chat"
+msgstr "Facebook chat"
+
+
+msgid "Facebook Chat Settings"
+msgstr "Facebook Chat Instellingen"
+
+
+msgid "Facebook Page ID"
+msgstr "Facebook-pagina-ID"
+
+
+msgid "Failed to assigning you on this chat"
+msgstr "Mislukken om u toe te wijzen aan deze chat"
+
+
+msgid "Failed to update"
+msgstr "Kan niet worden bijgewerkt"
+
+
+msgid "Field Label"
+msgstr "veld Label"
+
+
+msgid "File Settings"
+msgstr "Bestandsinstellingen"
+
+
+msgid "GUEST USER"
+msgstr "GUEST"
+
+
+msgid "Genaral"
+msgstr "Algemeen"
+
+
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+
+msgid "Google Analytics Gtag ID"
+msgstr "Google Analytics Gtag ID"
+
+
+msgid "Google Analytics Settings"
+msgstr "Google Analytics-instellingen"
+
+
+msgid "Gtag ID"
+msgstr "Gtag ID"
+
+
+msgid "Help Text"
+msgstr "hulp tekst"
+
+
+msgid "How to use all feature of this support system"
+msgstr "Hoe alle functies van dit ondersteuningssysteem te gebruiken"
+
+
+msgid "IMAP module is not activated in you php"
+msgstr "IMAP-module is niet geactiveerd in uw php"
+
+
+msgid "If you choose this then this field will be displayed on choosen category only"
+msgstr "Als u dit kiest, wordt dit veld alleen in de gekozen categorie weergegeven"
+
+
+msgid "If you enable this then the field will be check using selected API"
+msgstr "Als u dit inschakelt, wordt het veld gecontroleerd met de geselecteerde API"
+
+
+msgid "If you enable this then the value of this field is always be private"
+msgstr "Als u dit inschakelt, is de waarde van dit veld altijd privé"
+
+
+msgid "If you enable this, the field value need to be valid on form submission. Otherwise you will get a button to check manually"
+msgstr "Als u dit inschakelt, moet de veldwaarde geldig zijn bij het indienen van formulieren. Anders krijg je een knop om handmatig te controleren"
+
+
+msgid "If you want to set %s. Then please go to %s or  %s"
+msgstr "Als u %s wilt instellen. Ga dan naar %s of %s"
+
+
+msgid "Is Private"
+msgstr "Is privé"
+
+
+msgid "It set a limit,how many chat a agent(Admin User) can take  simultaneously"
+msgstr "Er is een limiet ingesteld, hoeveel chatten een agent (beheerder-gebruiker) tegelijkertijd kan nemen"
+
+
+msgid "It will show when a agent start a chat session."
+msgstr "Het zal laten zien wanneer een agent een chatsessie start."
+
+
+msgid "It will show when a agent start a chat session. You can use some property which is given bello:"
+msgstr "Het zal laten zien wanneer een agent een chatsessie start. U kunt een eigenschap gebruiken die wordt gegeven:"
+
+
+msgid "It will show when a agent start a chat session. You can use some property which is given bellow:"
+msgstr "Het zal laten zien wanneer een agent een chatsessie start. U kunt een eigenschap gebruiken die hieronder wordt gegeven:"
+
+
+msgid "It will show when a user want to start chat"
+msgstr "Het zal laten zien wanneer een gebruiker wil beginnen met chatten"
+
+
+msgid "It will show when all user are offline"
+msgstr "Het zal laten zien wanneer alle gebruikers offline zijn"
+
+
+msgid "It will show when all user busy,"
+msgstr "Het laat zien wanneer alle gebruikers bezet zijn,"
+
+
+msgid "Item Purchase Code"
+msgstr "Artikel aankoopcode"
+
+
+msgid "Its the field label"
+msgstr "Het is het veldlabel"
+
+
+msgid "Knowledge Search"
+msgstr "Kennis Zoeken"
+
+
+msgid "Last 5 Closed Chat"
+msgstr "Laatste 5 gesloten chat"
+
+
+msgid "Last Change Date"
+msgstr "Laatste wijzigingsdatum"
+
+
+msgid "Last Date"
+msgstr "Laatste datum"
+
+
+msgid "Latest Knowledge"
+msgstr "Nieuwste Kennis Item"
+
+
+msgid "Load More"
+msgstr "Meer"
+
+
+msgid "Loading Chat Data Please wait.."
+msgstr "Chatgegevens laden Even geduld .."
+
+
+msgid "Locked_user_confirm"
+msgstr "Locked_user_confirm"
+
+
+msgid "Login using social"
+msgstr "Inloggen met behulp van sociaal"
+
+
+msgid "Low Priority"
+msgstr "Lage prioriteit"
+
+
+msgid "Max chat count"
+msgstr "Max. Aantal chatten"
+
+
+msgid "Max. Chat Per Agent"
+msgstr "Max. Chat per agent"
+
+
+msgid "Max. Chat Per Agent %s"
+msgstr "Max. Chat per agent %s"
+
+
+msgid "Max. Chat Per Agent(simultaneously)"
+msgstr "Max. Chat Per Agent (tegelijkertijd)"
+
+
+msgid "Message List"
+msgstr "Berichtenlijst"
+
+
+msgid "Missing chat id"
+msgstr "Ontbrekende chat-id"
+
+
+msgid "My Closed Ticket"
+msgstr "Mijn gesloten ticket"
+
+
+msgid "My Paid Tickets"
+msgstr "Mijn betaalde tickets"
+
+
+msgid "Name of user"
+msgstr "Naam van de gebruiker"
+
+
+msgid "Need Support? Create a Ticket."
+msgstr "Ondersteuning nodig?"
+
+
+msgid "New Chat Canned Message"
+msgstr "Nieuw Chat ingeblikt bericht"
+
+
+msgid "New Chat Canned Msg"
+msgstr "Nieuwe Chat Canned Msg"
+
+
+msgid "New Chat Request"
+msgstr "Nieuw chatverzoek"
+
+
+msgid "New Custom Field"
+msgstr "Nieuw aangepast veld"
+
+
+msgid "New Product"
+msgstr "Nieuw product"
+
+
+msgid "No result found"
+msgstr "geen resultaat gevonden"
+
+
+msgid "Offline Text"
+msgstr "Offline tekst"
+
+
+msgid "On Screeen Notification Settings"
+msgstr "Op meldingsinstellingen op het scherm"
+
+
+msgid "On Screeen Notification Settions"
+msgstr "Op meldingsinstellingen op het scherm"
+
+
+msgid "Only profile image updated"
+msgstr "Alleen profielafbeelding bijgewerkt"
+
+
+msgid "Open Text"
+msgstr "Open tekst"
+
+
+msgid "Open Ticket With Less Priority"
+msgstr "Open ticket met minder prioriteit"
+
+
+msgid "Page Builder"
+msgstr "Page Builder"
+
+
+msgid "Page Editor"
+msgstr "Page Editor"
+
+
+msgid "Password 18DDC9E196"
+msgstr "Wachtwoord 18DDC9E196"
+
+
+msgid "Password Successfully Updated"
+msgstr "Wachtwoord succesvol bijgewerkt"
+
+
+msgid "Please Rate it !!"
+msgstr "Beoordeel het alsjeblieft !!"
+
+
+msgid "Please put this into your facebook page settings"
+msgstr "Plaats dit alsjeblieft in je Facebook-instellingen"
+
+
+msgid "Priority"
+msgstr "Prioriteit"
+
+
+msgid "Products"
+msgstr "producten"
+
+
+msgid "Profile Photo"
+msgstr "Profielfoto"
+
+
+msgid "Queue Text"
+msgstr "Wachtrijtekst"
+
+
+msgid "Rate it"
+msgstr "Beoordeel het"
+
+
+msgid "Replied"
+msgstr "antwoordde"
+
+
+msgid "Replied By"
+msgstr "Beantwoord door"
+
+
+msgid "Replied By Type"
+msgstr "Gereageerd op type"
+
+
+msgid "Replied Successfully"
+msgstr "Heeft met succes gereageerd"
+
+
+msgid "Reply Time"
+msgstr "Antwoordtijd"
+
+
+msgid "Reset Password"
+msgstr "Reset wachtwoord"
+
+
+msgid "Screen Notificaiton Settings"
+msgstr "Instellingen voor schermmeldingen"
+
+
+msgid "Search Result"
+msgstr "Zoekresultaat"
+
+
+msgid "Seen by ticket owner"
+msgstr "Gezien door de eigenaar van het kaartje"
+
+
+msgid "Set Category"
+msgstr "Categorie instellen"
+
+
+msgid "Set New Password"
+msgstr "Stel een nieuw wachtwoord in"
+
+
+msgid "Set Passowrd"
+msgstr "Stel een wachtwoord in"
+
+
+msgid "Set Password"
+msgstr "Stel een wachtwoord in"
+
+
+msgid "Set User Password"
+msgstr "Stel gebruikerswachtwoord in"
+
+
+msgid "Site Info"
+msgstr "Site-info"
+
+
+msgid "Social Login Error"
+msgstr "Social Login Error"
+
+
+msgid "Start Time"
+msgstr "Starttijd"
+
+
+msgid "Successfully Archived"
+msgstr "Succesvol gearchiveerd"
+
+
+msgid "Successfully assign"
+msgstr "Succesvol toewijzen"
+
+
+msgid "Successfully assigned you"
+msgstr "Heb je met succes toegewezen"
+
+
+msgid "Successfully closed"
+msgstr "Succesvol afgesloten"
+
+
+msgid "Successfully unlocked"
+msgstr "Succesvol ontgrendeld"
+
+
+msgid "The text will be show like this text after the field"
+msgstr "De tekst wordt weergegeven zoals deze tekst na het veld"
+
+
+msgid "The user is already archived. You can't active or inactive"
+msgstr "De gebruiker is al gearchiveerd. Je kunt niet actief of inactief zijn"
+
+
+msgid "The user who replaied last"
+msgstr "De gebruiker die als laatste heeft teruggespeeld"
+
+
+msgid "This chat request has been accepted by %s"
+msgstr "Deze chataanvraag is geaccepteerd door %s"
+
+
+msgid "This chat request has been accepted by Sarwar Hasan"
+msgstr "Deze chataanvraag is geaccepteerd door Sarwar Hasan"
+
+
+msgid "Ticket Form Category"
+msgstr "Ticket Form Category"
+
+
+msgid "Ticket Opened"
+msgstr "Ticket geopend"
+
+
+msgid "Ticket Payment"
+msgstr "Ticketbetaling"
+
+
+msgid "Ticket Priority"
+msgstr "Ticketprioriteit"
+
+
+msgid "Ticket open time in app timezone (UTC)"
+msgstr "Ticket open tijd in app-tijdzone (UTC)"
+
+
+msgid "Ticket owner doesn't seen"
+msgstr "De kaarteigenaar heeft het niet gezien"
+
+
+msgid "Ticket owner seen"
+msgstr "Ticket eigenaar gezien"
+
+
+msgid "Ticket reply saved error"
+msgstr "Fout antwoord ticketbevestiging"
+
+
+msgid "Ticket_confirm"
+msgstr "Ticket bevestigen"
+
+
+msgid "To enable chat"
+msgstr "Chat inschakelen"
+
+
+msgid "To enable facebook messenger chat"
+msgstr "Om facebook messenger chat in te schakelen"
+
+
+msgid "Top Priority"
+msgstr "Top prioriteit"
+
+
+msgid "Unlock"
+msgstr "ontsluiten"
+
+
+msgid "Unseened by ticket owner"
+msgstr "Ongezien door de kaarteigenaar"
+
+
+msgid "Updated successfully"
+msgstr "Succesvol geupdatet"
+
+
+msgid "Use this as your confirmation url into your envato app register page."
+msgstr "Gebruik dit als uw bevestigings-URL in uw envato app-registratiepagina."
+
+
+msgid "User Info"
+msgstr "gebruikers informatie"
+
+
+msgid "User Password"
+msgstr "gebruikerswachtwoord"
+
+
+msgid "User login information"
+msgstr "Gebruikers login informatie"
+
+
+msgid "View"
+msgstr "Uitzicht"
+
+
+msgid "WP Best Ranker"
+msgstr "WP Best Ranker"
+
+
+msgid "WP Rank Ninja"
+msgstr "WP Rank Ninja"
+
+
+msgid "Web Chat"
+msgstr "Online chat"
+
+
+msgid "Web Chat Settings"
+msgstr "Web Chat Instellingen"
+
+
+msgid "Would You Please Rate it?"
+msgstr "Zou je het alsjeblieft beoordelen?"
+
+
+msgid "Write here"
+msgstr "Schrijf hier"
+
+
+msgid "YYYY-MM-DD"
+msgstr "YYYY-MM-DD"
+
+
+msgid "You can use some property which is given bellow:"
+msgstr "U kunt een eigenschap gebruiken die hieronder wordt weergegeven:"
+
+
+msgid "You can't set pro version now. Pro version is coming soon. Please choose default chat now"
+msgstr "U kunt nu geen pro-versie instellen. Pro-versie komt binnenkort. Kies nu standaard chat"
+
+
+msgid "You have no notifications right now"
+msgstr "U heeft momenteel geen meldingen"
+
+
+msgid "Your Domain URL"
+msgstr "Uw domein-URL"
+
+
+msgid "[GUEST USER]"
+msgstr "[GAST GEBRUIKER]"
+
+
+msgid "agent_welcome_text"
+msgstr "agent_welcome_text"
+
+
+msgid "e"
+msgstr "e"
+
+
+msgid "ex. 5"
+msgstr "ex. 5"
+
+
+msgid "snippets"
+msgstr "snippets"
+
+
+msgid "to see the video tutorial"
+msgstr "om de video-zelfstudie te bekijken"
+
+
+msgid "typing"
+msgstr "typen"
+
+
+msgid "%.2f"
+msgstr "%.2f"
+
+
+msgid "%s is already exists"
+msgstr "%s bestaat al"
+
+
+msgid "A  ticket reply has been received from ticket user"
+msgstr "Er is een ticketantwoord ontvangen van de ticketgebruiker"
+
+
+msgid "A new ticket is assigned to you"
+msgstr "Een nieuw ticket is aan jou toegewezen"
+
+
+msgid "A new ticket is received please assign"
+msgstr "Een nieuw ticket is ontvangen, wijs het toe"
+
+
+msgid "A reset link has been sent to your email address. Please check that"
+msgstr "Een reset-link is verzonden naar uw e-mailadres. Controleer dat alstublieft"
+
+
+msgid "Add"
+msgstr "Toevoegen"
+
+
+msgid "Add Another File"
+msgstr "Voeg een ander bestand toe"
+
+
+msgid "Add Note"
+msgstr "Voeg opmerking toe"
+
+
+msgid "Admin Notes"
+msgstr "Beheerdersnotities"
+
+
+msgid "Admin ticket creation"
+msgstr "Admin-ticket aanmaken"
+
+
+msgid "All Categories"
+msgstr "Alle categorieën"
+
+
+msgid "All Category"
+msgstr "Alle categorieën"
+
+
+msgid "Application"
+msgstr "Toepassing"
+
+
+msgid "Are you sure to delete attached file (%s)?"
+msgstr "Weet u zeker dat u het bijgevoegde bestand ( %s) wilt verwijderen?"
+
+
+msgid "Are you sure to delete attached file?"
+msgstr "Weet je zeker dat je het bijgevoegde bestand wilt verwijderen?"
+
+
+msgid "Are you sure to delete feature image?"
+msgstr "Weet u zeker dat u de functieafbeelding wilt verwijderen?"
+
+
+msgid "Assign On Ticket"
+msgstr "Toewijzen aan ticket"
+
+
+msgid "Attach more file"
+msgstr "Voeg meer bestanden toe"
+
+
+msgid "Attached"
+msgstr "Gehecht"
+
+
+msgid "Attached file"
+msgstr "Bijgevoegd bestand"
+
+
+msgid "Authentication Error"
+msgstr "Authenticatiefout"
+
+
+msgid "Auto Closing Rule"
+msgstr "Regel voor automatisch sluiten"
+
+
+msgid "Auto assign equally based on current month assigning"
+msgstr "Automatisch toewijzen op basis van de huidige maandtoewijzing"
+
+
+msgid "Based on ticket assigning rule"
+msgstr "Gebaseerd op ticket toewijzingsregel"
+
+
+msgid "Button Icon"
+msgstr "Knoppictogram"
+
+
+msgid "Cat Ids"
+msgstr "Cat Ids"
+
+
+msgid "Change Category"
+msgstr "Categorie wijzigen"
+
+
+msgid "Change Category of ticket: T6DD28E9B-012-1P9"
+msgstr "Wijzig Category of ticket: T6DD28E9B-012-1P9"
+
+
+msgid "Change Category of ticket: T84B12BAE-001-ZCO"
+msgstr "Wijzig Category of ticket: T84B12BAE-001-ZCO"
+
+
+msgid "Chat Auto Close"
+msgstr "Chat Auto Sluiten"
+
+
+msgid "Chat Auto Close Interval"
+msgstr "Chat Auto Close Interval"
+
+
+msgid "Chat Background Pattern"
+msgstr "Chat achtergrondpatroon"
+
+
+msgid "Chat Button Icon"
+msgstr "Chat Knoppictogram"
+
+
+msgid "Chat Closing Text"
+msgstr "Chatten Tekst sluiten"
+
+
+msgid "Chat Logo"
+msgstr "Chat Logo"
+
+
+msgid "Chat Tag Line"
+msgstr "Chat Tag Line"
+
+
+msgid "Chat Title"
+msgstr "Chat titel"
+
+
+msgid "Chat Window and Button Color"
+msgstr "Chatvenster en knopkleur"
+
+
+msgid "Chat closing interval"
+msgstr "Chat sluitingstijd"
+
+
+msgid "Chat has been auto closed by system"
+msgstr "Chat is automatisch per systeem gesloten"
+
+
+msgid "Chat main color"
+msgstr "Chat hoofdkleur"
+
+
+msgid "Chat will be closed which is inactive for entered value. Enter 0 to disable auto close"
+msgstr "Chat wordt gesloten, die niet actief is voor de ingevoerde waarde. Voer 0 in om automatisch sluiten uit te schakelen"
+
+
+msgid "Choose Category"
+msgstr "Kies categorie"
+
+
+msgid "Choose Pattern"
+msgstr "Kies patroon"
+
+
+msgid "Choose Staff"
+msgstr "Kies Staff"
+
+
+msgid "Choose chat button icon"
+msgstr "Kies het pictogram van de chatknop"
+
+
+msgid "Close ticket which has been inactive for"
+msgstr "Sluit ticket dat inactief is geweest voor"
+
+
+msgid "Close ticket which is inactivated for"
+msgstr "Sluit ticket dat is uitgeschakeld voor"
+
+
+msgid "Closing Message"
+msgstr "Bericht sluiten"
+
+
+msgid "Closing Rule"
+msgstr "Sluitregel"
+
+
+msgid "Closing Text"
+msgstr "Tekst sluiten"
+
+
+msgid "Currency"
+msgstr "Valuta"
+
+
+msgid "Custom_field"
+msgstr "Aangepast veld"
+
+
+msgid "Delete failed"
+msgstr "Verwijderen mislukt"
+
+
+msgid "Demo Mode"
+msgstr "Demonstratie modus"
+
+
+msgid "Disable Knowledge Stat In Homepage"
+msgstr "Kennisstatistieken op de startpagina uitschakelen"
+
+
+msgid "Disable knowledge statistics in home page"
+msgstr "Schakel kennisstatistieken op de startpagina uit"
+
+
+msgid "Edit Ticket Assign Rule"
+msgstr "Bewerk ticketregel toewijzen"
+
+
+msgid "Email template for  AAT"
+msgstr "E-mailsjabloon voor AAT"
+
+
+msgid "Email template for  TAC"
+msgstr "E-mailsjabloon voor TAC"
+
+
+msgid "Enable Auto Close"
+msgstr "Schakel Auto Sluiten in"
+
+
+msgid "Enable this to disable %s,%s,%s in homepage"
+msgstr "Schakel dit in om %s, %s, %s op de startpagina uit te schakelen"
+
+
+msgid "Files:"
+msgstr "bestanden:"
+
+
+msgid "Forgot Password"
+msgstr "Wachtwoord vergeten"
+
+
+msgid "Go to Login"
+msgstr "Ga naar Inloggen"
+
+
+msgid "Hour"
+msgstr "Uur"
+
+
+msgid "If you don't know how you will configure the Facebook Page settings then"
+msgstr "Als je niet weet hoe je de Facebook-pagina-instellingen dan gaat configureren"
+
+
+msgid "If you enable it, then inactive ticket will be closed automatically by auto closing rule"
+msgstr "Als u het inschakelt, wordt het inactieve ticket automatisch gesloten door de regel voor automatisch sluiten"
+
+
+msgid "If you enable this then assigned user will get notification on ticket assigning"
+msgstr "Als u dit inschakelt, krijgt de toegewezen gebruiker een melding over het toewijzen van tickets"
+
+
+msgid "Inactive Interval"
+msgstr "Inactief interval"
+
+
+msgid "Inactive Interval min"
+msgstr "Inactief interval min"
+
+
+msgid "It set a limit,how many chat per agent(Admin User) can take  simultaneously"
+msgstr "Er is een limiet ingesteld, hoeveel chatten per agent (Admin-gebruiker) tegelijkertijd kan duren"
+
+
+msgid "It will display in chat window"
+msgstr "Het wordt weergegeven in het chatvenster"
+
+
+msgid "It will redirect within"
+msgstr "Het zal binnen omleiden"
+
+
+msgid "It will show when all agent close the chat,"
+msgstr "Het laat zien wanneer alle agents de chat afsluiten"
+
+
+msgid "Knowledge Categories"
+msgstr "Kenniscategorieën"
+
+
+msgid "Knowledge attached file"
+msgstr "Kennis bijgevoegd bestand"
+
+
+msgid "Knowledge feature image"
+msgstr "Kennisfunctie afbeelding"
+
+
+msgid "Main color of chat window."
+msgstr "Hoofdkleur van chatvenster."
+
+
+msgid "N B. If you select Facebook Chat then you have to reply form Facebook Page Manager App or from Facebook. You can't reply from this app"
+msgstr "N B. Als u Facebook Chat selecteert, moet u de Facebook Paginabeheerder-app of Facebook beantwoorden. Je kunt niet antwoorden vanuit deze app"
+
+
+msgid "Name of ticket assigned user"
+msgstr "Naam van de aan het ticket toegewezen gebruiker"
+
+
+msgid "New Admin Note"
+msgstr "Nieuwe Admin Notitie"
+
+
+msgid "New Ticket Assign Rule"
+msgstr "Nieuwe Ticket Toewijzingsregel"
+
+
+msgid "New message or chat"
+msgstr "Nieuw bericht of chat"
+
+
+msgid "New ticket assigned"
+msgstr "Nieuw toegewezen ticket"
+
+
+msgid "New ticket assigned by you"
+msgstr "Nieuw ticket toegewezen door jou"
+
+
+msgid "New ticket received"
+msgstr "Nieuw ticket ontvangen"
+
+
+msgid "No note founds"
+msgstr "Geen enkele notitie gevonden"
+
+
+msgid "No ticket open by %s"
+msgstr "Geen kaart open met %s"
+
+
+msgid "Note"
+msgstr "Notitie"
+
+
+msgid "Note On"
+msgstr "Opmerking aan"
+
+
+msgid "Notification List"
+msgstr "Meldingslijst"
+
+
+msgid "On Ticket Assign"
+msgstr "Aan Ticket Assign"
+
+
+msgid "Password changed successfully"
+msgstr "wachtwoord succesvol veranderd"
+
+
+msgid "Password info"
+msgstr "Wachtwoord info"
+
+
+msgid "Payment Amount (%s)"
+msgstr "Betalingsbedrag ( %s)"
+
+
+msgid "Payment Amount(%s)"
+msgstr "Betalingsbedrag ( %s)"
+
+
+msgid "Permission Denied or logged out."
+msgstr "Toestemming geweigerd of uitgelogd."
+
+
+msgid "Please read it first"
+msgstr "Lees het alsjeblieft eerst"
+
+
+msgid "Popular Knowledge"
+msgstr "Populaire kennis"
+
+
+msgid "Recover Password"
+msgstr "Herstel wachtwoord"
+
+
+msgid "Ref Id"
+msgstr "Ref ID"
+
+
+msgid "Ref Type"
+msgstr "Ref Type"
+
+
+msgid "Reset failed try again"
+msgstr "Reset mislukt probeer opnieuw"
+
+
+msgid "Rule Id"
+msgstr "Regel ID"
+
+
+msgid "Rule Type"
+msgstr "Regel Type"
+
+
+msgid "SYSTEM"
+msgstr "SYSTEEM"
+
+
+msgid "Select Category"
+msgstr "Selecteer Categorie"
+
+
+msgid "Select Role"
+msgstr "Selecteer Rol"
+
+
+msgid "Select User"
+msgstr "Selecteer Gebruiker"
+
+
+msgid "Select User/Agent/Supervisor"
+msgstr "Selecteer Gebruiker / Agent / Supervisor"
+
+
+msgid "Selected agent/supervisor/admin will be notified on new ticket"
+msgstr "Geselecteerde agent / supervisor / beheerder wordt op nieuw ticket ingelicht"
+
+
+msgid "Selected agent/supervisor/admin will be notified on new ticket assigning"
+msgstr "Geselecteerde agent / supervisor / beheerder wordt op de hoogte gebracht van nieuwe toewijzing van tickets"
+
+
+msgid "Successfully assigned"
+msgstr "Succesvol toegewezen"
+
+
+msgid "Test Knowledge"
+msgstr "Test Kennis Item"
+
+
+msgid "Test attachedxcx"
+msgstr "Test attachedxcx"
+
+
+msgid "The ticket will be close which is inactive for client response"
+msgstr "Het ticket zal dichtbij zijn en is niet actief voor reactie van de klant"
+
+
+msgid "The update has been disabled in DEMO MODE"
+msgstr "Updaten is uitgeschakeld in DEMO MODUS"
+
+
+msgid "The user who reopen this ticket"
+msgstr "De gebruiker die dit ticket opnieuw opent"
+
+
+msgid "This user can be agent/supervisor/admin"
+msgstr "Deze gebruiker kan agent / supervisor / beheerder zijn"
+
+
+msgid "Ticket Assign Rule"
+msgstr "Ticket Toewijzingsregel"
+
+
+msgid "Ticket Assign Rule List"
+msgstr "Ticket Assign Regellijst"
+
+
+msgid "Ticket Closing Message"
+msgstr "Ticket sluitend bericht"
+
+
+msgid "Ticket Closing Message defined in Ticket settings"
+msgstr "Ticket Sluitingsbericht gedefinieerd in Ticket-instellingen"
+
+
+msgid "Ticket Feedback Buttons"
+msgstr "Ticket feedbackknoppen"
+
+
+msgid "Ticket Open By Admin"
+msgstr "Ticket geopend door beheerder"
+
+
+msgid "Ticket Payment Process"
+msgstr "Ticket betalingsproces"
+
+
+msgid "Ticket user  replied"
+msgstr "Ticketgebruiker heeft gereageerd"
+
+
+msgid "Ticket_assign_rule"
+msgstr "Ticket_assign_rule"
+
+
+msgid "Timezone updated successfully"
+msgstr "Tijdzone succesvol bijgewerkt"
+
+
+msgid "Title :"
+msgstr "Titel:"
+
+
+msgid "To see all settings effect on site, Please logout this session or try with other bowser. If admin logged in then you won't see the chat button"
+msgstr "Als u het effect van alle instellingen op de site wilt zien, meldt u zich dan af tijdens deze sessie of probeert u het met een andere bowser. Als de beheerder is ingelogd, ziet u de chatknop niet"
+
+
+msgid "To see all settings effect on site, please logout admin user or try with other browser. If admin logged in then you won't see the chat button"
+msgstr "Als u het effect van alle instellingen op de site wilt zien, meldt u zich af bij de beheerder of probeert u het met een andere browser. Als de beheerder is ingelogd, ziet u de chatknop niet"
+
+
+msgid "User Or Role"
+msgstr "Gebruiker of rol"
+
+
+msgid "View Closing Email Template"
+msgstr "Bekijk e-mailsjabloon sluiten"
+
+
+msgid "You have assigned self to a ticket"
+msgstr "Je hebt jezelf aan een ticket toegewezen"
+
+
+msgid "You have been replied a ticket"
+msgstr "U bent een kaartje beantwoord"
+
+
+msgid "You replied a ticket"
+msgstr "Je hebt een kaartje beantwoord"
+
+
+msgid "Your password has been changed successfully"
+msgstr "Je wachtwoord is met succes veranderd"
+
+
+msgid "hours"
+msgstr "uur"
+
+
+msgid "second(s)"
+msgstr "seconde (n)"
+
+
+msgid "to view the ticket assigning rule"
+msgstr "om de tickettoewijzingsregel te bekijken"
+
+
+msgid "Assign user"
+msgstr "Gebruiker toewijzen"
+
+
+msgid "Bad, dissatisfied"
+msgstr "Slecht, ontevreden"
+
+
+msgid "Both"
+msgstr "Beide"
+
+
+msgid "Closed"
+msgstr "Gesloten"
+
+
+msgid "DB Query"
+msgstr "DB Query"
+
+
+msgid "Edit Chat Canned Message"
+msgstr "Edit Chat Canned Message"
+
+
+msgid "Edit Menu"
+msgstr "Bewerk menu"
+
+
+msgid "Ex. http://xyz.com"
+msgstr "Ex. http://xyz.com"
+
+
+msgid "Failed"
+msgstr "mislukt"
+
+
+msgid "Feedback message"
+msgstr "Feedback bericht"
+
+
+msgid "Guest"
+msgstr "Guest"
+
+
+msgid "Guest Ticket User"
+msgstr "Guest Ticket gebruiker"
+
+
+msgid "High"
+msgstr "Hoog"
+
+
+msgid "Icon"
+msgstr "Pictogram"
+
+
+msgid "In Progress"
+msgstr "Bezig"
+
+
+msgid "Is New Window"
+msgstr "Is nieuw venster"
+
+
+msgid "Leave as Current"
+msgstr "Verlof als huidige"
+
+
+msgid "Loading"
+msgstr "Bezig met laden"
+
+
+msgid "Low"
+msgstr "Laag"
+
+
+msgid "Medium"
+msgstr "Medium"
+
+
+msgid "My Assigned All Tickets"
+msgstr "Mijn toegewezen tickets"
+
+
+msgid "New"
+msgstr "Nieuw"
+
+
+msgid "New Menu"
+msgstr "Nieuw menu"
+
+
+msgid "No search result found"
+msgstr "Geen zoekresultaat gevonden"
+
+
+msgid "Not Found"
+msgstr "Niet gevonden"
+
+
+msgid "Notice_confirm"
+msgstr "Notice_confirm"
+
+
+msgid "Only On Knowledge"
+msgstr "Alleen op kennis"
+
+
+msgid "Only on Ticket"
+msgstr "Alleen op Ticket"
+
+
+msgid "Page %s of %s"
+msgstr "Pagina %s van %s"
+
+
+msgid "Paid"
+msgstr "Betaald"
+
+
+msgid "Pending"
+msgstr "In afwachting"
+
+
+msgid "Please write a comment on us here"
+msgstr "Schrijf hier alstublieft een reactie op ons"
+
+
+msgid "Refunded"
+msgstr "teruggestort"
+
+
+msgid "Show Ticket"
+msgstr "Show Ticket"
+
+
+msgid "Staff"
+msgstr "Staf"
+
+
+msgid "Text Icon"
+msgstr "Tekstpictogram"
+
+
+msgid "Thank you for your feedback"
+msgstr "Bedankt voor je feedback"
+
+
+msgid "Thank you for your feedback. It will help us."
+msgstr "Bedankt voor je feedback. Het zal ons helpen."
+
+
+msgid "The website address is not valid"
+msgstr "Het websiteadres is niet geldig"
+
+
+msgid "URL"
+msgstr "URL"
+
+
+msgid "Urgent"
+msgstr "Dringend"
+
+
+msgid "View %s - %s of %s"
+msgstr "Bekijk %s - %s van %s"
+
+
+msgid "Well, satisfied"
+msgstr "Nou, tevreden"
+
+
+msgid "Would you please share your experience with us?"
+msgstr "Zou je alsjeblieft je ervaringen met ons willen delen?"
+
+
+msgid "You are not authorizse to see this ticket"
+msgstr "U bent niet gemachtigd om dit ticket te zien"
+
+
+msgid "day"
+msgstr "dag"
+
+
+msgid "days"
+msgstr "dagen"
+
+
+msgid "minute"
+msgstr "minuut"
+
+
+msgid "minutes"
+msgstr "minuten"
+
+
+msgid "month"
+msgstr "maand"
+
+
+msgid "months"
+msgstr "maanden"
+
+
+msgid "second"
+msgstr "tweede"
+
+
+msgid "week"
+msgstr "week"
+
+
+msgid "weeks"
+msgstr "weken"
+
+
+msgid "year"
+msgstr "jaar"
+
+
+msgid "years"
+msgstr "jaar"
+
+
+msgid "ago"
+msgstr "geleden"
+
+
+msgid "Ticket user(%s) replied"
+msgstr "Ticketgebruiker ( %s) heeft geantwoord"
+
+
+msgid "No category found"
+msgstr "Geen categorie gevonden"
+
+
+msgid "Ticket Reply"
+msgstr "Ticket antwoord"
+
+
+msgid "Invalid Information"
+msgstr "Ongeldige informatie"
+
+
+msgid "Captcha Error"
+msgstr "CAPTCHA foutmelding"
+
+
+msgid "Assign self"
+msgstr "Wijs jezelf toe"
+
+
+msgid "Assign user %s"
+msgstr "Wijs gebruiker %s toe"
+
+
+msgid "Choose country block rule"
+msgstr "Kies landblokregel"
+
+
+msgid "Choose.."
+msgstr "Kiezen.."
+
+
+msgid "Country Block Rule"
+msgstr "Landenregelregel"
+
+
+msgid "Country Block Settings"
+msgstr "Landblokinstellingen"
+
+
+msgid "Country List"
+msgstr "Landenlijst"
+
+
+msgid "Enter 2 digit Country Code(ex. US,CA,BD), Separated by comma"
+msgstr "Voer een 2-cijferige landcode in (bijv. VS, CA, BD), gescheiden door een komma"
+
+
+msgid "If you enable it then app check country for allow or block."
+msgstr "Als u dit inschakelt, controleert u de app op toestaan ​​of blokkeren."
+
+
+msgid "No user found with this email address"
+msgstr "Geen gebruiker gevonden met dit e-mailadres"
+
+
+msgid "Separated by comma"
+msgstr "Gescheiden door een komma"
+
+
+msgid "Seperated by comma"
+msgstr "Gescheiden door een komma"
+
+
+msgid "simultaneously"
+msgstr "gelijktijdig"
+
+
+msgid "%d MIN"
+msgstr "%d MIN"
+
+
+msgid "Accept"
+msgstr "Aanvaarden"
+
+
+msgid "Access denied for hacking attempts"
+msgstr "Toegang geweigerd voor hackpogingen"
+
+
+msgid "Admin Work Log"
+msgstr "Admin werklogboek"
+
+
+msgid "Allow User Own Account Delete Option"
+msgstr "Optie voor verwijderen van gebruikers eigen account toestaan"
+
+
+msgid "Allow User To Download Their User Data"
+msgstr "Sta de gebruiker toe om zijn gebruikersgegevens te downloaden"
+
+
+msgid "Are you sure to delete your account?"
+msgstr "Weet je zeker dat je je account wilt verwijderen?"
+
+
+msgid "Are you sure to reset?"
+msgstr "Weet je zeker dat je moet resetten?"
+
+
+msgid "Assign"
+msgstr "Toewijzen"
+
+
+msgid "Auto"
+msgstr "Auto"
+
+
+msgid "Auto Assigned"
+msgstr "Auto toegewezen"
+
+
+msgid "Background Color"
+msgstr "Achtergrond kleur"
+
+
+msgid "Background Opacity"
+msgstr "Achtergronddekking"
+
+
+msgid "Background Opacity is required"
+msgstr "Achtergronddekking is vereist"
+
+
+msgid "Choose Bar Close Animation"
+msgstr "Kies Bar Close Animation"
+
+
+msgid "Choose Bar Open Animation"
+msgstr "Kies Bar Open Animation"
+
+
+msgid "Choose Display Event"
+msgstr "Kies Gebeurtenis weergeven"
+
+
+msgid "Choose Policy Page"
+msgstr "Kies de beleidspagina"
+
+
+msgid "Cookie Bar Background Color"
+msgstr "Cookie Bar Achtergrondkleur"
+
+
+msgid "Cookie Message"
+msgstr "Cookie Bericht"
+
+
+msgid "Cookie bar text color"
+msgstr "Cookie bar text kleur"
+
+
+msgid "Copy Link"
+msgstr "Kopieer Link"
+
+
+msgid "Date"
+msgstr "Datum"
+
+
+msgid "Default Value"
+msgstr "Standaard Waarde"
+
+
+msgid "Delete my account"
+msgstr "Verwijder mijn account"
+
+
+msgid "Deleted"
+msgstr "Verwijderd"
+
+
+msgid "Download this account data"
+msgstr "Download deze account gegevens"
+
+
+msgid "Dropdown"
+msgstr "Dropdown"
+
+
+msgid "Edit Custom Field"
+msgstr "Aangepast Veld Bewerken"
+
+
+msgid "Edit Page"
+msgstr "Bewerk Pagina"
+
+
+msgid "Error"
+msgstr "Error"
+
+
+msgid "Field Validation"
+msgstr "Veldvalidatie"
+
+
+msgid "GDPR Settings"
+msgstr "GDPR-instellingen"
+
+
+msgid "General"
+msgstr "Algemeen"
+
+
+msgid "Go Home Page"
+msgstr "Ga naar Startpagina"
+
+
+msgid "If you enable it, then app will show a notification bar for cookie message"
+msgstr "Als u dit inschakelt, toont de app een meldingsbalk voor het cookiebericht"
+
+
+msgid "If you enable it, then site user or visitor can delete their account from their panel"
+msgstr "Als u dit inschakelt, kan de sitegebruiker of bezoeker zijn of haar account uit zijn paneel verwijderen"
+
+
+msgid "If you enable it, then site user or visitor can download their account data from their panel"
+msgstr "Als u dit inschakelt, kan de sitegebruiker of bezoeker zijn accountgegevens downloaden vanuit zijn panel"
+
+
+msgid "If you enable it, then when visitor click the privacy policy then that will be show in lighbox window"
+msgstr "Als je het inschakelt, dan wanneer de bezoeker op het privacybeleid klikt, wordt dat getoond in het lighbox-venster"
+
+
+msgid "If you enable this then it field show in All Ticket list as column in admin panel"
+msgstr "Als u dit inschakelt, wordt het veld weergegeven in de lijst Alle tickets als kolom in het beheerdersdashboard"
+
+
+msgid "In Form"
+msgstr "In vorm"
+
+
+msgid "Is Api Based"
+msgstr "Is Api gebaseerd"
+
+
+msgid "Is On Grid"
+msgstr "Is op het raster"
+
+
+msgid "It is the cookie bar background color"
+msgstr "Het is de achtergrondkleur van de cookiestaaf"
+
+
+msgid "It will control the opacity or background transparency of cookie bar background"
+msgstr "Hiermee wordt de dekking of transparantie van de achtergrond van de achtergrond van de cookiestaaf gecontroleerd"
+
+
+msgid "Locked"
+msgstr "Op slot"
+
+
+msgid "Locked(Hack)"
+msgstr "Locked (Hack)"
+
+
+msgid "Login Server"
+msgstr "Login server"
+
+
+msgid "Malicious Attempt on attached file. Attached file(s) has been skipped"
+msgstr "Schadelijke pogingen op bijgevoegd bestand. Bijgevoegde bestanden zijn overgeslagen"
+
+
+msgid "Manual"
+msgstr "Met de hand"
+
+
+msgid "New IP"
+msgstr "Nieuwe IP"
+
+
+msgid "New Page"
+msgstr "Nieuwe pagina"
+
+
+msgid "New Work Log"
+msgstr "Nieuw werklogboek"
+
+
+msgid "No work log founds"
+msgstr "Geen werklogboek gevonden"
+
+
+msgid "Normal"
+msgstr "normaal"
+
+
+msgid "Notifiy"
+msgstr "verwittigen"
+
+
+msgid "Numeric"
+msgstr "numerieke"
+
+
+msgid "On Submit Api Check"
+msgstr "Aanleveren Api-cheque"
+
+
+msgid "On Ticket Opening Form Category"
+msgstr "Op Ticket Opening Form Category"
+
+
+msgid "Others"
+msgstr "anderen"
+
+
+msgid "Page"
+msgstr "Pagina"
+
+
+msgid "Page Body"
+msgstr "Page Body"
+
+
+msgid "Pages"
+msgstr "Pages"
+
+
+msgid "Policy Page is required"
+msgstr "Beleidspagina is vereist"
+
+
+msgid "Published"
+msgstr "Gepubliceerd"
+
+
+msgid "Radio"
+msgstr "Radio"
+
+
+msgid "Read"
+msgstr "Lezen"
+
+
+msgid "Reset IP"
+msgstr "Reset IP"
+
+
+msgid "Select page"
+msgstr "Selecteer pagina"
+
+
+msgid "Show on Table Data List"
+msgstr "Show on Table Data List"
+
+
+msgid "Slag Title"
+msgstr "Slag-titel"
+
+
+msgid "Success"
+msgstr "Succes"
+
+
+msgid "Suspicious : Malicious attempt  on attached file: %s"
+msgstr "Verdacht: Schadelijke poging tot bijgevoegd bestand: %s"
+
+
+msgid "Suspicious: Malicious File Upload Attempts. If you tried to upload again then your ip will be blocked automatically"
+msgstr "Verdacht: Pogingen om kwaadwillige bestanden te uploaden. Als je opnieuw probeert te uploaden, wordt je ip automatisch geblokkeerd"
+
+
+msgid "Switch"
+msgstr "Schakelaar"
+
+
+msgid "Textbox"
+msgstr "Tekstvak"
+
+
+msgid "This key is already used in another site. contact support team"
+msgstr "Deze sleutel wordt al gebruikt op een andere site. contact op met het ondersteuningsteam"
+
+
+msgid "Ticket Id"
+msgstr "Ticket ID"
+
+
+msgid "Ticket Re-Open"
+msgstr "Heropend ticket"
+
+
+msgid "Ticket user has been data deleted"
+msgstr "Ticketgebruiker zijn data verwijderd"
+
+
+msgid "Undefined page"
+msgstr "Niet-gedefinieerde pagina"
+
+
+msgid "Unpublished"
+msgstr "onuitgegeven"
+
+
+msgid "View Cookie Notification Bar"
+msgstr "Bekijk de meldingsbalk voor cookies"
+
+
+msgid "View Page"
+msgstr "Bekijk pagina"
+
+
+msgid "View Policy In POP UP window(Lightbox)"
+msgstr "Bekijk beleid in POP UP-venster (Lightbox)"
+
+
+msgid "Viewed"
+msgstr "bekeken"
+
+
+msgid "Work Time"
+msgstr "Werktijd"
+
+
+msgid "Write %s for Policy Link and %s for only policy URL"
+msgstr "Schrijf %s voor beleidslink en %s voor alleen beleids-URL"
+
+
+msgid "Write {{PolicyLink}} for Policy Link and {{PolicyURL}} for only policy URL"
+msgstr "Schrijf {{PolicyLink}} voor beleidslink en {{PolicyURL}} voor alleen beleids-URL"
+
+
+msgid "You can create many page in page menu. Go to Admin Settings > Pages or %s"
+msgstr "U kunt veel pagina in paginamenu maken. Ga naar Beheerdersinstellingen> Pagina's of %s"
+
+
+msgid "You logged in using %s"
+msgstr "U bent ingelogd met %s"
+
+
+msgid "Disable Counter Icon"
+msgstr "Tellerpictogram uitschakelen"
+
+
+msgid "Disable Knowledge Like/Dislike Button"
+msgstr "Schakel de knop Like / Dislike Knowledge uit"
+
+
+msgid "Disable knowledge like and dislike button"
+msgstr "Schakel de knop 'Vind ik leuk en niet leuk' uit"
+
+
+msgid "Do Not Show Last Update Date"
+msgstr "Do not Show Last Update Date"
+
+
+msgid "Do Not Show Last Update Date on Knowledge Details"
+msgstr "Toon laatste datum van de update niet op kennisdetails"
+
+
+msgid "Do Not Show counter icon with knowledge"
+msgstr "Toon geen teller icoon met kennis"
+
+
+msgid "Do Not Show counter with knowledge"
+msgstr "Toon geen teller met kennis"
+
+
+msgid "If you enable this then it won't show the like or dislike button on knowledge details."
+msgstr "Als je dit inschakelt, zal het de like of dislike knop op kennisdetails niet tonen."
+
+
+msgid "If you enable this then, it won't show the last update date on knowledge details."
+msgstr "Als u dit inschakelt, wordt de laatste update datum niet weergegeven voor kennisdetails."
+
+
+msgid "If you enable this then, it won't show the view/rate counter."
+msgstr "Als u dit inschakelt, wordt de weergave / snelheidsteller niet weergegeven."
+
+
+msgid "Last Update Date"
+msgstr "Laatste update datum"
+
+
+msgid "Login Required, Please login"
+msgstr "Inloggen vereist, inloggen"
+
+
+msgid "OR"
+msgstr "OF"
+

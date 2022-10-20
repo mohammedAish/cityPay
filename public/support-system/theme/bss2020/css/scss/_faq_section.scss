@@ -1,0 +1,100 @@
+.faq-section{
+  background-color:  $section_color;
+  &.with-bg-img{
+    background-image: url("../images/bg-4.svg")
+  }
+
+  .faq-tab-container{
+    margin-top:30px;
+    ul.nav{
+
+      li{
+        a{
+          margin: 5px;
+          -webkit-transition:  all 0.5s ease;
+          -moz-transition:all 0.5s ease;
+          -ms-transition: all 0.5s ease;
+          -o-transition:all 0.5s ease;
+          transition: all 0.5s ease;
+
+          color : rgba($app_base_color,0.9);
+          border: 2px solid rgba(darken($app_base_color,50%),0.9);
+          background: #ffffff;
+          -webkit-border-radius: 50px;
+          -moz-border-radius: 50px;
+          border-radius: 50px;
+          &.active,&:hover{
+            color: #fff;
+            background-color: darken($app_base_color,5%);
+            border-color: darken($app_base_color,5%);
+          }
+        }
+      }
+    }
+    .tab-content{
+      margin-top: 75px;
+      font-family: "Open Sans";
+      font-weight:normal;
+      .faq-item{
+        margin-bottom: 15px;
+        .faq-qus{
+          position: relative;
+          padding: 15px 45px 15px 30px;
+
+          background: #FFFFFF;
+          border: 1px solid #D9E3CC;
+          box-sizing: border-box;
+          -webkit-border-top-left-radius: 5px;
+          -webkit-border-top-right-radius: 5px;
+          -moz-border-radius-topleft: 5px;
+          -moz-border-radius-topright: 5px;
+          border-top-left-radius: 5px;
+          border-top-right-radius: 5px;
+          display: block;
+          &::after{
+            transition: all 0.5s ease;
+            content: '\276F';
+            position: absolute;
+            right: 15px;
+            width: 30px;
+            height: 30px;
+            border: 1px solid rgba($app_main_color, 0.5);
+            background: rgba($app_main_color, 0.1);
+            color: darken($app_main_color, 50%);
+            -webkit-border-radius: 50%;
+            -moz-border-radius: 50%;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 28px;
+            top: 50%;
+            margin-top: -15px;
+            font-size: 15px;
+            transform: rotate(-90deg);
+          }
+          &.collapsed{
+            border-radius: 50px;
+            &::after{
+              transform: rotate(90deg);
+            }
+          }
+        }
+        .faq-ans {
+          padding: 15px 30px;
+            background: #FFFFFF;
+            border: 1px solid #D9E3CC;
+            box-sizing: border-box;
+            -webkit-border-bottom-right-radius: 5px;
+            -webkit-border-bottom-left-radius: 5px;
+            -moz-border-radius-bottomright: 5px;
+            -moz-border-radius-bottomleft: 5px;
+            border-bottom-right-radius: 5px;
+            border-bottom-left-radius: 5px;
+
+        }
+        .collapsed+.faq-ans {
+          display: none;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,149 @@
+[
+    {
+        "title": "English(US)",
+        "iso_code": "en_US",
+        "is_beta":false,
+        "is_rtl":false,
+        "active": true
+    },
+    {
+        "title": "German",
+        "iso_code": "de",
+        "is_beta":false,
+        "is_rtl":false,
+        "active": true
+    }
+    ,{
+        "title": "French",
+        "iso_code": "fr",
+        "is_beta":false,
+        "is_rtl":false,
+        "active": true
+    },
+    {
+        "title": "Danish(Denmark)",
+        "iso_code": "da_DK",
+        "is_beta":false,
+        "is_rtl":false,
+        "active": true
+    },
+    {
+        "title": "Turkish",
+        "iso_code": "tr",
+        "is_beta":false,
+        "is_rtl":false,
+        "active": true
+    },
+    {
+        "title": "Spanish",
+        "iso_code": "es",
+        "is_beta":true,
+        "is_rtl":false,
+        "active": true
+    },
+	 {
+        "title": "Spanish-Colombia",
+        "iso_code": "es",
+        "is_beta":false,
+        "is_rtl":false,
+        "active": true
+    },
+    {
+        "title": "Spanish (Colombia)",
+        "iso_code": "es_CO",
+        "is_beta": false,
+        "is_rtl": false,
+        "active": true
+    },
+    {
+        "title": "Portuguese",
+        "iso_code": "pt",
+        "is_beta":true,
+        "is_rtl":false,
+        "active": true
+    },
+    {
+        "title": "Brazilian Portuguese",
+        "iso_code": "pt_BR",
+        "is_beta": false,
+        "is_rtl": false,
+        "active": true
+    },
+    {
+        "title": "Russian",
+        "iso_code": "ru",
+        "is_beta": false,
+        "is_rtl": false,
+        "active": true
+    },
+    {
+        "title": "Russian (Russia)",
+        "iso_code": "ru_RU",
+        "is_beta": true,
+        "is_rtl": false,
+        "active": true
+    },
+    {
+        "title": "Indonesian",
+        "iso_code": "id",
+        "is_beta": false,
+        "is_rtl": false,
+        "active": true
+    },
+    {
+        "title": "Italian (Italy)",
+        "iso_code": "it_IT",
+        "is_beta": false,
+        "is_rtl": false,
+        "active": true
+    },
+    {
+        "title": "Japanese (Japan)",
+        "iso_code": "ja_JP",
+        "is_beta": false,
+        "is_rtl": false,
+        "active": true
+    },
+    {
+        "title": "Korean (Korea)",
+        "iso_code": "ko_KR",
+        "is_beta": false,
+        "is_rtl": false,
+        "active": true
+    },
+    {
+        "title": "Thai (Thailand)",
+        "iso_code": "th_TH",
+        "is_beta": false,
+        "is_rtl": false,
+        "active": true
+    },
+    {
+        "title": "Dutch (Netherlands)",
+        "iso_code": "nl_NL",
+        "is_beta": false,
+        "is_rtl": false,
+        "active": true
+    },
+    {
+        "title": "বাংলা",
+        "iso_code": "bn_BD",
+        "is_beta":false,
+        "is_rtl":false,
+        "active": true
+    },
+    {
+        "title": "हिंदी",
+        "iso_code": "hi",
+        "is_beta":true,
+        "is_rtl":false,
+        "active": true
+    },
+    {
+        "title": "Arabic",
+        "iso_code": "ar",
+        "is_beta":true,
+        "is_rtl":true,
+        "active": true
+    }
+]

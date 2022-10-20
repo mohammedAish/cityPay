@@ -1,0 +1,43 @@
+.article-container{
+
+    .article-box{
+      margin-bottom: 30px;
+      .art-title{
+        font-weight: 600;
+        font-size: 22px;
+        line-height: 27px;
+        color : $app_text_color;
+        border-bottom: 1px solid rgba(lighten($app_text_color,30%),0.3);
+        padding: 30px 0;
+      }
+      .art-list{
+        >ul{
+          margin: 0;
+          padding: 0;
+          >li {
+            list-style: none;
+            font-family: "Open Sans";
+            width: 100%;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+
+            a {
+              padding: 15px 0;
+              display: block;
+              color: $app_text_color;
+              text-decoration: none;
+              font-size: 14px;
+              &:hover{
+                color: lighten($app_text_color,10);
+              }
+              > i {
+                margin-right: 10px;
+              }
+            }
+          }
+        }
+      }
+    }
+
+}

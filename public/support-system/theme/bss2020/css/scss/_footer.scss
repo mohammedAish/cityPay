@@ -1,0 +1,49 @@
+footer{
+  background: $footer_bg_color;
+
+  &,*{
+    color:$footer_text_color;
+  }
+  a{
+    text-decoration: none;
+    color:$footer_text_color;
+  }
+  .copy-right-container{
+    margin-top: 50px;
+
+  }
+  .powered-by{
+       margin-top: 5px;
+     }
+  .powered-by,.copy-right-container{
+    text-align: center;
+    font-size: 12px;
+    &,p{
+      color:  rgba($footer_text_color,0.7);
+    }
+    a{
+      color:  rgba($footer_text_color,0.8);
+    }
+    >p{
+      margin: 0;
+
+    }
+  }
+  .footer-mod{
+    .mod-title{
+      font-family: Montserrat;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 16px;
+      line-height: 37px;
+      text-align: left !important;
+    }
+    .mod-links{
+      >a{
+        display: block;
+        text-decoration: none;
+        text-align: left;
+      }
+    }
+  }
+}

@@ -1,0 +1,5 @@
+/* error
+.get-margin (@prefix:"",@mtype:"",@counter:0) when (@counter <=40) {
+		ab: ~'"";}@{prefix}-@{counter}{margin-@{mtype}:@{counter}px;}'; 
+		.get-margin(@prefix,@mtype,@counter + 5);    // next iteration
+}*/

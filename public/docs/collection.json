@@ -1,0 +1,2109 @@
+{
+    "variables": [],
+    "info": {
+        "name": "Laravel API",
+        "_postman_id": "ea40220a-6adc-4618-a161-863ec091aa46",
+        "description": "",
+        "schema": "https:\/\/schema.getpostman.com\/json\/collection\/v2.0.0\/collection.json"
+    },
+    "item": [
+        {
+            "name": "Account",
+            "description": "",
+            "item": [
+                {
+                    "name": "register\n[\u062f\u0627\u0644\u0629 \u0627\u0644\u062a\u0633\u062c\u064a\u0644  .]",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/register",
+                            "query": []
+                        },
+                        "method": "POST",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{\n    \"first_name\": \"quos\",\n    \"last_name\": \"assumenda\",\n    \"email\": \"rerum\",\n    \"password\": \"minus\"\n}"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "\/get_profile_info\n\u0627\u0631\u062c\u0627\u0639 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u0644\u0639\u0645\u064a\u0644 .]",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/auth\/get_profile_info",
+                            "query": []
+                        },
+                        "method": "POST",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "\/update_info\n\u062a\u0639\u062f\u064a\u0644 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u0644\u0639\u0645\u064a\u0644 .]",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/auth\/update_profile",
+                            "query": []
+                        },
+                        "method": "POST",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{\n    \"first_name\": \"fugiat\",\n    \"last_name\": \"illo\",\n    \"phone\": \"cupiditate\",\n    \"whatsapp_acc\": \"nihil\",\n    \"facebook_acc\": \"excepturi\",\n    \"country_code\": 4,\n    \"birth_date\": \"dolor\",\n    \"gender\": \"sed\",\n    \"address\": \"est\"\n}"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "\/consultants\n[\u0627\u0631\u062c\u0627\u0639 \u0627\u0648\u0644 \u0634\u0627\u0634\u0629 \u0644\u0644\u062f\u0627\u0634\u0628\u0648\u0631\u062f \u0641\u064a\u0647\u0627 \u0627\u062c\u0645\u0627\u0644\u064a\u0627\u062a \u0639\u0646 \u0639\u062f\u062f \u0627\u0644\u062e\u062f\u0645\u0627\u062a - \u0627\u0644\u0643\u0648\u0631\u0633\u0627\u062a - \u0627\u0644\u0627\u0633\u062a\u0634\u0627\u0631\u0627\u062a -.",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/auth\/dashboard_info",
+                            "query": []
+                        },
+                        "method": "POST",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": ".  \u0627\u0644\u062e\u0627\u0635\u0629 \u0628\u0627\u0644\u0639\u0645\u064a\u0644 .]",
+                        "response": []
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Consulting",
+            "description": "",
+            "item": [
+                {
+                    "name": "\/consultants\n[\u0627\u0631\u062c\u0627\u0639 \u0627\u0644\u0627\u0633\u062a\u0634\u0627\u0631\u0627\u062a \u0645\u0639 \u0627\u0646\u0648\u0627\u0639\u0647\u0627 .]",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/consultants",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "\/consultants\/cat\/{cat_id}\n[\u0627\u0631\u062c\u0627\u0639 \u0627\u0644\u0627\u0633\u062a\u0634\u0627\u0631\u0627\u062a \u0644\u0645\u062c\u0645\u0648\u0639\u0647 \u0623\u0648 \u0641\u0626\u0629  .]",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/consultants\/cat\/:cat_id",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{\n    \"cat_id\": 19754095.2\n}"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "\/consultants\/{id?}\n[\u0627\u0631\u062c\u0627\u0639 \u0628\u064a\u0627\u0646\u0627\u062a \u0643\u0627\u0645\u0644\u0629 \u0644\u0627\u0633\u062a\u0634\u0627\u0631\u0629 \u0628\u0631\u0642\u0645\u0647\u0627  .]",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/consultants\/:id",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{\n    \"id\": 3329.93\n}"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Courses",
+            "description": "",
+            "item": [
+                {
+                    "name": "\/courses\n[\u0627\u0631\u062c\u0627\u0639 \u0627\u0644\u0643\u0648\u0631\u0633\u0627\u062a \u0627\u0644\u0645\u062a\u0648\u0641\u0631\u0629 \u0628\u0637\u0648\u0644 30 \u0639\u0646\u0635\u0631  .]",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/courses",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{\n    \"limit\": 149045.814167432,\n    \"last_id\": 9339\n}"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "\/courses\/cat\/{cat_id?}\n[\u0627\u0631\u062c\u0627\u0639 \u0627\u0644\u0643\u0648\u0631\u0633\u0627\u062a \u0627\u0644\u0645\u062a\u0648\u0641\u0631\u0629  \u062d\u0633\u0628 \u0641\u0626\u0629 \u0645\u0639\u064a\u0646\u0629 \u0628\u0637\u0648\u0644 30 \u0639\u0646\u0635\u0631  .]",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/courses\/cat\/:cat_id",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{\n    \"cat_id\": 250,\n    \"limit\": 4.098,\n    \"last_id\": 3.7421977\n}"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "\/courses\/{id?}\n[\u0627\u0631\u062c\u0627\u0639 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0643\u0648\u0631\u0633 \u0645\u0639\u064a\u0646  .]",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/courses\/:id",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{\n    \"id\": 605\n}"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                }
+            ]
+        },
+        {
+            "name": "DigitalCards",
+            "description": "",
+            "item": [
+                {
+                    "name": "\/list_card_categories\n[\u0627\u0631\u062c\u0627\u0639 \u0642\u0627\u0626\u0645\u0629 \u0628\u0627\u0644\u0645\u062c\u0645\u0648\u0639\u0627\u062a \u0644\u0644\u0644\u0643\u0631\u0648\u062a \u0627\u0644\u0631\u0642\u0645\u064a\u0629  .]",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/list_card_categories",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "\/list_providers_category\/{cat_id}\n[\u0627\u0631\u062c\u0627\u0639 \u0642\u0627\u0626\u0645\u0629 \u0627\u0644\u0645\u0632\u0648\u062f\u064a\u0646(\u0627\u0644\u0645\u0646\u062a\u062c\u064a\u0646 \u0644\u0644\u0643\u0631\u0648\u062a) \u0628\u0631\u0642\u0645 \u0627\u0644\u0645\u062c\u0645\u0648\u0639\u0629  .]",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/list_providers_category\/:cat_id",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{\n    \"cat_id\": 2016\n}"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "\/list_stores_provider\/{provider_id}\n[\u0627\u0631\u062c\u0627\u0639 \u0642\u0627\u0626\u0645\u0629 \u0627\u0644\u0645\u062a\u0627\u062c\u0631 \u0644\u0645\u0632\u0648\u062f \u0645\u0639\u064a\u0646 \u0628\u0631\u0642\u0645 \u0627\u0644\u0645\u0632\u0648\u062f \u0641\u0627\u0646 \u0644\u0645 \u062a\u0631\u062c\u0639 \u0627\u0644\u0645\u062a\u0627\u062c\u0631 \u0633\u062a\u0631\u062c\u0639 \u0645\u0628\u0627\u0634\u0631\u0629 \u0627\u0644\u0641\u0626\u0627\u062a \u0627\u0644\u0645\u062a\u0648\u0641\u0631\u0629  \u0644\u0647\u0630\u0627 \u0627\u0644\u0645\u0632\u0648\u062f .]",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/list_stores_provider\/:provider_id",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{\n    \"provider_id\": 56631.1\n}"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "\/list_packages\/{provider_id}\/{store_id?}\n[\u0627\u0631\u062c\u0627\u0639 \u0642\u0627\u0626\u0645\u0629 \u0627\u0644\u0641\u0626\u0627\u062a \u0627\u0644\u0645\u062a\u0648\u0641\u0631\u0629  \u0644\u0647\u0630\u0627 \u0627\u0644\u0645\u0632\u0648\u062f \u0641\u064a \u0645\u062a\u062c\u0631 \u0645\u0639\u064a\u0646 \u0627\u0648 \u0641\u064a \u0627\u0644\u0645\u062a\u062c\u0631 \u0627\u0644\u0627\u0641\u062a\u0631\u0627\u0636\u064a .]",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/list_packages\/:provider_id\/:store_id",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{\n    \"provider_id\": 1.6,\n    \"store_id\": 65575\n}"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "\/check_d_card_id\/{digital_card_id}\n[\u0644\u0641\u062d\u0635 \u0645\u062e\u0632\u0648\u0646 \u0627\u0644\u0643\u0631\u0648\u062a \u0639\u0646 \u0647\u0630\u0627 \u0627\u0644\u0643\u0631\u062a \u0647\u0644 \u0645\u062a\u0648\u0641\u0631 \u0627\u0645 \u0644\u0627  .]",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/check_d_card_id\/:d_card_id",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{\n    \"digital_card_id\": 76674353.88\n}"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "\/store_digital_card_order\n[\u0627\u0643\u0645\u0627\u0627\u0627\u0627\u0627\u0627\u0627\u0644 \u0639\u0645\u0644\u064a\u0629 \u0634\u0631\u0627\u0621 \u0643\u0631\u062a \u0631\u0642\u0645\u064a \u0645\u0639\u064a\u0646  .]",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/store_digital_card_order",
+                            "query": []
+                        },
+                        "method": "POST",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{\n    \"digital_card_id\": 25261878.8458,\n    \"package_id\": 0,\n    \"qty\": 95.33\n}"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                }
+            ]
+        },
+        {
+            "name": "HomeSite",
+            "description": "",
+            "item": [
+                {
+                    "name": "home_site_data\n[\u0627\u0631\u062c\u0627\u0639  \u0643\u0644 \u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0635\u0641\u062d\u0629 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629    .]",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/home_site_data",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "about_us\n[\u0627\u0631\u062c\u0627\u0639 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u062d\u0648\u0644 \u0627\u0644\u0634\u0631\u0643\u0629  .]",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/about_us",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "privacy_policy\n[\u0627\u0631\u062c\u0627\u0639 \u0627\u0644\u062e\u0635\u0648\u0635\u064a\u0629  .]",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/privacy_policy",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "access_policy\n[\u0627\u0631\u062c\u0627\u0639 \u0634\u0631\u0648\u0637 \u0627\u0644\u0627\u0633\u062a\u062e\u062f\u0627\u0645  .]",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/access_policy",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "contact_us\n[\u0627\u0631\u062c\u0627\u0639 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u0644\u062a\u0648\u0627\u0635\u0644  .]",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/contact_us",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "get_all_news\n[\u0627\u0631\u062c\u0627\u0639 \u0642\u0627\u0626\u0645\u0629 \u0627\u0644\u0623\u062e\u0628\u0627\u0631  .]",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/get_all_news",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "show_news\/{id}\n[\u0627\u0631\u062c\u0627\u0639  \u062e\u0628\u0631 \u0628\u0639\u064a\u0646\u0647  .]",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/show_news\/:id",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{\n    \"id\": 6\n}"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "list_blog\n[\u0627\u0631\u062c\u0627\u0639 \u062c\u0645\u064a\u0639 \u0627\u0644\u0645\u0642\u0627\u0644\u0627\u062a \u0645\u0639 \u0641\u0626\u0627\u062a\u0647\u0627  .]",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/list_blog",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "blog_category\/1\n[\u0627\u0631\u062c\u0627\u0639 \u0645\u0642\u0627\u0644\u0627\u062a \u0645\u062f\u0648\u0646\u0629 \u0644\u0645\u062c\u0645\u0648\u0639\u0629 \u0645\u0639\u064a\u0646\u0629  .]",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/blog_category\/:cat_id",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "get_site_setting\n[\u0627\u0631\u062c\u0627\u0639 \u0627\u0639\u062f\u0627\u062f\u0627\u062a \u0648\u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0633\u0627\u064a\u062a \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629   .]",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/get_site_setting",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "get_site_slides\n[\u0627\u0631\u062c\u0627\u0639  \u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0633\u0644\u0627\u064a\u062f\u0632   .]",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/get_site_slides",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Wallet_deposit",
+            "description": "",
+            "item": [
+                {
+                    "name": "\/list_agencies_by_country{country_id}\n[\u0627\u0631\u062c\u0627\u0639 \u0642\u0627\u0626\u0645\u0629 \u0628\u0642\u0627\u0626\u0645\u0629 \u0648\u0643\u0627\u0644\u0627\u062a \u0627\u0644\u0627\u064a\u062f\u0627\u0639 \u0644\u062f\u0648\u0644\u0629 \u0645\u0639\u064a\u0646\u0629 \u0637\u0644\u0628 \u0627\u064a\u062f\u0627\u0639  .]",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/wallet\/list_agencies_by_country\/:country_id",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{\n    \"country_id\": 22982.35885131\n}"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "\/list_deposit_countries\n[\u0627\u0631\u062c\u0627\u0639 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0644\u0627\u0632\u0645\u0629 \u0644\u0639\u0645\u0644\u064a\u0629 \u0627\u0644\u0627\u064a\u062f\u0627\u0639 - \u0645\u0646\u0647\u0627 \u0642\u0627\u0626\u0645\u0629 \u0627\u0644\u0648\u0643\u0627\u0644\u0627\u062a -\u062a\u0639\u0644\u064a\u0645\u0627\u062a \u0627\u0644\u0639\u0645\u0644\u064a\u0629 .]",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/wallet\/deposit",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "\/list_deposit_type_by_agency\/{agency_id}\n[\u0627\u0631\u062c\u0627\u0639 \u0637\u0631\u0642 \u0627\u0644\u062f\u0641\u0639 \u0644\u0648\u0643\u0627\u0644\u0629 \u0645\u0639\u064a\u0646\u0629\u062a\u0645 \u0627\u062e\u062a\u064a\u0627\u0631\u0647\u0627 \u0637\u0644\u0628 \u0627\u064a\u062f\u0627\u0639  .]",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/wallet\/list_deposit_type_by_agency\/:agency_id",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{\n    \"agency_id\": 0.920527718\n}"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "\/confirm_deposit_order\n[\u0627\u0643\u0645\u0627\u0644 \u0639\u0645\u0644\u064a\u0629 \u0637\u0644\u0628 \u0627\u0644\u0627\u064a\u062f\u0627\u0639  .]",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/wallet\/confirm_deposit_order",
+                            "query": []
+                        },
+                        "method": "POST",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{\n    \"country_id\": 32.3249647,\n    \"agency_id\": 312865.502,\n    \"deposit_type\": 56.39035769,\n    \"deposit_file\": 114.623907858,\n    \"deposit_date\": \"alias\"\n}"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Wallet_transfer_withdraw",
+            "description": "",
+            "item": [
+                {
+                    "name": "\/list_receiving_countries\n[\u0627\u0631\u062c\u0627\u0639 \u0642\u0627\u0626\u0645\u0629 \u0627\u0644\u062f\u0648\u0644 \u0644\u0639\u0645\u0644\u064a\u0629 \u0637\u0644\u0628 \u062a\u062d\u0648\u064a\u0644 -\u0633\u062d\u0628 first .]",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/wallet\/transfer",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "\/choose_receive_type\n[\u0627\u0631\u062c\u0627\u0639 \u0627\u0644\u0637\u0631\u064a\u0642\u0629 \u0627\u0644\u0645\u0631\u0627\u062f\u0629 \u0641\u064a \u0639\u0645\u0644\u064a\u0629 \u0627\u0644\u0627\u0633\u062a\u0644\u0627\u0645 -\u0633\u062d\u0628 second .]",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/wallet\/choose_receive_type",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "\/list_receiving_agencies_by_c_type\/{country_id?}\/{trans_type?}\n[\u0627\u0631\u062c\u0627\u0639 \u0648\u0643\u0627\u0644\u0627\u062a \u0627\u0644\u0627\u0633\u062a\u0644\u0627\u0645 \u0627\u0644\u0645\u062a\u0648\u0641\u0631\u0629 \u0628\u0646\u0627\u0621 \u0639\u0644\u0649 \u0631\u0642\u0645 \u0627\u0644\u062f\u0648\u0644\u0629 \u0648\u0646\u0648\u0639 \u0637\u0631\u064a\u0642\u0629 \u0627\u0644\u0627\u0633\u062a\u0644\u0627\u0645 -\u0633\u062d\u0628 third .]",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/wallet\/list_receiving_agencies_by_c_type\/:country_id\/:trans_type",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{\n    \"country_id\": 8.4,\n    \"trans_type\": 6.53\n}"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                }
+            ]
+        },
+        {
+            "name": "general",
+            "description": "",
+            "item": [
+                {
+                    "name": "Get a JWT via given credentials.",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/auth\/login",
+                            "query": []
+                        },
+                        "method": "POST",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "api\/get_countries",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/get_countries",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "api\/get_languages",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/get_languages",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "api\/get_parent_services",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/get_parent_services",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "Log the user out (Invalidate the token).",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/auth\/logout",
+                            "query": []
+                        },
+                        "method": "POST",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "Refresh a token.",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/auth\/refresh",
+                            "query": []
+                        },
+                        "method": "POST",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "fgajsdgfajsdhfgasjhdfgasjdf",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "Get the authenticated User.",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/auth\/me",
+                            "query": []
+                        },
+                        "method": "POST",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "api\/wallet\/list_deposit_orders",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/wallet\/list_deposit_orders",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "api\/wallet\/confirm_transfer",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/wallet\/confirm_transfer",
+                            "query": []
+                        },
+                        "method": "POST",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "show a list of transferOrders",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/wallet\/transfer_orders",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "\u0644\u0639\u0631\u0636 \u0627\u0644\u062d\u0633\u0627\u0628\u0627\u062a \u0627\u0644\u0645\u0627\u0644\u064a\u0629 \u0644\u0644\u0639\u0645\u064a\u0644 \u0644\u0627\u062e\u062a\u064a\u0627\u0631 \u0627\u062d\u062f\u0647\u0627 \u0641\u064a \u0637\u0644\u0628 \u0627\u0644\u0633\u062d\u0628",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/wallet\/list_finance_accounts",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "api\/wallet\/withdraw_orders",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/wallet\/withdraw_orders",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "\u0644\u0639\u0631\u0636 \u0627\u0644\u062d\u0633\u0627\u0628\u0627\u062a \u0627\u0644\u0645\u0627\u0644\u064a\u0629 \u0644\u0644\u0639\u0645\u064a\u0644 \u0644\u0627\u062e\u062a\u064a\u0627\u0631 \u0627\u062d\u062f\u0647\u0627 \u0641\u064a \u0637\u0644\u0628 \u0627\u0644\u0633\u062d\u0628",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/wallet\/init_withdraw",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "api\/wallet\/withdraw_percent\/{amount?}\/{agency_id?}",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/wallet\/withdraw_percent\/:amount\/:agency_id",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "will confirm the internal withdraw order as once\n@@bodyParam  agency_id int required\n@@bodyParam  amount int required\n@@bodyParam  currency_id int required",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/wallet\/confirm_withdraw_order",
+                            "query": []
+                        },
+                        "method": "POST",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "api\/wallet\/freelancing",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/wallet\/freelancing",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "\u0644\u0639\u0631\u0636 \u0628\u0648\u0627\u0628\u0627\u062a \u0627\u0644\u062f\u0641\u0639 \u0627\u0644\u062a\u064a \u062a\u062a\u0648\u0641\u0631 \u0641\u064a \u0647\u0630\u0629 \u0627\u0644\u0645\u0646\u0635\u0629 \u0627\u0644\u0645\u062e\u062a\u0627\u0631\u0629",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/wallet\/get_payment_gateways_platform\/:platform_id",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "will confirm the pulling order as once",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/wallet\/confirm_pull_earning",
+                            "query": []
+                        },
+                        "method": "POST",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "api\/wallet\/paying_order",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/wallet\/paying_order",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "api\/wallet\/confirm_paying",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/wallet\/confirm_paying",
+                            "query": []
+                        },
+                        "method": "POST",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "api\/wallet\/list_paying_orders",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/wallet\/list_paying_orders",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "api\/list_d_c_orders",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/list_d_c_orders",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "api\/list_trading_agencies",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/list_trading_agencies",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "api\/list_trading_services",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/list_trading_services",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "api\/list_my_subscriptions_services",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/list_my_subscriptions_services",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "api\/subscription_order",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/subscription_order",
+                            "query": []
+                        },
+                        "method": "POST",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "api\/create_agency_account",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/create_agency_account",
+                            "query": []
+                        },
+                        "method": "POST",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "api\/list_my_agencies_accounts",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/list_my_agencies_accounts",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "api\/list_trading_service_ops",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/list_trading_service_ops",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "api\/transfer_op_points",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/transfer_op_points",
+                            "query": []
+                        },
+                        "method": "POST",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "api\/list_alive_broadcasting",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/list_alive_broadcasting",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "api\/coming_live_trading",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/coming_live_trading",
+                            "query": []
+                        },
+                        "method": "POST",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "api\/rate_live_broadcast",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/rate_live_broadcast",
+                            "query": []
+                        },
+                        "method": "POST",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "api\/list_my_live_subscriptions",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/list_my_live_subscriptions",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "api\/show_live_info\/{live_id?}",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/show_live_info\/:live_id",
+                            "query": []
+                        },
+                        "method": "GET",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "[]"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                }
+            ]
+        },
+        {
+            "name": "orders",
+            "description": "",
+            "item": [
+                {
+                    "name": "order_consultant\n\u0639\u0645\u0644\u064a\u0629 \u0634\u0631\u0627\u0621 \u0643\u0648\u0631\u0633",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/order_course",
+                            "query": []
+                        },
+                        "method": "POST",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{\n    \"course_id\": 120512334.51182\n}"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "order_consultant\n\u0639\u0645\u0644\u064a\u0629 \u0637\u0644\u0628 \u0627\u0633\u062a\u0634\u0627\u0631\u0629",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/order_consultant",
+                            "query": []
+                        },
+                        "method": "POST",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{\n    \"consultant_id\": 4427033.12\n}"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "checkout_consultant",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/checkout_consultant",
+                            "query": []
+                        },
+                        "method": "POST",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{\n    \"consultant_order_id\": 2.13059\n}"
+                        },
+                        "description": "[ \u0627\u0643\u0645\u0627\u0644 \u0639\u0645\u0644\u064a\u0629 \u0637\u0644\u0628 \u0627\u0633\u062a\u0634\u0627\u0631\u0629 .]\n    [\u0628\u0639\u062f\u0647\u0627 \u0647\u0648 \u064a\u0642\u0648\u0645 \u0628\u0639\u0645\u0644 \u0627\u0643\u0645\u0627\u0644 \u0627\u0644\u0637\u0644\u0628 \u0648\u0630\u0644\u0643 \u0628\u0637\u0631\u064a\u0642\u062a\u064a\u0646\n   [\u0627\u0630\u0627 \u0643\u0627\u0646 \u0645\u063a\u0647 \u0631\u0635\u064a\u062f \u0641\u064a \u0627\u0644\u0645\u062d\u0641\u0638\u0629 \u064a\u0642\u0648\u0645 \u0628\u0627\u0643\u0645\u0627\u0644 \u0627\u0644\u0637\u0644\u0628",
+                        "response": []
+                    }
+                },
+                {
+                    "name": "\/order_digital_card\n[     * \u0627\u0643\u0645\u0627\u0644 \u0639\u0645\u0644\u064a\u0629 \u0634\u0631\u0627\u0621 \u0643\u0631\u062a \u0631\u0642\u0645\u064a  - \u064a\u062c\u0628 \u0627\u0646 \u0644\u0627 \u062a\u0632\u064a\u062f \u0643\u0645\u064a\u0629 \u0623\u064a \u0643\u0631\u062a \u0639\u0646 \u0648\u0627\u062d\u062f \u0648\u0628\u0627\u0644\u0627\u0645\u0643\u0627\u0646 \u0634\u0631\u0627\u0621 \u0627\u0643\u062b\u0631 \u0645\u0646 \u0643\u0631\u062a \u0631\u0642\u0645\u064a \u0641\u064a \u0639\u0645\u0644\u064a\u0629 \u0648\u0627\u062d\u062f\u0629.]",
+                    "request": {
+                        "url": {
+                            "protocol": "https",
+                            "host": "demo.ytadawul.com\/",
+                            "path": "api\/order_digital_card",
+                            "query": []
+                        },
+                        "method": "POST",
+                        "header": [
+                            {
+                                "key": "Content-Type",
+                                "value": "application\/json"
+                            },
+                            {
+                                "key": "Accept",
+                                "value": "application\/json"
+                            }
+                        ],
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{\n    \"deposit_date\": {\n        \"id\": \"eos\"\n    }\n}"
+                        },
+                        "description": "",
+                        "response": []
+                    }
+                }
+            ]
+        }
+    ]
+}

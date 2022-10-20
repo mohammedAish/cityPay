@@ -1,0 +1,9 @@
+<?php
+$chatType=Mapp_setting_api::GetSettingsValue("webchat","app_chat_type","");
+if($chatType=="F"){
+    $this->load->view("modules/fbchat");
+}elseif($chatType=="B"){
+    $this->load->view("modules/default_chat");
+}elseif($chatType=="P"){
+    $this->load->view("modules/default_chat");
+}

@@ -1,0 +1,63 @@
+@media screen and (max-width: 767px){
+    .theme-purple .header-box,
+    .theme-purple .color-switcher .toggle-button{
+        background-color: #4b2b86;
+    }
+}
+.theme-purple .wallet-area-warpper{
+    background-color: #4b2b8610;
+}
+.theme-purple .wallet-top-header,
+.theme-purple .transfer-coin-btn a.active, 
+.theme-purple .transfer-coin-btn a:hover,
+.theme-purple .theme-btn,
+.theme-purple .edit-images .edit-label,
+.theme-purple .notification-dropdown .notification-footer a,
+.theme-purple .wallet-transaction-box .wallet-transaction-ico,
+.theme-purple .theme-color-swith input:checked + .slider {
+    background-color: #4b2b86;
+}
+.theme-purple .theme-btn{
+    border-color: #4b2b86;
+}
+.theme-purple .header-logo,
+.theme-purple .transfer-coin-btn a {
+    background-color: #6747a1;
+}
+.theme-purple .wallet-top-header-box .header-wallet-ico,
+.theme-purple .wallet-top-header-box h3 {
+    color: #fff !important;
+}
+.theme-purple .wallet-top-header-right .notification-box-area .notification-box .notification-active {
+    background-color: #fff;
+}
+.theme-purple .color-switcher .color-theme-menu h4,
+.theme-purple .wallet-bradcrumb h2,
+.theme-purple .header-nav-menu ul li.active > a, 
+.theme-purple .header-nav-menu ul li a:hover,
+.theme-purple .dashboard-title,
+.theme-purple .wallet-balance-box .wallet-balance-name h3, 
+.theme-purple .wallet-balance-box .wallet-balance-amount h3,
+.theme-purple .wallet-transaction-box .wallet-transaction-name h3, 
+.theme-purple .wallet-transaction-balance h3,
+.theme-purple .theme-input-box label,
+.theme-purple .notification-header h3,
+.theme-purple .wallet-top-header-box.user-top-detail ul li a,
+.theme-purple .wallet-language-box .dropdown-menu li > a{
+    color: #4b2b86;
+}
+.theme-purple .wallet-balance-area .wallet-balance-box h3{
+    color: #222;
+}
+.theme-purple .header-nav-menu ul li.active{
+    border-left-color: #4b2b86;
+}
+.theme-purple .header-nav-menu ul li a {
+    color: #a38dca;
+}
+.theme-purple .apexcharts-series path {
+    fill: #4b2b86 !important;
+}
+.theme-purple .apexcharts-series path{
+    stroke: #6747a1 !important;
+}

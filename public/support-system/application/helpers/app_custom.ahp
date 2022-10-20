@@ -1,0 +1,2174 @@
+<?php
+	/**
+	 * Create Date: Aug 9, 2016 11:46:43 AM
+	 */
+	if (! function_exists ( 'load_app_js_css' )) {
+		/**
+		 *
+		 * @param CI_Controller $ci
+		 */
+		function load_app_js_css(&$ci = null)
+		{
+			$appversion = "1.5";
+			if (!$ci) {
+				$ci = get_instance();
+				$appversion = $ci->config->item("app_version");
+			}
+			add_js(base_url("common-script/js?v={$appversion}"),1,false);
+			if(ENVIRONMENT=="development") {
+				$ci->load->js("js/custom-app-script.js?v={$appversion}", 11);
+			}else{
+				$ci->load->js("js/custom-app-script.min.js?v={$appversion}", 11);
+			}
+			/* switch btn */
+			$ci->load->js("plugins/switch-btn/js/bootstrap-checkbox.min.js");
+			
+			add_css("plugins/bootstrap-material/css/material-all-css.css");
+			
+			add_js("plugins/bootstrap-material/js/material.js");
+			add_js("plugins/bootstrap-material/js/ripples.min.js");
+			add_js("plugins/bootstrap-material/js/marerial-init.js");
+			add_js("js/numbertotext.js");
+			add_css("plugins/bootstrap-dropdown/css/bootstrap-dropmenu.min.css");
+			
+			add_css("plugins/tooltipster/css/tooltipster.bundle.min.css");
+			add_css("plugins/tooltipster/css/plugins/tooltipster/sideTip/themes/borderless.min.css");
+			add_js("plugins/tooltipster/js/tooltipster.bundle.min.js");
+			
+			//color picker
+			add_css("plugins/colorpicker/css/bootstrap-colorpicker.min.css");
+			add_js("plugins/colorpicker/js/bootstrap-colorpicker.min.js");
+			
+			add_js("js/jquery.maskedinput-1.6.min.js");
+			add_js("js/Masking.js");
+			//nicescroll
+			add_js("plugins/nicescroll/jquery.nicescroll.min.js");
+			add_js("plugins/quicksearch/jquery.quicksearch.min.js");
+			add_js("plugins/slimScroll/jquery.slimscroll.min.js");
+			//clipboard
+			add_js("plugins/clipboard/clipboard.min.js");
+			add_js("plugins/clipboard/init.js");
+			
+			
+			//add_js("https://www.google.com/recaptcha/api.js");
+			$captchatype = Mapp_setting::GetSettingsValue("app_captcha", "D");
+			if ($captchatype == "G") {
+				$secrate_key = Mapp_setting::GetSettingsValue("app_gc_secret", "");
+				$site_key = Mapp_setting::GetSettingsValue("app_gc_site_key", "");
+				if (!empty($secrate_key) && !empty($site_key)) {
+					add_js("//www.google.com/recaptcha/api.js?onload=recaptchaCall&render=explicit", "google-recaptcha", true);
+				}
+				
+			}
+			add_css("css/app-custom.css",99);
+			//add_js("js/color.js");
+			$panel = get_panel_by_dir();
+			if ($panel == "C" || empty($panel)) {
+				add_js("plugins/select2/js/select2.js");
+				add_css("css/user-custom.css",100,true);
+				add_js("js/user-custom.js",100,true);
+				if(Mapp_setting_api::GetSettingsValue("webchat","wc_is_active")=="Y"){
+					//appsbd chat
+					if(ENVIRONMENT=="development"){
+						add_css("plugins/apsbd-chat/css/appsbd-chat.css");
+						add_js("plugins/apsbd-chat/js/appsbd-chat.js");
+					}else{
+						add_css("plugins/apsbd-chat/css/appsbd-chat.css");
+						add_js("plugins/apsbd-chat/js/appsbd-chat.min.js");
+					}
+					
+					AddModule("chat",APP_Output::MODULE_PAGE_FOOTER);
+				}
+				if(Mapp_setting_api::GetSettingsValue("gana","is_ga_active","N")=="Y") {
+					AddModule("ganalyitics",APP_Output::MODULE_PAGE_FOOTER);
+				}
+				
+			}
+			
+			
+		}
+	}
+	if (! function_exists ( 'get_panel_by_dir' )) {
+		/**
+		 *
+		 * @param CI_Controller $ci
+		 */
+		function get_panel_by_dir() {
+			$ci = get_instance ();
+			$dir = strtolower ( rtrim ( $ci->router->directory, '/' ) );
+			$dirarray = array (
+				"admin" => "A",
+				"root" => "R",
+				"agent" => "G",
+				"staff" => "S",
+				"member" => "M",
+				"alluser" => "*",
+				"client"=>"C",
+				"api"=>"P"
+			);
+			if (isset ( $dirarray [$dir] )) {
+				return $dirarray [$dir];
+			} else {
+				return "C";
+			}
+		}
+	}
+	
+	if (! function_exists ( 'getSwithButton' )) {
+		/**
+		 *
+		 * @param CI_Controller $ci
+		 */
+		function getSwithButton($title, $name, $currentValue, $defaultVelue = "N", $checkeValue = "Y", $isRequired = true) {
+			?>
+			<input type="hidden" name="property_id[<?php echo $name; ?>]"
+			       value="<?php echo $defaultVelue;?>" />
+			<input type="checkbox" name="property_id[<?php echo $name; ?>]"
+			       value="Y" id="tt"
+				<?php echo $currentValue == $checkeValue ? "checked" : ""?>
+				   class="form-control  app-switch-btn pull-right"
+				<?php if($isRequired){?> data-bv-notempty="true"
+					data-bv-notempty-message="<?php echo $title; ?> is required" <?php }?>>
+			<?php
+		}
+	}
+	if (! function_exists ( "app_add_month" )) {
+		function app_add_month($addmonth, $timestamp = null) {
+			if (! $timestamp) {
+				$timestamp = time ();
+			}
+			$sec = date ( 's', $timestamp );
+			$min = date ( 'i', $timestamp );
+			$hr = date ( 'H', $timestamp );
+			
+			$day = date ( 'd', $timestamp );
+			$month = date ( 'm', $timestamp );
+			$year = date ( 'Y', $timestamp );
+			$nextMonth = $month + $addmonth;
+			if ($nextMonth > 12) {
+				$addyr = ( int ) ($nextMonth / 12);
+				$nextMonth = $nextMonth % 12;
+				$year += $addyr;
+			}
+			$nextDate = mktime ( 0, 0, 0, $nextMonth, 1, $year );
+			$totalDay = date ( "t", $nextDate );
+			if ($totalDay >= $day) {
+				return mktime ( $hr, $min, $sec, $nextMonth, $day, $year );
+			} else {
+				return mktime ( $hr, $min, $sec, $nextMonth, $totalDay, $year );
+			}
+		}
+	}
+	if (! function_exists ( "get_timezonetime" )) {
+		function get_timezonetime($timezone, $timestr = '', $format = '') {
+			try {
+				$apptimezone = date_default_timezone_get ();
+				// echo $timezone;
+				if (! empty ( $timestr )) {
+					$date = new DateTime ( $timestr, new DateTimeZone ( $apptimezone ) );
+				} else {
+					$date = new DateTime ();
+				}
+				if (strtoupper ( $apptimezone ) != strtolower ( $timezone )) {
+					$date->setTimezone ( new DateTimeZone ( $timezone ) );
+				}
+				if (! empty ( $format )) {
+					return $date->format ( $format );
+				} else {
+					return $date->getTimestamp ();
+				}
+			} catch ( Exception $e ) {
+				return $e->getMessage ();
+			}
+		}
+	}
+	if (! function_exists ( "get_current_user_timezone" )) {
+		function get_current_user_timezone() {
+			$type=GetCurrentUserType();
+			if($type=="AD"){
+				$adminrData=GetAdminData();
+				$timezone=empty($adminrData->timezone)?date_default_timezone_get ():$adminrData->timezone;
+			}elseif($type=="CU"){
+				$userData=GetUserData();
+				$timezone=$userData->timezone;
+			}else{
+				$timezone=Mapp_setting::GetTimeZoneSession();
+			}
+			if(empty($timezone)){
+				$timezone=date_default_timezone_get();
+			}
+			return $timezone;
+		}
+	}
+	
+	if (! function_exists ( "get_current_user_timezonetime" )) {
+		function get_current_user_timezonetime($timestr = '', $format = '') {
+			if(empty($timestr)){
+				$timestr=date('Y-m-d H:i:s');
+			}
+			$timezone=get_current_user_timezone();
+			if (! is_string ( $timestr )) {
+				return "";
+			}
+			if(empty($timezone)){
+				$timezone=date_default_timezone_get();
+			}
+			return get_timezonetime ( $timezone, $timestr, $format );
+		}
+	}
+	if ( ! function_exists('_app_n_new_session'))
+	{
+		function _app_n_new_session($isForce=false)
+		{
+			session_regenerate_id(true);
+		}
+	}
+	if ( ! function_exists('__is_server_requirement_ok'))
+	{
+		function __is_server_requirement_ok($isForce=false)
+		{
+			$items=get_version_details();
+			$isOk=true;
+			foreach ($items as $item){
+				if(!$item->status){
+					$isOk=false;
+				}
+			}
+			return $isOk;
+		}
+	}
+	if ( ! function_exists('get_version_details'))
+	{
+		function get_version_details(){
+			$missing= '<span class="text-red">Missing</span>';
+			$requirements=[];
+			$phpversion=phpversion();
+			$php=new stdClass();
+			$php->name="PHP Version";
+			$php->required_str="&#8805; 5.3";
+			$php->system_str=$phpversion;
+			$php->status=version_compare($phpversion, "5.3",">=");
+			$php->status_text=$php->status?'<span class="label label-success">Passed</span>':'<span class="label label-danger">Failed</span>';
+			$requirements[]=$php;
+			
+			
+			$mysql=new stdClass();
+			$mysql->name="MySQLi Module";
+			$mysql->required_str="&#8805; 0.1";
+			$mysql->status=extension_loaded("mysqli");
+			$mysql->status_text=$mysql->status?'<span class="label label-success">Passed</span>':'<span class="label label-danger">Failed</span>';
+			$mysql->system_str=$mysql->status?phpversion("mysqli"):$missing;
+			$requirements[]=$mysql;
+			$cversion=curl_version();
+			$curl=new stdClass();
+			$curl->name="Curl Module";
+			$curl->required_str="Any";
+			$curl->status=extension_loaded("curl");
+			$curl->status_text=$curl->status?'<span class="label label-success">Passed</span>':'<span class="label label-danger">Failed</span>';
+			$curl->system_str=$curl->status?$cversion['version']:$missing;
+			$requirements[]=$curl;
+			
+			$openssl=new stdClass();
+			$openssl->name="Openssl Module";
+			$openssl->required_str="&#8805; 1.0";
+			$openssl->status=extension_loaded("openssl");
+			$openssl->status_text=$openssl->status?'<span class="label label-success">Passed</span>':'<span class="label label-danger">Failed</span>';
+			$openssl->system_str=$openssl->status?OPENSSL_VERSION_TEXT:"-";
+			$requirements[]=$openssl;
+			
+			$reqm=new stdClass();
+			$reqm->name="Zip Module";
+			$reqm->required_str="Any";
+			$reqm->status=extension_loaded("zip");
+			$reqm->status_text=$reqm->status?'<span class="label label-success">Passed</span>':'<span class="label label-danger">Failed</span>';
+			$reqm->system_str=$reqm->status?phpversion("zip"):$missing;
+			$requirements[]=$reqm;
+			return $requirements;
+		}
+	}
+	if (! function_exists ( "get_user_datetime_default_format" )) {
+		/**
+		 * To Get user datatime
+		 * @param string $timestr
+		 * @return string
+		 */
+		function get_user_datetime_default_format($timestr = '') {
+			return get_current_user_timezonetime($timestr,get_current_user_default_date_format()." ".get_current_user_default_time_format());
+		}
+	}
+	if (! function_exists ( "change_log_formater" )) {
+		function change_log_formater($string = '') {
+			$chlog=explode("\n", $string);
+			$finalChangeLog="";
+			foreach ($chlog as $cl){
+				$cl=trim($cl);
+				$scl=strtolower($cl);
+				if(substr($scl, 0,7)=="version"){
+					if(!empty($finalChangeLog)){
+						$finalChangeLog.="<br/>";
+					}
+					$finalChangeLog.="$cl<br/>";
+				}else{
+					$cl=html_entity_decode($cl);
+					//$cl=htmlspecialchars($cl ) ;
+					$finalChangeLog.="<i class='fa fa-check-square-o '></i> $cl<br/>";
+				}
+			}
+			return $finalChangeLog;
+		}
+	}
+	if (! function_exists ( "get_user_date_default_format" )) {
+		function get_user_date_default_format($timestr = '') {
+			//$timezone=get_current_user_timezone();
+			return get_current_user_timezonetime($timestr,get_current_user_default_date_format());
+		}
+	}
+	if (! function_exists ( "get_user_time_default_format" )) {
+		/**
+		 * To Get user time only
+		 * @param string $timestr
+		 * @return string
+		 */
+		function get_user_time_default_format($timestr = '') {
+			return get_current_user_timezonetime($timestr,get_current_user_default_time_format());
+		}
+	}
+	
+	
+	if (! function_exists ( "get_current_user_default_date_format" )) {
+		function get_current_user_default_date_format() {
+			
+			return Mapp_setting::GetSettingsValue("app_date_format");
+			
+		}
+	}
+	if (! function_exists ( "get_current_user_default_time_format" )) {
+		function get_current_user_default_time_format() {
+			
+			return Mapp_setting::GetSettingsValue("app_time_format");
+			
+		}
+	}
+	if (! function_exists ( "get_current_user_time_to_unixtime" )) {
+		function get_current_user_time_to_unixtime($timestr = '', $format = '') {
+			$usertimezone = get_current_user_timezone ();
+			$apptimezone = date_default_timezone_get ();
+			$date = new DateTime ( $timestr, new DateTimeZone ( $usertimezone ) );
+			if (strtoupper ( $usertimezone ) != strtolower ( $apptimezone )) {
+				$date->setTimezone ( new DateTimeZone ( $apptimezone ) );
+			}
+			if (! empty ( $format )) {
+				return $date->format ( $format );
+			} else {
+				return $date->getTimestamp ();
+			}
+		}
+	}
+	if (! function_exists ( 'agent_url' )) {
+		/**
+		 * Admin URL
+		 *
+		 * Create a local URL based on your basepath. Segments can be passed via the
+		 * first parameter either as a string or an array.
+		 *
+		 * @param string $uri
+		 * @param string $protocol
+		 * @return string
+		 */
+		function agent_url($uri = '', $protocol = NULL) {
+			$uri = "agent/" . $uri;
+			return site_url ( $uri, $protocol );
+		}
+	}
+	
+	if (! function_exists ( 'staff_url' )) {
+		/**
+		 * Admin URL
+		 *
+		 * Create a local URL based on your basepath. Segments can be passed via the
+		 * first parameter either as a string or an array.
+		 *
+		 * @param string $uri
+		 * @param string $protocol
+		 * @return string
+		 */
+		function staff_url($uri = '', $protocol = NULL) {
+			$uri = "staff/" . $uri;
+			return site_url ( $uri, $protocol );
+		}
+	}
+	if (! function_exists ( 'member_url' )) {
+		/**
+		 * Admin URL
+		 *
+		 * Create a local URL based on your basepath. Segments can be passed via the
+		 * first parameter either as a string or an array.
+		 *
+		 * @param string $uri
+		 * @param string $protocol
+		 * @return string
+		 */
+		function member_url($uri = '', $protocol = NULL) {
+			$uri = "member/" . $uri;
+			return site_url ( $uri, $protocol );
+		}
+	}
+	if (! function_exists ( "CleanSearchString" )) {
+		function CleanSearchString($str) {
+			$str = preg_replace ( "/[,.'\"]/", "", $str );
+			/*
+			 * $number = str_replace ( "-", "", $number );
+			 * $number = str_replace ( "+", "", $number );
+			 * $number = str_replace ( "(", "", $number );
+			 * $number = str_replace ( ")", "", $number );
+			 * $number = str_replace ( " ", "", $number );
+			*/
+			return $str;
+		}
+	}
+	if (! function_exists ( "CleanPhoneNumber" )) {
+		function CleanPhoneNumber($number) {
+			$number = preg_replace ( "/[^0-9]/", "", $number );
+			/*
+			 * $number = str_replace ( "-", "", $number );
+			 * $number = str_replace ( "+", "", $number );
+			 * $number = str_replace ( "(", "", $number );
+			 * $number = str_replace ( ")", "", $number );
+			 * $number = str_replace ( " ", "", $number );
+			 */
+			return $number;
+		}
+	}
+	if (! function_exists ( "CleanStringNumber" )) {
+		function CleanStringNumber($str) {
+			$str = preg_replace ( "/[^[:alnum:][:space:]]/u", "", $str );
+			return $str;
+		}
+	}
+	if (! function_exists ( "CleanFileName" )) {
+		function CleanFileName($str)
+		{
+			$str = preg_replace('/[^a-z0-9\-\.]/i', "-", $str);
+			$str = preg_replace('/[\-]+/', "-", $str);
+			return $str;
+		}
+	}
+	if (! function_exists ( "CleanPhoneNumberNonZero" )) {
+		function CleanPhoneNumberNonZero($number) {
+			$number = preg_replace ( "/[^0-9]/", "", $number );
+			$number = preg_replace ( "[^011]", "", $number );
+			$number = preg_replace ( "/^[0]+/", "", $number );
+			return $number;
+		}
+	}
+	if (! function_exists ( "CleanHTMLtoText" )) {
+		function CleanHTMLtoText($html) {
+			$html=preg_replace('/<\s*head.+?<\s*\/\s*head.*?>/si', ' ', $html );
+			$html=preg_replace('/<\s*style.+?<\s*\/\s*style.*?>/si', ' ', $html );
+			$html=preg_replace('/<\s*javascript.+?<\s*\/\s*javascript.*?>/si', ' ', $html );
+			$html=strip_tags($html, '<h1><h2><h3><h4><strong><b><br><pre><span><ul><ol><u><font><li><table><tr><img><div><td><th><tbody><thead><tfoot><hr><p><a><iframe><figure><figcaption><video>');
+			$ckHtml=CheckHtml($html);
+			if(empty($ckHtml) && !empty($html)){
+				$ckHtml=CheckHtml($html,true);
+			}
+			if(!empty($ckHtml)){
+				$html=$ckHtml;
+			}
+			$html=preg_replace('/p class=\"MsoNormal\"\>/si', ' ', $html );
+			return $html;
+		}
+	}
+	if (! function_exists ( "CheckHtml" )) {
+		function CheckHtml( $html ,$force_not_mb_string=false ) {
+			if(function_exists("libxml_use_internal_errors") && class_exists("DOMDocument") &&  (defined('LIBXML_HTML_NOIMPLIED') || defined('LIBXML_HTML_NODEFDTD'))) {
+				libxml_use_internal_errors( true ); //use this to prevent warning messages from displaying because of the bad HTML
+				$doc = new DOMDocument();
+				if(!$force_not_mb_string && function_exists("mb_convert_encoding")) {
+					$doc->loadHTML( mb_convert_encoding( $html, 'HTML-ENTITIES', 'UTF-8' ), LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD );
+				}else{
+					$doc->loadHTML( '<?xml encoding="utf-8" ?>'.$html,  LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD );
+				}
+				$html = @$doc->saveHTML();
+			}
+			return $html;
+		}
+	}
+	if (! function_exists ( 'redirectAdmin' )) {
+		/**
+		 * Header Redirect
+		 *
+		 * Header redirect in two flavors
+		 * For very fine grained control over headers, you could use the Output
+		 * Library's set_header() function.
+		 *
+		 * @param string $uri
+		 * @param string $method
+		 *        	'auto', 'location' or 'refresh'
+		 * @param int $code
+		 *        	status code
+		 * @return void
+		 */
+		function redirectAdmin($uri = '', $method = 'auto', $code = NULL) {
+			$uri = "admin/" . $uri;
+			redirect ( $uri, $method, $code );
+		}
+	}
+	
+	if (! function_exists ( 'getCountryList' )) {
+		function getCountryList() {
+			$jsonFile=APPPATH."json_data/country.json";
+			if(file_exists($jsonFile)){
+				$json=file_get_contents($jsonFile);
+				if(!empty($json)){
+					return json_decode($json);
+				}
+			}
+			return array();
+		}
+	}
+	if (! function_exists ( 'getCountryKeyValuePair' )) {
+		function getCountryKeyValuePair($inCountryNameFirst=false) {
+			$countries=getCountryList();
+			$response=array();
+			foreach ($countries as $country){
+				if($inCountryNameFirst){
+					$response[$country->name]=$country->code;
+				}else{
+					$response[$country->code]=$country->name;
+				}
+			}
+			asort($response);
+			return $response;
+		}
+	}
+	
+	
+	if (! function_exists ( 'NumberToWords' )) {
+		function NumberToWords($number)
+		{
+			$string=$prefix=$suffix="";
+			$max_size = pow(10,18);
+			if (!$number) return "zero";
+			if (is_int($number) && $number < abs($max_size))
+			{
+				switch ($number)
+				{
+					// set up some rules for converting digits to words
+					case $number < 0:
+						$prefix = "negative";
+						$suffix = NumberToWords(-1*$number);
+						$string = $prefix . " " . $suffix;
+						break;
+					case 1:
+						$string = "one";
+						break;
+					case 2:
+						$string = "two";
+						break;
+					case 3:
+						$string = "three";
+						break;
+					case 4:
+						$string = "four";
+						break;
+					case 5:
+						$string = "five";
+						break;
+					case 6:
+						$string = "six";
+						break;
+					case 7:
+						$string = "seven";
+						break;
+					case 8:
+						$string = "eight";
+						break;
+					case 9:
+						$string = "nine";
+						break;
+					case 10:
+						$string = "ten";
+						break;
+					case 11:
+						$string = "eleven";
+						break;
+					case 12:
+						$string = "twelve";
+						break;
+					case 13:
+						$string = "thirteen";
+						break;
+					// fourteen handled later
+					case 15:
+						$string = "fifteen";
+						break;
+					case $number < 20:
+						$string = NumberToWords($number%10);
+						// eighteen only has one "t"
+						if ($number == 18)
+						{
+							$suffix = "een";
+						} else
+						{
+							$suffix = "teen";
+						}
+						$string .= $suffix;
+						break;
+					case 20:
+						$string = "twenty";
+						break;
+					case 30:
+						$string = "thirty";
+						break;
+					case 40:
+						$string = "forty";
+						break;
+					case 50:
+						$string = "fifty";
+						break;
+					case 60:
+						$string = "sixty";
+						break;
+					case 70:
+						$string = "seventy";
+						break;
+					case 80:
+						$string = "eighty";
+						break;
+					case 90:
+						$string = "ninety";
+						break;
+					case $number < 100:
+						$prefix = NumberToWords($number-$number%10);
+						$suffix = NumberToWords($number%10);
+						$string = $prefix . " " . $suffix;
+						break;
+					// handles all number 100 to 999
+					case $number < pow(10,3):
+						// floor return a float not an integer
+						$prefix = NumberToWords(intval(floor($number/pow(10,2)))) . " hundred";
+						if ($number%pow(10,2)) $suffix = " and " . NumberToWords($number%pow(10,2));
+						$string = $prefix . $suffix;
+						break;
+					
+					case $number < pow(10,5):
+						// floor return a float not an integer
+						$prefix = NumberToWords(intval(floor($number/pow(10,3)))) . " thousand";
+						if ($number%pow(10,3)) $suffix = NumberToWords($number%pow(10,3));
+						$string = $prefix . " " . $suffix;
+						break;
+					case $number < pow(10,7):
+						// floor return a float not an integer
+						$prefix = NumberToWords(intval(floor($number/pow(10,5)))) . " lakh";
+						if ($number%pow(10,5)) $suffix = NumberToWords($number%pow(10,5));
+						$string = $prefix . " " . $suffix;
+						break;
+					case $number < pow(10,18):
+						// floor return a float not an integer
+						$prefix = NumberToWords(intval(floor($number/pow(10,7)))) . " crore";
+						if ($number%pow(10,7)) $suffix = NumberToWords($number%pow(10,7));
+						$string = $prefix . " " . $suffix;
+						break;
+					
+				}
+				
+			} else
+			{
+				echo "ERROR with - $number<br/> Number must be an integer between -" . number_format($max_size, 0, ".", ",") . " and " . number_format($max_size, 0, ".", ",") . " exclussive.";
+			}
+			
+			return ucfirst(strtolower($string));
+		}
+	}
+	if (! function_exists ( "app_currency_format" )) {
+		/**
+		 * @param decimal $number
+		 * @param int $decimal
+		 * @param string $separator
+		 * @param string $decimal_char
+		 * @return string
+		 */
+		function app_currency_format($number,$decimal=2,$separator=null ,$decimal_char=null){
+			if(!$separator){
+				$separator=",";
+			}
+			if(!$decimal_char){
+				$decimal_char=".";
+			}
+			$number=sprintf("%.{$decimal}f",$number);
+			$numberstr=strrev($number);
+			$start=strpos($numberstr, ".");
+			$newStr="";
+			if($start===FALSE){
+				$start=0;
+			}else{
+				
+				$newStr=substr($numberstr, 0,$decimal).$decimal_char;
+			}
+			
+			$length=strlen($numberstr);
+			$j=0;
+			for($i=$start+1;$i<$length;$i++){
+				if($j==3||$j==5|$j==7){
+					$newStr.=",";
+				}
+				$newStr.=$numberstr[$i];
+				$j++;
+			}
+			
+			return strrev($newStr);
+		}
+	}
+	if (! function_exists ( "get_timezone_offset_hour" )) {
+		function get_timezone_offset_hour($origin_tz = null,$inMinute=false) {
+			$remote_tz=get_current_user_timezone();
+			if($origin_tz === null) {
+				$origin_tz = date_default_timezone_get();
+				if(!is_string($origin_tz)) {
+					return 0; // A UTC timestamp was returned -- bail out!
+				}
+			}
+			$server_timezone = new DateTimeZone($origin_tz);
+			$remote_timezone = new DateTimeZone($remote_tz);
+			
+			// Create two DateTime objects that will contain the same Unix timestamp, but
+			// have different timezones attached to them.
+			
+			
+			$server_time = new DateTime("now", $server_timezone);
+			$server_time->setTime(0, 0, 0);
+			$remote_time = new DateTime("now", $remote_timezone);
+			$remote_time->setTime(0, 0, 0);
+			// Calculate the GMT offset for the date/time contained in the $dateTimeTaipei
+			// object, but using the timezone rules as defined for Tokyo
+			// ($dateTimeZoneJapan).
+			$timeOffset = $remote_timezone->getOffset($server_time);
+			if($remote_time->format('I')){
+				$timeOffset=strtotime("-1 HOUR",$timeOffset);
+			}
+			$sign="";
+			if($timeOffset<0){
+				$sign="-";
+				$timeOffset=(-1)*$timeOffset;
+			}
+			if($inMinute){
+				return $timeOffset/60;
+			}
+			// Should show int(32400) (for dates after Sat Sep 8 01:00:00 1951 JST).
+			return  $sign.date("H:i",$timeOffset);
+		}
+	}
+	if (! function_exists ( "get_timezone_offset_minute" )) {
+		function get_timezone_offset_minute($origin_tz = null) {
+			return get_timezone_offset_hour($origin_tz,true);
+		}
+	}
+	if (! function_exists ( "get_app_title" )) {
+		function get_app_title() {
+			return Mapp_setting::GetSettingsValue("app_title");
+		}
+	}
+	if (! function_exists ( "get_app_title_short" )) {
+		function get_app_title_short($title='') {
+			if(empty($title)){
+				$title=get_app_title();
+			}
+			$shortArray=explode(" ", $title);
+			$shortTitle="";
+			foreach ($shortArray as $w){
+				$shortTitle.=substr($w, 0,1);
+			}
+			return $shortTitle;
+		}
+	}
+	if (! function_exists ( "get_app_container_type" )) {
+		function get_app_container_type() {
+			$app_type=Mapp_setting::GetSettingsValue("app_layout","F");
+			if($app_type=="F"){
+				return 'container-fluid';
+			}else{
+				return 'container';
+			}
+		}
+	}
+	if (! function_exists ( "generate_favicon" )) {
+		function generate_favicon($filename="") {
+			if(empty($filename)){
+				$filename=FCPATH."images/logo.png";
+			}
+			$appTitle=get_app_title();
+			app_image_resize_by_width($filename,180,FCPATH."images/logo-admin.png");
+			app_image_resize_by_height($filename,192);
+			copy($filename, FCPATH."images/icon-logo/logo.png");
+			app_image_resize($filename,192,192,FCPATH."images/icon-logo/android-chrome-192x192.png");
+			app_image_resize($filename,180,180,FCPATH."images/icon-logo/apple-touch-icon.png");
+			app_image_resize($filename,16,16,FCPATH."images/icon-logo/favicon-16x16.png");
+			app_image_resize($filename,32,32,FCPATH."images/icon-logo/favicon-32x32.png");
+			app_image_resize($filename,150,150,FCPATH."images/icon-logo/mstile-150x150.png");
+			$json = '{
+    "name": "'.$appTitle.'",
+    "short_name": "'.$appTitle.'",
+    "icons": [
+        {
+            "src": "android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}';
+			//$json_decode=json_decode($json);
+			//$json=json_encode($json_decode);
+			file_put_contents(FCPATH."images/icon-logo/manifest.json", $json);
+			
+			$broserconfig='<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+    <msapplication>
+        <tile>
+            <square150x150logo src="/mstile-150x150.png"/>
+            <TileColor>#ffffff</TileColor>
+        </tile>
+    </msapplication>
+</browserconfig>';
+			file_put_contents(FCPATH."images/icon-logo/browserconfig.xml", $broserconfig);
+		}
+	}
+	if (! function_exists ( "app_image_resize" )) {
+		function app_image_resize($filename,$width,$height,$newfilename=null,$position='top left') {
+			if(!empty($newfilename)){
+				if(file_exists($newfilename)){
+					unlink($newfilename);
+				}
+			}
+			$ci = get_instance();
+			$ci->load->library("SimpleImage");
+			$m = new SimpleImage($filename);
+			$im_width = $m->get_width();
+			$im_height = $m->get_height();
+			if ($im_width != $width || $im_height != $height) {
+				$m->thumbnail($width, $height, $position);
+				$m->save($newfilename);
+			}
+		}
+	}
+	if (! function_exists ( "app_image_resize_by_width" )) {
+		function app_image_resize_by_width($filename,$width,$newfilename=null) {
+			$isForceSave=false;
+			if(!empty($newfilename)){
+				if(file_exists($newfilename)){
+					unlink($newfilename);
+				}
+				$isForceSave=true;
+			}
+			$ci = get_instance();
+			$ci->load->library("SimpleImage");
+			$m = new SimpleImage($filename);
+			$im_width = $m->get_width();
+			if ($isForceSave || $im_width != $width) {
+				$m->fit_to_width($width);
+				$m->save($newfilename);
+			}
+		}
+	}
+	if (! function_exists ( "app_image_resize_by_height" )) {
+		function app_image_resize_by_height($filename,$height,$newfilename=null) {
+			$isForceSave=false;
+			if(!empty($newfilename)){
+				if(file_exists($newfilename)){
+					unlink($newfilename);
+				}
+				$isForceSave=true;
+			}
+			$ci = get_instance();
+			$ci->load->library("SimpleImage");
+			$m = new SimpleImage($filename);
+			$im_height = $m->get_height();
+			if ($isForceSave || $im_height != $height) {
+				$m->fit_to_height($height);
+				$m->save($newfilename);
+			}
+		}
+	}
+	if (! function_exists ( "app_slag_refine" )) {
+		function app_slag_refine($slag_str)
+        {
+            $slag_str = strtolower($slag_str);
+            $slag_str = preg_replace("/\\s+/iu", '-', $slag_str);
+            $slag_str = preg_replace('/[\\\\*\$\'"\(\)&@]/u', '-', $slag_str);
+            $slag_str=preg_replace('/[-]+/','-',$slag_str);
+            return trim($slag_str, '- ');
+        }
+	}
+	if (! function_exists ( "get_knowledge_list" )) {
+		function get_knowledge_list($knowledges,$categories=null){
+			if(empty($categories)){
+				$categories=Mcategory::FetchAllKeyValue("id", "title");
+			}
+			ob_start();
+			if(!empty($knowledges) && is_array($knowledges)){?>
+				<ul class="kn-list">
+					<?php foreach ($knowledges as $knw){
+						$knw=!$knw?new Mknowledge():$knw;
+						$knw->slug_id=app_slag_refine($knw->slug_id);
+						app_check_slag($knw->slug_id,$knw->title);
+						?>
+						<li class="<?php echo $knw->is_stickey=="Y"?" is-sticky ":"";?>">
+							<div class="kn-title">
+								<h3 class="m-0">
+									<a href="<?php echo site_url("knowledge/details/{$knw->id}/{$knw->slug_id}");?>"><?php echo $knw->title;?></a>
+									<span class="kn-like pull-right text-success"><i class="fa fa-thumbs-up "></i> <?php _n(str_pad($knw->l_count, 2,'0',STR_PAD_LEFT));?></span>
+								</h3>
+							</div>
+							<div class="kn-details">
+								<?php _e("Last updated on "); echo get_user_datetime_default_format($knw->last_update_time);?> <?php if(!empty($knw->cat_id)){?>in <a href="<?php echo site_url("category/details/{$knw->cat_id}/".getTextByKey($knw->cat_id,$categories))?>"><?php echo getTextByKey($knw->cat_id,$categories);?></a><?php }?>
+							</div>
+						</li>
+					<?php } ?>
+				</ul>
+			<?php }
+			return ob_get_clean();
+		}
+	}
+	if (! function_exists ( "app_check_slag" )) {
+		function app_check_slag( &$slag_id, $title ) {
+			$slag_id=trim($slag_id,"'- ");
+			if(empty($slag_id) || strlen($slag_id)<=3){
+				$slag_id=$title;
+			}
+		}
+	}
+	if (! function_exists ( "get_knowledge_list_artbox" )) {
+		function get_knowledge_list_artbox($knowledges,$isStickyCheck=true,$isViewCount=true,$isLikeCount=false,$isDislikeCount=false,$is_blank=false,$is_porpup=false){
+			
+			ob_start();
+			if(!empty($knowledges) && is_array($knowledges)){?>
+				<ul class="art-kn-list">
+					<?php foreach ($knowledges as $knw){
+						$knw=!$knw?new Mknowledge():$knw;
+						app_check_slag($knw->slug_id,$knw->title);
+						$knw->slug_id=app_slag_refine($knw->slug_id);
+						
+						?>
+						<li class="<?php echo $isStickyCheck && $knw->is_stickey=="Y"?" is-sticky ":"";?>">
+							
+							
+							<a class=" <?php echo $is_porpup?" popupform ":"";?>" <?php echo $is_porpup?'  data-effect="mfp-move-from-top "':"";?> <?php echo $is_blank?' target="_blank" ':'';?> href="<?php echo site_url("knowledge/details/{$knw->id}/{$knw->slug_id}");?>"><i class="fa fa-file-text-o"></i> <?php echo $knw->title;?>
+								<?php if($isViewCount){?>
+									<span class="view-counter pull-right"><i class="fa fa-eye"></i> <?php echo _n(str_pad($knw->v_count, 2,'0',STR_PAD_LEFT));?></span>
+								<?php }
+									if($isLikeCount){
+										?>
+										<span class="view-counter pull-right"><i class="fa fa-thumbs-up"></i> <?php echo _n(str_pad($knw->l_count, 2,'0',STR_PAD_LEFT));?></span>
+									<?php }
+									if($isDislikeCount){
+										
+										?>
+										<span class="view-counter pull-right"><i class="fa fa-thumbs-down"></i> <?php echo _n(str_pad($knw->d_count, 2,'0',STR_PAD_LEFT));?></span>
+									<?php }?>
+							</a>
+						
+						
+						
+						</li>
+					<?php } ?>
+				</ul>
+			<?php }
+			return ob_get_clean();
+		}
+	}
+	if (! function_exists ( "get_ticket_list" )) {
+		/**
+		 * @param multitype:Mticket $ticket_list
+		 * @param string $no_ticket_msg;
+		 * @return string
+		 */
+		function get_ticket_list( $ticket_list,$no_ticket_msg=""){
+			
+			//$categories=Mcategory::FetchAllKeyValue("id", "title");
+			//GPrint($ticket_list);
+			if(empty($no_ticket_msg)){
+				$no_ticket_msg="There is not ticket to show";
+			}
+			$mainticket_obj=new Mticket();
+			ob_start();
+			if(!empty($ticket_list) && is_array($ticket_list)){
+				?>
+				<ul class="kn-list">
+					<?php foreach ($ticket_list as $ticket){
+						//GPrint($ticket);
+						$ticket=!$ticket?new Mticket():$ticket;
+						?>
+						<li class="">
+							<div class="kn-title">
+								<h3 class="m-0">
+									<a href="<?php echo site_url("ticket/details/{$ticket->id}");?>"><?php echo $ticket->title;?></a>
+									<span class="kn-like pull-right btn-v-dtls text-success"><a href="<?php echo site_url("ticket/details/{$ticket->id}");?>" class="btn btn-xs btn-theme-light"><i class="fa fa-eye"></i> <?php _e("View Details") ; ?></a></span>
+								</h3>
+							</div>
+							<div class="kn-details ticket-item">
+								<div class="row m-0">
+									<div class="col-md-4">
+										<div class="row">
+											<label class="col-md-5 col-xs-6"><?php _e("Ticket Track ID") ; ?></label>
+											<div class="col-md-7  col-xs-6"><?php echo $ticket->ticket_track_id;?></div>
+										</div>
+									</div>
+									
+									
+									<div class="col-md-4">
+										<div class="row">
+											<label class="col-md-5 col-xs-6"><?php _e("Current Status") ; ?></label>
+											<div class="col-md-7 col-xs-6"><?php echo getTextByKey($ticket->status,$mainticket_obj->GetPropertyOptionsTag("status"));?></div>
+										</div>
+									</div>
+									<div class="col-md-4">
+										<div class="row ">
+											<label class="col-md-5 col-xs-6"><?php _e("Opened On") ; ?></label>
+											<div class="col-md-7 col-xs-6"><?php echo $ticket->opened_time!="0000-00-00 00:00:00"?get_user_datetime_default_format($ticket->opened_time):"-";?></div>
+										</div>
+									</div>
+								</div>
+								<div class="row m-0">
+									<div class="col-md-8">
+										<div class="row">
+											<label class="ctg col-md-2 col-xs-6"><?php _e("Category") ; ?></label>
+											<div class="col-md-7  col-xs-6"><?php if(!empty($ticket->cat_id)){?><a href="#"><?php echo Mcategory::getParentStr($ticket->cat_id);?></a><?php }?></div>
+										</div>
+									</div>
+									
+									
+									<div class="col-md-4">
+										<div class="row ">
+											<label class="col-md-5 col-xs-6"><?php _e($ticket->status=="C"?"Closed On":"Last Replied On") ; ?></label>
+											<div class="col-md-7 col-xs-6"><?php echo $ticket->last_reply_time!="0000-00-00 00:00:00"?get_user_datetime_default_format($ticket->last_reply_time):"-";?></div>
+										</div>
+									</div>
+								</div>
+								<?php /* _e("Last replied on "); echo get_user_datetime_default_format($ticket->last_reply_time);?> <?php if(!empty($ticket->cat_id)){?>in <a href="#"><?php echo Mcategory::getParentStr($ticket->cat_id);?></a><?php }*/?>
+							</div>
+						</li>
+					<?php } ?>
+				</ul>
+			<?php }else{?>
+				<h3 class="text-success text-center m-15"><?php _e($no_ticket_msg) ; ?></h3>
+			<?php }
+			return ob_get_clean();
+		}
+	}
+	if (! function_exists ( "get_knowledge_like_dislike_buttons" )) {
+		function get_knowledge_like_dislike_buttons($id){
+			if(Mapp_setting::GetSettingsValue("is_kn_like_dlike","N")!="N"){
+				return;
+			}
+			$ldtype=Mknowledge::get_liked_dislike_type($id);
+			?>
+			<span class="app-helpful-msg" id="ld-msg-<?php echo $id;?>"><?php echo $ldtype=="L"?__("You think it is helpfull"):($ldtype=="D"?__("You think it is not helpfull"):__("Is it helpfull?"));?></span>
+			<?php if($ldtype=='N' || $ldtype=="L"){?>
+				<a href="#" data-kid="<?php echo $id;?>" class="kn-like-btn btn btn-xs btn-success <?php echo  $ldtype=='L'?'btn-flat kn-liked':'';?>"><i class="fa fa-thumbs-up "></i></a>
+			<?php }/*elseif($ldtype=="L"){
+		?>
+		<span class="text-success">
+		<i class="fa <?php echo  $ldtype=='L'?'fa-check':'fa-thumbs-up';?> "></i> <?php echo  $ldtype=='L'?__("Liked"):__("Like");?>
+		</span>
+		<?php
+	}*/
+			
+			if($ldtype=='N'||  $ldtype=='D' ){?>
+				<a href="#" data-kid="<?php echo $id;?>" class="kn-dislike-btn btn btn-xs btn-danger <?php echo  $ldtype=='D'?'kn-disliked':'';?>"><i class="fa fa-thumbs-down"></i></a>
+			<?php }
+		}
+	}
+	if (! function_exists ( "show_require_msg" )) {
+		function show_require_msg(){
+			?>
+			<em class="help-block">(<label class=" label-required r-msg"></label>)  <?php _e("fields are required")?></em>
+			<?php
+		}
+	}
+	
+	if (! function_exists ( "show_tooltip_question" )) {
+		function show_tooltip($tooltipMsg,$title='[?]',$isId=false){
+			ob_start();
+			?>
+			<strong class="text-tooltip tooltip2" <?php if($isId){?> data-tooltip-content="<?php echo $tooltipMsg;?>" <?php }else{?>title="<?php _e($tooltipMsg);?>" <?php }?>><?php _e($title);?></strong>
+			<?php
+			return ob_get_clean();
+		}
+	}
+	if (! function_exists ( "get_color_list" )) {
+		function get_color_list($main_color){
+			
+			$color_settings=array();
+			$app_main_color_obj = new Color($main_color);
+			$color_settings['app_navbar_bg']=$main_color;
+			$color_settings['app_nav_acive_text']="#".$app_main_color_obj->lighten(90);
+			$color_settings['footer_bg_color']="#".$app_main_color_obj->darken(25);//rgba(0, 0, 0, 0.5);
+			$color_settings['footer_text_color']="#".$app_main_color_obj->lighten(25);
+			$color_settings['app_text_color']=$main_color;
+			$color_settings['app_welcome_bg']="#".$app_main_color_obj->darken(5);
+			return $color_settings;
+			/*@app_navbar_menu_acive_text_color:lighten(@app_navbar_menu_acive_bg,90);//rgba(0, 0, 0, 0.5);
+			@footer_bg_color:darken(@app_main_color,25);
+			@footer_text_color:lighten(@app_main_color,90);*/
+			
+		}
+	}
+	
+	if (! function_exists ( "get_open_ticket_link" )) {
+		function get_open_ticket_link($class="",$title="Open Ticket",$icon='fa fa-ticket'){
+			$userdata=GetUserData();
+			$isDisableGuestPopup=Mapp_setting::GetSettingsValue("dgustpopup","N")=="Y";
+			ob_start();
+			if(!empty($userdata) || $isDisableGuestPopup){
+				?>
+				<a class="<?php echo $class;?> open-ticket"  href="<?php echo site_url('ticket/open');?>">
+					<?php if(!empty($icon)){ ?><i class="<?php echo $icon;?>"></i>  <?php } _e($title); ?>
+				</a>
+				<?php
+			}else{
+				?>
+				<a data-effect="mfp-move-from-top" class="popupformWR <?php echo $class;?> open-ticket"  href="<?php echo site_url('user/login-register');?>" >
+					<i class="fa fa-ticket"></i> <?php _e($title); ?>
+				</a>
+				<?php
+				
+			}
+			return ob_get_clean();
+			
+		}
+	}
+	
+	if (! function_exists ( "get_redirect_url_by_token" )) {
+		function get_redirect_url_by_token($token=""){
+			$token=strtolower($token);
+			if($token=="ticket" || $token=="ticket-open"){
+				return site_url("ticket/open");
+			}
+			return '';
+		}
+	}
+	
+	if (! function_exists ( "get_file_upload_button" )) {
+		function get_file_upload_button($name,$extensions="",$id="",$class=""){
+			if(empty($id)){
+				$id=str_replace(array("[","]"), "_", $name);
+				$id=str_replace("__", "", $id);
+			}
+			ob_start();
+			?>
+			<input type="file" class="<?php echo $class;?>" id="<?php echo $id;?>" name="<?php echo $name;?>" accept="<?php echo $extensions;?>">
+			<?php
+			return ob_get_clean();
+		}
+	}
+	
+	if (! function_exists ( "AddAppHTMLEditor" )) {
+		function AddAppHTMLEditor(){
+			$type=Mapp_setting::GetSettingsValue("app_html_editor","S");
+			if($type=="S"){
+				AddSummernoteEditor();
+			}elseif($type=="F"){
+				AddMainEdittor();
+			}elseif($type=="C"){
+				AddCKEdittor();
+			}else{
+			
+			}
+		}
+	}
+	if (! function_exists ( "app_check_ssl" )) {
+		function app_check_ssl() {
+			if(is_cli()){
+				return;
+			}
+			$isForceSSL=Mapp_setting::GetSettingsValue("is_app_forcessl","N")=="Y";
+			$baseu=base_url();
+			if(strpos($baseu,"https")!==false){
+				return;
+			}
+			if ($isForceSSL && !isset($_GET['_k_']) && (!isset($_SERVER['HTTPS']) || $_SERVER['HTTPS'] != "on") && (!(isset($_SERVER['HTTP_X_FORWARDED_PROTO']) && $_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https'))) {
+				if($isForceSSL){
+					$url = "https://". $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
+					redirect($url);
+					exit;
+				}
+			}
+		}
+	}
+	if (! function_exists ( "app_get_html_form_field" )) {
+		/**
+		 * @param Mcustom_field $fld
+		 */
+		function app_get_html_form_field($fld,$name_prefix="custom_",$group_class="",$input_class="",$label_col=3,$input_col=9,$is_horizontal=true){
+			ob_start();
+			if(!$is_horizontal){
+				$label_col="";
+				$input_col="";
+			}else{
+				$label_col="col-md-{$label_col}";
+				$input_col="col-md-{$input_col}";
+			}
+			?>
+			<div class="form-group <?php echo $group_class;?>">
+				<label class="control-label  <?php echo $label_col; ?> <?php echo $fld->is_required=="Y"?"label-required":""; ?> " for="fld_<?php echo $fld->id;?>"><?php echo $fld->title; ?></label>
+				<?php if($is_horizontal){?>
+				<div class="<?php echo $input_col; ?>">
+					<?php
+						}
+						$fieldName="{$name_prefix}{$fld->id}";
+						$defaultValue=!empty($fld->saved_value)?$fld->saved_value:"";
+						$fld_post_value=PostValue($fieldName,$defaultValue);
+						if($fld->type=="R" || $fld->type=="D"){
+							$fld_options=[];
+							foreach (explode(",", $fld->opt_json_base) as $opt){
+								$fld_options[$opt]=$opt;
+							}
+						}
+						$attributes=$fld->is_required=="Y"?' data-bv-notempty="true" 	data-bv-notempty-message="'.__("%s is required",$fld->title).'" ':'';
+						if($fld->is_api_based=="Y" && !empty($fld->api_name) && $fld->on_submit_api_check=="Y"){
+							$attributes.=' data-bv-remote-url="'.site_url("ticket/api-check/{$fld->api_name}/$fieldName").'" data-bv-trigger="blur"  data-bv-remote="true"  data-bv-remote-message="'.__("Invalid data").'" ';
+						}
+						if($fld->type=="T" || $fld->type=="N" || $fld->type=="U" || $fld->type=="A"){
+							
+							?>
+							<input class="form-control <?php echo $fld->type=="A"?" app-date-picker":"";?>" id="<?php echo $fieldName;?>" value="<?php echo $fld_post_value;?>" name="<?php echo $fieldName;?>" type="<?php echo ($fld->type=="N"?"number":(($fld->type=="U")?'url':"text"));?>" <?php echo $attributes;?> />
+							<?php
+						}elseif($fld->type=="R"){?>
+							<div class="inline radio-inline">
+								<?php
+									GetHTMLRadioByArray($fld->title,$fieldName,$fieldName,$fld->is_required=="Y",$fld_options,$fld_post_value,false);
+								?>
+							</div>
+							<?php
+						}elseif($fld->type=="D"){?>
+							<select class="form-control" id="<?php echo $fieldName;?>" name="<?php echo $fieldName;?>" <?php echo $attributes;?> >
+								<?php
+									GetHTMLOption("", "Select");
+									GetHTMLOptionByArray($fld_options,$fld_post_value);
+								?>
+							</select>
+							<?php
+						}elseif($fld->type=="O"){?>
+							<div class="togglebutton ">
+								<input  name="<?php echo $fieldName;?>" value="N" type="hidden">
+								<label>
+									<input  type="checkbox" <?php echo $fld_post_value=="Y" ? "checked" : ""?>  value="Y" class="" id="<?php echo $fieldName;?>"  name="<?php echo $fieldName;?>"  >
+								</label>
+							</div>
+							<?php
+						}elseif($fld->type=="L"){?>
+							<div>
+								<p class="p-t-10"><?php echo $fld->opt_json_base; ?></p>
+							</div>
+							<?php
+						}
+						
+						if(!empty($fld->help_text) && $fld->type!="O"){
+							?>
+							
+							<span class="form-group-help-block"><?php echo $fld->help_text;?></span>
+						<?php } if($is_horizontal){ ?>
+				</div>
+			<?php } ?>
+			</div>
+			<?php
+			return ob_get_clean();
+		}
+	}
+	if (! function_exists ( "app_valid_extensions" )) {
+		function app_valid_extensions($allowed_file_type,$name){
+			foreach ( $allowed_file_type as $extn ) {
+				$extnLen=(-1)*strlen($extn);
+				$extnfile=substr($name,$extnLen);
+				if(strtolower($extnfile)==strtolower($extn)){
+					return true;
+				}
+			}
+			return false;
+		}
+	}
+	if (! function_exists ( "app_uploaded_files_ok" )) {
+		function app_uploaded_files_ok(&$file_list,$path,$file_prefix='',$is_show_error=true){
+			$path=rtrim($path,'\\/');
+			$is_ok_uploads=true;
+			$msg="";
+			if(!empty($_FILES['upload_files']['name'])){
+				$allowed_file_type=Mapp_setting::GetSettingsValue("allowed_file_type");
+				$allowed_file_type=explode("|", $allowed_file_type);
+				
+				$max_file_upload_size=Mapp_setting::GetSettingsValue("max_file_upload_size");
+				//$max_file_upload_size_in_kb*=1048576;
+				foreach ($_FILES['upload_files']['name'] as $key=>$name){
+					if(!empty($name)){
+						if(empty($_FILES['upload_files']['error'][$key])){
+							if(app_valid_extensions($allowed_file_type,$name)){
+								$usize=$_FILES['upload_files']['size'][$key];
+								if(($usize/1048576)<$max_file_upload_size){
+									$name=preg_replace("/[^a-zA-Z0-9_\-\.]/","",$name);
+									$desfile=$file_prefix.$name;
+									$desfile=preg_replace('/[^a-z0-9\-\.]/i',"-",$desfile);
+									$desfile=preg_replace('/[\-]+/',"-",$desfile);
+									if(file_exists($path.DIRECTORY_SEPARATOR.$desfile)){
+										$desfile="1_".$desfile;
+									}
+									if(move_uploaded_file($_FILES['upload_files']['tmp_name'][$key], $path.DIRECTORY_SEPARATOR.$desfile)){
+										$file_obj=new stdClass();
+										$file_obj->name=$desfile;
+										$file_obj->old_name=$name;
+										$file_obj->path=$path.DIRECTORY_SEPARATOR.$desfile;
+										$file_obj->type=$_FILES['upload_files']['type'][$key];
+										$file_obj->size=$usize;
+										set_file_type_details($file_obj,$file_obj);
+										$file_list[$desfile]=$file_obj;
+									}
+								}else{
+									if($is_show_error){
+										AddError("File larger than {$max_file_upload_size} MB : ".$name);
+									}
+									$is_ok_uploads=false;
+								}
+								
+							}else{
+								if($is_show_error){
+									AddError("Unsupported type of file : ".$name);
+								}
+								$is_ok_uploads=false;
+							}
+						}else{
+							if($is_show_error){
+								AddError("File upload error : ".$name);
+							}
+							$is_ok_uploads=false;
+						}
+					}
+				}
+			}
+			//AddInfo("actually passed");
+			return $is_ok_uploads;
+		}
+	}
+	if (! function_exists ( "set_file_type_details" )) {
+		function set_file_type_details($file_obj,&$obj){
+			$ci=get_instance();
+			$ci->load->helper('number');
+			$file_type=$file_obj->type;
+			$isImage=strtolower(substr($file_type, 0,3))=="ima";
+			$obj->hash=Mticket::get_hash($file_obj->path);
+			$obj->size_str=byte_format($file_obj->size);
+			if($isImage){
+				$obj->tyle_name="Image File";
+				$obj->class="fa fa-image";
+				$obj->color="#fbb847";
+			}elseif($file_type=="application/x-zip-compressed"){
+				$obj->tyle_name="Zip File";
+				$obj->class="fa fa-file-zip-o";
+				$obj->color="#fbb847";
+			}elseif($file_type=="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ||$file_type=="application/msword"){
+				$obj->tyle_name="Word File";
+				$obj->class="fa fa-file-word-o";
+				$obj->color="#2C5990";
+			}elseif($file_type=="application/pdf"){
+				$obj->tyle_name="PDF File";
+				$obj->class="fa fa-file-pdf-o";
+				$obj->color="#E42101";
+			}else{
+				$obj->tyle_name=$file_type;
+				$obj->class="fa fa-file-o";
+				$obj->color="#CCCCCC";
+			}
+		}
+	}
+	if (! function_exists ( "app_make_dir" )) {
+		function app_make_dir($path,$mode=null,$ishtaccessProtection=false,$isForImageOnly=false){
+			if(!is_dir($path)){
+				if(@mkdir($path,0755,true)){
+					file_put_contents($path.DIRECTORY_SEPARATOR."index.html","Access Denied");
+					if($ishtaccessProtection ){
+						if($isForImageOnly){
+							file_put_contents($path.DIRECTORY_SEPARATOR.".htaccess", "<Files ~ \"\\.(jpg|jpeg|png|gif|JPG|JPEG|PNG|GIF)$\">\norder deny,allow\nallow from all\n</Files>");
+						}else{
+							file_put_contents($path.DIRECTORY_SEPARATOR.".htaccess", "<IfModule authz_core_module>\n\tRequire all denied\n</IfModule>\n<IfModule !authz_core_module>\n\tDeny from all\n</IfModule>");
+						}
+					}
+					return true;
+				}else{
+					return false;
+				}
+			}else{
+				if($ishtaccessProtection && !file_exists($path.DIRECTORY_SEPARATOR.".htaccess")){
+					file_put_contents($path.DIRECTORY_SEPARATOR.".htaccess", "<IfModule authz_core_module>\n\tRequire all denied\n</IfModule>\n<IfModule !authz_core_module>\n\tDeny from all\n</IfModule>");
+				}
+				return true;
+			}
+			return true;
+		}
+	}
+	if(!function_exists("mime_content_type")){
+		function mime_content_type( $filename ) {
+			if(function_exists("finfo_open")){
+				$finfo = finfo_open( FILEINFO_MIME_TYPE );
+				$mime_type = finfo_file( $finfo, $filename );
+				finfo_close( $finfo );
+				return $mime_type;
+			}else{
+				$ext = pathinfo($filename, PATHINFO_EXTENSION);
+				$mimetypes=["png"=>"image/png","jpg"=>"image/jpeg","gif"=>"images/gif","svg"=>"image/svg","txt"=>"text/plain"];
+				if(isset($mimetypes[$ext])){
+					return $mimetypes[$ext];
+				}
+				return "";
+			}
+		}
+	}
+	
+	if (! function_exists ( "app_process_already_uploaded" )) {
+		function app_process_already_uploaded($already_list,&$file_list,$path){
+			if(is_array($already_list)){
+				foreach ($already_list as $fl){
+					if($fl=="index.html"){
+						continue;
+					}
+					if(!is_dir($path.DIRECTORY_SEPARATOR.$fl)){
+						if(file_exists($path.DIRECTORY_SEPARATOR.$fl)){
+							$file_obj=new stdClass();
+							$file_obj->name=$fl;
+							$file_obj->old_name=$fl;
+							$file_obj->path=$path.DIRECTORY_SEPARATOR.$fl;
+							if(function_exists("mime_content_type")){
+								$file_obj->type=mime_content_type($path.DIRECTORY_SEPARATOR.$fl);
+							}else{
+								$file_obj->type="";
+							}
+							$file_obj->size=filesize($path.DIRECTORY_SEPARATOR.$fl);
+							set_file_type_details($file_obj,$file_obj);
+							$file_list[$fl]=$file_obj;
+						}
+					}
+				}
+			}
+			
+		}
+	}
+	if (! function_exists ( "app_delete_uploaded" )) {
+		function app_delete_uploaded($delete_list,$path){
+			if(is_array($delete_list)){
+				foreach ($delete_list as $fl){
+					if(file_exists($path.DIRECTORY_SEPARATOR.$fl)){
+						unlink($path.DIRECTORY_SEPARATOR.$fl);
+					}
+				}
+			}
+			
+		}
+	}
+	if (! function_exists ( "app_move_files" )) {
+		function app_move_files($file_list,$new_path,$old_path=''){
+			if(is_array($file_list)){
+				foreach ($file_list as $fl){
+					if(is_string($fl)){
+						$fl=CleanFileName($fl);
+						rename($old_path.DIRECTORY_SEPARATOR.$fl, $new_path.DIRECTORY_SEPARATOR.$fl);
+					}elseif(is_object($fl) && !empty($fl->path)){
+						$fl->name=CleanFileName($fl->name);
+						rename($fl->path, $new_path.DIRECTORY_SEPARATOR.$fl->name);
+					}
+				}
+			}
+			
+		}
+	}
+	if(!function_exists("GetTicketSessionObj")){
+		/**
+		 * @return Mticket;
+		 */
+		function GetTicketSessionObj($ticket_id){
+			$ci=get_instance();
+			return $ci->session->GetSession("new_ticket_".$ticket_id);
+		}
+	}
+	if(!function_exists("HasTicketSession")){
+		/**
+		 * @return UserSessionData;
+		 */
+		function HasTicketSession($ticket_id){
+			$ci=get_instance();
+			$ticketObj=$ci->session->GetSession("new_ticket_".$ticket_id);
+			return !empty($ticketObj);
+		}
+	}
+	if(!function_exists("GetTicketReplyHTMLBy")){
+		
+		/**
+		 * @param Mticket_reply $reply_object
+		 * @return string
+		 */
+		function GetTicketReplyHTMLBy($ticket_id,$reply_id, $ticket_user_id=""){
+			$ticket_reply_obj=Mticket_reply::FindBy("ticket_id", $ticket_id,["reply_id"=>$reply_id]);
+			return GetTicketReplyHTML($ticket_reply_obj,$ticket_user_id);
+		}
+	}
+	if(!function_exists("get_user_img")){
+		function get_user_img($user_title,$user_id,$user_type,$user_photo_url){
+			if(empty($user_photo_url)){
+				$user_photo_url=base_url("images/default-user-image.png");
+			}
+			$class="";
+			if(Mapp_setting::GetSettingsValue("is_check_online")=="Y"){
+				$class=(!empty($user_id) && !empty($user_type)) && is_user_online($user_id, $user_type)?" online ":" offline ";
+			}
+			
+			ob_start();
+			?>
+			<div class='r-img sm-user-img <?php echo $class;?>'>
+				<div class="o-w">
+					<div title='<?php echo $user_title;?>' class='tooltip2 img-div'>
+						<img   src='<?php echo $user_photo_url;?>' alt='' class='' />
+					</div>
+				</div>
+			</div>
+			<?php
+			return ob_get_clean();
+		}
+	}
+	
+	if(!function_exists("GetTicketReplyHTML")){
+		
+		/**
+		 * @param Mticket_reply $reply_object
+		 * @return string
+		 */
+		function GetTicketReplyHTML($reply_object,$ticket_user_id="",$class=""){
+			//GPrint($reply_object);
+			$isAdmin=GetCurrentUserType()=="AD";
+			ob_start();
+			if($reply_object instanceof Mticket_reply){
+				$files=Mticket_reply::get_reply_attachments_by($reply_object,false,$ticket_user_id);
+				$ticketObj=new Mticket();
+				$user=Mticket_reply::get_user_by_id($reply_object->ticket_id, $reply_object->replied_by);
+				if(!empty($user)){
+					//GPrint($user);
+					$has_payment=$reply_object->payment_id>0;
+					if($has_payment){
+						$payment_obj=Mticket_payment::FindBy("id", $reply_object->payment_id,["ticket_id"=>$reply_object->ticket_id,"reply_id"=>$reply_object->reply_id]);
+					}
+					?>
+					<div id="id_<?php echo $reply_object->ticket_id."_".$reply_object->reply_id;?>" class="<?php echo $class; ?> panel panel-default app-panel-box m-b-10 ticket-reply <?php echo ($user->type=="A" || $user->type=="S")?"admin-user":"";?>">
+						
+						<div class="panel-body text-justify reply-body">
+							<?php if($user->type=="A" || $user->type=="S"){?>
+								<div class="user-type"><?php echo $user->type_title;?></div>
+							<?php }?>
+							<div class="row">
+								<div  class=" col-xs-3 col-sm-2 col-md-2 user-profile ">
+									
+									<?php echo get_user_img($user->title,$user->id,$user->type,$user->photo_url);?>
+									<div class="tooltip2 r-user-title" title="<?php echo $user->title;?>" ><?php echo $user->title;?></div>
+									<div class="r-user-title">
+										<?php echo get_user_date_default_format($reply_object->reply_time);?><br/>
+										<?php echo get_user_time_default_format($reply_object->reply_time);?>
+									</div>
+								</div>
+								<div class="col-xs-9 col-sm-10 col-md-10">
+									<div class="reply-text">
+										<?php echo $reply_object->reply_text;
+											if($has_payment){
+												if($payment_obj){
+													
+													?>
+													<div class="panel panel-default payment-panel <?php echo $payment_obj->status=="A"?" paid-panel":"";?>">
+														<div class="panel-heading p-5"><?php _e("Payment Added"); ?>
+															<?php if(!$isAdmin && in_array($payment_obj->status,['P','F'])){?>
+																<a href="<?php echo site_url("ticket-payment/choose-method/{$payment_obj->ticket_id}/{$payment_obj->reply_id}/{$payment_obj->id}");?>" class="payment-btn btn btn-xs btn-success pull-right"><?php _e("Pay Now") ; ?></a>
+															<?php }?>
+														</div>
+														<div class="panel-body p-5">
+															<ul class="app-ul-properties payment-ul">
+																<li class="">
+																	<label class="f-w-2 w-clone" for=""><?php _e("Description") ; ?></label>
+																	<span  class="f-w-10" ><?php echo $payment_obj->payment_des;?></span>
+																
+																
+																</li>
+																<li>
+																	<label class="f-w-2 w-clone" for=""><?php _e("Amount") ; ?></label>
+																	<span class="f-w-4"><?php echo $payment_obj->payment_currency." ".$payment_obj->amount;?></span>
+																	
+																	<label class="f-w-2 w-clone" for=""><?php _e("Status") ; ?></label>
+																	<span class="f-w-4"><?php echo $payment_obj->getTextByKey("status");?></span>
+																
+																</li>
+															</ul>
+														</div>
+													</div>
+													<?php
+												}
+											}
+										?>
+									</div>
+									<div class="ticket-footer-info">
+										<div class="row">
+											<div class="col-xs-6 col-sm-4">
+												<div class="pro-row">
+													<div class="pro-title"><?php _e("Ticket Status") ; ?>  </div>
+													<div class="pro-value">
+														<?php echo $ticketObj->getTextByKey("status",true,$reply_object->ticket_status);?>
+													</div>
+												</div>
+											</div>
+											<div class="col-xs-6 col-sm-6">
+												<?php if(count($files)){?>
+													<div class="pro-title"><?php _e("File Attached") ; ?>  </div>
+													<div class="pro-value">
+														<ul class="app-file-list inline-file-list">
+															<?php
+																$utype=GetCurrentUserType();
+																foreach ($files as $file){
+																	$linkUrl=$utype=="AD"?(base_url("admin/ticket/ticket-replied-file/{$file->hash}/{$ticket_user_id}/{$reply_object->ticket_id}/{$reply_object->reply_id}/{$file->name}")):(base_url("ticket/ticket-replied-file/{$file->hash}/{$ticket_user_id}/{$reply_object->ticket_id}/{$reply_object->reply_id}/{$file->name}"));
+																	?>
+																	<li>
+																		<a class="<?php echo strtolower(substr($file->type, 0,3))=="ima"?"popupimg":"";?>" href="<?php echo $linkUrl;?>" >
+																			<i class="fa <?php echo $file->class;?>"></i>
+																			<?php
+																				echo $file->name." <em>( {$file->size_str} )</em>";
+																			?></a>
+																	</li>
+																<?php } ?>
+														</ul>
+													</div>
+												<?php }?>
+											</div>
+											<?php if($isAdmin){?>
+												<div class="col-xs-12 col-sm-2 text-right text-italic p-l-0">
+													<?php if($reply_object->is_user_seen!="Y"){?>
+														<a href="<?php echo admin_url("ticket/edit-reply/{$reply_object->ticket_id}/{$reply_object->reply_id}");?>" class="popupformWR" data-onclose="ReloadSiteUrl" data-effect="mfp-move-from-top" ><?php _e("Edit") ; ?></a> &nbsp;
+													<?php } ?>
+													<i title="<?php echo $reply_object->is_user_seen=="Y"?__("Seen by ticket owner"):__("Unseened by ticket owner");?>" data-tooltip-position="top" class="tooltip2 fa <?php echo $reply_object->is_user_seen=="Y"?'fa-eye u-seen':'fa-eye-slash u-unseen';?>"></i> <?php echo $reply_object->is_user_seen=="Y"?app_time_elapsed_string($reply_object->seen_time):""?>
+												</div>
+											<?php }?>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<?php
+				}
+			}
+			//echo GetMsg();
+			return ob_get_clean();
+		}
+	}
+	
+	if(!function_exists("GetTicketLog")){
+		/**
+		 * @param Mticket_log $ticket_log
+		 * @param string $log_user_name
+		 * @return string
+		 */
+		function GetTicketLog($ticket_log,$log_user_name,$cssClass=""){
+			$ticketObj=new Mticket();
+			ob_start();
+			if($ticket_log instanceof  Mticket_log){
+				$ticket_log->log_msg=str_replace("Assign user",__("Assign user"),$ticket_log->log_msg);
+				?>
+				<li id="log_<?php echo $ticket_log->ticket_id."_".$ticket_log->log_id;?>" class="<?php echo $cssClass; ?>">
+					<?php _e($ticket_log->log_msg);?> <?php echo !empty($log_user_name)?__("by "):""; ?> <span class="text-info"><?php echo $log_user_name; ?> </span><br>
+					<div><small><em><?php _e("on") ; ?> <?php echo get_user_datetime_default_format($ticket_log->entry_time);?></em></small>
+						<small style="min-width: 160px;" class="pull-right"> <em><?php _e("Ticket Status");?> : <?php echo  $ticketObj->getTextByKey("status",true,$ticket_log->ticket_status);?></em></small>
+					</div>
+				</li>
+				<?php
+			}
+			return ob_get_clean();
+			
+		}
+	}
+	if(!function_exists("GetTicketLogWithUser")){
+		/**
+		 * @param Mticket_log $ticket_log
+		 * @param string $log_user_name
+		 * @return string
+		 */
+		function GetTicketLogWithUser($ticket_log,$ticket_user,$cssClass=''){
+			$ticket_log=empty($ticket_log)?new Mticket_log():$ticket_log;
+			$admindata=GetAdminData();
+			$log_user_name="";
+			if($admindata && $admindata->id==$ticket_log->log_by){
+				$log_user_name=$admindata->title." (You)";
+			}elseif($ticket_log->log_by_type=="U"){
+				if($ticket_user->id==$ticket_log->log_by){
+					$log_user_name=$ticket_user->first_name." ".$ticket_user->last_name;
+				}else{
+					$log_user_name="Other user need to work later";
+				}
+			}else{
+				$log_user_name=Mapp_user::get_user_obj_by($ticket_log->log_by)->title;
+			}
+			return  GetTicketLog($ticket_log,$log_user_name,$cssClass);
+		}
+	}
+	
+	if(!function_exists("is_user_online")){
+		function is_user_online($user_id,$type){
+			if($user_id=="SYS" && $type="S"){
+				return true;
+			}
+			return Muser_online_log::user_is_onine($user_id, $type);
+		}
+	}
+	if(!function_exists("get_grid_user_img")){
+		function get_grid_user_img($title,$photo_url,$user_id="",$user_type="",$is_with_wrapper=false,$wrapper_class=''){
+			if(empty($photo_url)){
+				$photo_url=base_url("images/default-user-image.png");
+			}
+			$class="";
+			if(Mapp_setting::GetSettingsValue("is_check_online")=="Y"){
+				$class=(!empty($user_id) && !empty($user_type)) && is_user_online($user_id, $user_type)?" online ":" offline ";
+			}
+			if($user_type=="G"){
+				$title="[".__("GUEST USER")."] ".trim($title,' -');
+			}
+			$response="<div  class='grid-img {$class}'><div><img   src='".$photo_url."' alt='".$title."' class='' /></div></div><span class='grid-u-c'>{$title}</span>";
+			if($is_with_wrapper){
+				$response="<div class='u-img-wrapr ".$wrapper_class."' style='margin-top: -5px;margin-bottom: -10px;'>{$response}</div>";
+			}
+			return $response;
+		}
+	}
+	if(!function_exists("get_hidden_star_string")){
+		function get_hidden_star_string($string){
+			$str_length=strlen($string);
+			return $str_length>10?substr($string, 0,4).str_repeat("*", ($str_length-4)).substr($string, -4):substr($string, 0,2)."****".substr($string, -2);
+			
+		}
+	}
+	if(!function_exists("app_get_languages")){
+		function app_get_languages(){
+			$path=FCPATH."language/languages.json";
+			if(!file_exists($path)){
+				$ldata='[{
+               "title": "English(US)",
+               "iso_code": "en_US",
+               "is_beta":false,
+               "active": true
+           },
+           {
+               "title": "German",
+               "iso_code": "de",
+               "is_beta":false,
+               "active": true
+           }
+           ,{
+               "title": "French",
+               "iso_code": "fr",
+               "is_beta":false,
+               "active": true
+           },
+           {
+               "title": "Danish(Denmark)",
+               "iso_code": "da_DK",
+               "is_beta":false,
+               "active": true
+           },
+           {
+               "title": "Turkish",
+               "iso_code": "tr",
+               "is_beta":false,
+               "active": true
+           },
+           {
+               "title": "Spanish",
+               "iso_code": "bn_BD",
+               "is_beta":true,
+               "active": true
+           },
+           {
+               "title": "Portuguese",
+               "iso_code": "pt",
+               "is_beta":true,
+               "active": true
+           }
+           ]';
+				file_put_contents($path, "language.json");
+			}
+			$json=file_get_contents($path);
+			$languages=json_decode($json);
+			foreach ($languages as $key=>$val){
+				if(!$val->active){
+					unset($languages[$key]);
+				}
+			}
+			return $languages;
+		}
+	}
+	if(!function_exists("add_icon_picker")){
+		function add_icon_picker(){
+			//iconpicker
+			add_css ( "plugins/iconpicker/css/fontawesome-iconpicker.min.css" );
+			add_js ( "plugins/iconpicker/js/fontawesome-iconpicker.min.js" );
+			add_js ( "plugins/iconpicker/js/init.js" );
+			
+		}
+	}
+	if(!function_exists("get_message_reply_html")){
+		/**
+		 * @param Madmin_message_reply $rep_obj
+		 */
+		function get_message_reply_html($rep_obj){
+			$user= Mapp_user::get_user_obj_by($rep_obj->replied_by);
+			ob_start();
+			?>
+			<div class="panel panel-default app-panel-box m-b-10">
+				<div class="panel-heading">
+					<div class="row">
+						<div class="col-md-8"><?php _e("Replied ") ; ?></div>
+						<div class="col-md-4 text-right"><b><?php _e("Replied By ") ; ?> : </b><?php echo $user->title;?></div>
+					</div>
+				
+				</div>
+				<div class="panel-body text-justify ">
+					<?php echo $rep_obj->reply_text;?>
+				</div>
+				<div class="panel-footer">
+					<small><em><?php _e("Time") ; ?> : <?php echo get_user_datetime_default_format($rep_obj->entry_time);?></em></small>
+				</div>
+			</div>
+			<?php
+			return ob_get_clean();
+			
+		}
+	}
+	if(!function_exists("getAdminNotes")) {
+		function getAdminNotes($client_id = '', $ticket_id = '')
+		{
+			if (empty($client_id) && empty($ticket_id)) {
+				return '';
+			}
+			$notes = Madmin_note::GetAdminNotes($client_id, $ticket_id);
+			ob_start();
+			foreach ($notes as $note) {
+				?>
+				<div class="app-admin-note <?php echo $note->ref_type=="U"?"u-note":"t-note";?>">
+					<div class="apd-icon"><i class="fa  <?php echo $note->ref_type=="U"?"fa-user":"fa-ticket";?>"></i></div> <?php echo $note->note.'<br/>-<span class="note-user">'.$note->admin_title.' (<span class="note-user-title">'.$note->role_title.'</span>)</span>'; ?>
+				</div>
+				<?php
+			}
+			return ob_get_clean();
+		}
+	}
+	if(!function_exists("app_remote_get")) {
+		function app_remote_get($url) {
+			$curl = curl_init();
+			curl_setopt_array($curl, array(
+				CURLOPT_URL => $url,
+				CURLOPT_RETURNTRANSFER => true,
+				CURLOPT_ENCODING => "",
+				CURLOPT_MAXREDIRS => 10,
+				CURLOPT_TIMEOUT => 300,
+				CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
+				CURLOPT_SSL_VERIFYPEER=>false,
+				CURLOPT_FOLLOWLOCATION=>true
+			));
+			
+			$response = curl_exec($curl);
+			$err = curl_error($curl);
+			if(!empty($err)){
+				return $err;
+			}
+			return $response;
+		}
+	}
+	if(!function_exists("is_image")) {
+		function app_is_image( $path ) {
+			if(function_exists("getimagesize")) {
+				$a          = getimagesize( $path );
+				if(is_array($a) && !empty($a[2])) {
+					$image_type = $a[2];
+					if ( in_array($image_type, [IMAGETYPE_GIF,IMAGETYPE_JPEG,IMAGETYPE_PNG,IMAGETYPE_BMP])){
+						return true;
+					}
+				}
+				return false;
+			}else{
+				return true;
+			}
+		}
+	}
+	if(!function_exists("get_grid_custom_column")) {
+		/**
+		 * @param jQGrid $gridObj
+		 * @param Mcustom_field[] $customfields
+		 */
+		function get_grid_custom_column( &$gridObj,$customfields,$width=100,$align="center") {
+			foreach ($customfields as $fld){
+				if($fld->type=="R" || $fld->type=="D"){
+					$fld_options=[];
+					foreach (explode(",", $fld->opt_json_base) as $opt){
+						$fld_options[$opt]=$opt;
+					}
+					$gridObj->AddModelCustomSearchable($fld->title,"custom_".$fld->id,$width,$align,"select",$fld_options,false);
+				}else{
+					$gridObj->AddModelCustomSearchable($fld->title,"custom_".$fld->id,$width,$align,"","",false);
+				}
+			}
+			
+		}
+	}
+	if(!function_exists("getAdminWorkLog")) {
+		function getAdminWorkLog($ticket_id = '')
+		{
+			if (empty($ticket_id)) {
+				return '';
+			}
+			$notes = Mwork_log::FindAllBy("ticket_id",$ticket_id);
+			ob_start();
+			if(count($notes)>0) {
+				$ad=new Mapp_user();
+				$adminusers=$ad->SelectAllWithIdentity("id");
+				$roles=Mrole_list::FetchAllKeyValue("role_id","title");
+				?>
+				<div class="admin-work-log u-note">
+					<table class="table m-b-0">
+						<thead>
+						<tr>
+							<th width="10px">#</th>
+							<th width="60%"><?php _e( "Note" ); ?></th>
+							<th width="30%" class="text-right"><?php _e( "Time" ); ?></th>
+						</tr>
+						</thead>
+						<tbody>
+						<?php
+							$i=1;
+							$total=0;
+							foreach ( $notes as $note ) {
+								$userTitle = getTextByKey( $note->user_id, $adminusers );
+								$roleTitle=getTextByKey( $userTitle->role, $roles );
+								$total+=$note->w_time;
+								?>
+								
+								<tr>
+									<td><?php echo $i++ ; ?></td>
+									<td>
+										<?php echo $note->note . '<br/>-<span class="note-user">' . $userTitle->title.' (<span class="note-user-title">'.$roleTitle.'</span>), <span class="w-note-time">'.get_user_datetime_default_format($note->entry_date).'</span></span>'; ?>
+									
+									</td>
+									<td class="text-right"><?php _e( "%d MIN", $note->w_time ); ?></td>
+								</tr>
+								<?php
+							}
+						?>
+						</tbody>
+						<tfoot>
+						<tr>
+							<th class="text-right" colspan="2">Total</th>
+							<th class="text-right"><?php _e( "%d MIN", $total); ?></th>
+						</tr>
+						</tfoot>
+					</table>
+				</div>
+				<?php
+			}
+			return ob_get_clean();
+		}
+	}
+	if(!function_exists("loadExternalAddons")) {
+		function loadExternalAddons( $loaded_by = 'h' ) {
+			if ( file_exists( FCPATH . "addons/addons.json" ) ) {
+				$addons = json_decode( file_get_contents( FCPATH . "addons/addons.json" ) );
+				
+				if ( ! empty( $addons ) && is_array( $addons ) ) {
+					foreach ( $addons as $addon ) {
+						if ( $addon->status ) {
+							APP_API::AddAPI( $addon->name, $loaded_by );
+						}
+					}
+				}
+			}
+		}
+	}
+	
+	if(!function_exists( "get_redirect_register_url" )) {
+		function get_redirect_register_url($redirect_url) {
+			$current_url="_ru=".urlencode($redirect_url);
+			return  site_url("user/register?{$current_url}");
+		}
+	}
+	if(!function_exists( "get_redirect_login_url" )) {
+		function get_redirect_login_url($redirect_url) {
+			$current_url="_ru=".urlencode($redirect_url);
+			return  site_url("user/login?{$current_url}");
+		}
+	}
+	if(!function_exists( "getLiveEditButton" )) {
+		function getLiveEditButton( $action ) {
+			if(!empty($_GET['live'])) {
+				$utype = GetCurrentUserType();
+				if ( $utype == "AD" ) {
+					$adminUser = GetAdminData();
+					if ( ! empty( $adminUser ) && $adminUser->IsSuperUser() ) {
+						$link = site_url( 'admin/admin-live-update/act/' . $action );
+						
+						return '<a data-onclose="ReloadIfAjaxWindowChanged" class="popupformWR app-live-update-btn animated pulse infinite" href="' . $link . '">' . __( "Live Edit" ) . '</a>';
+					}
+				}
+			}
+			return '';
+		}
+	}
+	if(!function_exists( "isLiveEditMode" )) {
+		function isLiveEditMode( ) {
+			if ( ! empty( $_GET['live'] ) ) {
+				$utype = GetCurrentUserType();
+				if ( $utype == "AD" ) {
+					$adminUser = GetAdminData();
+					if ( ! empty( $adminUser ) && $adminUser->IsSuperUser() ) {
+						return true;
+					}
+				}
+			}
+			
+			return false;
+		}
+	}
+	
+	if (! function_exists ( "CleanEmailToTicketOrReplyBodyText" )) {
+		function CleanEmailToTicketOrReplyBodyText($html) {
+			return AppCleanHtml::CleanHTML($html);
+		}
+	}
+	if (! function_exists ( "PutHtaccessProperly" )) {
+		function PutHtaccessProperly() {
+			file_put_contents( FCPATH . "/theme/.htaccess", trim( '
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteCond %{REQUEST_URI} !\.(?:jpg|gif|png|js|css|font|eot|ttf|svg|webp|woff|woff2)$ [NC]
+RewriteRule ^ - [L,F]
+</IfModule>
+' ) );
+		}
+	}
+	if (! function_exists ( "get_default_chat_script" )) {
+		function get_default_chat_script() {
+			$file_extensions = Mapp_setting::GetSettingsValue( 'allowed_file_type' );
+			if ( ! empty( $file_extensions ) ) {
+				$file_extensions = "." . str_replace( "|", ",.", $file_extensions );
+			}
+			$ci=get_instance();
+			$current_version = "v=".$ci->config->item("app_version").time();
+		if ( false ){
+			?>
+			<script type="text/javascript">
+				
+				
+				
+				<?php
+				}
+				$_c_utype = GetCurrentUserType();
+				if ( $_c_utype == "CU" ) {
+					$_c_ud = GetUserData();
+					if ( $_c_ud ) {
+						$userImage = GetUserData()->user_img;
+					} else {
+						$userImage = image_url( "images/no-image.png" );
+					}
+				} else {
+					$userImage = image_url( "images/no-image.png" );
+				}
+				?>
+                function gcl(str){}
+                (function( $ ) {
+                    "use strict";
+
+                    function loadCSS(url, callback){
+                        var link = document.createElement('link');
+                        link.type = 'text/css';
+                        link.rel = 'stylesheet';
+                        link.href = url;
+                        document.getElementsByTagName('head')[0].appendChild(link);
+                        if(callback) callback(link);
+                    }
+                    var chatbox = null;
+                    try {
+                        jQuery(function ($) {
+                            loadCSS("<?php echo base_url( 'app-assets/chat-css?' . $current_version ) ?>", function () {
+                                loadCSS("<?php echo base_url( 'plugins/apsbd-chat/css/appsbd-chat.css?' . $current_version ) ?>", function () {
+                                    chatbox = $.appsbdChat({
+                                        url: "<?php echo base_url( "chat" ); ?>",
+                                        chatKey: "<?php echo ChatLib::getChatKey(); ?>",
+                                        chatTitle: "<?php echo Mapp_setting_api::GetSettingsValue( "webchat", "app_chat_title" ); ?>",
+                                        chatSubTitle: "<?php echo Mapp_setting_api::GetSettingsValue( "webchat", "app_chat_tagline" ); ?>",
+                                        chatLogo: "<?php echo Mchat::getChatLogoUrl(); ?>",
+                                        preMsg: "<?php echo str_replace( [
+											"\r",
+											"\n"
+										], "", nl2br( Mapp_setting_api::GetSettingsValue( "webchat", "open_text" ) ) ); ?>",
+                                        startBtnText: 'Start Conversation',
+                                        audioPath: "<?php echo base_url( "images/chatnoti.ogg" ); ?>",
+                                        userImg: "<?php echo $userImage ?>",
+                                        fileUrl: "<?php echo base_url( "chat" ); ?>",
+                                        fileAccepts: "<?php echo $file_extensions; ?>",
+                                        maxFileSize:<?php echo Mapp_setting::GetSettingsValue( "max_file_upload_size", 1 ); ?>,
+                                        loadMoreText: "<?php echo _e( "Load More" ); ?>",
+                                        buttonIcon: "<?php echo Mapp_setting_api::GetSettingsValue( "webchat", "chat_btn_icon", "ap ap-chat2" ); ?>",
+                                        atttachBtnIcon: 'ap ap-paperclip',
+                                        sendBtnIcon: 'ap ap-send',
+                                        containerClass: 'aps-chat-other-site',
+                                        onInit: function (plugin) {
+                                        }
+                                    });
+                                });
+                            });
+
+                        });
+                    }catch(e){
+                        console.log("Best Support system requires jquery.");
+                    }
+                })( jQuery );
+				<?php if ( false ){ ?>
+			</script>
+			<?php
+		}
+		}
+	}
+	if (! function_exists ( "getDemoSelectedTheme" )) {
+		function getDemoSelectedTheme() {
+			if ( ISDEMOMODE ) {
+				$ci           = get_instance();
+				$defaultTheme = $ci->session->GetSession( "demo_theme" );
+				
+				$themes = [ 'bss2020', 'theme1', 'theme2', 'theme3', 'theme4' ];
+				if ( ! empty( $_GET['_dtheme'] ) && in_array( $_GET['_dtheme'], $themes ) ) {
+					$defaultTheme = $_GET['_dtheme'];
+					$ci->session->SetSession( "demo_theme", $defaultTheme );
+				}
+				
+				return $defaultTheme;
+			}
+		}
+	}
+	if (! function_exists ( "LoadDemoThemeSettings" )) {
+		function LoadDemoThemeSettings() {
+			if ( ISDEMOMODE ) {
+				$ci           = get_instance();
+				$defaultTheme = getDemoSelectedTheme();
+				
+				$themes = [ 'bss2020', 'theme1', 'theme2', 'theme3', 'theme4' ];
+				if ( ! empty( $_GET['_dtheme'] ) && in_array( $_GET['_dtheme'], $themes ) ) {
+					$defaultTheme = $_GET['_dtheme'];
+					$ci->session->SetSession( "demo_theme", $defaultTheme );
+				}
+				if ( ! empty( $defaultTheme ) ) {
+					$fileSettingsPath = FCPATH . "data/theme-demos/$defaultTheme/settings.json";
+					if ( file_exists( $fileSettingsPath ) ) {
+						//load
+						$settings = file_get_contents( $fileSettingsPath );
+						$settings = (array) json_decode( $settings );
+						Mapp_setting::LoadSettingFormArray( $settings );
+					}
+					//file_get_contents()
+				}
+			}
+		}
+	}

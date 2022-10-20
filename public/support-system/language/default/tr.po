@@ -1,0 +1,2908 @@
+msgid ""
+msgstr ""                   
+"Project-Id-Version: v1.0 \n"
+"POT-Creation-Date: 2016-10-29 01:29+0600\n"
+"PO-Revision-Date: 2016-10-29 01:29+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: UTF-8\n"
+"Language: tr\n"
+"X-Generator: AppsBD Translator App\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+msgid "!! You need to click save button to complete"
+msgstr "!!Du skal klikke på gem button for at afslutte"
+
+
+msgid "%s Popular Knowledge"
+msgstr "%s Populær Knowledge"
+
+
+msgid "%s Settings"
+msgstr "%s Indstillinger"
+
+
+msgid "%s is required"
+msgstr "% Er krævet"
+
+
+msgid "ADMIN MENU"
+msgstr "ADMIN MENU"
+
+
+msgid "API Based"
+msgstr "API Baseret"
+
+
+msgid "API Description"
+msgstr "API Beskrivelse"
+
+
+msgid "API Setting"
+msgstr "API Indstillinger"
+
+
+msgid "API Settings"
+msgstr "API Indstillinger"
+
+
+msgid "API Token"
+msgstr "API Token"
+
+
+msgid "API Type"
+msgstr "API Type"
+
+
+msgid "APP User"
+msgstr "APP Bruger"
+
+
+msgid "About Support System"
+msgstr "Om Support System"
+
+
+msgid "Action"
+msgstr "Aktion"
+
+
+msgid "Action Required"
+msgstr "Aktion Krævet"
+
+
+msgid "Active"
+msgstr "Aktiv"
+
+
+msgid "Active Members"
+msgstr "Aktive Brugere"
+
+
+msgid "Active Paid Ticket"
+msgstr "Aktive Betalt Ticket"
+
+
+msgid "Active Paid Tickets"
+msgstr "Aktive Betalte Tickets"
+
+
+msgid "Active Tickets"
+msgstr "Aktive Tickets"
+
+
+msgid "Add New"
+msgstr "Tilføj Ny"
+
+
+msgid "Added By"
+msgstr "Tilføjet Af"
+
+
+msgid "Added On"
+msgstr "Tilføjet Den"
+
+
+msgid "Address"
+msgstr "Adresse"
+
+
+msgid "Address is required"
+msgstr "Adresse er krævet"
+
+
+msgid "Admin Dashboard"
+msgstr "Admin Dashboard"
+
+
+msgid "Admin Report"
+msgstr "Admin Rapport"
+
+
+msgid "Admin Setting"
+msgstr "Admin Indstillinger"
+
+
+msgid "Admin Settings"
+msgstr "Admin Indstillinger"
+
+
+msgid "Admin User"
+msgstr "Admin Bruger"
+
+
+msgid "Admin User Login Security"
+msgstr "Admin User Login Security"
+
+
+msgid "Agent"
+msgstr "Agent"
+
+
+msgid "Agent replied, needs your action"
+msgstr "Agent replied, needs your action"
+
+
+msgid "All Active Tickets"
+msgstr "Aktif Talepler"
+
+
+msgid "All Closed Tickets"
+msgstr "Kapanan Talepler"
+
+
+msgid "All Paid Tickets"
+msgstr "Ödenmiş Talepler"
+
+
+msgid "All Unassigned Tickets"
+msgstr "Atanmamış Talepler"
+
+
+msgid "Amount"
+msgstr "Tutar"
+
+
+msgid "Amount must be between %.2f and %.2f"
+msgstr "Amount must be between  %.2f and  %.2f"
+
+
+msgid "Announcements"
+msgstr "Duyurular"
+
+
+msgid "Announcements List"
+msgstr "Duyuru Listesi"
+
+
+msgid "App Information"
+msgstr "Uygulama Bilgisi"
+
+
+msgid "App Logo"
+msgstr "Uygulama Logosu"
+
+
+msgid "App Update"
+msgstr "Güncelleme"
+
+
+msgid "App White Logo"
+msgstr "App White Logo"
+
+
+msgid "App update information"
+msgstr "App update information"
+
+
+msgid "Application Security Settings"
+msgstr "Application Security Settings"
+
+
+msgid "Application Theme Settings"
+msgstr "Application Theme Settings"
+
+
+msgid "Are you sure to change?"
+msgstr "Emin misin?"
+
+
+msgid "Are you sure to delete?"
+msgstr "Emin misin"
+
+
+msgid "Assigned"
+msgstr "Atandı"
+
+
+msgid "Assigned On"
+msgstr "Atama Tarihi"
+
+
+msgid "Assigned Tickets"
+msgstr "Atanan Talepler"
+
+
+msgid "Attach File"
+msgstr "Dosya Ekle"
+
+
+msgid "Best size is 400px x 400px"
+msgstr "Best size is 400px x 400px"
+
+
+msgid "Birthday"
+msgstr "Doğum Tarihi"
+
+
+msgid "Birthday is required"
+msgstr "Doğum Tarihi gerekli"
+
+
+msgid "Body"
+msgstr "Detay"
+
+
+msgid "Body is required"
+msgstr "Detay gerekli"
+
+
+msgid "Cancel"
+msgstr "İptal"
+
+
+msgid "Canned Message Fields"
+msgstr "Canned Besked Felt"
+
+
+msgid "Canned Message List"
+msgstr "Canned Besked Liste"
+
+
+msgid "Canned Messages"
+msgstr "Canned Beskeder"
+
+
+msgid "Canned Msg"
+msgstr "Canned Besk"
+
+
+msgid "Canned Msg is required"
+msgstr "Canned Beskeder er krævet"
+
+
+msgid "Canned_msg"
+msgstr "Canned_msg"
+
+
+msgid "Categories"
+msgstr "Kategorier"
+
+
+msgid "Category"
+msgstr "Kategori"
+
+
+msgid "Category List"
+msgstr "Kategori Liste"
+
+
+msgid "Category is required"
+msgstr "Kategori er krævet"
+
+
+msgid "Change"
+msgstr "Ændre"
+
+
+msgid "Change Password"
+msgstr "Ændre Password"
+
+
+msgid "Change password of %s"
+msgstr "Ændre Password for  %s"
+
+
+msgid "Choose Homepage"
+msgstr "Vælg Homepage"
+
+
+msgid "Choose Theme"
+msgstr "Vælg Theme"
+
+
+msgid "City"
+msgstr "By"
+
+
+msgid "City is required"
+msgstr "By er krævet"
+
+
+msgid "Click here"
+msgstr "Klik her"
+
+
+msgid "Click on the Image to change"
+msgstr "Klik på billedet for at ændre"
+
+
+msgid "Click on the Image to change or upload."
+msgstr "Klik på billedet for at ændre eller uploade"
+
+
+msgid "Click on the Image to change. Best size hight is 40px"
+msgstr "Klik på billedet for at ændre. Bedste størrelse er 40px"
+
+
+msgid "Click on the Image to change. Best size is 75px x 75px"
+msgstr "Klik på billedet for at ændre. Bedste størrelse er 75px x75px"
+
+
+msgid "Click to see details"
+msgstr "Klik for at se detaljer"
+
+
+msgid "Client"
+msgstr "Klient"
+
+
+msgid "Client List"
+msgstr "Klien Liste"
+
+
+msgid "Close"
+msgstr "Luk"
+
+
+msgid "Close Tickets"
+msgstr "Luk Tickets"
+
+
+msgid "Closed Tickets"
+msgstr "Lukkede Tickets"
+
+
+msgid "Contact Number"
+msgstr "Kontakt Nummer"
+
+
+msgid "Controller Title"
+msgstr "Controller Titel"
+
+
+msgid "Copy Cron Link"
+msgstr "Kopier Cron Link"
+
+
+msgid "Copy callback url"
+msgstr "Kopier callback url"
+
+
+msgid "Country"
+msgstr "Land"
+
+
+msgid "Country Code"
+msgstr "Lande Kode"
+
+
+msgid "Country Name"
+msgstr "Lande Navn"
+
+
+msgid "Country is required"
+msgstr "Land er krævet"
+
+
+msgid "Create Date"
+msgstr "Oprettelses Dato"
+
+
+msgid "Create Ticket"
+msgstr "Opret Ticket"
+
+
+msgid "Create Time"
+msgstr "Oprettet"
+
+
+msgid "Created By"
+msgstr "Oluşturan"
+
+
+msgid "Cron Job Command"
+msgstr "Cron Job Komutu"
+
+
+msgid "Current Ticket Status"
+msgstr "Şu anki talep durumu"
+
+
+msgid "Current version is : %s"
+msgstr "Mevcut versiyon:  %s"
+
+
+msgid "Custom Field List"
+msgstr "Özel Alan Listesi"
+
+
+msgid "Custom Fields"
+msgstr "Özel Alanlar"
+
+
+msgid "Dashboard"
+msgstr "Panel"
+
+
+msgid "Date of Birth"
+msgstr "Doğum Tarihi"
+
+
+msgid "Debug Log"
+msgstr "Debug Log"
+
+
+msgid "Debug Log List"
+msgstr "Debug Log Listesi"
+
+
+msgid "Delete"
+msgstr "Sil"
+
+
+msgid "Description"
+msgstr "Açıklama"
+
+
+msgid "Description is required"
+msgstr "Açıklama gerekli"
+
+
+msgid "Details"
+msgstr "Detaylar"
+
+
+msgid "Details Debug Log"
+msgstr "Debug Log Detay"
+
+
+msgid "Details Log"
+msgstr "Log Detayları"
+
+
+msgid "Details info of IP(192.168.10.71)"
+msgstr "Details info of IP(192.168.10.71)"
+
+
+msgid "Disable this if you want real payment"
+msgstr "Gerçek ödeme için devre dışı bırakın"
+
+
+msgid "DoS Attack Security"
+msgstr "DoS Güvenlik"
+
+
+msgid "Don't upload if you don't want"
+msgstr "İstemiyorsanız yüklemeyin"
+
+
+msgid "Edit"
+msgstr "Güncelle"
+
+
+msgid "Edit Announcements"
+msgstr "Duyuru Güncelle"
+
+
+msgid "Edit Canned Message"
+msgstr "Hazır Mesajı Güncelle"
+
+
+msgid "Edit Category"
+msgstr "Kategori Güncelle"
+
+
+msgid "Edit Client"
+msgstr "Müşteri Güncelle"
+
+
+msgid "Edit IP"
+msgstr "IP Güncelle"
+
+
+msgid "Edit Knowledge"
+msgstr "Konuyu Güncelle"
+
+
+msgid "Edit Role"
+msgstr "Rol Güncelle"
+
+
+msgid "Email"
+msgstr "E-posta"
+
+
+msgid "Email Address"
+msgstr "E-posta Adresi"
+
+
+msgid "Email Outgoing Settings"
+msgstr "Email Outgoing Settings"
+
+
+msgid "Email Settings"
+msgstr "Email Settings"
+
+
+msgid "Email Templates"
+msgstr "Email Templates"
+
+
+msgid "Email Templates List"
+msgstr "Email Templates List"
+
+
+msgid "Email To Ticket Settings"
+msgstr "Email To Ticket Settings"
+
+
+msgid "Email is required"
+msgstr "E-posta gerekli"
+
+
+msgid "Email to Ticket Settings Form"
+msgstr "Email to Ticket Settings Form"
+
+
+msgid "Enable Auto Reload (every %d min)"
+msgstr "Enable Auto Reload (every  %d min)"
+
+
+msgid "Enable Email To Ticket/Reply"
+msgstr "Enable Email To Ticket/Reply"
+
+
+msgid "Enable it if your protocol is secure"
+msgstr "Enable it if your protocol is secure"
+
+
+msgid "Enable it to secure admin/staff user"
+msgstr "Enable it to secure admin/staff user"
+
+
+msgid "Enable this to enable paypal payment"
+msgstr "Enable this to enable paypal payment"
+
+
+msgid "Enable to convert email to ticket"
+msgstr "Enable to convert email to ticket"
+
+
+msgid "End Date"
+msgstr "Bitiş Tarihi"
+
+
+msgid "End Date is required"
+msgstr "Bitiş Tarihi gerekli"
+
+
+msgid "Entry Time"
+msgstr "Entry Time"
+
+
+msgid "Entry Type"
+msgstr "Entry Type"
+
+
+msgid "Envato"
+msgstr "Envato"
+
+
+msgid "Envato Setting"
+msgstr "Envato Setting"
+
+
+msgid "Envato Username"
+msgstr "Envato Username"
+
+
+msgid "Ex. 192.168.10.1"
+msgstr "Ex. 192.168.10.1"
+
+
+msgid "Example: Temporary lock admin or staff user if attempts 5 miss login in 30 minutes"
+msgstr "Example: Temporary lock admin or staff user if attempts 5 miss login in 30 minutes"
+
+
+msgid "Example: if request more then 5 in 5 second then show captcha or block ip"
+msgstr "Example: if request more then 5 in 5 second then show captcha or block ip"
+
+
+msgid "Featured Image"
+msgstr "Öne Çıkarılmış Resim"
+
+
+msgid "File Attached"
+msgstr "Dosya Ekle"
+
+
+msgid "File Type"
+msgstr "Dosya Türü"
+
+
+msgid "First Name"
+msgstr "İsim"
+
+
+msgid "First Name is required"
+msgstr "İsim gerekli"
+
+
+msgid "From"
+msgstr "Kimden"
+
+
+msgid "From Email"
+msgstr "Gönderen E-posta"
+
+
+msgid "From Email is required"
+msgstr "Gönderen E-posta gerekli"
+
+
+msgid "From Name"
+msgstr "Gönderen İsim"
+
+
+msgid "From Name is required"
+msgstr "Gönderen İsim gerekli"
+
+
+msgid "Gender"
+msgstr "Cinsiyet"
+
+
+msgid "General Settings"
+msgstr "Genel Ayarlar"
+
+
+msgid "Generate an API key in your envato account and enter here"
+msgstr "Generate an API key in your envato account and enter here"
+
+
+msgid "Has Super Power"
+msgstr "Has Super Power"
+
+
+msgid "Hello, %s"
+msgstr "Hello,  %s"
+
+
+msgid "Helpfull"
+msgstr "Helpfull"
+
+
+msgid "Home"
+msgstr "Anasayfa"
+
+
+msgid "Host"
+msgstr "Host"
+
+
+msgid "Host & Port"
+msgstr "Host & Port"
+
+
+msgid "Host is required"
+msgstr "Host is required"
+
+
+msgid "IMAP Help"
+msgstr "IMAP Help"
+
+
+msgid "IMAP Settings"
+msgstr "IMAP Settings"
+
+
+msgid "IP"
+msgstr "IP"
+
+
+msgid "IP List"
+msgstr "IP List"
+
+
+msgid "IP is required"
+msgstr "IP is required"
+
+
+msgid "If request more than"
+msgstr "If request more than"
+
+
+msgid "If you don't choose the white logo then primary logo will be displayed in site header"
+msgstr "If you don't choose the white logo then primary logo will be displayed in site header"
+
+
+msgid "If you enable it then app prevent DoS Attack."
+msgstr "If you enable it then app prevent DoS Attack."
+
+
+msgid "If you enable this then logo only show in site header"
+msgstr "If you enable this then logo only show in site header"
+
+
+msgid "If you enable this, then all payment will be in test mode. Don't do this if you want real payment"
+msgstr "If you enable this, then all payment will be in test mode. Don't do this if you want real payment"
+
+
+msgid "If you want to remove license form this site then click"
+msgstr "If you want to remove license form this site then click"
+
+
+msgid "Inactive"
+msgstr "Pasif"
+
+
+msgid "Invalid Information"
+msgstr "Geçersiz bilgi"
+
+
+msgid "Invalid data"
+msgstr "Geçersiz veri"
+
+
+msgid "Is Secure Protocol (SSL)"
+msgstr "Is Secure Protocol (SSL)"
+
+
+msgid "Is Sticky/Pinned ?"
+msgstr "Is Sticky/Pinned ?"
+
+
+msgid "Is it helpfull?"
+msgstr "Is it helpfull?"
+
+
+msgid "It won't show any where, It is just for track"
+msgstr "It won't show any where, It is just for track"
+
+
+msgid "Join : %s"
+msgstr "Join :  %s"
+
+
+msgid "Join Date"
+msgstr "Join Date"
+
+
+msgid "Key is already exists"
+msgstr "Key is already exists"
+
+
+msgid "Knowledge"
+msgstr "Konular"
+
+
+msgid "Knowledge List"
+msgstr "Konu Listesi"
+
+
+msgid "L.Reply Time"
+msgstr "Son cevap zamanı"
+
+
+msgid "Label"
+msgstr "Etiket"
+
+
+msgid "Last Name"
+msgstr "Soyisim"
+
+
+msgid "Last Name is required"
+msgstr "Soyisim gerekli"
+
+
+msgid "Last Replied"
+msgstr "Son cevaplanma"
+
+
+msgid "Last Reply"
+msgstr "Son cevap"
+
+
+msgid "Last Reply Time"
+msgstr "Son cevap zamanı"
+
+
+msgid "Last updated on"
+msgstr "Son  güncelleme tarihi"
+
+
+msgid "Latitude"
+msgstr "Latitude"
+
+
+msgid "License"
+msgstr "License"
+
+
+msgid "License Domain"
+msgstr "License Domain"
+
+
+msgid "License Info"
+msgstr "License Info"
+
+
+msgid "License Information"
+msgstr "License Information"
+
+
+msgid "License Key"
+msgstr "License Key"
+
+
+msgid "License Title"
+msgstr "License Title"
+
+
+msgid "Link"
+msgstr "Link"
+
+
+msgid "Locked User"
+msgstr "Locked User"
+
+
+msgid "Locked User List"
+msgstr "Locked User List"
+
+
+msgid "Log Type"
+msgstr "Log Type"
+
+
+msgid "Login"
+msgstr "Giriş"
+
+
+msgid "Logout"
+msgstr "Çıkış"
+
+
+msgid "Longitude"
+msgstr "Longitude"
+
+
+msgid "MENU"
+msgstr "MENÜ"
+
+
+msgid "Max file size is  %s MB"
+msgstr "Max dosya boyutu  %s MB"
+
+
+msgid "Max file size is %s MB"
+msgstr "Max dosya boyutu  %s MB"
+
+
+msgid "Menu List"
+msgstr "Manü Listesi"
+
+
+msgid "Message"
+msgstr "Mesaj"
+
+
+msgid "Message Details"
+msgstr "Mesaj Detayı"
+
+
+msgid "Method"
+msgstr "Metod"
+
+
+msgid "Miss Login Tried"
+msgstr "Miss Login Tried"
+
+
+msgid "More homepage will be come in next version"
+msgstr "More homepage will be come in next version"
+
+
+msgid "More theme will be come in next version"
+msgstr "More theme will be come in next version"
+
+
+msgid "Most Helpful Articles"
+msgstr "En Popüler Konular"
+
+
+msgid "My Active Paid Tickets"
+msgstr "Ödenmiş Taleplerim"
+
+
+msgid "My Active Tickets"
+msgstr "Aktif Taleplerim"
+
+
+msgid "My Assigned Tickets"
+msgstr "Atanmış Taleplerim"
+
+
+msgid "My Closed Tickets"
+msgstr "Kapanan Taleplerim"
+
+
+msgid "My Dashboard"
+msgstr "Panelim"
+
+
+msgid "My Menu"
+msgstr "Menü"
+
+
+msgid "My Message"
+msgstr "Mesaj"
+
+
+msgid "N"
+msgstr "N"
+
+
+msgid "Name"
+msgstr "İsim"
+
+
+msgid "New Announcements"
+msgstr "Yeni Duyurular"
+
+
+msgid "New Canned Message"
+msgstr "New Canned Message"
+
+
+msgid "New Category"
+msgstr "New Category"
+
+
+msgid "New Client"
+msgstr "New Client"
+
+
+msgid "New Knowledge"
+msgstr "New Knowledge"
+
+
+msgid "New Role"
+msgstr "New Role"
+
+
+msgid "New Ticket"
+msgstr "Yeni Talep"
+
+
+msgid "New Ticket Form"
+msgstr "Talep Formu"
+
+
+msgid "New Window"
+msgstr "Yeni Pencere"
+
+
+msgid "No"
+msgstr "Hayır"
+
+
+msgid "No active ticket found"
+msgstr "Aktif Talep Bulunamadı!"
+
+
+msgid "No closed ticket found"
+msgstr "Kapanan Talep Bulunamadı!"
+
+
+msgid "Not Helpfull"
+msgstr "Yardımı Olmadı"
+
+
+msgid "Notice For"
+msgstr "Not"
+
+
+msgid "Notice Text"
+msgstr "Not"
+
+
+msgid "Notice text is required"
+msgstr "Not gerekli"
+
+
+msgid "Notification"
+msgstr "Uyarı"
+
+
+msgid "Old Password"
+msgstr "Eski Şifre"
+
+
+msgid "Open Ticket"
+msgstr "Açık Talep"
+
+
+msgid "Open Time"
+msgstr "Oluşturma Tarihi"
+
+
+msgid "Opened"
+msgstr "Açıldı"
+
+
+msgid "Opened Time"
+msgstr "Oluşturma Tarihi"
+
+
+msgid "Options"
+msgstr "Seçenekler"
+
+
+msgid "Order"
+msgstr "Düzen"
+
+
+msgid "Page Name"
+msgstr "Sayfa Adı"
+
+
+msgid "Parent Category"
+msgstr "Parent Category"
+
+
+msgid "Parent Category is required"
+msgstr "Ana Kategori gerekli"
+
+
+msgid "Password"
+msgstr "Şifre"
+
+
+msgid "Password is required"
+msgstr "Şifre gerekli"
+
+
+msgid "Password reset"
+msgstr "Şifre sıfırla"
+
+
+msgid "Payer Email"
+msgstr "Ödeyen E-posta"
+
+
+msgid "Payment Amount"
+msgstr "Ödeme Tutarı"
+
+
+msgid "Payment Amount is required"
+msgstr "Ödeme Tutarı gerekli"
+
+
+msgid "Payment Description"
+msgstr "Ödeme Açıklaması"
+
+
+msgid "Payment Details"
+msgstr "Ödeme Detayları"
+
+
+msgid "Payment List"
+msgstr "Ödeme Listesi"
+
+
+msgid "Payment Method Status"
+msgstr "Ödeme Metodu Durumu"
+
+
+msgid "Paypal Setting"
+msgstr "Paypal Ayarı"
+
+
+msgid "Paypal Settings"
+msgstr "Paypal Ayarları"
+
+
+msgid "Permission"
+msgstr "İzinler"
+
+
+msgid "Pinned Articles"
+msgstr "Pinned Articles"
+
+
+msgid "Popular Articles"
+msgstr "Popüler Konular"
+
+
+msgid "Port"
+msgstr "Port"
+
+
+msgid "Port is required"
+msgstr "Port is required"
+
+
+msgid "Posted By"
+msgstr "Gönderen"
+
+
+msgid "Priroty"
+msgstr "Öncelik"
+
+
+msgid "Priroty is required"
+msgstr "Öncelik gerekli"
+
+
+msgid "Process Date"
+msgstr "İşlem Tarihi"
+
+
+msgid "Process Log"
+msgstr "Process Log"
+
+
+msgid "Process Time"
+msgstr "Process Time"
+
+
+msgid "Processing"
+msgstr "İşleniyor..."
+
+
+msgid "Profile"
+msgstr "Profil"
+
+
+msgid "Property"
+msgstr "Property"
+
+
+msgid "Re-Check Update"
+msgstr "Re-Check Update"
+
+
+msgid "Re-Open"
+msgstr "Tekrar Aç"
+
+
+msgid "Read article to provide best support"
+msgstr "Read article to provide best support"
+
+
+msgid "Recent Articles"
+msgstr "Önceki Konular"
+
+
+msgid "Register"
+msgstr "Kayıt Ol"
+
+
+msgid "Remove"
+msgstr "Kaldır"
+
+
+msgid "Remove License"
+msgstr "Remove License"
+
+
+msgid "Replay"
+msgstr "Replay"
+
+
+msgid "Reply"
+msgstr "Cevapla"
+
+
+msgid "Reply To Ticket"
+msgstr "Cevap Yaz"
+
+
+msgid "Reply is required"
+msgstr "Cevap gerekli"
+
+
+msgid "Reply text is required"
+msgstr "Cevap gerekli"
+
+
+msgid "Reply user group"
+msgstr "Kullanıcı Grubunu Cevapla"
+
+
+msgid "Reply user name"
+msgstr "Reply user name"
+
+
+msgid "Request Count is required"
+msgstr "Request Count is required"
+
+
+msgid "Required"
+msgstr "Gerekli"
+
+
+msgid "Reset"
+msgstr "Sıfırla"
+
+
+msgid "Reset link has been sent to the user"
+msgstr "Sıfırlama linki kullanıcıya gönderildi"
+
+
+msgid "Role"
+msgstr "Rol"
+
+
+msgid "Role  List"
+msgstr "Role List"
+
+
+msgid "Role Access"
+msgstr "Role Access"
+
+
+msgid "Role List"
+msgstr "Role List"
+
+
+msgid "Role is required"
+msgstr "Role is required"
+
+
+msgid "SMTP Settings"
+msgstr "SMTP Settings"
+
+
+msgid "STAFF MENU"
+msgstr "STAFF MENU"
+
+
+msgid "Save"
+msgstr "Kaydet"
+
+
+msgid "Schedule"
+msgstr "Schedule"
+
+
+msgid "Search"
+msgstr "Ara"
+
+
+msgid "Seconds is required"
+msgstr "Seconds is required"
+
+
+msgid "Security Settings"
+msgstr "Security Settings"
+
+
+msgid "Select"
+msgstr "Select"
+
+
+msgid "Send"
+msgstr "Gönder"
+
+
+msgid "Sendmail Path"
+msgstr "Sendmail Path"
+
+
+msgid "Sendmail Path is required"
+msgstr "Sendmail Path is required"
+
+
+msgid "Sendmail or SMTP"
+msgstr "Sendmail or SMTP"
+
+
+msgid "Sent Message"
+msgstr "Mesajı Gönder"
+
+
+msgid "Set Status"
+msgstr "Durum Ayarla"
+
+
+msgid "Set this cron command into your server cron list, otherwise email to ticket won't work"
+msgstr "Set this cron command into your server cron list, otherwise email to ticket won't work"
+
+
+msgid "Show IP List"
+msgstr "Show IP List"
+
+
+msgid "Show List"
+msgstr "Show List"
+
+
+msgid "Show Locked User List"
+msgstr "Show Locked User List"
+
+
+msgid "Show On"
+msgstr "Show On"
+
+
+msgid "Show only logo in header"
+msgstr "Show only logo in header"
+
+
+msgid "Site Menu"
+msgstr "Site Menu"
+
+
+msgid "Site Security"
+msgstr "Site Security"
+
+
+msgid "Social Setting"
+msgstr "Social Setting"
+
+
+msgid "Social Settings"
+msgstr "Social Settings"
+
+
+msgid "Start Date"
+msgstr "Start Date"
+
+
+msgid "Start Date is required"
+msgstr "Start Date is required"
+
+
+msgid "Status"
+msgstr "Durum"
+
+
+msgid "Status is required"
+msgstr "Durum gerekli"
+
+
+msgid "Sticky/Pinned"
+msgstr "Sticky/Pinned"
+
+
+msgid "Still Need Support?"
+msgstr "Destek ihtiyacınız mı var?"
+
+
+msgid "Sub Title"
+msgstr "Alt Başlık"
+
+
+msgid "Subject"
+msgstr "Konu"
+
+
+msgid "Successfully Updated"
+msgstr "Güncellendi"
+
+
+msgid "Suggested Knowledge"
+msgstr "Tavsiye Edilen Konular"
+
+
+msgid "Super Admin"
+msgstr "Super Admin"
+
+
+msgid "Supervisor"
+msgstr "Supervisor"
+
+
+msgid "Support System"
+msgstr "Destek Sistemi"
+
+
+msgid "System Update"
+msgstr "Sistem Güncelleme"
+
+
+msgid "Tag"
+msgstr "Etiket"
+
+
+msgid "Tag is required"
+msgstr "Etiket gerekli"
+
+
+msgid "Temporary lock admin or staff user, if attempts"
+msgstr "Temporary lock admin or staff user, if attempts"
+
+
+msgid "Text must be less then %d characters length"
+msgstr "Text must be less then ?haracters length"
+
+
+msgid "Thank you for being with us"
+msgstr "Bizimle olduğunuz için teşekkürler"
+
+
+msgid "The time is base on %s timezone"
+msgstr "The time is base on  %s timezone"
+
+
+msgid "The user who has opened ticket"
+msgstr "Talep oluşturan kullanıcı"
+
+
+msgid "Theme Settings"
+msgstr "Theme Settings"
+
+
+msgid "This email address is already exist"
+msgstr "Bu e-posta adresi daha önce kayıt edilmiş"
+
+
+msgid "Ticket"
+msgstr "Talep"
+
+
+msgid "Ticket Body"
+msgstr "Talep Detayı"
+
+
+msgid "Ticket Body is required"
+msgstr "Talep Detayı gerekli"
+
+
+msgid "Ticket Category"
+msgstr "Kategori"
+
+
+msgid "Ticket Details"
+msgstr "Talep Detayları"
+
+
+msgid "Ticket Feedback"
+msgstr "Geri Bildirim"
+
+
+msgid "Ticket Feedback List"
+msgstr "Geri Bildirim Listesi"
+
+
+msgid "Ticket History"
+msgstr "Talep Geçmişi"
+
+
+msgid "Ticket Information"
+msgstr "Talep Bilgisi"
+
+
+msgid "Ticket Payment Details"
+msgstr "Talep Ödeme Detayları"
+
+
+msgid "Ticket Payment List"
+msgstr "Ticket Payment List"
+
+
+msgid "Ticket Priroty"
+msgstr "Öncelik"
+
+
+msgid "Ticket Status"
+msgstr "Talep Durumu"
+
+
+msgid "Ticket Subject"
+msgstr "Konu"
+
+
+msgid "Ticket Title"
+msgstr "Başlık"
+
+
+msgid "Ticket Track ID"
+msgstr "Talep Takip Numarası"
+
+
+msgid "Ticket User"
+msgstr "Talep Kullanıcısı"
+
+
+msgid "Ticket closed do you want to re-open?"
+msgstr "Talep kapatıldı. Tekrar açmak ister misiniz?"
+
+
+msgid "Ticket subject is required"
+msgstr "Talep konusu gerekli"
+
+
+msgid "Tickets"
+msgstr "Talepler"
+
+
+msgid "Time"
+msgstr "Zaman"
+
+
+msgid "Timezone"
+msgstr "Saat Dilimi"
+
+
+msgid "Title"
+msgstr "Başlık"
+
+
+msgid "Title is required"
+msgstr "Başlık gerekli"
+
+
+msgid "To"
+msgstr "e"
+
+
+msgid "Today's"
+msgstr "Bügünün"
+
+
+msgid "Topbar Icon"
+msgstr "Topbar Icon"
+
+
+msgid "Topbar Icon List"
+msgstr "Topbar Icon List"
+
+
+msgid "Total"
+msgstr "Toplam"
+
+
+msgid "Total Closed Ticket"
+msgstr "Toplam Kapanan Talep"
+
+
+msgid "Total Closed Tickets"
+msgstr "Toplam Kapanan Talep"
+
+
+msgid "Transction ID"
+msgstr "İşlem Numarası"
+
+
+msgid "Type"
+msgstr "Tür"
+
+
+msgid "Tzone is required"
+msgstr "Zaman Dilimi gerekli"
+
+
+msgid "USER MENU"
+msgstr "USER MENU"
+
+
+msgid "Unassigned Tickets"
+msgstr "Atanmamış Talepler"
+
+
+msgid "Update"
+msgstr "Güncelle"
+
+
+msgid "Update User"
+msgstr "Kullanıcıyı Güncelle"
+
+
+msgid "Uploaded file is not  supported"
+msgstr "Yüklediğiniz dosya türü desteklenmiyor"
+
+
+msgid "Use this as your callback url into facebook developer panel"
+msgstr "Use this as your callback url into facebook developer panel"
+
+
+msgid "Use this as your callback url into twitter developer panel"
+msgstr "Use this as your callback url into twitter developer panel"
+
+
+msgid "Use this as your callback url into your google developer console"
+msgstr "Use this as your callback url into your google developer console"
+
+
+msgid "User"
+msgstr "Kulanıcı"
+
+
+msgid "User (Email)"
+msgstr "Kullanıcı E-posta"
+
+
+msgid "User (Email) is required"
+msgstr "Kullanıcı E-posta gerekli"
+
+
+msgid "User Id"
+msgstr "Kullanıcı ID"
+
+
+msgid "User List"
+msgstr "Kullanıcı Listesi"
+
+
+msgid "User Panel"
+msgstr "Kullanıcı Paneli"
+
+
+msgid "User Settings"
+msgstr "Kullanıcı Ayarları"
+
+
+msgid "User is required"
+msgstr "Kullanıcı gerekli"
+
+
+msgid "Username"
+msgstr "Kullanıcı Adı"
+
+
+msgid "Value"
+msgstr "Değer"
+
+
+msgid "Verified"
+msgstr "Onaylandı"
+
+
+msgid "View Details"
+msgstr "Detayları İncele"
+
+
+msgid "View Knowledge"
+msgstr "Konuları İncele"
+
+
+msgid "View Site"
+msgstr "Siteye Git"
+
+
+msgid "View all"
+msgstr "Hepsini İncele"
+
+
+msgid "Views"
+msgstr "Views"
+
+
+msgid "Write here.."
+msgstr "Buraya yazın..."
+
+
+msgid "Write reply here.."
+msgstr "Cevabı buraya yazın..."
+
+
+msgid "Yes"
+msgstr "Evet"
+
+
+msgid "You think it is helpfull"
+msgstr "Yardımcı oldu mu?"
+
+
+msgid "You think it is not helpfull"
+msgstr "Yardımcı olmadı mı?"
+
+
+msgid "Your Site URL"
+msgstr "URL"
+
+
+msgid "Your application is up to date"
+msgstr "Your application is up to date"
+
+
+msgid "Your closed ticket list"
+msgstr "Kapanan talep listesi"
+
+
+msgid "Your current ticket status"
+msgstr "Güncel talep durumu"
+
+
+msgid "Your envato(CodeCanyon, Themeforest,etc) username"
+msgstr "Your envato(CodeCanyon, Themeforest,etc) username"
+
+
+msgid "Your site name"
+msgstr "Your site name"
+
+
+msgid "Your total active tickets"
+msgstr "Toplam aktif talepleriniz"
+
+
+msgid "Youtube Accounts"
+msgstr "Youtube Accounts"
+
+
+msgid "Zip"
+msgstr "Zip"
+
+
+msgid "Zip is required"
+msgstr "Zip is required"
+
+
+msgid "by"
+msgstr "tarafından"
+
+
+msgid "ex.5"
+msgstr "ex.5"
+
+
+msgid "is required"
+msgstr "gerekli"
+
+
+msgid "minuites"
+msgstr "dakika"
+
+
+msgid "miss login in"
+msgstr "miss login in"
+
+
+msgid "on"
+msgstr "on"
+
+
+msgid "seconds, then"
+msgstr "seconds, then"
+
+
+msgid "setup for Social Login"
+msgstr "setup for Social Login"
+
+
+msgid "to get custom payment"
+msgstr "to get custom payment"
+
+
+msgid "Already registered?"
+msgstr "Kayıtlı kullanıcıyım"
+
+
+msgid "E-mail"
+msgstr "E-posta"
+
+
+msgid "Email address is alreay exists"
+msgstr "E-posta zaten kayıtlı"
+
+
+msgid "Forgot password?"
+msgstr "Şifremi unuttum"
+
+
+msgid "Guest Ticket"
+msgstr "Misafir Talep"
+
+
+msgid "Low Priroty"
+msgstr "Düşük Öncelikli"
+
+
+msgid "Not member yet ?"
+msgstr "Kayıt ol"
+
+
+msgid "Open Ticket With Less Priroty"
+msgstr "Daha az seçeneklerle talep oluştur"
+
+
+msgid "Open ticket after login"
+msgstr "Giriş yaparak talep oluştur"
+
+
+msgid "Open ticket after register"
+msgstr "Kayıt olduktan sonra talep oluştur"
+
+
+msgid "Or Login Using"
+msgstr "Or Login Using"
+
+
+msgid "Or Register Using"
+msgstr "Or Register Using"
+
+
+msgid "Or open ticket using"
+msgstr "Or open ticket using"
+
+
+msgid "Submit"
+msgstr "Gönder"
+
+
+msgid "Top Priroty"
+msgstr "Yüksek Öcelikli"
+
+
+msgid "User Login"
+msgstr "Kullanıcı Giriş"
+
+
+msgid "User Registration"
+msgstr "Kullanıcı Kayıt"
+
+
+msgid "You are not logged in. What would you like do now?"
+msgstr "Lütfen bir seçim yapın"
+
+
+msgid "fields are required"
+msgstr "Lütfen gerekli alanları doldurun"
+
+
+msgid "Confirm Password"
+msgstr "Şifre Onay"
+
+
+msgid "Back"
+msgstr "Geri"
+
+
+msgid "%s is not same"
+msgstr "%s aynı değil"
+
+
+msgid "Captcha"
+msgstr "Güvenlik Kodu"
+
+
+msgid "Invalid email address."
+msgstr "Geçersiz e-posta adresi"
+
+
+msgid "New Password"
+msgstr "Yeni Şifre"
+
+
+msgid "The email address is already registered. To login"
+msgstr "E-posta adresi daha önce kayıt edilmiş. Giriş yapmak için"
+
+
+msgid "The value is not a valid %s"
+msgstr "Geçersiz veri"
+
+
+msgid "Uncategories"
+msgstr "Uncategories"
+
+
+msgid "Assigned & Closed"
+msgstr "Assigned & Closed"
+
+
+msgid "CSV Downloaded"
+msgstr "CSV Downloaded"
+
+
+msgid "Change Timezone"
+msgstr "Zaman Dilimi Değiştir"
+
+
+msgid "Change padssword of %s"
+msgstr "Change padssword of  %s"
+
+
+msgid "Change password of Admin User"
+msgstr "Change password of Admin User"
+
+
+msgid "Day Report"
+msgstr "Day Report"
+
+
+msgid "Member since"
+msgstr "Member since"
+
+
+msgid "Month Report"
+msgstr "Month Report"
+
+
+msgid "New User"
+msgstr "Yeni Kullanıcı"
+
+
+msgid "Opened & Closed"
+msgstr "Açık  % Kapalı"
+
+
+msgid "Timezone is required"
+msgstr "Timezone is required"
+
+
+msgid "Tzone"
+msgstr "Tzone"
+
+
+msgid "Sign out"
+msgstr "Çıkış"
+
+
+msgid "Please login to set priroty"
+msgstr "Öncelik seçmek için giriş yapın"
+
+
+msgid "email address"
+msgstr "E-posta adresi"
+
+
+msgid "Allowed File Types"
+msgstr "Dosya türleri"
+
+
+msgid "Any Staff Can Reply"
+msgstr "Any Staff Can Reply"
+
+
+msgid "App Email"
+msgstr "Uygulama E-posta Adresi"
+
+
+msgid "App Language"
+msgstr "App Language"
+
+
+msgid "App Title"
+msgstr "App Title"
+
+
+msgid "Application General Settings"
+msgstr "Application General Settings"
+
+
+msgid "Application Layout"
+msgstr "Application Layout"
+
+
+msgid "Auto Others Color"
+msgstr "Auto Others Color"
+
+
+msgid "Basic Settings"
+msgstr "Basic Settings"
+
+
+msgid "CSS ( Style)"
+msgstr "CSS ( Style)"
+
+
+msgid "Captcha Length"
+msgstr "Captcha Length"
+
+
+msgid "Captcha Settings"
+msgstr "Captcha Settings"
+
+
+msgid "Captcha String Type"
+msgstr "Captcha String Type"
+
+
+msgid "Captcha Type"
+msgstr "Captcha Type"
+
+
+msgid "Charecter Lenght of default captcha"
+msgstr "Charecter Lenght of default captcha"
+
+
+msgid "Choose HTML Editor"
+msgstr "Choose HTML Editor"
+
+
+msgid "Client ID"
+msgstr "Client ID"
+
+
+msgid "Client Photo Upload"
+msgstr "Client Photo Upload"
+
+
+msgid "Copyright Text"
+msgstr "Copyright Text"
+
+
+msgid "Custom CSS & JavaScript"
+msgstr "Custom CSS & JavaScript"
+
+
+msgid "Custom JavaScript"
+msgstr "Custom JavaScript"
+
+
+msgid "Date Format"
+msgstr "Date Format"
+
+
+msgid "Disable Registration"
+msgstr "Disable Registration"
+
+
+msgid "Email Footer Text"
+msgstr "Email Footer Text"
+
+
+msgid "Email Reply Start Text"
+msgstr "Email Reply Start Text"
+
+
+msgid "Enable Force SSL"
+msgstr "Enable Force SSL"
+
+
+msgid "Enable Guest Ticket"
+msgstr "Enable Guest Ticket"
+
+
+msgid "Enable HTML Input"
+msgstr "Enable HTML Input"
+
+
+msgid "Enable Public Ticket"
+msgstr "Enable Public Ticket"
+
+
+msgid "Enable Ticket Feedback"
+msgstr "Enable Ticket Feedback"
+
+
+msgid "Enable User Online Check"
+msgstr "Enable User Online Check"
+
+
+msgid "Ex. Google analytics code, Do not add any tag  like %s"
+msgstr "Ex. Google analytics code, Do not add any tag like  %s"
+
+
+msgid "Feedback Email Title"
+msgstr "Feedback Email Title"
+
+
+msgid "Field"
+msgstr "Field"
+
+
+msgid "File Upload Settings"
+msgstr "File Upload Settings"
+
+
+msgid "Footer Background"
+msgstr "Footer Background"
+
+
+msgid "Footer Text"
+msgstr "Footer Text"
+
+
+msgid "Header Color"
+msgstr "Header Color"
+
+
+msgid "Header Gradient"
+msgstr "Header Gradient"
+
+
+msgid "If enable this then other color will be auto generate based on main color"
+msgstr "If enable this then other color will be auto generate based on main color"
+
+
+msgid "If enable this then the header background will be gradient"
+msgstr "If enable this then the header background will be gradient"
+
+
+msgid "If you disable this then your will get normal text area box insted of html editor"
+msgstr "If you disable this then your will get normal text area box insted of html editor"
+
+
+msgid "If you enable it a feedback email will be sent to ticket user email address after closing ticket"
+msgstr "If you enable it a feedback email will be sent to ticket user email address after closing ticket"
+
+
+msgid "If you enable it then any visitor can open ticket without registration"
+msgstr "If you enable it then any visitor can open ticket without registration"
+
+
+msgid "If you enable it then captcha will show in admin login form"
+msgstr "If you enable it then captcha will show in admin login form"
+
+
+msgid "If you enable it then captcha will show in client login form"
+msgstr "If you enable it then captcha will show in client login form"
+
+
+msgid "If you enable it then captcha will show in client registration form"
+msgstr "If you enable it then captcha will show in client registration form"
+
+
+msgid "If you enable it then captcha will show in guest ticket opening form"
+msgstr "If you enable it then captcha will show in guest ticket opening form"
+
+
+msgid "If you enable it then user can open their ticket as public mode. Where any user can replay"
+msgstr "If you enable it then user can open their ticket as public mode. Where any user can replay"
+
+
+msgid "If you enable it then user can upload file when they open ticket and reply any ticket"
+msgstr "If you enable it then user can upload file when they open ticket and reply any ticket"
+
+
+msgid "If you enable it, then any staff can reply on any ticket, if disable then only assigned staff can reply."
+msgstr "If you enable it, then any staff can reply on any ticket, if disable then only assigned staff can reply."
+
+
+msgid "If you enable it, then you can able to upload their profile photo"
+msgstr "If you enable it, then you can able to upload their profile photo"
+
+
+msgid "If you enable this then this app will check SSL Request, if not then it will redirect to SSL URL."
+msgstr "If you enable this then this app will check SSL Request, if not then it will redirect to SSL URL."
+
+
+msgid "If you enable this then this app will check and show user online status."
+msgstr "If you enable this then this app will check and show user online status."
+
+
+msgid "It will effect in next reload. If you want to now then refresh after save."
+msgstr "It will effect in next reload. If you want to now then refresh after save."
+
+
+msgid "It's background color of footer. Empty value will be auto from main color"
+msgstr "It's background color of footer. Empty value will be auto from main color"
+
+
+msgid "It's background color of menu bar. Empty value will be auto from main color"
+msgstr "It's background color of menu bar. Empty value will be auto from main color"
+
+
+msgid "It's background color of menu text color when active. Empty value will be auto from main color"
+msgstr "It's background color of menu text color when active. Empty value will be auto from main color"
+
+
+msgid "It's text color of footer. Empty value will be auto from main color"
+msgstr "It's text color of footer. Empty value will be auto from main color"
+
+
+msgid "It's the background color of welcome message. But you can choose any text color on any text of welcome message using editor. Empty value will be auto from main color"
+msgstr "It's the background color of welcome message. But you can choose any text color on any text of welcome message using editor. Empty value will be auto from main color"
+
+
+msgid "It's the color of anchor link and heading(h1,h2,h3,h4) Color. Empty value will be auto from main color"
+msgstr "It's the color of anchor link and heading(h1,h2,h3,h4) Color. Empty value will be auto from main color"
+
+
+msgid "Its background color of header"
+msgstr "Its background color of header"
+
+
+msgid "Keep empty if you don't want to show any footer"
+msgstr "Keep empty if you don't want to show any footer"
+
+
+msgid "Keep empty if you don't want to show any footer on email"
+msgstr "Keep empty if you don't want to show any footer on email"
+
+
+msgid "Keep empty if you don't want to show any footer on site copy write text"
+msgstr "Keep empty if you don't want to show any footer on site copy write text"
+
+
+msgid "Keep empty if you don't want to show any message"
+msgstr "Keep empty if you don't want to show any message"
+
+
+msgid "Layout & Color Settings"
+msgstr "Layout & Color Settings"
+
+
+msgid "Link And Heading Text"
+msgstr "Link And Heading Text"
+
+
+msgid "Main Color"
+msgstr "Main Color"
+
+
+msgid "Main site color is defined for application main color of client site."
+msgstr "Main site color is defined for application main color of client site."
+
+
+msgid "Max Upload File Size"
+msgstr "Max Upload File Size"
+
+
+msgid "Menu Active Text Color"
+msgstr "Menu Active Text Color"
+
+
+msgid "Menu Background"
+msgstr "Menu Background"
+
+
+msgid "Nagative Feedback Message"
+msgstr "Nagative Feedback Message"
+
+
+msgid "Nagative Message"
+msgstr "Nagative Message"
+
+
+msgid "On Admin Login"
+msgstr "On Admin Login"
+
+
+msgid "On Client Login"
+msgstr "On Client Login"
+
+
+msgid "On Client Registration"
+msgstr "On Client Registration"
+
+
+msgid "On Guest Ticket"
+msgstr "On Guest Ticket"
+
+
+msgid "Only enter css code. Do not add any tag like %s"
+msgstr "Only enter css code. Do not add any tag like  %s"
+
+
+msgid "Positive Feedback Message"
+msgstr "Positive Feedback Message"
+
+
+msgid "Positive Message"
+msgstr "Positive Message"
+
+
+msgid "Registration  of visitor. If you disable this then visitor can't register. Only registered client can open ticket after login"
+msgstr "Registration of visitor. If you disable this then visitor can't register. Only registered client can open ticket after login"
+
+
+msgid "Site Copyright Text"
+msgstr "Site Copyright Text"
+
+
+msgid "Site Key"
+msgstr "Site Key"
+
+
+msgid "The value is not a numeric"
+msgstr "Girdiğiniz değer sayısal değil"
+
+
+msgid "Ticket File Upload"
+msgstr "Ticket File Upload"
+
+
+msgid "Ticket Settings"
+msgstr "Ticket Settings"
+
+
+msgid "Time Format"
+msgstr "Time Format"
+
+
+msgid "Value must be between 1 to 99"
+msgstr "Girdiğiniz değer 1 ila 99 arasında olmalı"
+
+
+msgid "Welcome & Footer Text"
+msgstr "Welcome & Footer Text"
+
+
+msgid "Welcome Background"
+msgstr "Welcome Background"
+
+
+msgid "Welcome Message"
+msgstr "Welcome Message"
+
+
+msgid "Welcome Text"
+msgstr "Welcome Text"
+
+
+msgid "ex. 2"
+msgstr "ex. 2"
+
+
+msgid "Successfully updated"
+msgstr "Successfully updated"
+
+
+msgid "Language changed. Reloading"
+msgstr "Language changed. Reloading"
+
+
+msgid "Download CSV"
+msgstr "Download CSV"
+
+
+msgid "No Record Found"
+msgstr "Kayıt bulunamadı"
+
+
+msgid "Reload"
+msgstr "Tekrar Yükle"
+
+
+msgid "Sign In"
+msgstr "Giriş Yap"
+
+
+msgid "Sign in to start your session"
+msgstr "Sign in to start your session"
+
+
+msgid "Admin Panel"
+msgstr "Admin Panel"
+
+
+msgid "%s is invalid"
+msgstr "%s geçersiz"
+
+
+msgid "A ticket email has been sent to your email. Please check that"
+msgstr "A ticket email has been sent to your email. Please check that"
+
+
+msgid "Admin Notification Settings"
+msgstr "Admin Notification Settings"
+
+
+msgid "Are you sure to assign yourself?"
+msgstr "Are you sure to assign yourself?"
+
+
+msgid "Are you sure to assign?"
+msgstr "Are you sure to assign?"
+
+
+msgid "Assign Me"
+msgstr "Assign Me"
+
+
+msgid "Captcha Success"
+msgstr "Captcha Success"
+
+
+msgid "Content"
+msgstr "İçerik"
+
+
+msgid "Controller"
+msgstr "Controller"
+
+
+msgid "Email Field Details"
+msgstr "Email Field Details"
+
+
+msgid "Email Notification Settings"
+msgstr "Email Notification Settings"
+
+
+msgid "Email Notification Settions"
+msgstr "Email Notification Settions"
+
+
+msgid "Email Template updated successfully"
+msgstr "Email Template updated successfully"
+
+
+msgid "Email template for  ANR"
+msgstr "Email template for ANR"
+
+
+msgid "Enable Admin Notificaiton"
+msgstr "Enable Admin Notificaiton"
+
+
+msgid "File Size"
+msgstr "Dosya Boyutu"
+
+
+msgid "If you enable this then admin will get notification"
+msgstr "If you enable this then admin will get notification"
+
+
+msgid "If you enable this then admin will get notification on ticket open"
+msgstr "If you enable this then admin will get notification on ticket open"
+
+
+msgid "If you enable this then admin will get notification on ticket user reply"
+msgstr "If you enable this then admin will get notification on ticket user reply"
+
+
+msgid "Logging in.."
+msgstr "Logging in.."
+
+
+msgid "Name of ticket user"
+msgstr "Name of ticket user"
+
+
+msgid "New Ticket Opened"
+msgstr "New Ticket Opened"
+
+
+msgid "Notification Email"
+msgstr "Notification Email"
+
+
+msgid "Notification Settings"
+msgstr "Notification Settings"
+
+
+msgid "Notification Settions"
+msgstr "Notification Settions"
+
+
+msgid "On Admin/staff Reply"
+msgstr "On Admin/staff Reply"
+
+
+msgid "On Screen Notificaiton Settings"
+msgstr "On Screen Notificaiton Settings"
+
+
+msgid "On Ticket Open"
+msgstr "On Ticket Open"
+
+
+msgid "On Ticket User Reply"
+msgstr "On Ticket User Reply"
+
+
+msgid "Page List"
+msgstr "Page List"
+
+
+msgid "Please wait"
+msgstr "Lütfen bekleyin"
+
+
+msgid "Replied Text"
+msgstr "Replied Text"
+
+
+msgid "Reply text"
+msgstr "Reply text"
+
+
+msgid "Resource"
+msgstr "Resource"
+
+
+msgid "Set Assign"
+msgstr "Set Assign"
+
+
+msgid "Successfully added"
+msgstr "Eklendi"
+
+
+msgid "Template List"
+msgstr "Template List"
+
+
+msgid "Thank you, your ticket has been opened successfully"
+msgstr "Teşekkürler. Talep başarıyla oluşturuldu!"
+
+
+msgid "Ticket Open By Guest"
+msgstr "Ticket Open By Guest"
+
+
+msgid "Ticket Other's Info"
+msgstr "Diğer Talep Bilgileri"
+
+
+msgid "Ticket Replied by : %s"
+msgstr "Talep  %s tarafından cevaplandı"
+
+
+msgid "Ticket cateroty"
+msgstr "Talep Kategorisi"
+
+
+msgid "Ticket link"
+msgstr "Talep Bağlantısı"
+
+
+msgid "Ticket open or reply notification settings"
+msgstr "Ticket open or reply notification settings"
+
+
+msgid "Update Email Template"
+msgstr "Update Email Template"
+
+
+msgid "User Ticket"
+msgstr "Kullanıcı Talebi"
+
+
+msgid "User who replied"
+msgstr "User who replied"
+
+
+msgid "View Ticket Details"
+msgstr "Talep Detayları"
+
+
+msgid "ex. email@domain.com"
+msgstr "Ör. email@alanadi.com"
+
+
+msgid "updated"
+msgstr "Güncellendi"
+
+
+msgid "%s is not a valid URL"
+msgstr "%s is not a valid URL"
+
+
+msgid "Admin Panel Language"
+msgstr "Admin Panel Language"
+
+
+msgid "Admin will hear tone on notification if enabled"
+msgstr "Admin will hear tone on notification if enabled"
+
+
+msgid "App Settings"
+msgstr "App Settings"
+
+
+msgid "Application All Settings"
+msgstr "Application All Settings"
+
+
+msgid "Are you sure to dismiss?"
+msgstr "Are you sure to dismiss?"
+
+
+msgid "Authentication failed!. May be remote server rejected."
+msgstr "Authentication failed!. May be remote server rejected."
+
+
+msgid "Button Color"
+msgstr "Renk"
+
+
+msgid "Button Text"
+msgstr "Button Text"
+
+
+msgid "Button Text Color"
+msgstr "Button Text Color"
+
+
+msgid "Button Txt"
+msgstr "Button Txt"
+
+
+msgid "Button View"
+msgstr "Button View"
+
+
+msgid "Button image updated successfully"
+msgstr "Resim yükleme başarılı"
+
+
+msgid "Captcha is required"
+msgstr "Güvenlik kodu gerekli"
+
+
+msgid "Closed On"
+msgstr "Tarihinde Kapandı"
+
+
+msgid "Current Status"
+msgstr "Şu anki durum"
+
+
+msgid "Custom %s"
+msgstr "Custom  %s"
+
+
+msgid "Default login system form won't not show if it enabled"
+msgstr "Default login system form won't not show if it enabled"
+
+
+msgid "Default login system form won't not show if it enabled, but Remote Login & Social login will show if those are enabled"
+msgstr "Default login system form won't not show if it enabled, but Remote Login & Social login will show if those are enabled"
+
+
+msgid "Disable Default Login"
+msgstr "Disable Default Login"
+
+
+msgid "Disable Guest Open Popup"
+msgstr "Disable Guest Open Popup"
+
+
+msgid "Edit Remote Login"
+msgstr "Edit Remote Login"
+
+
+msgid "Email to Ticket"
+msgstr "Email to Ticket"
+
+
+msgid "Enable Tone (Sound)"
+msgstr "Enable Tone (Sound)"
+
+
+msgid "Featured Video"
+msgstr "Featured Video"
+
+
+msgid "File Upload"
+msgstr "Dosya Yükle"
+
+
+msgid "If you enable this then admin will hear tone on notification"
+msgstr "If you enable this then admin will hear tone on notification"
+
+
+msgid "If you enable this then guest user also get all priroty as dropdown option"
+msgstr "If you enable this then guest user also get all priroty as dropdown option"
+
+
+msgid "It is your remote server login URL. You can add extra parameter to detect, %s"
+msgstr "It is your remote server login URL. You can add extra parameter to detect,  %s"
+
+
+msgid "It is your remote server login URL. You can add extra parameter to detect, ex. %s"
+msgstr "It is your remote server login URL. You can add extra parameter to detect, ex.  %s"
+
+
+msgid "It is your remote server login URL. You can add extra parameter to detect, ex. http://zyz.com?from=support-system"
+msgstr "It is your remote server login URL. You can add extra parameter to detect, ex. http://zyz.com?from=support-system"
+
+
+msgid "It will redirect to home page within"
+msgstr "It will redirect to home page within"
+
+
+msgid "It will send this key in verification process as param"
+msgstr "It will send this key in verification process as param"
+
+
+msgid "Keep empty if you don't want show any video"
+msgstr "Keep empty if you don't want show any video"
+
+
+msgid "Last Replied On"
+msgstr "Son cevap tarihi"
+
+
+msgid "Layout & Color"
+msgstr "Layout & Color"
+
+
+msgid "Log uploaded"
+msgstr "Log uploaded"
+
+
+msgid "Login Email"
+msgstr "Giriş E-posta"
+
+
+msgid "Login Link"
+msgstr "Login Link"
+
+
+msgid "Login URL"
+msgstr "Login URL"
+
+
+msgid "Login Using"
+msgstr "Giriş Yap"
+
+
+msgid "NB. %s will be your server's api key, by this we validate the response"
+msgstr "NB.  %s will be your server's api key, by this we validate the response"
+
+
+msgid "NB. %s will be your server's login token, by this it can validated the user"
+msgstr "NB.  %s will be your server's login token, by this it can validated the user"
+
+
+msgid "New Remote Login"
+msgstr "New Remote Login"
+
+
+msgid "Normally visitor will show a popup it s/he doesn't logged in. If you don't want to show that then enable it"
+msgstr "Normally visitor will show a popup it s/he doesn't logged in. If you don't want to show that then enable it"
+
+
+msgid "Notification Tone (Sound)"
+msgstr "Notification Tone (Sound)"
+
+
+msgid "Opened On"
+msgstr "Açılma Tarihi"
+
+
+msgid "Our server will post to this URL with the response token.%s Post paramater will be look like %s"
+msgstr "Our server will post to this URL with the response token. %s Post paramater will be look like  %s"
+
+
+msgid "Pay Now"
+msgstr "Pay Now"
+
+
+msgid "Payment Added"
+msgstr "Payment Added"
+
+
+msgid "Preview"
+msgstr "Preview"
+
+
+msgid "Private Key"
+msgstr "Private Key"
+
+
+msgid "Remote Login"
+msgstr "Remote Login"
+
+
+msgid "Remote Login Error"
+msgstr "Remote Login Error"
+
+
+msgid "Remote Login List"
+msgstr "Remote Login List"
+
+
+msgid "Remote Server Login"
+msgstr "Uzak Sunucu Girişi"
+
+
+msgid "Remote_server"
+msgstr "Remote_server"
+
+
+msgid "Request Count"
+msgstr "Request Count"
+
+
+msgid "Response Data Error"
+msgstr "Response Data Error"
+
+
+msgid "Response URL"
+msgstr "Response URL"
+
+
+msgid "Same As Admin"
+msgstr "Same As Admin"
+
+
+msgid "Seconds"
+msgstr "Seconds"
+
+
+msgid "Select icon"
+msgstr "Select icon"
+
+
+msgid "Server Type"
+msgstr "Server Type"
+
+
+msgid "Show all priroty on Guest Ticket"
+msgstr "Show all priroty on Guest Ticket"
+
+
+msgid "Site Language"
+msgstr "Dil"
+
+
+msgid "Site Theme Settings"
+msgstr "Site Theme Settings"
+
+
+msgid "Social Login Setting"
+msgstr "Social Login Setting"
+
+
+msgid "Successfully Dismissed"
+msgstr "Kaldırıldı"
+
+
+msgid "Successfully deleted"
+msgstr "Silindi"
+
+
+msgid "Successfully logged in"
+msgstr "Giriş yaptınız"
+
+
+msgid "Successfully saved"
+msgstr "Kaydedildi"
+
+
+msgid "Thank you for registering with us"
+msgstr "Kayıt olduğunuz için teşekkürler"
+
+
+msgid "Theme"
+msgstr "Tema"
+
+
+msgid "This account has been temporary locked for 30 minutes, try again later or contact with admin to unlock"
+msgstr "This account has been temporary locked for 30 minutes, try again later or contact with admin to unlock"
+
+
+msgid "This servers's configuration"
+msgstr "This servers's configuration"
+
+
+msgid "Ticket Email"
+msgstr "Talep Epostası"
+
+
+msgid "Ticket Re-Opened"
+msgstr "Talep Yeniden Açıldı"
+
+
+msgid "Unknown"
+msgstr "Unknown"
+
+
+msgid "User Login Using"
+msgstr "User Login Using"
+
+
+msgid "Valid Url"
+msgstr "Valid Url"
+
+
+msgid "Validation URL"
+msgstr "Validation URL"
+
+
+msgid "Video"
+msgstr "Video"
+
+
+msgid "View Update Details"
+msgstr "View Update Details"
+
+
+msgid "Welcome to"
+msgstr "Hoşgeldiniz"
+
+
+msgid "Your server's redirect URL"
+msgstr "Your server's redirect URL"
+

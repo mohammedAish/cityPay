@@ -1,0 +1,494 @@
+//out:color.css, compress: true, sourceMap: false
+@app_main_color: #0B8EC2;
+@app_header_bg: #fff;
+@app_header_text_color: #6e6e6e;
+@app_header_text_icon: #ffffff;
+@app_navbar_bg: @app_main_color;
+@app_navbar_menu_acive_bg: darken(@app_navbar_bg, 20); //rgba(0, 0, 0, 0.5);
+@app_navbar_menu_bg_hover: darken(@app_navbar_bg, 10); //rgba(0, 0, 0, 0.5);
+@app_navbar_menu_acive_text_color: lighten(@app_navbar_menu_acive_bg, 90); //rgba(0, 0, 0, 0.5);
+@footer_bg_color: darken(@app_main_color, 25);
+@footer_text_color: lighten(@app_main_color, 90);
+@app_text_color: @app_main_color;
+@app_welcome_bg: darken(@app_main_color, 5);
+@app_welcome_text: #fff;
+a {
+    color: @app_text_color;
+    &:hover {
+        color: darken(@app_text_color, 20);
+        text-decoration: none;
+    }
+}
+
+h1,
+h2,
+h3,
+h4 {
+    color: @app_text_color;
+}
+
+.app-welcome-msg {
+    background: @app_welcome_bg;
+    border-color: darken(@app_welcome_bg, 5);
+    &,
+    >* {
+        color: @app_welcome_text;
+    }
+}
+
+.kn-list>li.is-sticky::before {
+    color: @app_main_color;
+}
+
+.app-header {
+    background: @app_header_bg;
+}
+
+.app-header-gredient {
+    @app_header_bg2: darken(@app_header_bg, 15);
+    background: -moz-linear-gradient(top, @app_header_bg 0%, @app_header_bg2 100%);
+    background: -webkit-linear-gradient(top, @app_header_bg 0%, @app_header_bg2 100%);
+    background: linear-gradient(to bottom, @app_header_bg 0%, @app_header_bg2 100%);
+    filter: e(%("progid:DXImageTransform.Microsoft.gradient(startColorstr='%d', endColorstr='%d', GradientType=0)", @app_header_bg, @app_header_bg2));
+}
+
+.app-navbar,
+.navbar-default {
+    background: @app_navbar_bg;
+    border-color: rgba(0, 0, 0, 0.14);
+    .navbar-header {
+        .navbar-brand {
+            text-transform: uppercase;
+        }
+        .navbar-toggle {
+            border: 1px solid lighten(@app_main_color, 80);
+            background: darken(@app_main_color, 20);
+            color: @app_text_color;
+            border: 1px solid rgba(255, 255, 255, 0.582);
+            box-shadow: 0 0 3px -2px #000;
+            .icon-bar {
+                background-color: #888;
+            }
+        }
+    }
+    .nav,
+    .navbar-nav {
+        >li {
+            border-left: 1px solid darken(@app_navbar_bg, 10);
+            /* -webkit-border-image: -webkit-linear-gradient(left, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.58) 40%, rgba(0, 0, 0, 0) 100%) 0 0 1 1;
+            -moz-border-image: -moz-linear-gradient(left, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.58) 40%, rgba(0, 0, 0, 0) 100%) 0 0 1 1;
+            -o-border-image: -o-linear-gradient(left, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.58) 40%, rgba(0, 0, 0, 0) 100%) 0 0 1 1;
+            border-image: linear-gradient(to top, rgba(255, 255, 255, 0) 0px, rgba(255, 255, 255, 0.58) 40%, rgba(0, 0, 0, 0) 100%) 0 0 1 1 ;     */
+            border-top: 0;
+            border-bottom: 0;
+            /*margin-right: -2px;*/
+            a {
+                color: #fff;
+                &:hover {
+                    background: @app_navbar_menu_bg_hover;
+                    color: @app_navbar_menu_acive_text_color;
+                }
+                &:focus {
+                    color: @app_navbar_menu_acive_text_color;
+                }
+                img {
+                    border-radius: 50%;
+                    -webkit-border-radius: 50%;
+                    -moz-border-radius: 50%;
+                    float: left;
+                    height: 25px;
+                    margin-right: 10px;
+                    margin-top: -2px;
+                    width: 25px;
+                    border: 2px solid darken(@app_navbar_bg, 15);
+                }
+            }
+            &.active {
+                a,
+                a:hover {
+                    background: @app_navbar_menu_acive_bg;
+                    color: @app_navbar_menu_acive_text_color;
+                }
+            }
+            ul {
+                background: @app_navbar_menu_acive_bg;
+                border-top-left-radius: 4px;
+                padding-top: 0;
+                padding-bottom: 0;
+                margin-right: -0.2px;
+                li {
+                    /* background:@app_navbar_menu_acive_bg;*/
+                    border-bottom: 1px dotted darken(@app_navbar_menu_acive_bg, 10);
+                    a {
+                        i {
+                            margin-right: 5px;
+                        }
+                        padding: 10px;
+                    }
+                }
+                li:last-child {
+                    border-bottom: none;
+                }
+            }
+        }
+    }
+    .navbar-toggle {
+        border-color: #aaaaaa;
+        background-color: #ffffff;
+    }
+    .navbar-brand {
+        color: #fff;
+    }
+}
+
+.client-my-menu {
+    >li {
+        width: 100%;
+        padding: 0;
+        >label {
+            line-height: 12px;
+            font-size: 16px;
+            padding: 10px;
+        }
+        a {
+            display: block;
+            padding: 10px;
+            text-decoration: none;
+            &:hover {
+                background: @app_navbar_menu_bg_hover;
+                color: @app_navbar_menu_acive_text_color;
+            }
+            &.active {
+                background: lighten(@app_navbar_menu_bg_hover, 10);
+                color: @app_navbar_menu_acive_text_color;
+            }
+        }
+    }
+}
+
+.navbar-default .navbar-nav>.open>a,
+.navbar-default .navbar-nav>.open>a:focus,
+.navbar-default .navbar-nav>.open>a:hover {
+    background: @app_navbar_menu_acive_bg !important;
+    color: @app_navbar_menu_acive_text_color !important;
+}
+
+footer {
+    background-color: @footer_bg_color;
+    color: @footer_text_color;
+}
+
+.site-theme .mfp-dialog .dialog-icon {
+    background-image: -moz-linear-gradient(232deg, darken(@app_main_color, 15), lighten(@app_main_color, 15), darken(@app_main_color, 35)) !important;
+    background-image: -o-linear-gradient(232deg, darken(@app_main_color, 15), lighten(@app_main_color, 15), darken(@app_main_color, 35)) !important;
+    background-image: -webkit-linear-gradient(232deg, darken(@app_main_color, 15), lighten(@app_main_color, 15), darken(@app_main_color, 35)) !important;
+    background-image: linear-gradient(232deg, darken(@app_main_color, 15), lighten(@app_main_color, 15), darken(@app_main_color, 35)) !important;
+}
+
+.app-header-features>li {
+    .header-feature-title {
+        color: @app_header_text_color;
+    }
+    .header-feature-sub-title {
+        color: lighten(@app_header_text_color, 10);
+    }
+    .fa {
+        background: @app_header_text_color;
+        border-radius: 50%;
+        color: @app_header_text_icon;
+    }
+}
+
+.btn-icon-list {
+    .panel {
+        border-color: darken(@app_welcome_bg, 5);
+        .tag-note {
+            background: darken(@app_welcome_bg, 5);
+            &.less-priroty {
+                background: #F6F868;
+                color: #000;
+            }
+        }
+    }
+}
+
+.client-dashboard {
+    .active-text {
+        color: lighten(@app_main_color, 5);
+    }
+    .closed-text {
+        color: rgb(23, 184, 44);
+    }
+    .action-req-text {
+        color: rgb(179, 10, 32);
+    }
+}
+
+@media all and (max-width: 640px) {
+    .navbar-client-menu {
+        position: relative;
+        margin-bottom: 0;
+        box-shadow: 0 1px 3px -2px #000;
+        height: auto;
+        min-height: 30px !important;
+        .navbar-header {
+            background: lighten(@app_main_color, 30);
+            border: 1px solid darken(@app_main_color, 10);
+            height: 40px;
+            overflow: hidden;
+            position: relative;
+            margin-bottom: -2px;
+            .navbar-brand {
+                float: left;
+                height: 45px;
+                padding: 6px 15px;
+                font-size: 15px !important;
+                line-height: 30px;
+                font-weight: bold;
+                color: @app_navbar_menu_acive_text_color;
+                z-index: 10;
+                text-transform: uppercase;
+                margin-bottom: -2px;
+                >img {
+                    border-radius: 50%;
+                    border: 2px solid darken(@app_main_color, 10);
+                    max-width: 27px;
+                    min-height: 27px;
+                    border-radius: 50%;
+                    float: left;
+                    margin-right: 5px;
+                     ::after {
+                        content: ' ';
+                        clear: both;
+                    }
+                }
+            }
+            .navbar-toggle {
+                border: 1px solid lighten(@app_main_color, 80);
+                background: darken(@app_main_color, 20);
+                color: @app_text_color;
+                border: 1px solid rgba(255, 255, 255, 0.582);
+                box-shadow: 0 0 3px -2px #000;
+                padding: 6px 10px;
+                margin-top: 5px;
+                margin-right: 15px;
+                margin-bottom: 8px;
+                .icon-bar {
+                    background-color: #888;
+                }
+            }
+        }
+        .navbar-collapse,
+        .sidebar-navbar-collaps {
+            padding: 0;
+            z-index: 9;
+            position: relative;
+        }
+    }
+    .client-my-menu.list-group {
+        margin-bottom: 0;
+        li:nth-child(2) {
+            border-top: 2px solid darken(@app_main_color, 10);
+        }
+        li:last-child {
+            border-radius: 0;
+            border-bottom: none; //2px solid darken(@app_main_color,10);
+            margin-bottom: -1px;
+        }
+    }
+}
+
+.profile-container {
+    @profile_color1: lighten(@app_main_color, 70);
+    @profile_color2: lighten(@app_main_color, 59);
+    background: @profile_color1;
+    background: -moz-linear-gradient(top, @profile_color1 0%, @profile_color2 100%);
+    background: -webkit-linear-gradient(top, @profile_color1 0%, @profile_color2 100%);
+    background: linear-gradient(to bottom, @profile_color1 0%, @profile_color2 100%);
+    filter: e(%("progid:DXImageTransform.Microsoft.gradient(startColorstr='%d', endColorstr='%d', GradientType=0)", @profile_color1, @profile_color2));
+}
+
+.btn-theme {
+    color: #fff;
+    background-color: darken(@app_main_color, 15);
+    border-color: darken(@app_main_color, 20);
+    &:hover,
+    &:focus {
+        color: #fff;
+        background-color: darken(@app_main_color, 25);
+    }
+}
+
+.btn-theme-light {
+    color: #fff;
+    background-color: darken(@app_main_color, 5);
+    border-color: darken(@app_main_color, 10);
+    &:hover,
+    &:focus {
+        color: #fff !important;
+        background-color: darken(@app_main_color, 10);
+    }
+}
+
+.src-container {
+    display: none;
+    .panel-body {
+        box-shadow: 0 0 7px 2px darken(@app_main_color, 10);
+        .app-loader {
+            display: none;
+        }
+    }
+}
+.cat-container{
+    font-size: 12px;
+    vertical-align: middle;
+    .src-category{
+        color:lighten(@app_main_color,10);
+    }
+}
+
+
+.cookie-bar {
+    -webkit-box-shadow: 0 -5px 5px -3px darken(@app_text_color, 20);;
+    -moz-box-shadow: 0 -5px 5px -3px darken(@app_text_color, 20);
+    box-shadow: 0 -5px 5px -3px darken(@app_text_color, 20);
+    font-size: 16px;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    min-height: 50px;
+    z-index: 1000;
+    adding: 15px 0px 15px 0;
+
+    a {
+        color: inherit;
+        font-weight: bold;
+    }
+
+    .app-c-msg-container {
+        text-align: justify;
+
+    }
+
+    .acpt-btn {
+        color: #0e0e0e;
+        margin: 10px 0;
+    }
+}
+
+//for 2nd theme
+.site-theme-2 {
+    .container-fluid .app-navbar {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .app-client-2-header {
+        background: @app_navbar_bg;
+        margin-left: -15px;
+        margin-right: -15px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .app-header {
+        background: transparent;
+    }
+    .app-navbar,
+    .navbar-default {
+        background: rgba(0, 0, 0, 0.10);
+        border-color: #0000001a;
+    }
+
+    .app-navbar-2 {
+
+        .app-logo-container {
+            padding-top: 15px;
+
+            .app-logo-img {
+                margin: -12px 1px 0 0;
+
+            }
+            .app-title {
+                color: #fff;
+                padding-top: 0px;
+                line-height: 15px;
+            }
+            &.app-logo-container-full{
+                padding-top: 0;
+                .app-logo-img {
+                    max-height: 68px;
+                    height: auto !important;
+                    min-height: 35px;
+                }
+            }
+        }
+    }
+    .go_top {
+        border-radius: 50%;
+        width: 50px;
+        height: 50px;
+        position: fixed;
+        bottom: 20px;
+        right: 50px;
+        background: rgba(red(@app_navbar_bg), green(@app_navbar_bg), blue(@app_navbar_bg), 0.6);
+        border: 3px solid rgba(red(@app_navbar_bg), green(@app_navbar_bg), blue(@app_navbar_bg), 0.95);
+        margin: 7px 0;
+        z-index: 1010;
+    }
+    .sticky-menu {
+        background: rgba(red(@app_navbar_bg), green(@app_navbar_bg), blue(@app_navbar_bg), 0.9);
+        border-bottom: 3px solid darken(@app_navbar_bg, 2);
+    }
+    .app-navbar .nav > li.active a,
+    .navbar-default .nav > li.active a,
+    .app-navbar .navbar-nav > li.active a,
+    .navbar-default .navbar-nav > li.active a,
+    .app-navbar .nav > li.active a:hover,
+    .navbar-default .nav > li.active a:hover,
+    .app-navbar .navbar-nav > li.active a:hover,
+    .navbar-default .navbar-nav > li.active a:hover {
+        background: transparent;
+        color: #fff;
+        font-weight: bold;
+    }
+    .need-support-panel {
+        padding: 0 15px 10px 15px;
+        background: #F5F8FA;
+    }
+    .app-header-bottom {
+        .app-welcome-msg {
+            background: transparent;
+            border: none;
+            > .h1,
+            > .h2,
+            > .h3,
+            > h1,
+            > h2,
+            > h3 {
+                margin-top: 10px;
+                margin-bottom: 0px;
+            }
+        }
+        background: transparent;
+        .src-main-container {
+            max-width: 700px;
+            width: 90%;
+            margin: 0 auto;
+            padding-bottom: 30px;
+            float: unset;
+            .form-group-lg .input-group .input-group-addon {
+                background: #fff;
+            }
+        }
+    }
+    .content-header {
+        h1,
+        h2,
+        h3,
+        h4 {
+            color: lighten(@app_text_color, 70);
+            margin: 10px 0;
+        }
+    }
+
+}

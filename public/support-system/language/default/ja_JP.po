@@ -1,0 +1,4972 @@
+msgid ""
+msgstr ""                   
+"Project-Id-Version: v1.0 \n"
+"POT-Creation-Date: 2016-10-29 01:29+0600\n"
+"PO-Revision-Date: 2016-10-29 01:29+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: UTF-8\n"
+"Language: ja-JP\n"
+"X-Generator: AppsBD Translator App\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+msgid "!! You need to click save button to complete"
+msgstr "!!あなたは完了ボタンをクリックする必要があります"
+
+
+msgid "%s Popular Knowledge"
+msgstr "％s人気のある知識"
+
+
+msgid "%s Settings"
+msgstr "％sの設定"
+
+
+msgid "%s is required"
+msgstr "％sが必要です"
+
+
+msgid "ADMIN MENU"
+msgstr "管理メニュー"
+
+
+msgid "API Based"
+msgstr "APIベース"
+
+
+msgid "API Description"
+msgstr "APIの説明"
+
+
+msgid "API Setting"
+msgstr "API設定"
+
+
+msgid "API Settings"
+msgstr "API設定"
+
+
+msgid "API Token"
+msgstr "APIトークン"
+
+
+msgid "API Type"
+msgstr "APIタイプ"
+
+
+msgid "APP User"
+msgstr "APPユーザー"
+
+
+msgid "About Support System"
+msgstr "サポートシステムについて"
+
+
+msgid "Action"
+msgstr "アクション"
+
+
+msgid "Action Required"
+msgstr "必要な処置"
+
+
+msgid "Active"
+msgstr "アクティブ"
+
+
+msgid "Active Members"
+msgstr "アクティブなメンバー"
+
+
+msgid "Active Paid Ticket"
+msgstr "アクティブな有料チケット"
+
+
+msgid "Active Paid Tickets"
+msgstr "アクティブな有料チケット"
+
+
+msgid "Active Tickets"
+msgstr "アクティブなチケット"
+
+
+msgid "Add New"
+msgstr "新しく追加する"
+
+
+msgid "Added By"
+msgstr "によって追加"
+
+
+msgid "Added On"
+msgstr "追加された"
+
+
+msgid "Address"
+msgstr "住所"
+
+
+msgid "Address is required"
+msgstr "アドレスは必須です"
+
+
+msgid "Admin Dashboard"
+msgstr "管理ダッシュボード"
+
+
+msgid "Admin Report"
+msgstr "管理者レポート"
+
+
+msgid "Admin Setting"
+msgstr "管理者の設定"
+
+
+msgid "Admin Settings"
+msgstr "管理者の設定"
+
+
+msgid "Admin User"
+msgstr "管理者ユーザー"
+
+
+msgid "Admin User Login Security"
+msgstr "管理者ユーザーのログインセキュリティ"
+
+
+msgid "Agent"
+msgstr "エージェント"
+
+
+msgid "Agent replied, needs your action"
+msgstr "エージェントはあなたの行動が必要であると答えました"
+
+
+msgid "All Active Tickets"
+msgstr "すべてのアクティブなチケット"
+
+
+msgid "All Closed Tickets"
+msgstr "すべての閉会したチケット"
+
+
+msgid "All Paid Tickets"
+msgstr "すべての有料チケット"
+
+
+msgid "All Unassigned Tickets"
+msgstr "未割り当てのチケットすべて"
+
+
+msgid "Amount"
+msgstr "量"
+
+
+msgid "Amount must be between %.2f and %.2f"
+msgstr "金額は％.2fから％.2fの間でなければなりません"
+
+
+msgid "Announcements"
+msgstr "お知らせ"
+
+
+msgid "Announcements List"
+msgstr "お知らせリスト"
+
+
+msgid "App Information"
+msgstr "アプリ情報"
+
+
+msgid "App Logo"
+msgstr "アプリロゴ"
+
+
+msgid "App Update"
+msgstr "アプリのアップデート"
+
+
+msgid "App White Logo"
+msgstr "アプリホワイトロゴ"
+
+
+msgid "App update information"
+msgstr "アプリ更新情報"
+
+
+msgid "Application Security Settings"
+msgstr "アプリケーションのセキュリティ設定"
+
+
+msgid "Application Theme Settings"
+msgstr "アプリケーションテーマの設定"
+
+
+msgid "Are you sure to change?"
+msgstr "変更してもよろしいですか？"
+
+
+msgid "Are you sure to delete?"
+msgstr "削除してもよろしいですか？"
+
+
+msgid "Assigned"
+msgstr "割り当て済み"
+
+
+msgid "Assigned On"
+msgstr "割り当て済み"
+
+
+msgid "Assigned Tickets"
+msgstr "割り当てられたチケット"
+
+
+msgid "Attach File"
+msgstr "ファイルを添付する"
+
+
+msgid "Best size is 400px x 400px"
+msgstr "最適サイズは400px x 400pxです"
+
+
+msgid "Birthday"
+msgstr "お誕生日"
+
+
+msgid "Birthday is required"
+msgstr "誕生日が必要です"
+
+
+msgid "Body"
+msgstr "体"
+
+
+msgid "Body is required"
+msgstr "ボディが必要です"
+
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+
+msgid "Canned Message Fields"
+msgstr "缶入りのメッセージフィールド"
+
+
+msgid "Canned Message List"
+msgstr "缶入りメッセージリスト"
+
+
+msgid "Canned Messages"
+msgstr "未処理のメッセージ"
+
+
+msgid "Canned Msg"
+msgstr "缶詰メッセージ"
+
+
+msgid "Canned Msg is required"
+msgstr "缶詰のメッセージが必要です"
+
+
+msgid "Canned_msg"
+msgstr "Canned_msg"
+
+
+msgid "Categories"
+msgstr "カテゴリー"
+
+
+msgid "Category"
+msgstr "カテゴリー"
+
+
+msgid "Category List"
+msgstr "カテゴリ一覧"
+
+
+msgid "Category is required"
+msgstr "カテゴリは必須です"
+
+
+msgid "Change"
+msgstr "変化する"
+
+
+msgid "Change Password"
+msgstr "パスワードを変更する"
+
+
+msgid "Change password of %s"
+msgstr "％sのパスワードを変更する"
+
+
+msgid "Choose Homepage"
+msgstr "ホームページを選択"
+
+
+msgid "Choose Theme"
+msgstr "テーマを選択"
+
+
+msgid "City"
+msgstr "シティ"
+
+
+msgid "City is required"
+msgstr "市が必要です"
+
+
+msgid "Click here"
+msgstr "ここをクリック"
+
+
+msgid "Click on the Image to change"
+msgstr "変更するイメージをクリックしてください"
+
+
+msgid "Click on the Image to change or upload."
+msgstr "変更またはアップロードするには、画像をクリックしてください。"
+
+
+msgid "Click on the Image to change. Best size hight is 40px"
+msgstr "変更する画像をクリックします。ベストサイズの高さは40ピクセルです"
+
+
+msgid "Click on the Image to change. Best size is 75px x 75px"
+msgstr "変更する画像をクリックします。最適サイズは75ピクセルx 75ピクセルです"
+
+
+msgid "Click to see details"
+msgstr "クリックすると詳細が表示されます"
+
+
+msgid "Client"
+msgstr "クライアント"
+
+
+msgid "Client List"
+msgstr "クライアントリスト"
+
+
+msgid "Close"
+msgstr "閉じる"
+
+
+msgid "Close Tickets"
+msgstr "チケットを閉じる"
+
+
+msgid "Closed Tickets"
+msgstr "クローズドチケット"
+
+
+msgid "Contact Number"
+msgstr "連絡先番号"
+
+
+msgid "Controller Title"
+msgstr "コントローラタイトル"
+
+
+msgid "Copy Cron Link"
+msgstr "コピーCronリンク"
+
+
+msgid "Copy callback url"
+msgstr "コールバックURLをコピーする"
+
+
+msgid "Country"
+msgstr "国"
+
+
+msgid "Country Code"
+msgstr "国コード"
+
+
+msgid "Country Name"
+msgstr "国の名前"
+
+
+msgid "Country is required"
+msgstr "国が必要です"
+
+
+msgid "Create Date"
+msgstr "日付を作成します"
+
+
+msgid "Create Ticket"
+msgstr "チケットを作成する"
+
+
+msgid "Create Time"
+msgstr "時間を作る"
+
+
+msgid "Created By"
+msgstr "によって作成された"
+
+
+msgid "Cron Job Command"
+msgstr "Cronジョブコマンド"
+
+
+msgid "Current Ticket Status"
+msgstr "現在のチケットステータス"
+
+
+msgid "Current version is : %s"
+msgstr "現在のバージョン：％s"
+
+
+msgid "Custom Field List"
+msgstr "カスタムフィールドリスト"
+
+
+msgid "Custom Fields"
+msgstr "カスタムフィールド"
+
+
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+
+msgid "Date of Birth"
+msgstr "生年月日"
+
+
+msgid "Debug Log"
+msgstr "デバッグログ"
+
+
+msgid "Debug Log List"
+msgstr "デバッグログリスト"
+
+
+msgid "Delete"
+msgstr "削除"
+
+
+msgid "Description"
+msgstr "説明"
+
+
+msgid "Description is required"
+msgstr "説明が必要です"
+
+
+msgid "Details"
+msgstr "詳細"
+
+
+msgid "Details Debug Log"
+msgstr "詳細デバッグログ"
+
+
+msgid "Details Log"
+msgstr "詳細ログ"
+
+
+msgid "Details info of IP(192.168.10.71)"
+msgstr "IPの詳細情報（192.168.10.71）"
+
+
+msgid "Disable this if you want real payment"
+msgstr "本当の支払いが必要な場合はこれを無効にする"
+
+
+msgid "DoS Attack Security"
+msgstr "DoS攻撃のセキュリティ"
+
+
+msgid "Don't upload if you don't want"
+msgstr "あなたがしたくない場合はアップロードしないでください"
+
+
+msgid "Edit"
+msgstr "編集"
+
+
+msgid "Edit Announcements"
+msgstr "お知らせを編集する"
+
+
+msgid "Edit Canned Message"
+msgstr "缶詰のメッセージを編集する"
+
+
+msgid "Edit Category"
+msgstr "カテゴリーを編集"
+
+
+msgid "Edit Client"
+msgstr "クライアントの編集"
+
+
+msgid "Edit IP"
+msgstr "IP編集"
+
+
+msgid "Edit Knowledge"
+msgstr "知識を編集する"
+
+
+msgid "Edit Role"
+msgstr "役割の編集"
+
+
+msgid "Email"
+msgstr "Eメール"
+
+
+msgid "Email Address"
+msgstr "電子メールアドレス"
+
+
+msgid "Email Outgoing Settings"
+msgstr "メール送信設定"
+
+
+msgid "Email Settings"
+msgstr "メール設定"
+
+
+msgid "Email Templates"
+msgstr "メールテンプレート"
+
+
+msgid "Email Templates List"
+msgstr "メールテンプレート一覧"
+
+
+msgid "Email To Ticket Settings"
+msgstr "電子メールのチケット設定"
+
+
+msgid "Email is required"
+msgstr "メールが必要です"
+
+
+msgid "Email to Ticket Settings Form"
+msgstr "チケットの設定フォームへの電子メール"
+
+
+msgid "Enable Auto Reload (every %d min)"
+msgstr "自動リロードを有効にする（毎分％d分）"
+
+
+msgid "Enable Email To Ticket/Reply"
+msgstr "チケットまたは返信に電子メールを有効にする"
+
+
+msgid "Enable it if your protocol is secure"
+msgstr "プロトコルが安全な場合は有効にしてください"
+
+
+msgid "Enable it to secure admin/staff user"
+msgstr "それを有効にしてadmin / staffユーザーを保護する"
+
+
+msgid "Enable this to enable paypal payment"
+msgstr "Paypalの支払いを有効にするにはこれを有効にする"
+
+
+msgid "Enable to convert email to ticket"
+msgstr "電子メールをチケットに変換できるようにする"
+
+
+msgid "End Date"
+msgstr "終了日"
+
+
+msgid "End Date is required"
+msgstr "終了日は必須です"
+
+
+msgid "Entry Time"
+msgstr "エントリー時間"
+
+
+msgid "Entry Type"
+msgstr "エントリタイプ"
+
+
+msgid "Envato"
+msgstr "エンバト"
+
+
+msgid "Envato Setting"
+msgstr "エンバト設定"
+
+
+msgid "Envato Username"
+msgstr "エンバトユーザー名"
+
+
+msgid "Ex. 192.168.10.1"
+msgstr "Ex。 192.168.10.1"
+
+
+msgid "Example: Temporary lock admin or staff user if attempts 5 miss login in 30 minutes"
+msgstr "例：仮ロック管理者またはスタッフのユーザーが試行回数5分でログインに失敗した場合"
+
+
+msgid "Example: if request more then 5 in 5 second then show captcha or block ip"
+msgstr "例：5秒間に5回以上リクエストした場合は、captchaを表示するか、ブロックする"
+
+
+msgid "Featured Image"
+msgstr "注目の画像"
+
+
+msgid "File Attached"
+msgstr "ファイルが添付された"
+
+
+msgid "File Type"
+msgstr "ファイルの種類"
+
+
+msgid "First Name"
+msgstr "ファーストネーム"
+
+
+msgid "First Name is required"
+msgstr "ファーストネームは必須です"
+
+
+msgid "From"
+msgstr "から"
+
+
+msgid "From Email"
+msgstr "電子メールから"
+
+
+msgid "From Email is required"
+msgstr "送信元は必須です"
+
+
+msgid "From Name"
+msgstr "名前から"
+
+
+msgid "From Name is required"
+msgstr "From Nameは必須です"
+
+
+msgid "Gender"
+msgstr "性別"
+
+
+msgid "General Settings"
+msgstr "一般設定"
+
+
+msgid "Generate an API key in your envato account and enter here"
+msgstr "envatoアカウントにAPIキーを生成し、ここに入力してください"
+
+
+msgid "Has Super Power"
+msgstr "スーパーパワーを持っている"
+
+
+msgid "Hello, %s"
+msgstr "こんにちは、％s"
+
+
+msgid "Helpfull"
+msgstr "助けてください"
+
+
+msgid "Home"
+msgstr "ホーム"
+
+
+msgid "Host"
+msgstr "ホスト"
+
+
+msgid "Host & Port"
+msgstr "ホスト＆ポート"
+
+
+msgid "Host is required"
+msgstr "ホストが必要です"
+
+
+msgid "IMAP Help"
+msgstr "IMAPヘルプ"
+
+
+msgid "IMAP Settings"
+msgstr "IMAPの設定"
+
+
+msgid "IP"
+msgstr "IP"
+
+
+msgid "IP List"
+msgstr "IPリスト"
+
+
+msgid "IP is required"
+msgstr "IPが必要です"
+
+
+msgid "If request more than"
+msgstr "要求以上の場合"
+
+
+msgid "If you don't choose the white logo then primary logo will be displayed in site header"
+msgstr "白いロゴを選択しないと、サイトのヘッダーにプライマリロゴが表示されます"
+
+
+msgid "If you enable it then app prevent DoS Attack."
+msgstr "それを有効にすると、アプリはDoS攻撃を防ぎます。"
+
+
+msgid "If you enable this then logo only show in site header"
+msgstr "これを有効にすると、ロゴはサイトのヘッダーにのみ表示されます"
+
+
+msgid "If you enable this, then all payment will be in test mode. Don't do this if you want real payment"
+msgstr "これを有効にすると、すべての支払いがテストモードになります。本当の支払いが必要な場合はこれをしないでください"
+
+
+msgid "If you want to remove license form this site then click"
+msgstr "ライセンスフォームをこのサイトから削除する場合は、をクリックします。"
+
+
+msgid "Inactive"
+msgstr "非アクティブ"
+
+
+msgid "Invalid Information"
+msgstr "無効な情報"
+
+
+msgid "Invalid data"
+msgstr "無効なデータ"
+
+
+msgid "Is Secure Protocol (SSL)"
+msgstr "セキュリティ保護されたプロトコル（SSL）"
+
+
+msgid "Is Sticky/Pinned ?"
+msgstr "スティッキー/固定ですか？"
+
+
+msgid "Is it helpfull?"
+msgstr "それは役に立ちますか？"
+
+
+msgid "It won't show any where, It is just for track"
+msgstr "それはどこにも表示されません、それはトラックのためだけです"
+
+
+msgid "Join : %s"
+msgstr "参加：％s"
+
+
+msgid "Join Date"
+msgstr "参加日"
+
+
+msgid "Key is already exists"
+msgstr "キーは既に存在します"
+
+
+msgid "Knowledge"
+msgstr "知識"
+
+
+msgid "Knowledge List"
+msgstr "知識リスト"
+
+
+msgid "L.Reply Time"
+msgstr "L.応答時間"
+
+
+msgid "Label"
+msgstr "ラベル"
+
+
+msgid "Last Name"
+msgstr "苗字"
+
+
+msgid "Last Name is required"
+msgstr "姓は必須です"
+
+
+msgid "Last Replied"
+msgstr "最後に返信"
+
+
+msgid "Last Reply"
+msgstr "最後の返信"
+
+
+msgid "Last Reply Time"
+msgstr "最後の応答時間"
+
+
+msgid "Last updated on"
+msgstr "最終更新日"
+
+
+msgid "Latitude"
+msgstr "緯度"
+
+
+msgid "License"
+msgstr "ライセンス"
+
+
+msgid "License Domain"
+msgstr "ライセンスドメイン"
+
+
+msgid "License Info"
+msgstr "ライセンス情報"
+
+
+msgid "License Information"
+msgstr "ライセンス情報"
+
+
+msgid "License Key"
+msgstr "ライセンスキー"
+
+
+msgid "License Title"
+msgstr "ライセンスのタイトル"
+
+
+msgid "Link"
+msgstr "リンク"
+
+
+msgid "Locked User"
+msgstr "ロックされたユーザー"
+
+
+msgid "Locked User List"
+msgstr "ロックされたユーザーリスト"
+
+
+msgid "Log Type"
+msgstr "ログの種類"
+
+
+msgid "Login"
+msgstr "ログイン"
+
+
+msgid "Logout"
+msgstr "ログアウト"
+
+
+msgid "Longitude"
+msgstr "経度"
+
+
+msgid "MENU"
+msgstr "メニュー"
+
+
+msgid "Max file size is  %s MB"
+msgstr "最大ファイルサイズは％s MBです"
+
+
+msgid "Max file size is %s MB"
+msgstr "最大ファイルサイズは％s MBです"
+
+
+msgid "Menu List"
+msgstr "メニューリスト"
+
+
+msgid "Message"
+msgstr "メッセージ"
+
+
+msgid "Message Details"
+msgstr "メッセージの詳細"
+
+
+msgid "Method"
+msgstr "方法"
+
+
+msgid "Miss Login Tried"
+msgstr "ミスログイン試した"
+
+
+msgid "More homepage will be come in next version"
+msgstr "より多くのホームページは次のバージョンに来る"
+
+
+msgid "More theme will be come in next version"
+msgstr "もっとテーマは次のバージョンに来る"
+
+
+msgid "Most Helpful Articles"
+msgstr "最も役に立つ記事"
+
+
+msgid "My Active Paid Tickets"
+msgstr "私のアクティブ有料チケット"
+
+
+msgid "My Active Tickets"
+msgstr "私のアクティブなチケット"
+
+
+msgid "My Assigned Tickets"
+msgstr "私の割り当てられたチケット"
+
+
+msgid "My Closed Tickets"
+msgstr "私の休みのチケット"
+
+
+msgid "My Dashboard"
+msgstr "私のダッシュボード"
+
+
+msgid "My Menu"
+msgstr "マイメニュー"
+
+
+msgid "My Message"
+msgstr "私のメッセージ"
+
+
+msgid "N"
+msgstr "N"
+
+
+msgid "Name"
+msgstr "名"
+
+
+msgid "New Announcements"
+msgstr "新しいお知らせ"
+
+
+msgid "New Canned Message"
+msgstr "新しい缶詰メッセージ"
+
+
+msgid "New Category"
+msgstr "新たなカテゴリー"
+
+
+msgid "New Client"
+msgstr "新しいクライアント"
+
+
+msgid "New Knowledge"
+msgstr "新しい知識"
+
+
+msgid "New Role"
+msgstr "新しい役割"
+
+
+msgid "New Ticket"
+msgstr "新しいチケット"
+
+
+msgid "New Ticket Form"
+msgstr "新しいチケットフォーム"
+
+
+msgid "New Window"
+msgstr "新しい窓"
+
+
+msgid "No"
+msgstr "いいえ"
+
+
+msgid "No active ticket found"
+msgstr "有効なチケットが見つかりません"
+
+
+msgid "No closed ticket found"
+msgstr "クローズドチケットが見つかりません"
+
+
+msgid "Not Helpfull"
+msgstr "役に立たない"
+
+
+msgid "Notice For"
+msgstr "お知らせ"
+
+
+msgid "Notice Text"
+msgstr "通知テキスト"
+
+
+msgid "Notice text is required"
+msgstr "通知テキストは必須です"
+
+
+msgid "Notification"
+msgstr "お知らせ"
+
+
+msgid "Old Password"
+msgstr "以前のパスワード"
+
+
+msgid "Open Ticket"
+msgstr "チケットを開く"
+
+
+msgid "Open Time"
+msgstr "オープンタイム"
+
+
+msgid "Opened"
+msgstr "開かれた"
+
+
+msgid "Opened Time"
+msgstr "開かれた時間"
+
+
+msgid "Options"
+msgstr "オプション"
+
+
+msgid "Order"
+msgstr "注文"
+
+
+msgid "Page Name"
+msgstr "ページ名"
+
+
+msgid "Parent Category"
+msgstr "親カテゴリ"
+
+
+msgid "Parent Category is required"
+msgstr "親カテゴリは必須です"
+
+
+msgid "Password"
+msgstr "パスワード"
+
+
+msgid "Password is required"
+msgstr "パスワードが必要"
+
+
+msgid "Password reset"
+msgstr "パスワードのリセット"
+
+
+msgid "Payer Email"
+msgstr "支払人のメール"
+
+
+msgid "Payment Amount"
+msgstr "支払金額"
+
+
+msgid "Payment Amount is required"
+msgstr "お支払い金額が必要です"
+
+
+msgid "Payment Description"
+msgstr "支払明細"
+
+
+msgid "Payment Details"
+msgstr "支払詳細"
+
+
+msgid "Payment List"
+msgstr "支払いリスト"
+
+
+msgid "Payment Method Status"
+msgstr "お支払い方法のステータス"
+
+
+msgid "Paypal Setting"
+msgstr "Paypalの設定"
+
+
+msgid "Paypal Settings"
+msgstr "Paypalの設定"
+
+
+msgid "Permission"
+msgstr "許可"
+
+
+msgid "Pinned Articles"
+msgstr "固定記事"
+
+
+msgid "Popular Articles"
+msgstr "人気記事"
+
+
+msgid "Port"
+msgstr "ポート"
+
+
+msgid "Port is required"
+msgstr "港が必要です"
+
+
+msgid "Posted By"
+msgstr "投稿者"
+
+
+msgid "Priroty"
+msgstr "優先"
+
+
+msgid "Priroty is required"
+msgstr "優先順位が必要です"
+
+
+msgid "Process Date"
+msgstr "処理日"
+
+
+msgid "Process Log"
+msgstr "プロセスログ"
+
+
+msgid "Process Time"
+msgstr "処理時間"
+
+
+msgid "Processing"
+msgstr "処理"
+
+
+msgid "Profile"
+msgstr "プロフィール"
+
+
+msgid "Property"
+msgstr "プロパティ"
+
+
+msgid "Re-Check Update"
+msgstr "再チェックの更新"
+
+
+msgid "Re-Open"
+msgstr "再オープン"
+
+
+msgid "Read article to provide best support"
+msgstr "最高のサポートを提供する記事を読む"
+
+
+msgid "Recent Articles"
+msgstr "最近の記事"
+
+
+msgid "Register"
+msgstr "登録"
+
+
+msgid "Remove"
+msgstr "削除する"
+
+
+msgid "Remove License"
+msgstr "ライセンスを削除する"
+
+
+msgid "Replay"
+msgstr "リプレイ"
+
+
+msgid "Reply"
+msgstr "応答"
+
+
+msgid "Reply To Ticket"
+msgstr "チケットに返信する"
+
+
+msgid "Reply is required"
+msgstr "返信が必要です"
+
+
+msgid "Reply text is required"
+msgstr "返信テキストは必須です"
+
+
+msgid "Reply user group"
+msgstr "返信ユーザーグループ"
+
+
+msgid "Reply user name"
+msgstr "返信ユーザー名"
+
+
+msgid "Request Count is required"
+msgstr "リクエストカウントが必要です"
+
+
+msgid "Required"
+msgstr "必須"
+
+
+msgid "Reset"
+msgstr "リセット"
+
+
+msgid "Reset link has been sent to the user"
+msgstr "リセットリンクがユーザーに送信されました"
+
+
+msgid "Role"
+msgstr "役割"
+
+
+msgid "Role  List"
+msgstr "ロールリスト"
+
+
+msgid "Role Access"
+msgstr "役割アクセス"
+
+
+msgid "Role List"
+msgstr "ロールリスト"
+
+
+msgid "Role is required"
+msgstr "役割は必須です"
+
+
+msgid "SMTP Settings"
+msgstr "SMTP設定"
+
+
+msgid "STAFF MENU"
+msgstr "スタッフメニュー"
+
+
+msgid "Save"
+msgstr "セーブ"
+
+
+msgid "Schedule"
+msgstr "スケジュール"
+
+
+msgid "Search"
+msgstr "サーチ"
+
+
+msgid "Seconds is required"
+msgstr "秒が必要です"
+
+
+msgid "Security Settings"
+msgstr "セキュリティ設定"
+
+
+msgid "Select"
+msgstr "選択"
+
+
+msgid "Send"
+msgstr "送信"
+
+
+msgid "Sendmail Path"
+msgstr "Sendmailのパス"
+
+
+msgid "Sendmail Path is required"
+msgstr "Sendmailのパスが必要です"
+
+
+msgid "Sendmail or SMTP"
+msgstr "SendmailまたはSMTP"
+
+
+msgid "Sent Message"
+msgstr "送信済みメッセージ"
+
+
+msgid "Set Status"
+msgstr "状態を設定する"
+
+
+msgid "Set this cron command into your server cron list, otherwise email to ticket won't work"
+msgstr "このcronコマンドをサーバーのcronリストに設定してください。それ以外の場合は電子メールでチケットが動作しません"
+
+
+msgid "Show IP List"
+msgstr "IPリストを表示する"
+
+
+msgid "Show List"
+msgstr "リストを表示する"
+
+
+msgid "Show Locked User List"
+msgstr "ロックされたユーザーリストを表示する"
+
+
+msgid "Show On"
+msgstr "表示する"
+
+
+msgid "Show only logo in header"
+msgstr "ヘッダーにロゴのみを表示する"
+
+
+msgid "Site Menu"
+msgstr "サイトメニュー"
+
+
+msgid "Site Security"
+msgstr "サイトのセキュリティ"
+
+
+msgid "Social Setting"
+msgstr "社会的環境"
+
+
+msgid "Social Settings"
+msgstr "社会的な設定"
+
+
+msgid "Start Date"
+msgstr "開始日"
+
+
+msgid "Start Date is required"
+msgstr "開始日は必須です"
+
+
+msgid "Status"
+msgstr "状態"
+
+
+msgid "Status is required"
+msgstr "ステータスは必須です"
+
+
+msgid "Sticky/Pinned"
+msgstr "スティッキー/ピンニング"
+
+
+msgid "Still Need Support?"
+msgstr "まだサポートが必要ですか？"
+
+
+msgid "Sub Title"
+msgstr "副題"
+
+
+msgid "Subject"
+msgstr "件名"
+
+
+msgid "Successfully Updated"
+msgstr "正常に更新されました"
+
+
+msgid "Suggested Knowledge"
+msgstr "推奨される知識"
+
+
+msgid "Super Admin"
+msgstr "スーパー管理者"
+
+
+msgid "Supervisor"
+msgstr "スーパーバイザ"
+
+
+msgid "Support System"
+msgstr "サポートシステム"
+
+
+msgid "System Update"
+msgstr "システムアップデート"
+
+
+msgid "Tag"
+msgstr "タグ"
+
+
+msgid "Tag is required"
+msgstr "タグは必須です"
+
+
+msgid "Temporary lock admin or staff user, if attempts"
+msgstr "一時的なロック管理者またはスタッフのユーザー（試行の場合）"
+
+
+msgid "Text must be less then %d characters length"
+msgstr "テキストは％d文字以下の長さでなければなりません"
+
+
+msgid "Thank you for being with us"
+msgstr "私たちと一緒にいてくれてありがとう"
+
+
+msgid "The time is base on %s timezone"
+msgstr "時刻は％sのタイムゾーンに基づいています"
+
+
+msgid "The user who has opened ticket"
+msgstr "チケットを開封したユーザー"
+
+
+msgid "Theme Settings"
+msgstr "テーマ設定"
+
+
+msgid "This email address is already exist"
+msgstr "このメールアドレスは既に存在します"
+
+
+msgid "Ticket"
+msgstr "チケット"
+
+
+msgid "Ticket Body"
+msgstr "チケット本体"
+
+
+msgid "Ticket Body is required"
+msgstr "チケット本体が必要です"
+
+
+msgid "Ticket Category"
+msgstr "チケットカテゴリ"
+
+
+msgid "Ticket Details"
+msgstr "チケットの詳細"
+
+
+msgid "Ticket Feedback"
+msgstr "チケットのフィードバック"
+
+
+msgid "Ticket Feedback List"
+msgstr "チケットフィードバックリスト"
+
+
+msgid "Ticket History"
+msgstr "チケットの履歴"
+
+
+msgid "Ticket Information"
+msgstr "チケット情報"
+
+
+msgid "Ticket Payment Details"
+msgstr "チケットの支払いの詳細"
+
+
+msgid "Ticket Payment List"
+msgstr "チケットお支払いリスト"
+
+
+msgid "Ticket Priroty"
+msgstr "チケット優先度"
+
+
+msgid "Ticket Status"
+msgstr "チケットのステータス"
+
+
+msgid "Ticket Subject"
+msgstr "チケットの件名"
+
+
+msgid "Ticket Title"
+msgstr "チケットのタイトル"
+
+
+msgid "Ticket Track ID"
+msgstr "チケットトラックID"
+
+
+msgid "Ticket User"
+msgstr "チケットユーザ"
+
+
+msgid "Ticket closed do you want to re-open?"
+msgstr "チケットをもう一度開封しますか？"
+
+
+msgid "Ticket subject is required"
+msgstr "チケットの対象は必須です"
+
+
+msgid "Tickets"
+msgstr "切符売場"
+
+
+msgid "Time"
+msgstr "時間"
+
+
+msgid "Timezone"
+msgstr "タイムゾーン"
+
+
+msgid "Title"
+msgstr "タイトル"
+
+
+msgid "Title is required"
+msgstr "タイトルが必要です"
+
+
+msgid "To"
+msgstr "に"
+
+
+msgid "Today's"
+msgstr "今日の"
+
+
+msgid "Topbar Icon"
+msgstr "トップバーアイコン"
+
+
+msgid "Topbar Icon List"
+msgstr "トップバーアイコンリスト"
+
+
+msgid "Total"
+msgstr "合計"
+
+
+msgid "Total Closed Ticket"
+msgstr "トータル・クローズド・チケット"
+
+
+msgid "Total Closed Tickets"
+msgstr "クローズドチケットの合計"
+
+
+msgid "Transction ID"
+msgstr "トランザクションID"
+
+
+msgid "Type"
+msgstr "タイプ"
+
+
+msgid "Tzone is required"
+msgstr "Tzoneが必要です"
+
+
+msgid "USER MENU"
+msgstr "ユーザーメニュー"
+
+
+msgid "Unassigned Tickets"
+msgstr "割り当てられていないチケット"
+
+
+msgid "Update"
+msgstr "更新"
+
+
+msgid "Update User"
+msgstr "ユーザーの更新"
+
+
+msgid "Uploaded file is not  supported"
+msgstr "アップロードされたファイルはサポートされていません"
+
+
+msgid "Use this as your callback url into facebook developer panel"
+msgstr "facebookの開発者パネルへのコールバックURLとしてこれを使用してください"
+
+
+msgid "Use this as your callback url into twitter developer panel"
+msgstr "Twitterの開発者パネルにコールバックURLとしてこれを使用する"
+
+
+msgid "Use this as your callback url into your google developer console"
+msgstr "GoogleデベロッパーコンソールにコールバックURLとして使用します"
+
+
+msgid "User"
+msgstr "ユーザー"
+
+
+msgid "User (Email)"
+msgstr "ユーザー（電子メール）"
+
+
+msgid "User (Email) is required"
+msgstr "ユーザー（メール）が必要です"
+
+
+msgid "User Id"
+msgstr "ユーザーID"
+
+
+msgid "User List"
+msgstr "ユーザーリスト"
+
+
+msgid "User Panel"
+msgstr "ユーザパネル"
+
+
+msgid "User Settings"
+msgstr "ユーザー設定"
+
+
+msgid "User is required"
+msgstr "ユーザーは必須です"
+
+
+msgid "Username"
+msgstr "ユーザー名"
+
+
+msgid "Value"
+msgstr "値"
+
+
+msgid "Verified"
+msgstr "検証済み"
+
+
+msgid "View Details"
+msgstr "詳細を見る"
+
+
+msgid "View Knowledge"
+msgstr "ナレッジを表示する"
+
+
+msgid "View Site"
+msgstr "サイトを見る"
+
+
+msgid "View all"
+msgstr "すべて見る"
+
+
+msgid "Views"
+msgstr "ビュー"
+
+
+msgid "Write here.."
+msgstr "ここに書く.."
+
+
+msgid "Write reply here.."
+msgstr "ここに返信を書く.."
+
+
+msgid "Yes"
+msgstr "はい"
+
+
+msgid "You think it is helpfull"
+msgstr "あなたはそれが役に立つと思う"
+
+
+msgid "You think it is not helpfull"
+msgstr "それは役に立たないと思う"
+
+
+msgid "Your Site URL"
+msgstr "あなたのサイトのURL"
+
+
+msgid "Your application is up to date"
+msgstr "あなたのアプリケーションは最新です"
+
+
+msgid "Your closed ticket list"
+msgstr "あなたの閉じたチケットリスト"
+
+
+msgid "Your current ticket status"
+msgstr "あなたの現在のチケットステータス"
+
+
+msgid "Your envato(CodeCanyon, Themeforest,etc) username"
+msgstr "envato（CodeCanyon、Themeforestなど）のユーザー名"
+
+
+msgid "Your site name"
+msgstr "あなたのサイト名"
+
+
+msgid "Your total active tickets"
+msgstr "総有効チケット"
+
+
+msgid "Youtube Accounts"
+msgstr "Youtubeアカウント"
+
+
+msgid "Zip"
+msgstr "ジップ"
+
+
+msgid "Zip is required"
+msgstr "ジップが必要です"
+
+
+msgid "by"
+msgstr "〜によって"
+
+
+msgid "ex.5"
+msgstr "例5"
+
+
+msgid "is required"
+msgstr "必要とされている"
+
+
+msgid "minuites"
+msgstr "分"
+
+
+msgid "miss login in"
+msgstr "ミスログイン"
+
+
+msgid "on"
+msgstr "に"
+
+
+msgid "seconds, then"
+msgstr "秒、次に"
+
+
+msgid "setup for Social Login"
+msgstr "ソーシャルログインのセットアップ"
+
+
+msgid "to get custom payment"
+msgstr "カスタム支払いを受ける"
+
+
+msgid "Already registered?"
+msgstr "すでに登録？"
+
+
+msgid "E-mail"
+msgstr "Eメール"
+
+
+msgid "Email address is alreay exists"
+msgstr "メールアドレスは既に存在します"
+
+
+msgid "Forgot password?"
+msgstr "パスワードをお忘れですか？"
+
+
+msgid "Guest Ticket"
+msgstr "ゲストチケット"
+
+
+msgid "Low Priroty"
+msgstr "低優先度"
+
+
+msgid "Not member yet ?"
+msgstr "まだメンバーですか？"
+
+
+msgid "Open Ticket With Less Priroty"
+msgstr "優先度の低いチケットを開く"
+
+
+msgid "Open ticket after login"
+msgstr "ログイン後のチケットを開く"
+
+
+msgid "Open ticket after register"
+msgstr "登録後のチケットを開く"
+
+
+msgid "Or Login Using"
+msgstr "またはログインを使用して"
+
+
+msgid "Or Register Using"
+msgstr "または登録を使用して"
+
+
+msgid "Or open ticket using"
+msgstr "またはチケットを使用して開く"
+
+
+msgid "Submit"
+msgstr "提出する"
+
+
+msgid "Top Priroty"
+msgstr "最優先"
+
+
+msgid "User Login"
+msgstr "ユーザーログイン"
+
+
+msgid "User Registration"
+msgstr "ユーザー登録"
+
+
+msgid "You are not logged in. What would you like do now?"
+msgstr "あなたはログインしていません。今何をしたいですか？"
+
+
+msgid "fields are required"
+msgstr "フィールドは必須です"
+
+
+msgid "Confirm Password"
+msgstr "パスワードを認証する"
+
+
+msgid "Back"
+msgstr "バック"
+
+
+msgid "%s is not same"
+msgstr "％sは同じではありません"
+
+
+msgid "Captcha"
+msgstr "キャプチャ"
+
+
+msgid "Invalid email address."
+msgstr "無効なメールアドレス。"
+
+
+msgid "New Password"
+msgstr "新しいパスワード"
+
+
+msgid "The email address is already registered. To login"
+msgstr "電子メールアドレスはすでに登録されています。ログインします"
+
+
+msgid "The value is not a valid %s"
+msgstr "値は有効な％sではありません"
+
+
+msgid "Uncategories"
+msgstr "未分類"
+
+
+msgid "Assigned & Closed"
+msgstr "割り当て済みおよびクローズド"
+
+
+msgid "CSV Downloaded"
+msgstr "CSVダウンロード済み"
+
+
+msgid "Change Timezone"
+msgstr "タイムゾーンを変更する"
+
+
+msgid "Change padssword of %s"
+msgstr "％sのパスワードを変更する"
+
+
+msgid "Change password of Admin User"
+msgstr "管理者のパスワードを変更する"
+
+
+msgid "Day Report"
+msgstr "日レポート"
+
+
+msgid "Member since"
+msgstr "メンバーは以来"
+
+
+msgid "Month Report"
+msgstr "月レポート"
+
+
+msgid "New User"
+msgstr "新しいユーザー"
+
+
+msgid "Opened & Closed"
+msgstr "開封済み"
+
+
+msgid "Timezone is required"
+msgstr "タイムゾーンが必要です"
+
+
+msgid "Tzone"
+msgstr "Tzone"
+
+
+msgid "Sign out"
+msgstr "サインアウト"
+
+
+msgid "Please login to set priroty"
+msgstr "優先度を設定するにはログインしてください"
+
+
+msgid "email address"
+msgstr "電子メールアドレス"
+
+
+msgid "Allowed File Types"
+msgstr "許可されるファイルの種類"
+
+
+msgid "Any Staff Can Reply"
+msgstr "どのスタッフも返信できます"
+
+
+msgid "App Email"
+msgstr "アプリメール"
+
+
+msgid "App Language"
+msgstr "アプリケーション言語"
+
+
+msgid "App Title"
+msgstr "アプリケーションのタイトル"
+
+
+msgid "Application General Settings"
+msgstr "アプリケーションの一般設定"
+
+
+msgid "Application Layout"
+msgstr "アプリケーションのレイアウト"
+
+
+msgid "Auto Others Color"
+msgstr "オートその他カラー"
+
+
+msgid "Basic Settings"
+msgstr "基本設定"
+
+
+msgid "CSS ( Style)"
+msgstr "CSS（スタイル）"
+
+
+msgid "Captcha Length"
+msgstr "キャプチャの長さ"
+
+
+msgid "Captcha Settings"
+msgstr "キャプチャの設定"
+
+
+msgid "Captcha String Type"
+msgstr "Captcha String Type"
+
+
+msgid "Captcha Type"
+msgstr "キャプチャタイプ"
+
+
+msgid "Charecter Lenght of default captcha"
+msgstr "デフォルトのキャプチャの文字の長さ"
+
+
+msgid "Choose HTML Editor"
+msgstr "HTMLエディタを選択"
+
+
+msgid "Client ID"
+msgstr "クライアントID"
+
+
+msgid "Client Photo Upload"
+msgstr "クライアント写真のアップロード"
+
+
+msgid "Copyright Text"
+msgstr "著作権テキスト"
+
+
+msgid "Custom CSS & JavaScript"
+msgstr "カスタムCSSとJavaScript"
+
+
+msgid "Custom JavaScript"
+msgstr "カスタムJavaScript"
+
+
+msgid "Date Format"
+msgstr "日付形式"
+
+
+msgid "Disable Registration"
+msgstr "登録を無効にする"
+
+
+msgid "Email Footer Text"
+msgstr "メールフッターテキスト"
+
+
+msgid "Email Reply Start Text"
+msgstr "メール返信テキストを開始"
+
+
+msgid "Enable Force SSL"
+msgstr "強制SSLを有効にする"
+
+
+msgid "Enable Guest Ticket"
+msgstr "ゲストチケットを有効にする"
+
+
+msgid "Enable HTML Input"
+msgstr "HTML入力を有効にする"
+
+
+msgid "Enable Public Ticket"
+msgstr "公開チケットを有効にする"
+
+
+msgid "Enable Ticket Feedback"
+msgstr "チケットのフィードバックを有効にする"
+
+
+msgid "Enable User Online Check"
+msgstr "ユーザーのオンラインチェックを有効にする"
+
+
+msgid "Ex. Google analytics code, Do not add any tag  like %s"
+msgstr "Ex。 Googleアナリティクスコード、％sのようなタグを追加しない"
+
+
+msgid "Feedback Email Title"
+msgstr "フィードバック電子メールのタイトル"
+
+
+msgid "Field"
+msgstr "フィールド"
+
+
+msgid "File Upload Settings"
+msgstr "ファイルアップロードの設定"
+
+
+msgid "Footer Background"
+msgstr "フッターの背景"
+
+
+msgid "Footer Text"
+msgstr "フッターテキスト"
+
+
+msgid "Header Color"
+msgstr "ヘッダーカラー"
+
+
+msgid "Header Gradient"
+msgstr "ヘッダーグラデーション"
+
+
+msgid "If enable this then other color will be auto generate based on main color"
+msgstr "これを有効にすると、他の色は主な色に基づいて自動的に生成されます"
+
+
+msgid "If enable this then the header background will be gradient"
+msgstr "これを有効にすると、ヘッダの背景がグラデーションになります"
+
+
+msgid "If you disable this then your will get normal text area box insted of html editor"
+msgstr "これを無効にすると、htmlエディタの代わりに通常のテキストエリアボックスが表示されます"
+
+
+msgid "If you enable it a feedback email will be sent to ticket user email address after closing ticket"
+msgstr "あなたがそれを有効にすると、チケットを閉じた後、チケットの電子メールアドレスにフィードバック電子メールが送信されます"
+
+
+msgid "If you enable it then any visitor can open ticket without registration"
+msgstr "あなたがそれを有効にすると、訪問者は登録なしでチケットを開くことができます"
+
+
+msgid "If you enable it then captcha will show in admin login form"
+msgstr "それを有効にすると、captchaはadminログインフォームで表示されます"
+
+
+msgid "If you enable it then captcha will show in client login form"
+msgstr "それを有効にすると、captchaはクライアントログインフォームで表示されます"
+
+
+msgid "If you enable it then captcha will show in client registration form"
+msgstr "それを有効にすると、captchaはクライアント登録フォームに表示されます"
+
+
+msgid "If you enable it then captcha will show in guest ticket opening form"
+msgstr "あなたがそれを有効にすると、captchaはゲストチケットのオープニングフォームに表示されます"
+
+
+msgid "If you enable it then user can open their ticket as public mode. Where any user can replay"
+msgstr "これを有効にすると、ユーザーはパブリックモードとしてチケットを開くことができます。任意のユーザーが再生できる場所"
+
+
+msgid "If you enable it then user can upload file when they open ticket and reply any ticket"
+msgstr "有効にすると、チケットを開いてチケットを返信するとファイルをアップロードできます"
+
+
+msgid "If you enable it, then any staff can reply on any ticket, if disable then only assigned staff can reply."
+msgstr "有効にすると、スタッフはチケットで返信することができます。無効にすると割り当てられたスタッフだけが返信できます。"
+
+
+msgid "If you enable it, then you can able to upload their profile photo"
+msgstr "有効にすると、プロフィール写真をアップロードすることができます"
+
+
+msgid "If you enable this then this app will check SSL Request, if not then it will redirect to SSL URL."
+msgstr "これを有効にすると、このアプリはSSLリクエストをチェックし、そうでなければSSL URLにリダイレクトします。"
+
+
+msgid "If you enable this then this app will check and show user online status."
+msgstr "これを有効にすると、このアプリはユーザーのオンラインステータスを確認して表示します。"
+
+
+msgid "It will effect in next reload. If you want to now then refresh after save."
+msgstr "次回のリロード時に有効になります。今すぐ保存したい場合は、保存してから更新してください。"
+
+
+msgid "It's background color of footer. Empty value will be auto from main color"
+msgstr "フッターの背景色です。空の値はメインカラーからオートになります"
+
+
+msgid "It's background color of menu bar. Empty value will be auto from main color"
+msgstr "メニューバーの背景色です。空の値はメインカラーからオートになります"
+
+
+msgid "It's background color of menu text color when active. Empty value will be auto from main color"
+msgstr "アクティブなときのメニューテキストの色の背景色です。空の値はメインカラーからオートになります"
+
+
+msgid "It's text color of footer. Empty value will be auto from main color"
+msgstr "フッターのテキスト色です。空の値はメインカラーからオートになります"
+
+
+msgid "It's the background color of welcome message. But you can choose any text color on any text of welcome message using editor. Empty value will be auto from main color"
+msgstr "ウェルカムメッセージの背景色です。ただし、エディタを使用してウェルカムメッセージのテキストに任意のテキストカラーを選択できます。空の値はメインカラーからオートになります"
+
+
+msgid "It's the color of anchor link and heading(h1,h2,h3,h4) Color. Empty value will be auto from main color"
+msgstr "アンカーリンクの色と見出し（h1、h2、h3、h4）の色です。空の値はメインカラーからオートになります"
+
+
+msgid "Its background color of header"
+msgstr "ヘッダの背景色"
+
+
+msgid "Keep empty if you don't want to show any footer"
+msgstr "フッターを表示したくない場合は空のままにする"
+
+
+msgid "Keep empty if you don't want to show any footer on email"
+msgstr "メールにフッターを表示したくない場合は空欄にしてください"
+
+
+msgid "Keep empty if you don't want to show any footer on site copy write text"
+msgstr "サイトのコピー書き込みテキストにフッターを表示したくない場合は空白にしてください"
+
+
+msgid "Keep empty if you don't want to show any message"
+msgstr "メッセージを表示したくない場合は空白にしてください"
+
+
+msgid "Layout & Color Settings"
+msgstr "レイアウトと色の設定"
+
+
+msgid "Link And Heading Text"
+msgstr "テキストのリンクと見出し"
+
+
+msgid "Main Color"
+msgstr "メインカラー"
+
+
+msgid "Main site color is defined for application main color of client site."
+msgstr "メインサイトの色は、クライアントサイトのアプリケーションメインカラーに対して定義されています。"
+
+
+msgid "Max Upload File Size"
+msgstr "最大アップロードファイルサイズ"
+
+
+msgid "Menu Active Text Color"
+msgstr "メニューアクティブなテキストの色"
+
+
+msgid "Menu Background"
+msgstr "メニューの背景"
+
+
+msgid "Nagative Feedback Message"
+msgstr "否定的なフィードバックメッセージ"
+
+
+msgid "Nagative Message"
+msgstr "否定的なメッセージ"
+
+
+msgid "On Admin Login"
+msgstr "管理者ログイン時"
+
+
+msgid "On Client Login"
+msgstr "クライアントログイン時"
+
+
+msgid "On Client Registration"
+msgstr "クライアント登録について"
+
+
+msgid "On Guest Ticket"
+msgstr "ゲストチケットについて"
+
+
+msgid "Only enter css code. Do not add any tag like %s"
+msgstr "cssコードのみ入力してください。 ％sのようなタグを追加しないでください"
+
+
+msgid "Positive Feedback Message"
+msgstr "正のフィードバックメッセージ"
+
+
+msgid "Positive Message"
+msgstr "ポジティブなメッセージ"
+
+
+msgid "Registration  of visitor. If you disable this then visitor can't register. Only registered client can open ticket after login"
+msgstr "訪問者の登録。これを無効にすると、ビジターは登録できません。登録されたクライアントのみがログイン後にチケットを開くことができます"
+
+
+msgid "Site Copyright Text"
+msgstr "サイトの著作権テキスト"
+
+
+msgid "Site Key"
+msgstr "サイトキー"
+
+
+msgid "The value is not a numeric"
+msgstr "値は数値ではありません"
+
+
+msgid "Ticket File Upload"
+msgstr "チケットファイルのアップロード"
+
+
+msgid "Ticket Settings"
+msgstr "チケットの設定"
+
+
+msgid "Time Format"
+msgstr "時間形式"
+
+
+msgid "Value must be between 1 to 99"
+msgstr "値は1から99の間でなければなりません"
+
+
+msgid "Welcome & Footer Text"
+msgstr "ようこそ＆フッターテキスト"
+
+
+msgid "Welcome Background"
+msgstr "ようこその背景"
+
+
+msgid "Welcome Message"
+msgstr "ウェルカムメッセージ"
+
+
+msgid "Welcome Text"
+msgstr "ウェルカムテキスト"
+
+
+msgid "ex. 2"
+msgstr "例。 2"
+
+
+msgid "Successfully updated"
+msgstr "正常に更新されました"
+
+
+msgid "Language changed. Reloading"
+msgstr "言語が変更されました。リロード"
+
+
+msgid "Download CSV"
+msgstr "CSVをダウンロード"
+
+
+msgid "No Record Found"
+msgstr "レコードが見つかりません"
+
+
+msgid "Reload"
+msgstr "リロード"
+
+
+msgid "Sign In"
+msgstr "サインイン"
+
+
+msgid "Sign in to start your session"
+msgstr "セッションを開始するにはサインインしてください"
+
+
+msgid "Admin Panel"
+msgstr "管理パネル"
+
+
+msgid "%s is invalid"
+msgstr "％sは無効です"
+
+
+msgid "A ticket email has been sent to your email. Please check that"
+msgstr "あなたの電子メールにチケットの電子メールが送信されました。それを確認してください"
+
+
+msgid "Admin Notification Settings"
+msgstr "管理者の通知設定"
+
+
+msgid "Are you sure to assign yourself?"
+msgstr "あなた自身を割り当ててもよろしいですか？"
+
+
+msgid "Are you sure to assign?"
+msgstr "あなたを割り当ててもよろしいですか？"
+
+
+msgid "Assign Me"
+msgstr "私を割り当てる"
+
+
+msgid "Captcha Success"
+msgstr "Captchaの成功"
+
+
+msgid "Content"
+msgstr "コンテンツ"
+
+
+msgid "Controller"
+msgstr "コントローラ"
+
+
+msgid "Email Field Details"
+msgstr "メールフィールドの詳細"
+
+
+msgid "Email Notification Settings"
+msgstr "電子メール通知設定"
+
+
+msgid "Email Notification Settions"
+msgstr "電子メール通知設定"
+
+
+msgid "Email Template updated successfully"
+msgstr "メールテンプレートが正常に更新されました"
+
+
+msgid "Email template for  ANR"
+msgstr "ANRの電子メールテンプレート"
+
+
+msgid "Enable Admin Notificaiton"
+msgstr "管理者通知を有効にする"
+
+
+msgid "File Size"
+msgstr "ファイルサイズ"
+
+
+msgid "If you enable this then admin will get notification"
+msgstr "これを有効にすると、管理者は通知を受け取ります"
+
+
+msgid "If you enable this then admin will get notification on ticket open"
+msgstr "これを有効にすると、管理者はチケットを開いたときに通知を受け取ります"
+
+
+msgid "If you enable this then admin will get notification on ticket user reply"
+msgstr "これを有効にすると、管理者はチケットのユーザーの返信に対して通知を受け取ります"
+
+
+msgid "Logging in.."
+msgstr "ログインしています.."
+
+
+msgid "Name of ticket user"
+msgstr "チケットユーザーの名前"
+
+
+msgid "New Ticket Opened"
+msgstr "新しいチケットが開かれました"
+
+
+msgid "Notification Email"
+msgstr "通知電子メール"
+
+
+msgid "Notification Settings"
+msgstr "通知設定"
+
+
+msgid "Notification Settions"
+msgstr "通知設定"
+
+
+msgid "On Admin/staff Reply"
+msgstr "On Admin / staff返信"
+
+
+msgid "On Screen Notificaiton Settings"
+msgstr "オンスクリーン通知設定"
+
+
+msgid "On Ticket Open"
+msgstr "チケットをお持ちの場合"
+
+
+msgid "On Ticket User Reply"
+msgstr "チケットのユーザーの返信"
+
+
+msgid "Page List"
+msgstr "ページリスト"
+
+
+msgid "Please wait"
+msgstr "お待ちください"
+
+
+msgid "Replied Text"
+msgstr "返信テキスト"
+
+
+msgid "Reply text"
+msgstr "返信テキスト"
+
+
+msgid "Resource"
+msgstr "リソース"
+
+
+msgid "Set Assign"
+msgstr "割り当てを設定する"
+
+
+msgid "Successfully added"
+msgstr "正常に追加されました"
+
+
+msgid "Template List"
+msgstr "テンプレートリスト"
+
+
+msgid "Thank you, your ticket has been opened successfully"
+msgstr "ありがとうございます、あなたのチケットは正常に開かれました"
+
+
+msgid "Ticket Open By Guest"
+msgstr "ゲストによるチケットのオープン"
+
+
+msgid "Ticket Other's Info"
+msgstr "チケットのその他の情報"
+
+
+msgid "Ticket Replied by : %s"
+msgstr "チケット返信者：％s"
+
+
+msgid "Ticket cateroty"
+msgstr "チケット予報"
+
+
+msgid "Ticket link"
+msgstr "チケットのリンク"
+
+
+msgid "Ticket open or reply notification settings"
+msgstr "チケットのオープンまたは返信の通知設定"
+
+
+msgid "Update Email Template"
+msgstr "電子メールテンプレートを更新する"
+
+
+msgid "User Ticket"
+msgstr "ユーザーチケット"
+
+
+msgid "User who replied"
+msgstr "返信したユーザー"
+
+
+msgid "View Ticket Details"
+msgstr "チケットの詳細を見る"
+
+
+msgid "ex. email@domain.com"
+msgstr "例。 email@domain.com"
+
+
+msgid "updated"
+msgstr "更新しました"
+
+
+msgid "%s is not a valid URL"
+msgstr "％sは有効なURLではありません"
+
+
+msgid "Admin Panel Language"
+msgstr "管理パネルの言語"
+
+
+msgid "Admin will hear tone on notification if enabled"
+msgstr "有効になっている場合、管理者は通知音を鳴らします"
+
+
+msgid "App Settings"
+msgstr "アプリの設定"
+
+
+msgid "Application All Settings"
+msgstr "アプリケーションすべての設定"
+
+
+msgid "Are you sure to dismiss?"
+msgstr "あなたは却下するのですか？"
+
+
+msgid "Authentication failed!. May be remote server rejected."
+msgstr "認証に失敗しました！。リモートサーバーが拒否された可能性があります。"
+
+
+msgid "Button Color"
+msgstr "ボタンの色"
+
+
+msgid "Button Text"
+msgstr "ボタンテキスト"
+
+
+msgid "Button Text Color"
+msgstr "ボタンテキストの色"
+
+
+msgid "Button Txt"
+msgstr "ボタンテキスト"
+
+
+msgid "Button View"
+msgstr "ボタンビュー"
+
+
+msgid "Button image updated successfully"
+msgstr "ボタンイメージが正常に更新されました"
+
+
+msgid "Captcha is required"
+msgstr "Captchaは必須です"
+
+
+msgid "Closed On"
+msgstr "休業日"
+
+
+msgid "Current Status"
+msgstr "現在のステータス"
+
+
+msgid "Custom %s"
+msgstr "税関"
+
+
+msgid "Default login system form won't not show if it enabled"
+msgstr "デフォルトのログインシステムフォームが有効になっている場合は表示されません"
+
+
+msgid "Default login system form won't not show if it enabled, but Remote Login & Social login will show if those are enabled"
+msgstr "デフォルトのログインシステムフォームは有効になっても表示されませんが、有効になっている場合はリモートログインとソーシャルログインが表示されます"
+
+
+msgid "Disable Default Login"
+msgstr "デフォルトのログインを無効にする"
+
+
+msgid "Disable Guest Open Popup"
+msgstr "ゲスト開くポップアップを無効にする"
+
+
+msgid "Edit Remote Login"
+msgstr "リモートログインの編集"
+
+
+msgid "Email to Ticket"
+msgstr "チケットへのメール"
+
+
+msgid "Enable Tone (Sound)"
+msgstr "トーン（サウンド）を有効にする"
+
+
+msgid "Featured Video"
+msgstr "注目のビデオ"
+
+
+msgid "File Upload"
+msgstr "ファイルアップロード"
+
+
+msgid "If you enable this then admin will hear tone on notification"
+msgstr "これを有効にすると、管理者は通知時にトーンを聞きます"
+
+
+msgid "If you enable this then guest user also get all priroty as dropdown option"
+msgstr "これを有効にすると、ゲストユーザはすべての優先度をドロップダウンオプションとして取得します"
+
+
+msgid "It is your remote server login URL. You can add extra parameter to detect, %s"
+msgstr "これは、リモートサーバーのログインURLです。 ％sを検出するために追加のパラメータを追加することができます"
+
+
+msgid "It is your remote server login URL. You can add extra parameter to detect, ex. %s"
+msgstr "これは、リモートサーバーのログインURLです。あなたは検出するために余分なパラメータを追加することができます。 ％s"
+
+
+msgid "It is your remote server login URL. You can add extra parameter to detect, ex. http://zyz.com?from=support-system"
+msgstr "これは、リモートサーバーのログインURLです。あなたは検出するために余分なパラメータを追加することができます。 http://zyz.com?from=support-system"
+
+
+msgid "It will redirect to home page within"
+msgstr "内のホームページにリダイレクトされます"
+
+
+msgid "It will send this key in verification process as param"
+msgstr "検証プロセスでこのキーをパラメータとして送信します"
+
+
+msgid "Keep empty if you don't want show any video"
+msgstr "動画を表示したくない場合は空のままにする"
+
+
+msgid "Last Replied On"
+msgstr "最後に返信"
+
+
+msgid "Layout & Color"
+msgstr "レイアウトと色"
+
+
+msgid "Log uploaded"
+msgstr "ログがアップロードされました"
+
+
+msgid "Login Email"
+msgstr "ログインメール"
+
+
+msgid "Login Link"
+msgstr "ログインリンク"
+
+
+msgid "Login URL"
+msgstr "ログインURL"
+
+
+msgid "Login Using"
+msgstr "ログインの使用"
+
+
+msgid "NB. %s will be your server's api key, by this we validate the response"
+msgstr "NB。 ％sはあなたのサーバーのapiキーになります。これにより応答が検証されます"
+
+
+msgid "NB. %s will be your server's login token, by this it can validated the user"
+msgstr "NB。 ％sはあなたのサーバーのログイントークンになります。これにより、ユーザーを検証できます"
+
+
+msgid "New Remote Login"
+msgstr "新しいリモートログイン"
+
+
+msgid "Normally visitor will show a popup it s/he doesn't logged in. If you don't want to show that then enable it"
+msgstr "通常は訪問者はログインしていないポップアップを表示します。表示したくない場合は有効にしてください"
+
+
+msgid "Notification Tone (Sound)"
+msgstr "通知音（音）"
+
+
+msgid "Opened On"
+msgstr "開いた"
+
+
+msgid "Our server will post to this URL with the response token.%s Post paramater will be look like %s"
+msgstr "私たちのサーバーは応答トークンでこのURLに投稿します。％s投稿パラメータは％sのようになります"
+
+
+msgid "Pay Now"
+msgstr "今払う"
+
+
+msgid "Payment Added"
+msgstr "お支払いの追加"
+
+
+msgid "Preview"
+msgstr "プレビュー"
+
+
+msgid "Private Key"
+msgstr "秘密鍵"
+
+
+msgid "Remote Login"
+msgstr "リモートログイン"
+
+
+msgid "Remote Login Error"
+msgstr "リモートログインエラー"
+
+
+msgid "Remote Login List"
+msgstr "リモートログインリスト"
+
+
+msgid "Remote Server Login"
+msgstr "リモートサーバログイン"
+
+
+msgid "Remote_server"
+msgstr "Remote_server"
+
+
+msgid "Request Count"
+msgstr "リクエスト数"
+
+
+msgid "Response Data Error"
+msgstr "応答データエラー"
+
+
+msgid "Response URL"
+msgstr "応答URL"
+
+
+msgid "Same As Admin"
+msgstr "管理者と同じ"
+
+
+msgid "Seconds"
+msgstr "秒"
+
+
+msgid "Select icon"
+msgstr "選択アイコン"
+
+
+msgid "Server Type"
+msgstr "サーバーの種類"
+
+
+msgid "Show all priroty on Guest Ticket"
+msgstr "ゲストチケットの優先度をすべて表示する"
+
+
+msgid "Site Language"
+msgstr "サイト言語"
+
+
+msgid "Site Theme Settings"
+msgstr "サイトテーマの設定"
+
+
+msgid "Social Login Setting"
+msgstr "ソーシャルログインの設定"
+
+
+msgid "Successfully Dismissed"
+msgstr "正常に終了しました"
+
+
+msgid "Successfully deleted"
+msgstr "削除されました"
+
+
+msgid "Successfully logged in"
+msgstr "正常にログインしました"
+
+
+msgid "Successfully saved"
+msgstr "保存しました"
+
+
+msgid "Thank you for registering with us"
+msgstr "私たちに登録していただきありがとうございます"
+
+
+msgid "Theme"
+msgstr "テーマ"
+
+
+msgid "This account has been temporary locked for 30 minutes, try again later or contact with admin to unlock"
+msgstr "このアカウントは30分間一時的にロックされています。後で再試行するか、管理者に連絡してロックを解除してください"
+
+
+msgid "This servers's configuration"
+msgstr "このサーバーの構成"
+
+
+msgid "Ticket Email"
+msgstr "チケットの電子メール"
+
+
+msgid "Ticket Re-Opened"
+msgstr "チケットが再開されました"
+
+
+msgid "Unknown"
+msgstr "未知の"
+
+
+msgid "User Login Using"
+msgstr "ユーザーログインの使用"
+
+
+msgid "Valid Url"
+msgstr "有効なURL"
+
+
+msgid "Validation URL"
+msgstr "検証URL"
+
+
+msgid "Video"
+msgstr "ビデオ"
+
+
+msgid "View Update Details"
+msgstr "アップデートの詳細を表示"
+
+
+msgid "Welcome to"
+msgstr "ようこそ"
+
+
+msgid "Your server's redirect URL"
+msgstr "サーバーのリダイレクトURL"
+
+
+msgid "View All"
+msgstr "すべて見る"
+
+
+msgid "%s replied a message"
+msgstr "％sさんがメッセージを返信しました"
+
+
+msgid "API Name"
+msgstr "API名"
+
+
+msgid "About Support System-help"
+msgstr "サポートについてシステムヘルプ"
+
+
+msgid "Agent Welcome Text"
+msgstr "エージェントのウェルカムテキスト"
+
+
+msgid "All Paid Ticket"
+msgstr "すべての有償チケット"
+
+
+msgid "Analytics Gtag ID"
+msgstr "アナリティクスのGtag ID"
+
+
+msgid "App User Details"
+msgstr "アプリユーザーの詳細"
+
+
+msgid "Archive"
+msgstr "アーカイブ"
+
+
+msgid "Are you sure to archive?"
+msgstr "アーカイブしてもよろしいですか？"
+
+
+msgid "Are you sure to archive? Archive is like Delete. You can inactive for temporary basis"
+msgstr "アーカイブしてもよろしいですか？アーカイブは削除のようなものです。あなたは一時的に非アクティブにすることができます"
+
+
+msgid "Are you sure to archive? Archive is like as delete. If you want to do it for temporary, then set inactive status instead of archive. You cann&#96;t revert if you process it."
+msgstr "アーカイブしてもよろしいですか？アーカイブは削除と似ています。一時的に行う場合は、アーカイブの代わりに非アクティブな状態を設定します。あなたがそれを処理すれば元に戻ること"
+
+
+msgid "Are you sure to archive? Archive is like as delete. If you want to do it for temporary, then you can inactive this user."
+msgstr "アーカイブしてもよろしいですか？アーカイブは削除と似ています。あなたは一時的にそれをしたい場合は、このユーザーを非アクティブにすることができます。"
+
+
+msgid "Are you sure to archive? Archive is like as delete. It you want do it for temporary then you can inactive this user."
+msgstr "アーカイブしてもよろしいですか？アーカイブは削除と似ています。一時的にそれをやりたいなら、このユーザーを非アクティブにすることができます。"
+
+
+msgid "Are you sure to archive? Archive is like as delete. You can inactive for temporary basis"
+msgstr "アーカイブしてもよろしいですか？アーカイブは削除と似ています。あなたは一時的に非アクティブにすることができます"
+
+
+msgid "Are you sure to change chat status?"
+msgstr "チャットのステータスを変更してもよろしいですか？"
+
+
+msgid "Are you sure to unlock?"
+msgstr "あなたはロックを解除してもよろしいですか？"
+
+
+msgid "Asigned By"
+msgstr "割り当て者"
+
+
+msgid "Authentication failed!. May be you didn't authenticate."
+msgstr "認証に失敗しました！。あなたが認証していないかもしれません。"
+
+
+msgid "Best Ranker Wordpress tool"
+msgstr "ベストランクWordpressのツール"
+
+
+msgid "Browser"
+msgstr "ブラウザ"
+
+
+msgid "Canned Message"
+msgstr "缶入りメッセージ"
+
+
+msgid "Change Profile Photo"
+msgstr "プロフィール写真を変更する"
+
+
+msgid "Chat Canned Message"
+msgstr "チャット缶入りメッセージ"
+
+
+msgid "Chat Canned Msg List"
+msgstr "チャット缶入りメッセージリスト"
+
+
+msgid "Chat Online Status"
+msgstr "チャットオンラインステータス"
+
+
+msgid "Chat Opening Text"
+msgstr "チャット開始テキスト"
+
+
+msgid "Chat Panel"
+msgstr "チャットパネル"
+
+
+msgid "Chat Receive Status"
+msgstr "チャット受信ステータス"
+
+
+msgid "Chat Settings"
+msgstr "チャット設定"
+
+
+msgid "Chat Status"
+msgstr "チャットのステータス"
+
+
+msgid "Check On Submit"
+msgstr "送信を確認する"
+
+
+msgid "Choose API"
+msgstr "APIを選択"
+
+
+msgid "Choose API from available APIs"
+msgstr "利用可能なAPIからAPIを選択する"
+
+
+msgid "Choose Chat Type"
+msgstr "チャットタイプを選択"
+
+
+msgid "Choose Type or Category"
+msgstr "タイプまたはカテゴリを選択"
+
+
+msgid "Click here to watch the video tutorial"
+msgstr "ビデオチュートリアルを見るには、ここをクリックしてください"
+
+
+msgid "Click on the Image to change. Best size is 250px x 200px"
+msgstr "変更する画像をクリックします。最適サイズは250px x 200pxです"
+
+
+msgid "Client Profile"
+msgstr "クライアントプロファイル"
+
+
+msgid "Close Chat Status"
+msgstr "チャットステータスを閉じる"
+
+
+msgid "Closed Chat List"
+msgstr "閉じたチャットリスト"
+
+
+msgid "Closed Failed"
+msgstr "閉鎖失敗"
+
+
+msgid "Closed Successfully"
+msgstr "正常に終了しました"
+
+
+msgid "Color Settings"
+msgstr "色の設定"
+
+
+msgid "Comma( , ) separated. Ex: OptionA,OptionB,OptionC"
+msgstr "カンマ区切り。例：OptionA、OptionB、OptionC"
+
+
+msgid "Do you want to take?"
+msgstr "服用したいですか？"
+
+
+msgid "Download"
+msgstr "ダウンロード"
+
+
+msgid "Edit Ticket Reply"
+msgstr "チケットの返信を編集する"
+
+
+msgid "Email Password Reset Link"
+msgstr "メールパスワードリセットリンク"
+
+
+msgid "Enable"
+msgstr "有効にする"
+
+
+msgid "Enable API Validation"
+msgstr "API検証を有効にする"
+
+
+msgid "End Time"
+msgstr "終了時間"
+
+
+msgid "Enter License Info"
+msgstr "ライセンス情報を入力"
+
+
+msgid "Entry Date"
+msgstr "申し込み日"
+
+
+msgid "Envato Settings"
+msgstr "エンバト設定"
+
+
+msgid "Facebook Chat"
+msgstr "Facebookチャット"
+
+
+msgid "Facebook Chat Settings"
+msgstr "Facebookチャットの設定"
+
+
+msgid "Facebook Page ID"
+msgstr "FacebookページID"
+
+
+msgid "Failed to assigning you on this chat"
+msgstr "このチャットであ​​なたを割り当てられませんでした"
+
+
+msgid "Failed to update"
+msgstr "更新に失敗しました"
+
+
+msgid "Field Label"
+msgstr "フィールドラベル"
+
+
+msgid "File Settings"
+msgstr "ファイル設定"
+
+
+msgid "GUEST USER"
+msgstr "ゲストユーザー"
+
+
+msgid "Genaral"
+msgstr "一般"
+
+
+msgid "Google Analytics"
+msgstr "グーグルアナリティクス"
+
+
+msgid "Google Analytics Gtag ID"
+msgstr "GoogleアナリティクスのGtag ID"
+
+
+msgid "Google Analytics Settings"
+msgstr "Googleアナリティクスの設定"
+
+
+msgid "Gtag ID"
+msgstr "Gtag ID"
+
+
+msgid "Help Text"
+msgstr "ヘルプテキスト"
+
+
+msgid "How to use all feature of this support system"
+msgstr "このサポートシステムのすべての機能を使用する方法"
+
+
+msgid "IMAP module is not activated in you php"
+msgstr "IMAPモジュールがあなたのPHPで起動されていません"
+
+
+msgid "If you choose this then this field will be displayed on choosen category only"
+msgstr "これを選択すると、このフィールドは選択されたカテゴリのみに表示されます"
+
+
+msgid "If you enable this then the field will be check using selected API"
+msgstr "これを有効にすると、選択したAPIを使用してフィールドがチェックされます"
+
+
+msgid "If you enable this then the value of this field is always be private"
+msgstr "これを有効にすると、このフィールドの値は常にプライベートになります"
+
+
+msgid "If you enable this, the field value need to be valid on form submission. Otherwise you will get a button to check manually"
+msgstr "これを有効にすると、フォーム提出時にフィールド値を有効にする必要があります。それ以外の場合は、手動で確認するボタンが表示されます"
+
+
+msgid "If you want to set %s. Then please go to %s or  %s"
+msgstr "％sを設定したい場合。 ％sまたは％sに移動してください"
+
+
+msgid "Is Private"
+msgstr "プライベートです"
+
+
+msgid "It set a limit,how many chat a agent(Admin User) can take  simultaneously"
+msgstr "制限を設定し、エージェント（管理者）が同時にチャットできるチャット数を設定します"
+
+
+msgid "It will show when a agent start a chat session."
+msgstr "エージェントがチャットセッションを開始したときに表示されます。"
+
+
+msgid "It will show when a agent start a chat session. You can use some property which is given bello:"
+msgstr "エージェントがチャットセッションを開始したときに表示されます。あなたはベロを与えられたいくつかのプロパティを使用することができます："
+
+
+msgid "It will show when a agent start a chat session. You can use some property which is given bellow:"
+msgstr "エージェントがチャットセッションを開始したときに表示されます。以下のようなプロパティを使うことができます："
+
+
+msgid "It will show when a user want to start chat"
+msgstr "ユーザーがチャットを開始したいときに表示されます"
+
+
+msgid "It will show when all user are offline"
+msgstr "すべてのユーザーがオフラインのときに表示されます"
+
+
+msgid "It will show when all user busy,"
+msgstr "すべてのユーザーがビジー状態のとき、"
+
+
+msgid "Item Purchase Code"
+msgstr "商品購入コード"
+
+
+msgid "Its the field label"
+msgstr "フィールドラベル"
+
+
+msgid "Knowledge Search"
+msgstr "知識検索"
+
+
+msgid "Last 5 Closed Chat"
+msgstr "最後の5つのクローズドチャット"
+
+
+msgid "Last Change Date"
+msgstr "最終変更日"
+
+
+msgid "Last Date"
+msgstr "最後の日付"
+
+
+msgid "Latest Knowledge"
+msgstr "最新の知識"
+
+
+msgid "Load More"
+msgstr "もっと読み込む"
+
+
+msgid "Loading Chat Data Please wait.."
+msgstr "チャットデータの読み込みしばらくお待ちください..."
+
+
+msgid "Locked_user_confirm"
+msgstr "Locked_user_confirm"
+
+
+msgid "Login using social"
+msgstr "ソーシャルを使用してログイン"
+
+
+msgid "Low Priority"
+msgstr "低優先度"
+
+
+msgid "Max chat count"
+msgstr "最大チャット数"
+
+
+msgid "Max. Chat Per Agent"
+msgstr "マックスエージェントごとのチャット"
+
+
+msgid "Max. Chat Per Agent %s"
+msgstr "マックスエージェントごとのチャット％s"
+
+
+msgid "Max. Chat Per Agent(simultaneously)"
+msgstr "マックスエージェントごとのチャット（同時に）"
+
+
+msgid "Message List"
+msgstr "メッセージリスト"
+
+
+msgid "Missing chat id"
+msgstr "チャットIDがありません"
+
+
+msgid "My Closed Ticket"
+msgstr "私の休みのチケット"
+
+
+msgid "My Paid Tickets"
+msgstr "私の有料チケット"
+
+
+msgid "Name of user"
+msgstr "ユーザーの名前"
+
+
+msgid "Need Support? Create a Ticket."
+msgstr "サポートが必要ですか？チケットを作成します。"
+
+
+msgid "New Chat Canned Message"
+msgstr "新しいチャット缶入りメッセージ"
+
+
+msgid "New Chat Canned Msg"
+msgstr "新しいチャット缶詰メッセージ"
+
+
+msgid "New Chat Request"
+msgstr "新しいチャットリクエスト"
+
+
+msgid "New Custom Field"
+msgstr "新しいカスタムフィールド"
+
+
+msgid "New Product"
+msgstr "新製品"
+
+
+msgid "No result found"
+msgstr "結果が見つかりません"
+
+
+msgid "Offline Text"
+msgstr "オフラインテキスト"
+
+
+msgid "On Screeen Notification Settings"
+msgstr "オンスクリーン通知設定"
+
+
+msgid "On Screeen Notification Settions"
+msgstr "オンスクリーン通知設定"
+
+
+msgid "Only profile image updated"
+msgstr "プロフィール画像のみが更新されました"
+
+
+msgid "Open Text"
+msgstr "オープンテキスト"
+
+
+msgid "Open Ticket With Less Priority"
+msgstr "優先度の低いチケットを開く"
+
+
+msgid "Page Builder"
+msgstr "ページビルダー"
+
+
+msgid "Page Editor"
+msgstr "ページエディタ"
+
+
+msgid "Password 18DDC9E196"
+msgstr "パスワード18DDC9E196"
+
+
+msgid "Password Successfully Updated"
+msgstr "パスワードが正常に更新されました"
+
+
+msgid "Please Rate it !!"
+msgstr "それを評価してください！"
+
+
+msgid "Please put this into your facebook page settings"
+msgstr "これをあなたのFacebookのページ設定に入れてください"
+
+
+msgid "Priority"
+msgstr "優先"
+
+
+msgid "Products"
+msgstr "製品"
+
+
+msgid "Profile Photo"
+msgstr "プロフィール写真"
+
+
+msgid "Queue Text"
+msgstr "キューテキスト"
+
+
+msgid "Rate it"
+msgstr "それを評価"
+
+
+msgid "Replied"
+msgstr "返信"
+
+
+msgid "Replied By"
+msgstr "返信者"
+
+
+msgid "Replied By Type"
+msgstr "返信タイプ"
+
+
+msgid "Replied Successfully"
+msgstr "返信が成功しました"
+
+
+msgid "Reply Time"
+msgstr "返信時間"
+
+
+msgid "Reset Password"
+msgstr "パスワードを再設定する"
+
+
+msgid "Screen Notificaiton Settings"
+msgstr "画面通知設定"
+
+
+msgid "Search Result"
+msgstr "検索結果"
+
+
+msgid "Seen by ticket owner"
+msgstr "チケットの所有者が見た"
+
+
+msgid "Set Category"
+msgstr "カテゴリを設定する"
+
+
+msgid "Set New Password"
+msgstr "新しいパスワードを設定する"
+
+
+msgid "Set Passowrd"
+msgstr "パスワードを設定してください"
+
+
+msgid "Set Password"
+msgstr "パスワードを設定してください"
+
+
+msgid "Set User Password"
+msgstr "ユーザーパスワードを設定する"
+
+
+msgid "Site Info"
+msgstr "サイト情報"
+
+
+msgid "Social Login Error"
+msgstr "ソーシャルログインエラー"
+
+
+msgid "Start Time"
+msgstr "始まる時間"
+
+
+msgid "Successfully Archived"
+msgstr "アーカイブに成功しました"
+
+
+msgid "Successfully assign"
+msgstr "割り当てを完了しました"
+
+
+msgid "Successfully assigned you"
+msgstr "あなたに割り当てられました"
+
+
+msgid "Successfully closed"
+msgstr "正常に終了しました"
+
+
+msgid "Successfully unlocked"
+msgstr "正常にロック解除されました"
+
+
+msgid "The text will be show like this text after the field"
+msgstr "テキストはフィールドの後にこのテキストのように表示されます"
+
+
+msgid "The user is already archived. You can't active or inactive"
+msgstr "ユーザーは既にアーカイブされています。あなたはアクティブでも非アクティブでもありません"
+
+
+msgid "The user who replaied last"
+msgstr "最後にリプレイしたユーザー"
+
+
+msgid "This chat request has been accepted by %s"
+msgstr "このチャットリクエストは％sによって受け入れられました"
+
+
+msgid "This chat request has been accepted by Sarwar Hasan"
+msgstr "このチャットリクエストはSarwar Hasanによって受け入れられました"
+
+
+msgid "Ticket Form Category"
+msgstr "チケットフォームカテゴリ"
+
+
+msgid "Ticket Opened"
+msgstr "チケットが開かれました"
+
+
+msgid "Ticket Payment"
+msgstr "チケットのお支払い"
+
+
+msgid "Ticket Priority"
+msgstr "チケット優先度"
+
+
+msgid "Ticket open time in app timezone (UTC)"
+msgstr "アプリのタイムゾーン（UTC）でのチケットのオープン時間"
+
+
+msgid "Ticket owner doesn't seen"
+msgstr "チケットの所有者が見えない"
+
+
+msgid "Ticket owner seen"
+msgstr "見たチケットの所有者"
+
+
+msgid "Ticket reply saved error"
+msgstr "チケット返信保存エラー"
+
+
+msgid "Ticket_confirm"
+msgstr "チケットの確認"
+
+
+msgid "To enable chat"
+msgstr "チャットを有効にするには"
+
+
+msgid "To enable facebook messenger chat"
+msgstr "Facebookのメッセンジャーチャットを有効にするには"
+
+
+msgid "Top Priority"
+msgstr "最優先"
+
+
+msgid "Unlock"
+msgstr "ロックを解除する"
+
+
+msgid "Unseened by ticket owner"
+msgstr "チケットの所有者によって未知"
+
+
+msgid "Updated successfully"
+msgstr "更新成功"
+
+
+msgid "Use this as your confirmation url into your envato app register page."
+msgstr "あなたのenvatoアプリ登録ページへのあなたの確認URLとしてこれを使用してください。"
+
+
+msgid "User Info"
+msgstr "ユーザー情報"
+
+
+msgid "User Password"
+msgstr "ユーザーのパスワード"
+
+
+msgid "User login information"
+msgstr "ユーザーのログイン情報"
+
+
+msgid "View"
+msgstr "ビュー"
+
+
+msgid "WP Best Ranker"
+msgstr "WP Best Ranker"
+
+
+msgid "WP Rank Ninja"
+msgstr "WPランク忍者"
+
+
+msgid "Web Chat"
+msgstr "ウェブチャット"
+
+
+msgid "Web Chat Settings"
+msgstr "ウェブチャットの設定"
+
+
+msgid "Would You Please Rate it?"
+msgstr "あなたはそれを評価してもらえますか？"
+
+
+msgid "Write here"
+msgstr "ここに書く"
+
+
+msgid "YYYY-MM-DD"
+msgstr "YYYY-MM-DD"
+
+
+msgid "You can use some property which is given bellow:"
+msgstr "以下に示すプロパティを使用することができます："
+
+
+msgid "You can't set pro version now. Pro version is coming soon. Please choose default chat now"
+msgstr "今すぐプロバージョンを設定することはできません。 Proバージョンがまもなく登場です。今すぐデフォルトチャットを選択してください"
+
+
+msgid "You have no notifications right now"
+msgstr "今は通知がありません"
+
+
+msgid "Your Domain URL"
+msgstr "あなたのドメインのURL"
+
+
+msgid "[GUEST USER]"
+msgstr "[ゲストユーザ]"
+
+
+msgid "agent_welcome_text"
+msgstr "agent_welcome_text"
+
+
+msgid "e"
+msgstr "e"
+
+
+msgid "ex. 5"
+msgstr "例。 5"
+
+
+msgid "snippets"
+msgstr "スニペット"
+
+
+msgid "to see the video tutorial"
+msgstr "ビデオチュートリアルを見る"
+
+
+msgid "typing"
+msgstr "タイピング"
+
+
+msgid "%.2f"
+msgstr "％.2f"
+
+
+msgid "%s is already exists"
+msgstr "％sは既に存在します"
+
+
+msgid "A  ticket reply has been received from ticket user"
+msgstr "チケットの返信がチケットのユーザーから受信されました"
+
+
+msgid "A new ticket is assigned to you"
+msgstr "新しいチケットがあなたに割り当てられます"
+
+
+msgid "A new ticket is received please assign"
+msgstr "新しいチケットを受け取ってください"
+
+
+msgid "A reset link has been sent to your email address. Please check that"
+msgstr "あなたのメールアドレスにリセットリンクが送信されました。それを確認してください"
+
+
+msgid "Add"
+msgstr "追加"
+
+
+msgid "Add Another File"
+msgstr "別のファイルを追加する"
+
+
+msgid "Add Note"
+msgstr "メモを追加"
+
+
+msgid "Admin Notes"
+msgstr "管理上の注意"
+
+
+msgid "Admin ticket creation"
+msgstr "管理者チケットの作成"
+
+
+msgid "All Categories"
+msgstr "すべてのカテゴリ"
+
+
+msgid "All Category"
+msgstr "すべてのカテゴリ"
+
+
+msgid "Application"
+msgstr "応用"
+
+
+msgid "Are you sure to delete attached file (%s)?"
+msgstr "添付ファイル（％s）を削除してもよろしいですか？"
+
+
+msgid "Are you sure to delete attached file?"
+msgstr "添付ファイルを削除してもよろしいですか？"
+
+
+msgid "Are you sure to delete feature image?"
+msgstr "あなたはフィーチャーイメージを削除してもよろしいですか？"
+
+
+msgid "Assign On Ticket"
+msgstr "チケットに割り当てる"
+
+
+msgid "Attach more file"
+msgstr "追加ファイルを添付"
+
+
+msgid "Attached"
+msgstr "添付"
+
+
+msgid "Attached file"
+msgstr "添付ファイル"
+
+
+msgid "Authentication Error"
+msgstr "認証エラー"
+
+
+msgid "Auto Closing Rule"
+msgstr "自動閉鎖ルール"
+
+
+msgid "Auto assign equally based on current month assigning"
+msgstr "現在の月割り当てに基づいて自動割り当て"
+
+
+msgid "Based on ticket assigning rule"
+msgstr "チケット割り当てルールに基づいて"
+
+
+msgid "Button Icon"
+msgstr "ボタンアイコン"
+
+
+msgid "Cat Ids"
+msgstr "猫のID"
+
+
+msgid "Change Category"
+msgstr "カテゴリを変更"
+
+
+msgid "Change Category of ticket: T6DD28E9B-012-1P9"
+msgstr "チケットの変更カテゴリ：T6DD28E9B-012-1P9"
+
+
+msgid "Change Category of ticket: T84B12BAE-001-ZCO"
+msgstr "チケットのカテゴリを変更する：T84B12BAE-001-ZCO"
+
+
+msgid "Chat Auto Close"
+msgstr "チャット自動クローズ"
+
+
+msgid "Chat Auto Close Interval"
+msgstr "チャット自動クローズ間隔"
+
+
+msgid "Chat Background Pattern"
+msgstr "チャットの背景パターン"
+
+
+msgid "Chat Button Icon"
+msgstr "チャットボタンのアイコン"
+
+
+msgid "Chat Closing Text"
+msgstr "チャットテキストを閉じる"
+
+
+msgid "Chat Logo"
+msgstr "チャットロゴ"
+
+
+msgid "Chat Tag Line"
+msgstr "チャットタグライン"
+
+
+msgid "Chat Title"
+msgstr "チャットタイトル"
+
+
+msgid "Chat Window and Button Color"
+msgstr "チャットウィンドウとボタンの色"
+
+
+msgid "Chat closing interval"
+msgstr "チャットの終了間隔"
+
+
+msgid "Chat has been auto closed by system"
+msgstr "チャットはシステムによって自動的に閉じられています"
+
+
+msgid "Chat main color"
+msgstr "チャットのメインカラー"
+
+
+msgid "Chat will be closed which is inactive for entered value. Enter 0 to disable auto close"
+msgstr "入力された値に対して非アクティブなチャットが閉じられます。オートクローズを無効にするには0を入力します"
+
+
+msgid "Choose Category"
+msgstr "カテゴリを選択"
+
+
+msgid "Choose Pattern"
+msgstr "パターンを選択"
+
+
+msgid "Choose Staff"
+msgstr "スタッフを選ぶ"
+
+
+msgid "Choose chat button icon"
+msgstr "チャットボタンアイコンを選択"
+
+
+msgid "Close ticket which has been inactive for"
+msgstr "非アクティブだったチケットを閉じる"
+
+
+msgid "Close ticket which is inactivated for"
+msgstr "非活性化されたチケットを閉じる"
+
+
+msgid "Closing Message"
+msgstr "メッセージを閉じる"
+
+
+msgid "Closing Rule"
+msgstr "クローズルール"
+
+
+msgid "Closing Text"
+msgstr "テキストを閉じる"
+
+
+msgid "Currency"
+msgstr "通貨"
+
+
+msgid "Custom_field"
+msgstr "カスタムフィールド"
+
+
+msgid "Delete failed"
+msgstr "削除に失敗しました"
+
+
+msgid "Demo Mode"
+msgstr "デモモード"
+
+
+msgid "Disable Knowledge Stat In Homepage"
+msgstr "ホームページ内のナレッジ・スタットを無効にする"
+
+
+msgid "Disable knowledge statistics in home page"
+msgstr "ホームページの知識統計を無効にする"
+
+
+msgid "Edit Ticket Assign Rule"
+msgstr "チケット割当ルールの編集"
+
+
+msgid "Email template for  AAT"
+msgstr "AAT用の電子メールテンプレート"
+
+
+msgid "Email template for  TAC"
+msgstr "TAC用の電子メールテンプレート"
+
+
+msgid "Enable Auto Close"
+msgstr "自動クローズを有効にする"
+
+
+msgid "Enable this to disable %s,%s,%s in homepage"
+msgstr "これを有効にすると、ホームページの％s、％s、％sが無効になります"
+
+
+msgid "Files:"
+msgstr "ファイル："
+
+
+msgid "Forgot Password"
+msgstr "パスワードをお忘れですか"
+
+
+msgid "Go to Login"
+msgstr "ログインする"
+
+
+msgid "Hour"
+msgstr "時間"
+
+
+msgid "If you don't know how you will configure the Facebook Page settings then"
+msgstr "Facebookページの設定をどのように設定するかわからない場合は"
+
+
+msgid "If you enable it, then inactive ticket will be closed automatically by auto closing rule"
+msgstr "それを有効にすると、非アクティブなチケットは自動閉鎖ルールによって自動的に閉じられます"
+
+
+msgid "If you enable this then assigned user will get notification on ticket assigning"
+msgstr "これを有効にすると、割り当てられたユーザーはチケットの割り当てに関する通知を受け取ります"
+
+
+msgid "Inactive Interval"
+msgstr "非アクティブ間隔"
+
+
+msgid "Inactive Interval min"
+msgstr "非アクティブ間隔"
+
+
+msgid "It set a limit,how many chat per agent(Admin User) can take  simultaneously"
+msgstr "制限を設定し、エージェント（管理者ユーザー）ごとに同時にチャットできるチャット数を設定します"
+
+
+msgid "It will display in chat window"
+msgstr "チャットウィンドウに表示されます"
+
+
+msgid "It will redirect within"
+msgstr "内部でリダイレクトされます"
+
+
+msgid "It will show when all agent close the chat,"
+msgstr "すべてのエージェントがチャットを終了すると、"
+
+
+msgid "Knowledge Categories"
+msgstr "知識カテゴリ"
+
+
+msgid "Knowledge attached file"
+msgstr "ナレッジ添付ファイル"
+
+
+msgid "Knowledge feature image"
+msgstr "知識特徴画像"
+
+
+msgid "Main color of chat window."
+msgstr "チャットウィンドウの主な色。"
+
+
+msgid "N B. If you select Facebook Chat then you have to reply form Facebook Page Manager App or from Facebook. You can't reply from this app"
+msgstr "N B. Facebook Chatを選択した場合は、Facebook Facebook ManagerまたはFacebookから返信する必要があります。このアプリから返信することはできません"
+
+
+msgid "Name of ticket assigned user"
+msgstr "チケットを割り当てられたユーザーの名前"
+
+
+msgid "New Admin Note"
+msgstr "新しい管理者メモ"
+
+
+msgid "New Ticket Assign Rule"
+msgstr "新しいチケット割り当てルール"
+
+
+msgid "New message or chat"
+msgstr "新しいメッセージやチャット"
+
+
+msgid "New ticket assigned"
+msgstr "新しいチケットが割り当てられました"
+
+
+msgid "New ticket assigned by you"
+msgstr "あなたから割り当てられた新しいチケット"
+
+
+msgid "New ticket received"
+msgstr "新しいチケットを受け取った"
+
+
+msgid "No note founds"
+msgstr "メモが見つかりませんでした"
+
+
+msgid "No ticket open by %s"
+msgstr "％sによって開かれたチケットはありません"
+
+
+msgid "Note"
+msgstr "注意"
+
+
+msgid "Note On"
+msgstr "ノートオン"
+
+
+msgid "Notification List"
+msgstr "通知リスト"
+
+
+msgid "On Ticket Assign"
+msgstr "チケットの割り当てについて"
+
+
+msgid "Password changed successfully"
+msgstr "パスワードは正常に変更されました"
+
+
+msgid "Password info"
+msgstr "パスワード情報"
+
+
+msgid "Payment Amount (%s)"
+msgstr "支払い額（％s）"
+
+
+msgid "Payment Amount(%s)"
+msgstr "支払い額（％s）"
+
+
+msgid "Permission Denied or logged out."
+msgstr "アクセス許可が拒否またはログアウトされました。"
+
+
+msgid "Please read it first"
+msgstr "最初にお読みください"
+
+
+msgid "Popular Knowledge"
+msgstr "人気のある知識"
+
+
+msgid "Recover Password"
+msgstr "パスワードを回復"
+
+
+msgid "Ref Id"
+msgstr "参照ID"
+
+
+msgid "Ref Type"
+msgstr "Refタイプ"
+
+
+msgid "Reset failed try again"
+msgstr "リセットに失敗しました"
+
+
+msgid "Rule Id"
+msgstr "ルールID"
+
+
+msgid "Rule Type"
+msgstr "ルールタイプ"
+
+
+msgid "SYSTEM"
+msgstr "システム"
+
+
+msgid "Select Category"
+msgstr "カテゴリを選んでください"
+
+
+msgid "Select Role"
+msgstr "役割を選択"
+
+
+msgid "Select User"
+msgstr "ユーザーを選択"
+
+
+msgid "Select User/Agent/Supervisor"
+msgstr "ユーザ/エージェント/スーパーバイザを選択"
+
+
+msgid "Selected agent/supervisor/admin will be notified on new ticket"
+msgstr "選択したエージェント/スーパバイザ/管理者に新しいチケットが通知されます"
+
+
+msgid "Selected agent/supervisor/admin will be notified on new ticket assigning"
+msgstr "選択されたエージェント/スーパバイザ/管理者は、新しいチケット割り当てで通知されます"
+
+
+msgid "Successfully assigned"
+msgstr "割り当てられました"
+
+
+msgid "Test Knowledge"
+msgstr "テストナレッジ"
+
+
+msgid "Test attachedxcx"
+msgstr "付属のテストxx"
+
+
+msgid "The ticket will be close which is inactive for client response"
+msgstr "チケットは顧客の応答のために非アクティブである"
+
+
+msgid "The update has been disabled in DEMO MODE"
+msgstr "DEMO MODEで更新が無効になっています"
+
+
+msgid "The user who reopen this ticket"
+msgstr "このチケットを再オープンしたユーザー"
+
+
+msgid "This user can be agent/supervisor/admin"
+msgstr "このユーザは、エージェント/スーパバイザ/管理者になることができます。"
+
+
+msgid "Ticket Assign Rule"
+msgstr "チケット割当ルール"
+
+
+msgid "Ticket Assign Rule List"
+msgstr "チケット割当ルール一覧"
+
+
+msgid "Ticket Closing Message"
+msgstr "チケット終了メッセージ"
+
+
+msgid "Ticket Closing Message defined in Ticket settings"
+msgstr "チケット設定で定義されたチケット終了メッセージ"
+
+
+msgid "Ticket Feedback Buttons"
+msgstr "チケットフィードバックボタン"
+
+
+msgid "Ticket Open By Admin"
+msgstr "チケットは管理者によって開かれます"
+
+
+msgid "Ticket Payment Process"
+msgstr "チケットの支払い処理"
+
+
+msgid "Ticket user  replied"
+msgstr "チケットのユーザーからの返信"
+
+
+msgid "Ticket_assign_rule"
+msgstr "Ticket_assign_rule"
+
+
+msgid "Timezone updated successfully"
+msgstr "タイムゾーンが正常に更新されました"
+
+
+msgid "Title :"
+msgstr "タイトル："
+
+
+msgid "To see all settings effect on site, Please logout this session or try with other bowser. If admin logged in then you won't see the chat button"
+msgstr "サイトのすべての設定を確認するには、このセッションをログアウトするか、他のbowserとお試しください。管理者がログインしている場合、チャットボタンは表示されません"
+
+
+msgid "To see all settings effect on site, please logout admin user or try with other browser. If admin logged in then you won't see the chat button"
+msgstr "サイトのすべての設定を確認するには、管理者ユーザーからログアウトするか、他のブラウザで試してください。管理者がログインしている場合、チャットボタンは表示されません"
+
+
+msgid "User Or Role"
+msgstr "ユーザーまたは役割"
+
+
+msgid "View Closing Email Template"
+msgstr "閉じる電子メールテンプレートを表示する"
+
+
+msgid "You have assigned self to a ticket"
+msgstr "あなたはチケットに自己を割り当てました"
+
+
+msgid "You have been replied a ticket"
+msgstr "あなたはチケットに返信されました"
+
+
+msgid "You replied a ticket"
+msgstr "あなたはチケットに返信しました"
+
+
+msgid "Your password has been changed successfully"
+msgstr "パスワードが正常に変更されました"
+
+
+msgid "hours"
+msgstr "時間"
+
+
+msgid "second(s)"
+msgstr "秒（秒）"
+
+
+msgid "to view the ticket assigning rule"
+msgstr "チケットの割り当てルールを表示する"
+
+
+msgid "Assign user"
+msgstr "ユーザーを割り当てる"
+
+
+msgid "Bad, dissatisfied"
+msgstr "悪い、不満"
+
+
+msgid "Both"
+msgstr "どちらも"
+
+
+msgid "Closed"
+msgstr "閉まっている"
+
+
+msgid "DB Query"
+msgstr "DBクエリ"
+
+
+msgid "Edit Chat Canned Message"
+msgstr "チャット缶入りメッセージの編集"
+
+
+msgid "Edit Menu"
+msgstr "編集メニュー"
+
+
+msgid "Ex. http://xyz.com"
+msgstr "Ex。 http://xyz.com"
+
+
+msgid "Failed"
+msgstr "失敗"
+
+
+msgid "Feedback message"
+msgstr "フィードバックメッセージ"
+
+
+msgid "Guest"
+msgstr "ゲスト"
+
+
+msgid "Guest Ticket User"
+msgstr "ゲストチケットユーザー"
+
+
+msgid "High"
+msgstr "高い"
+
+
+msgid "Icon"
+msgstr "アイコン"
+
+
+msgid "In Progress"
+msgstr "進行中"
+
+
+msgid "Is New Window"
+msgstr "新しいウィンドウです"
+
+
+msgid "Leave as Current"
+msgstr "現在のまま残す"
+
+
+msgid "Loading"
+msgstr "読み込み中"
+
+
+msgid "Low"
+msgstr "低い"
+
+
+msgid "Medium"
+msgstr "中"
+
+
+msgid "My Assigned All Tickets"
+msgstr "私の割り当てられたすべてのチケット"
+
+
+msgid "New"
+msgstr "新しい"
+
+
+msgid "New Menu"
+msgstr "新しいメニュー"
+
+
+msgid "No search result found"
+msgstr "検索結果が見つかりません"
+
+
+msgid "Not Found"
+msgstr "見つかりません"
+
+
+msgid "Notice_confirm"
+msgstr "Notice_confirm"
+
+
+msgid "Only On Knowledge"
+msgstr "知識のみ"
+
+
+msgid "Only on Ticket"
+msgstr "チケットのみ"
+
+
+msgid "Page %s of %s"
+msgstr "％s /％sページ"
+
+
+msgid "Paid"
+msgstr "有料"
+
+
+msgid "Pending"
+msgstr "保留中"
+
+
+msgid "Please write a comment on us here"
+msgstr "私たちにここにコメントを書いてください"
+
+
+msgid "Refunded"
+msgstr "払い戻された"
+
+
+msgid "Show Ticket"
+msgstr "チケットを表示する"
+
+
+msgid "Staff"
+msgstr "スタッフ"
+
+
+msgid "Text Icon"
+msgstr "テキストアイコン"
+
+
+msgid "Thank you for your feedback"
+msgstr "ご意見ありがとうございます"
+
+
+msgid "Thank you for your feedback. It will help us."
+msgstr "ご意見ありがとうございます。それは私たちを助けるでしょう。"
+
+
+msgid "The website address is not valid"
+msgstr "ウェブサイトのアドレスが無効です"
+
+
+msgid "URL"
+msgstr "URL"
+
+
+msgid "Urgent"
+msgstr "緊急"
+
+
+msgid "View %s - %s of %s"
+msgstr "％s  - ％s /％sの表示"
+
+
+msgid "Well, satisfied"
+msgstr "さて、満足しました"
+
+
+msgid "Would you please share your experience with us?"
+msgstr "私たちと経験を共有していただけますか？"
+
+
+msgid "You are not authorizse to see this ticket"
+msgstr "あなたはこのチケットを見る権限がありません"
+
+
+msgid "day"
+msgstr "日"
+
+
+msgid "days"
+msgstr "日々"
+
+
+msgid "minute"
+msgstr "分"
+
+
+msgid "minutes"
+msgstr "分"
+
+
+msgid "month"
+msgstr "月"
+
+
+msgid "months"
+msgstr "数ヶ月"
+
+
+msgid "second"
+msgstr "二番目"
+
+
+msgid "week"
+msgstr "週間"
+
+
+msgid "weeks"
+msgstr "週"
+
+
+msgid "year"
+msgstr "年"
+
+
+msgid "years"
+msgstr "年"
+
+
+msgid "ago"
+msgstr "前"
+
+
+msgid "Ticket user(%s) replied"
+msgstr "チケットのユーザー（％s）が返信しました"
+
+
+msgid "No category found"
+msgstr "カテゴリが見つかりません"
+
+
+msgid "Ticket Reply"
+msgstr "チケットの返信"
+
+
+msgid "Invalid Information"
+msgstr "無効な情報"
+
+
+msgid "Captcha Error"
+msgstr "キャプチャエラー"
+
+
+msgid "Assign self"
+msgstr "自己割り当て"
+
+
+msgid "Assign user %s"
+msgstr "ユーザー％sを割り当てる"
+
+
+msgid "Choose country block rule"
+msgstr "カントリーブロックルールを選択する"
+
+
+msgid "Choose.."
+msgstr "選択.."
+
+
+msgid "Country Block Rule"
+msgstr "カントリーブロックルール"
+
+
+msgid "Country Block Settings"
+msgstr "カントリーブロックの設定"
+
+
+msgid "Country List"
+msgstr "国リスト"
+
+
+msgid "Enter 2 digit Country Code(ex. US,CA,BD), Separated by comma"
+msgstr "2桁の国コード（例：US、CA、BD）を入力し、コンマで区切ります"
+
+
+msgid "If you enable it then app check country for allow or block."
+msgstr "あなたがそれを有効にする場合、アプリは許可またはブロックの国を確認します。"
+
+
+msgid "No user found with this email address"
+msgstr "このメールアドレスでユーザーが見つかりません"
+
+
+msgid "Separated by comma"
+msgstr "コンマで区切られています"
+
+
+msgid "Seperated by comma"
+msgstr "コンマで区切られています"
+
+
+msgid "simultaneously"
+msgstr "同時に"
+
+
+msgid "%d MIN"
+msgstr "％d MIN"
+
+
+msgid "Accept"
+msgstr "同意する"
+
+
+msgid "Access denied for hacking attempts"
+msgstr "ハッキングの試行でアクセスが拒否されました"
+
+
+msgid "Admin Work Log"
+msgstr "管理作業ログ"
+
+
+msgid "Allow User Own Account Delete Option"
+msgstr "ユーザー独自のアカウント削除オプションを許可する"
+
+
+msgid "Allow User To Download Their User Data"
+msgstr "ユーザーがユーザーデータをダウンロードできるようにする"
+
+
+msgid "Are you sure to delete your account?"
+msgstr "アカウントを削除してもよろしいですか？"
+
+
+msgid "Are you sure to reset?"
+msgstr "リセットしてもよろしいですか？"
+
+
+msgid "Assign"
+msgstr "割り当てます"
+
+
+msgid "Auto"
+msgstr "オート"
+
+
+msgid "Auto Assigned"
+msgstr "自動割り当て"
+
+
+msgid "Background Color"
+msgstr "背景色"
+
+
+msgid "Background Opacity"
+msgstr "背景の不透明度"
+
+
+msgid "Background Opacity is required"
+msgstr "背景の不透明度が必要です"
+
+
+msgid "Choose Bar Close Animation"
+msgstr "バーを選択してアニメーションを閉じる"
+
+
+msgid "Choose Bar Open Animation"
+msgstr "バーを開くアニメーションを選択"
+
+
+msgid "Choose Display Event"
+msgstr "イベントを選択する"
+
+
+msgid "Choose Policy Page"
+msgstr "ポリシーページを選択"
+
+
+msgid "Cookie Bar Background Color"
+msgstr "Cookieバーの背景色"
+
+
+msgid "Cookie Message"
+msgstr "クッキーメッセージ"
+
+
+msgid "Cookie bar text color"
+msgstr "Cookieバーのテキストの色"
+
+
+msgid "Copy Link"
+msgstr "リンクをコピーする"
+
+
+msgid "Date"
+msgstr "日付"
+
+
+msgid "Default Value"
+msgstr "デフォルト値"
+
+
+msgid "Delete my account"
+msgstr "アカウントを削除します"
+
+
+msgid "Deleted"
+msgstr "削除済み"
+
+
+msgid "Download this account data"
+msgstr "このアカウントデータをダウンロードする"
+
+
+msgid "Dropdown"
+msgstr "落ちる"
+
+
+msgid "Edit Custom Field"
+msgstr "カスタムフィールドの編集"
+
+
+msgid "Edit Page"
+msgstr "ページの編集"
+
+
+msgid "Error"
+msgstr "エラー"
+
+
+msgid "Field Validation"
+msgstr "フィールド検証"
+
+
+msgid "GDPR Settings"
+msgstr "GDPRの設定"
+
+
+msgid "General"
+msgstr "一般"
+
+
+msgid "Go Home Page"
+msgstr "Go Home Page"
+
+
+msgid "If you enable it, then app will show a notification bar for cookie message"
+msgstr "有効にすると、アプリはCookieメッセージの通知バーを表示します"
+
+
+msgid "If you enable it, then site user or visitor can delete their account from their panel"
+msgstr "これを有効にすると、サイトのユーザーまたは訪問者はパネルから自分のアカウントを削除できます"
+
+
+msgid "If you enable it, then site user or visitor can download their account data from their panel"
+msgstr "これを有効にすると、サイトのユーザーまたは訪問者はパネルからアカウントデータをダウンロードできます"
+
+
+msgid "If you enable it, then when visitor click the privacy policy then that will be show in lighbox window"
+msgstr "あなたがそれを有効にすると、訪問者がプライバシーポリシーをクリックすると、それはlighboxウィンドウに表示されます"
+
+
+msgid "If you enable this then it field show in All Ticket list as column in admin panel"
+msgstr "これを有効にすると、adminパネルの列としてAll Ticket listに表示されます"
+
+
+msgid "In Form"
+msgstr "フォームで"
+
+
+msgid "Is Api Based"
+msgstr "Apiベースです"
+
+
+msgid "Is On Grid"
+msgstr "グリッド上にある"
+
+
+msgid "It is the cookie bar background color"
+msgstr "クッキーバーの背景色です"
+
+
+msgid "It will control the opacity or background transparency of cookie bar background"
+msgstr "これは、クッキーバーの背景の不透明度または背景の透明度を制御します"
+
+
+msgid "Locked"
+msgstr "ロックされた"
+
+
+msgid "Locked(Hack)"
+msgstr "ロック（ハック）"
+
+
+msgid "Login Server"
+msgstr "ログインサーバー"
+
+
+msgid "Malicious Attempt on attached file. Attached file(s) has been skipped"
+msgstr "添付ファイルの悪意のある試行添付ファイルをスキップしました"
+
+
+msgid "Manual"
+msgstr "マニュアル"
+
+
+msgid "New IP"
+msgstr "新しいIP"
+
+
+msgid "New Page"
+msgstr "新しいページ"
+
+
+msgid "New Work Log"
+msgstr "新しい作業ログ"
+
+
+msgid "No work log founds"
+msgstr "作業ログが見つかりませんでした"
+
+
+msgid "Normal"
+msgstr "ノーマル"
+
+
+msgid "Notifiy"
+msgstr "通知する"
+
+
+msgid "Numeric"
+msgstr "数値"
+
+
+msgid "On Submit Api Check"
+msgstr "Submit Api Checkで"
+
+
+msgid "On Ticket Opening Form Category"
+msgstr "チケット開店フォームカテゴリ"
+
+
+msgid "Others"
+msgstr "その他"
+
+
+msgid "Page"
+msgstr "ページ"
+
+
+msgid "Page Body"
+msgstr "ページ本文"
+
+
+msgid "Pages"
+msgstr "ページ"
+
+
+msgid "Policy Page is required"
+msgstr "ポリシーページが必要です"
+
+
+msgid "Published"
+msgstr "発行済み"
+
+
+msgid "Radio"
+msgstr "無線"
+
+
+msgid "Read"
+msgstr "読む"
+
+
+msgid "Reset IP"
+msgstr "リセットIP"
+
+
+msgid "Select page"
+msgstr "ページを選択"
+
+
+msgid "Show on Table Data List"
+msgstr "テーブルデータリストに表示"
+
+
+msgid "Slag Title"
+msgstr "スラグタイトル"
+
+
+msgid "Success"
+msgstr "成功"
+
+
+msgid "Suspicious : Malicious attempt  on attached file: %s"
+msgstr "疑わしい：添付ファイルの悪意のある試み：％s"
+
+
+msgid "Suspicious: Malicious File Upload Attempts. If you tried to upload again then your ip will be blocked automatically"
+msgstr "疑わしい：悪意のあるファイルのアップロード試行。再度アップロードしようとすると、あなたのIPは自動的にブロックされます"
+
+
+msgid "Switch"
+msgstr "スイッチ"
+
+
+msgid "Textbox"
+msgstr "テキストボックス"
+
+
+msgid "This key is already used in another site. contact support team"
+msgstr "このキーは既に別のサイトで使用されています。サポートチームに連絡する"
+
+
+msgid "Ticket Id"
+msgstr "チケットID"
+
+
+msgid "Ticket Re-Open"
+msgstr "チケットの再オープン"
+
+
+msgid "Ticket user has been data deleted"
+msgstr "チケットのユーザーはデータが削除されました"
+
+
+msgid "Undefined page"
+msgstr "未定義のページ"
+
+
+msgid "Unpublished"
+msgstr "未発表"
+
+
+msgid "View Cookie Notification Bar"
+msgstr "Cookie通知バーを表示する"
+
+
+msgid "View Page"
+msgstr "ページを見る"
+
+
+msgid "View Policy In POP UP window(Lightbox)"
+msgstr "ポリシーの表示POP UPウィンドウ（ライトボックス）"
+
+
+msgid "Viewed"
+msgstr "見た"
+
+
+msgid "Work Time"
+msgstr "作業時間"
+
+
+msgid "Write %s for Policy Link and %s for only policy URL"
+msgstr "ポリシーリンクの％sとポリシーURLのみの％sの書き込み"
+
+
+msgid "Write {{PolicyLink}} for Policy Link and {{PolicyURL}} for only policy URL"
+msgstr "ポリシーリンクの場合は{{PolicyLink}}、ポリシーURLの場合は{{PolicyURL}}"
+
+
+msgid "You can create many page in page menu. Go to Admin Settings > Pages or %s"
+msgstr "ページメニューで多くのページを作成できます。管理者設定>ページまたは％sに移動します。"
+
+
+msgid "You logged in using %s"
+msgstr "あなたは％sを使ってログインしています"
+
+
+msgid "Disable Counter Icon"
+msgstr "カウンターアイコンを無効にする"
+
+
+msgid "Disable Knowledge Like/Dislike Button"
+msgstr "知識のような/嫌いなボタンを無効にする"
+
+
+msgid "Disable knowledge like and dislike button"
+msgstr "ボタンのような、嫌いな知識を無効にする"
+
+
+msgid "Do Not Show Last Update Date"
+msgstr "最終更新日を表示しない"
+
+
+msgid "Do Not Show Last Update Date on Knowledge Details"
+msgstr "ナレッジ詳細に最終更新日を表示しない"
+
+
+msgid "Do Not Show counter icon with knowledge"
+msgstr "知識のあるカウンターアイコンを表示しない"
+
+
+msgid "Do Not Show counter with knowledge"
+msgstr "知識のあるカウンターを表示しない"
+
+
+msgid "If you enable this then it won't show the like or dislike button on knowledge details."
+msgstr "これを有効にした場合、知識の詳細には嫌いボタンも表示されません。"
+
+
+msgid "If you enable this then, it won't show the last update date on knowledge details."
+msgstr "これを有効にした場合、ナレッジの詳細に関する最終更新日は表示されません。"
+
+
+msgid "If you enable this then, it won't show the view/rate counter."
+msgstr "これを有効にすると、ビュー/レートカウンタは表示されません。"
+
+
+msgid "Last Update Date"
+msgstr "最終更新日"
+
+
+msgid "Login Required, Please login"
+msgstr "ログインが必要です、ログインしてください"
+
+
+msgid "OR"
+msgstr "または"
+

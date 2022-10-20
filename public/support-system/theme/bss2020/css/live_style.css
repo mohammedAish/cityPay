@@ -1,0 +1,42 @@
+#live-site-color-picker {
+  position: fixed !important;
+  top: 30%;
+  right: 0;
+  /*right: -420px;*/
+  width: 420px;
+  z-index: 9999999;
+}
+
+#live-site-color-picker .btn-picker-opener {
+  left: -44px;
+  position: absolute;
+  top: 0;
+  background: #000;
+  height: 40px;
+  width: 50px;
+  color: #fff;
+  -webkit-border-top-left-radius: 10px;
+  -webkit-border-bottom-left-radius: 10px;
+  -moz-border-radius-topleft: 10px;
+  -moz-border-radius-bottomleft: 10px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  display: grid;
+  text-align: center;
+}
+#live-site-color-picker .sp-replacer {
+  width: 5rem;
+  height: 2.5rem;
+}
+#live-site-color-picker .sp-replacer .sp-dd {
+  position: absolute;
+  font-size: 10px;
+  right: 0;
+  top: -1px;
+  bottom: 0;
+  padding: 0 6px;
+  line-height: 2.6rem;
+  background-color: #fff;
+}
+
+/*# sourceMappingURL=live_style.css.map */

@@ -1,0 +1,1574 @@
+@import url("color/dark/dark-blue.css");
+@import url("color/dark/dark-green.css");
+@import url("color/dark/dark-purple.css");
+@import url("color/dark/dark-purple-pink.css");
+@import url("color/orrange.css");
+@import url("color/cyan.css");
+@import url("color/green.css");
+@import url("color/purple.css");
+@import url("color/purple-pink.css");
+@import url("color/dark-mode.css");
+@font-face {
+    font-family: 'Almarai';
+    src: url('../fonts/Almarai.ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+body {
+    font-family: "Almarai", sans-serif;
+    font-weight: 300 !important;
+    top: inherit !important;
+    min-height: inherit !important;
+    transition: all 0.3s;
+}
+.dark-mode{
+    background-color: #000;
+}
+ul, li {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+img{
+  max-width: 100%;
+}
+/*@font-face {*/
+/*    font-family: 'Poppins';*/
+/*    src: url('../fonts/Poppins-Light.eot');*/
+/*    src: url('../fonts/Poppins-Light.woff') format('woff'),*/
+/*         url('../fonts/Poppins-Light.ttf') format('truetype'),*/
+/*         url('../fonts/Poppins-Light.svg') format('svg');*/
+/*    font-weight: 300;*/
+/*    font-style: normal;*/
+/*}*/
+/*@font-face {*/
+/*    font-family: 'Poppins';*/
+/*    src: url('../fonts/Poppins-Regular.eot');*/
+/*    src: url('../fonts/Poppins-Regular.woff') format('woff'),*/
+/*         url('../fonts/Poppins-Regular.ttf') format('truetype'),*/
+/*         url('../fonts/Poppins-Regular.svg') format('svg');*/
+/*    font-weight: 400;*/
+/*    font-style: normal;*/
+/*}*/
+/*@font-face {*/
+/*    font-family: 'Poppins';*/
+/*    src: url('../fonts/Poppins-Medium.eot');*/
+/*    src: url('../fonts/Poppins-Medium.woff') format('woff'),*/
+/*         url('../fonts/Poppins-Medium.ttf') format('truetype'),*/
+/*         url('../fonts/Poppins-Medium.svg') format('svg');*/
+/*    font-weight: 500;*/
+/*    font-style: normal;*/
+/*}*/
+/*@font-face {*/
+/*    font-family: 'Poppins';*/
+/*    src: url('../fonts/Poppins-Bold.eot');*/
+/*    src: url('../fonts/Poppins-Bold.woff') format('woff'),*/
+/*         url('../fonts/Poppins-Bold.ttf') format('truetype'),*/
+/*         url('../fonts/Poppins-Bold.svg') format('svg');*/
+/*    font-weight: 800;*/
+/*    font-style: normal;*/
+/*}*/
+/*@font-face {*/
+/*    font-family: 'Poppins';*/
+/*    src: url('../fonts/Poppins-SemiBold.eot');*/
+/*    src: url('../fonts/Poppins-SemiBold.woff') format('woff'),*/
+/*         url('../fonts/Poppins-SemiBold.ttf') format('truetype'),*/
+/*         url('../fonts/Poppins-SemiBold.svg') format('svg');*/
+/*    font-weight: 600;*/
+/*    font-style: normal;*/
+/*}*/
+-webkit-scrollbar-track
+{
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    border-radius: 10px;
+    background-color: #ccc;
+}
+
+::-webkit-scrollbar
+{
+    width: 6px;
+    background-color: #ccc;
+}
+
+::-webkit-scrollbar-thumb
+{
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+    background-color: #ccc;
+}
+/* custom css */
+.dark-mode .color-theme-menu .theme-defalt {
+    background-color: #5a78d2 !important;
+}
+#loader-wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+    overflow: visible;
+    background-color: rgba(255, 255, 255, 0.98);
+    transition: all 0.5s;
+}
+.loaded #loader-wrapper {
+    visibility: hidden;
+    opacity: 0;
+}
+.loader-images {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: block;
+}
+.loaded #loader-wrapper .loader-images{
+    display: none;
+}
+.theme-color-swith {
+    padding: 10px 0px 10px 15px;
+    border-top: 1px solid #eee;
+    margin-top: 8px;
+    position: relative;
+}
+.theme-color-swith a {
+    font-weight: 600;
+    color: #666;
+    font-size: 14px;
+    text-decoration: none !important;
+}
+.theme-color-swith .switch {
+    display: inline-block;
+    width: 35px;
+    height: 20px;
+    position: absolute;
+    top: 12px;
+    right: 15px;
+}
+.theme-color-swith .switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+.theme-color-swith .slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+.theme-color-swith .slider:before {
+    position: absolute;
+    content: "";
+    height: 12px;
+    width: 12px;
+    left: 5px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+.theme-color-swith input:checked + .slider {
+    background-color: #001c71;
+}
+.theme-color-swith input:checked + .slider:before {
+    -webkit-transform: translateX(14px);
+    -ms-transform: translateX(14px);
+    transform: translateX(14px);
+}
+/* Rounded sliders */
+.theme-color-swith .slider.round {
+  border-radius: 34px;
+}
+.theme-color-swith .slider.round:before {
+  border-radius: 50%;
+}
+/* theme color toggle */
+@media (max-width:520px){
+    #toast {
+        left: 70%;
+        top: 120px;
+    }
+}
+#toast.show {
+    visibility: visible;
+    -webkit-animation: fadein 2s, fadeout 2s 4.5s;
+    animation: fadein 2s, fadeout 2s 4.5s;
+}
+
+@-webkit-keyframes fadein {
+    from {top: 0; opacity: 0;}
+    to {top: 120px; opacity: 1;}
+}
+
+@keyframes fadein {
+    from {top: 0; opacity: 0;}
+    to {top: 120px; opacity: 1;}
+}
+
+@-webkit-keyframes fadeout {
+    from {top: 120px; opacity: 1;}
+    to {top: 0; opacity: 0;}
+}
+
+@keyframes fadeout {
+    from {top: 120px; opacity: 1;}
+    to {top: 0; opacity: 0;}
+}
+/*toast css over*/
+.theme-btn {
+    background-color: #001c71;
+    border: 1px solid #001c71;
+    padding: 10px 30px;
+    color: #fff;
+    outline: 0;
+    font-size: 15px;
+    border-radius: 8px;
+    cursor: pointer;
+    outline: 0 !important;
+}
+.theme-btn:hover {
+    opacity: .8;
+}
+.dark-mode .wallet-area-warpper {
+    box-shadow: 0px 0px 15px #000;
+}
+.wallet-area-warpper {
+    background-color: #001c7110;
+    height: calc(100vh - 60px);
+    border-radius: 15px 15px;
+    box-shadow: 0px 0px 15px #ccc;
+    max-width: 1200px;
+    margin: 0px auto;
+    position: relative;
+    overflow: hidden;
+}
+/*.wallet-area-warpper::before {
+    content: "";
+    height: 100%;
+    width: 100%;
+    background-color: #fff;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border: 0px;
+    z-index: 99;
+    opacity: .99;
+    transition: all 0.5s;
+}*/
+.wallet-box-scroll {
+    height: calc(100vh - 160px);
+    overflow: auto;
+    padding-bottom: 30px;
+}
+/* custom css */
+/* header css */
+.header-logo {
+    padding: 12px 20px;
+    margin-bottom: 50px;
+    background-color: #e6f1ec !important;
+    border-radius: 0;
+}
+.header-box {
+    background-color: #fff;
+    border-radius: 15px 0px 0px 15px;
+    position: fixed;
+    width: 255px;
+    height: calc(100% - 60px);
+}
+.wallet-area {
+    margin: 30px 30px;
+}
+.header-logo img {
+    max-width: 165px;
+    display: block;
+    margin: 0px auto;
+}
+.header-nav-menu ul {
+    margin: 0px;
+}
+.header-nav-menu ul li {
+    padding-bottom: 20px;
+    padding: 20px 30px 20px 60px;
+    position: relative;
+}
+.header-nav-menu ul li a > i {
+    font-size: 18px;
+    position: absolute;
+    top: 22px;
+    left: 30px;
+}
+.header-nav-menu ul li.active {
+    border-left: 4px solid #001c71;
+    border-radius: 6px;
+}
+.header-nav-menu ul li a {
+    display: inline-block;
+    font-size: 16px;
+    color: #96a1b7;
+    text-decoration: none;
+    font-weight: 500;
+    line-height: normal;
+}
+.header-nav-menu ul li.active > a,
+.header-nav-menu ul li a:hover {
+    color: #001c71;
+}
+/* header css */
+/* wallet css */
+.wallet-chart {
+    padding: 0px 30px;
+    margin-bottom: 30px;
+}
+.wallet-chart #chart {
+    background-color: #fff;
+    border-radius: 15px 15px;
+    padding: 15px 15px;
+}
+.apexcharts-toolbar,
+.apexcharts-legend.apexcharts-align-left.position-top {
+    display: none !important;
+}
+.wallet-chart #chart {
+    background-color: #fff;
+    border-radius: 15px 15px;
+    padding: 8px 40px 8px 15px;
+    overflow: hidden;
+    box-shadow: 0px 0px 8px #eee;
+}
+.wallet-area-right {
+    margin-left: 255px;
+    padding-bottom: 30px;
+}
+.wallet-top-header-left {
+    float: left;
+}
+.wallet-top-header-right {
+    float: right;
+}
+.wallet-top-header-box.user-top-detail {
+    cursor: pointer;
+    position: relative;
+    margin-left: 20px;
+}
+.wallet-top-header-box.user-top-detail ul {
+    position: absolute;
+    top: 100%;
+    margin: 28px 0px 0px;
+    width: 150px !important;
+    right: 0px;
+    background-color: #fff;
+    z-index: 1;
+    box-shadow: 0px 0px 8px #ccc;
+    display: none;
+}
+.wallet-language-box {
+    float: left;
+    margin: 12px 0px 0px;
+}
+.wallet-language-box .dropdown {
+    outline: 0;
+    cursor: pointer;
+}
+.wallet-language-box .dropdown-menu {
+    background-color: #fff;
+    border: 0px;
+    top: 58px;
+    border-radius: 0px;
+    padding: 0px;
+    margin: 0px;
+    box-shadow: 0px 0px 8px #ccc;
+}
+.wallet-language-box .dropdown-menu .language-dropdown {
+    height: auto;
+    overflow: auto;
+    margin: 0;
+}
+.wallet-language-box .dropdown-menu li {
+    font-size: 15px;
+    padding: 10px 15px;
+    color: #001c71;
+    border-bottom: 1px solid #eee;
+}
+.wallet-language-box .dropdown-menu li > a {
+    color: #001c71;
+    text-decoration: none;
+}
+.wallet-language-box .dropdown-menu li.active {
+    background-color: #274398;
+    border-color: #274398;
+}
+.wallet-language-box .dropdown-menu li:last-child {
+    border-bottom: 0px;
+}
+.wallet-language-box .dropdown-menu li img {
+    width: 24px;
+    margin-right: 5px;
+}
+.wallet-language-box .dropdown .select {
+    font-size: 16px;
+    color: #fff;
+}
+.wallet-language-box .dropdown .select span img {
+    width: 24px;
+    float: left;
+    position: relative;
+    top: 4px;
+    margin-right: 6px;
+}
+.wallet-top-header-right .notification-box-area {
+    float: left;
+    margin-left: 20px;
+    position: relative;
+    z-index: 1;
+}
+#artitleTranslate, #customTranslate, .goog-te-banner-frame {
+ display: none;
+}
+.notification-dropdown {
+    position: absolute;
+    top: 70px;
+    width: 330px !important;
+    background-color: #fff;
+    left: 50%;
+    z-index: 1;
+    transform: translateX(-50%);
+    box-shadow: 0px 0px 8px #ccc;
+    display: none;
+}
+.notification-dropdown::before,
+.profile-dropdown::before,
+.wallet-language-box .dropdown-menu::before {
+    bottom: 100%;
+    left: 50%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+    border-color: rgba(194, 225, 245, 0);
+    border-bottom-color: #fff;
+    border-width: 10px;
+    margin-left: -10px;
+}
+.wallet-language-box .dropdown-menu::before {
+    left: 45%;
+}
+.notification-dropdown::before {
+    border-bottom-color: #f3f3f3;
+}
+.notification-dropdown .notification-list {
+    margin: 0px;
+    max-height: 288px;
+    overflow-y: auto;
+}
+.notification-dropdown .notification-footer a {
+    background-color: #001c71;
+    display: block;
+    font-size: 15px;
+    padding: 12px 15px;
+    text-align: center;
+    color: #fff;
+    font-weight: 500;
+    text-decoration: none;
+}
+.notification-header h3 {
+    font-size: 15px;
+    margin: 0px;
+    background-color: #f3f3f3;
+    padding: 15px 15px;
+    text-align: center;
+    color: #001c71;
+}
+.notification-dropdown li .notification-icon {
+    font-size: 22px;
+    position: absolute;
+    color: #fff;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 15px;
+}
+.notification-success .notification-icon {
+    color: #4CAF50 !important;
+}
+.notification-pending .notification-icon {
+    color: #ffc107 !important;
+}
+.notification-cancel .notification-icon {
+    color: #f05050 !important;
+}
+.notification-content {
+    padding-left: 32px;
+}
+.notification-dropdown li {
+    position: relative;
+    padding: 15px 15px;
+    border-bottom: 1px solid #eee;
+    color: #717171;
+    cursor: pointer;
+}
+.notification-dropdown li.read-notification {
+    color: #aaa;
+}
+.notification-dropdown li:last-child {
+    border-bottom: 0px;
+}
+.notification-dropdown li .notification-content h3 {
+    font-size: 15px;
+    margin: 0px 0px 5px;
+    font-weight: 500;
+}
+.notification-dropdown li.read-notification .notification-content h3 {
+    font-weight: normal;
+}
+.notification-dropdown li .notification-content h4 {
+    font-size: 15px;
+    font-weight: 400;
+    margin: 0px;
+    color: #aaaaaa;
+}
+.notification-dropdown li span {
+    font-size: 12px;
+    color: #001c71;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 15px;
+}
+.wallet-top-header-right .notification-box-area .notification-box{
+    position: relative;
+}
+.wallet-top-header-right .notification-box-area .notification-box > i {
+    font-size: 20px;
+    color: #fff;
+    margin: 14px 0px 0px;
+    cursor: pointer;
+}
+.wallet-top-header-right .notification-box-area .notification-box .notification-active {
+    height: 8px;
+    width: 8px;
+    background-color: #87d682;
+    border-radius: 100%;
+    position: absolute;
+    top: 8px;
+    right: -6px;
+}
+.wallet-top-header-box.user-top-detail ul li a {
+    display: block;
+    font-size: 16px;
+    color: #001c71;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-bottom: 1px solid #eee;
+}
+.wallet-top-header-box.user-top-detail ul li:last-child a{
+    border-bottom: 0px;
+}
+.wallet-top-header-box.user-top-detail ul li a > i {
+    font-size: 15px;
+    margin-right: 5px;
+}
+.wallet-top-header-box {
+    float: left;
+    margin-left: 30px;
+    position: relative;
+    padding-left: 45px;
+}
+.wallet-top-header-box .header-wallet-ico {
+    font-size: 30px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    color: #ccc;
+}
+.wallet-top-header-box .header-wallet-ico img {
+    height: 35px;
+    width: 35px;
+    border-radius: 100%;
+}
+.wallet-top-header-left .wallet-top-header-box:first-child{
+    margin-left: 0px;
+}
+.wallet-top-header {
+    background-color: #001c71;
+    padding: 28.5px 30px;
+    border-top-right-radius: 0;
+}
+.wallet-top-header-box > span {
+    font-size: 12px;
+    color: #eff6ff;
+    display: block;
+    margin-bottom: 3px;
+}
+.wallet-top-header-box h3 {
+    font-size: 18px;
+    color: #e3e3e7;
+    margin: 0px;
+    font-weight: 400;
+}
+.wallet-top-header-box h3 > i {
+    font-size: 12px;
+}
+.wallet-bradcrumb {
+    padding: 20px 30px;
+}
+.wallet-bradcrumb h2 {
+    font-size: 20px;
+    margin: 0px;
+    color: #003595;
+}
+.wallet-bradcrumb h2 > i {
+    margin-right: 6px;
+}
+.wallet-box-main {
+    padding: 0px 15px;
+}
+.wallet-box-left {
+    width: 45%;
+    float: left;
+    padding: 0px 15px;
+}
+.wallet-box-right {
+    width: 55%;
+    float: left;
+    padding: 0px 15px;
+}
+.wallet-balance-box .wallet-balance-name {
+    float: left;
+}
+.wallet-balance-box .wallet-balance-amount {
+    float: right;
+}
+.wallet-balance {
+    background-color: #fff;
+    border-radius: 15px 15px;
+    padding: 30px 30px;
+    box-shadow: 0px 0px 8px #eee;
+}
+.wallet-balance-box {
+    position: relative;
+    padding-left: 55px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 19px;
+    margin-bottom: 18px;
+}
+.wallet-balance-box:last-child{
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    border-bottom: 0px;
+}
+.wallet-balance-box .wallet-balance-ico {
+    width: 40px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.wallet-balance-box .wallet-balance-name h3,
+.wallet-balance-box .wallet-balance-amount h3 {
+    font-size: 16px;
+    color: #001c71;
+    margin: 0px 0px;
+}
+.wallet-balance-box span {
+    font-size: 15px;
+    color: #666;
+    display: block;
+    font-weight: 400;
+}
+.wallet-balance-box .wallet-balance-amount h3 {
+    margin: 10px 0px;
+}
+.wallet-transaction {
+    background-color: #fff;
+    border-radius: 15px 15px;
+    padding: 30px 30px;
+    box-shadow: 0px 0px 8px #eee;
+}
+.wallet-transaction-box .wallet-transaction-ico {
+    height: 40px;
+    width: 40px;
+    background-color: #001c71;
+    font-size: 18px;
+    text-align: center;
+    color: #fff;
+    border-radius: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.datatablestyle{
+    height: 40px;
+    width: 40px;
+    background-color: #001c71;
+    font-size: 18px;
+    text-align: center;
+    color: #fff;
+    border-radius: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.wallet-transaction-box .wallet-transaction-ico > i {
+    line-height: 40px;
+}
+.wallet-transaction-box {
+    position: relative;
+    padding-left: 52px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+.wallet-transaction-box:last-child{
+    border-bottom: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.wallet-transaction-box .wallet-transaction-name h3,
+.wallet-transaction-balance h3 {
+    font-size: 16px;
+    color: #001c71;
+    margin: 0px 0px;
+}
+.wallet-transaction-box .wallet-transaction-name span,
+.wallet-transaction-balance span {
+    font-size: 13px;
+    color: #666;
+    display: block;
+}
+.wallet-transaction-box .wallet-transaction-name {
+    float: left;
+}
+.wallet-transaction-box .wallet-transaction-balance {
+    float: right;
+}
+.wallet-transaction-box .wallet-transaction-ico.wallet-Withdrawal {
+    background-color: #87d682;
+}
+.wallet-transaction-box .wallet-transaction-ico.wallet-sync {
+    background-color: #7ad9e3;
+}
+.sent-coin-transaction {
+    background-color: #87d682 !important;
+}
+.recive-coin-transaction {
+    background-color: #7ad9e3 !important;
+}
+.dashboard-title {
+    font-size: 20px;
+    color: #001c71;
+    font-weight: 600;
+    margin: 0px 0px 25px;
+}
+.wallet-balance-area {
+    margin: 0px 15px;
+}
+.wallet-balance-area .wallet-balance-box .wallet-balance-ico {
+    position: static;
+    text-align: center;
+    margin: 0px auto 15px;
+    width: 60px;
+    height: 60px;
+}
+.wallet-balance-area .wallet-balance-box {
+    width: calc(33.33% - 30px);
+    text-align: center;
+    margin: 0px 15px;
+    float: left;
+    padding: 20px 20px;
+    cursor: pointer;
+    background-color: #fff;
+    border-radius: 15px;
+    position: relative;
+    box-shadow: 0px 0px 8px #eee;
+    margin-bottom: 30px;
+}
+.wallet-balance-area .wallet-balance-box.wallet1 {
+    background-color: #f08b1630;
+}
+.wallet-balance-area .wallet-balance-box.wallet2 {
+    background-color: #627eea30;
+}
+.wallet-balance-area .wallet-balance-box.wallet3 {
+    background-color: #83838330;
+}
+.wallet-balance-area .wallet-balance-box.wallet4 {
+    background-color: #8dc35130;
+}
+.wallet-balance-area .wallet-balance-box.wallet5 {
+    background-color: #0089c130;
+}
+.wallet-balance-area .wallet-balance-box.wallet6 {
+    background-color: #0388e530;
+}
+.wallet-balance-area .wallet-balance-box h3 {
+    font-size: 18px;
+    color: #001c71;
+    margin-bottom: 0px;
+    font-weight: 500;
+}
+.wallet-balance-area .wallet-balance-box h4 {
+    font-size: 15px;
+    font-weight: normal;
+    margin-top: 6px;
+    color: #666;
+    margin-bottom: 12px;
+}
+.wallet-balance-area .wallet-balance-box .my-wallet-address {
+    background-color: #ffffff60;
+    padding: 15px 35px 15px 15px;
+    font-size: 15px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    position: relative;
+    border-radius: 6px 6px;
+}
+.wallet-balance-area .wallet-balance-box .my-wallet-address span {
+    display: initial;
+}
+.wallet-balance-area .wallet-balance-box .my-wallet-address > i {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 12px;
+    font-size: 15px;
+    color: #666;
+    cursor: pointer;
+}
+.my-wallet-area {
+    padding: 0px 15px;
+}
+.my-wallet-box.create-new-box {
+    text-align: center;
+    padding: 36px 20px;
+}
+.my-wallet-box {
+    width: calc(33.33% - 30px);
+    float: left;
+    margin: 0px 15px 30px;
+    padding: 20px 20px;
+    cursor: pointer;
+    background-color: #fff;
+    border-radius: 15px;
+    position: relative;
+    box-shadow: 0px 0px 8px #eee;
+}
+.my-wallet-box .remove-wallet {
+    height: 32px;
+    width: 32px;
+    background-color: #001c71;
+    border-radius: 100%;
+    color: #fff;
+    text-align: center;
+    font-size: 18px;
+    line-height: 32px;
+    position: absolute;
+    top: -15px;
+    right: -14px;
+}
+.my-wallet-box.create-new-box .my-wallet-ico {
+    height: 45px;
+    width: 45px;
+    background-color: #001c71;
+    border-radius: 100%;
+    color: #fff;
+    font-size: 22px;
+    margin: 0px auto 15px;
+    box-shadow: 0px 0px 6px #001c71;
+}
+.my-wallet-box.create-new-box .my-wallet-ico > i {
+    line-height: 46px;
+}
+.my-wallet-box.create-new-box h3 {
+    font-size: 18px;
+    color: #001c71;
+    margin-bottom: 0px;
+}
+.my-wallet-box .my-wallet-name {
+    position: relative;
+    margin-bottom: 8px;
+}
+.my-wallet-box .my-wallet-name h3 {
+    font-size: 16px;
+    color: #001c71;
+    margin: 0px;
+}
+.my-wallet-box .my-wallet-balance {
+    margin-top: 15px;
+}
+.my-wallet-box .my-wallet-balance h3 {
+    font-size: 16px;
+    color: #666;
+    margin: 0px;
+    font-weight: 400;
+}
+.my-wallet-box .my-wallet-balance h3 span {
+    color: #001c71;
+}
+.my-wallet-box .my-wallet-address {
+    background-color: #001c7110;
+    padding: 15px 35px 15px 15px;
+    font-size: 15px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    position: relative;
+}
+.my-wallet-box .my-wallet-address > i {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 12px;
+    font-size: 15px;
+    color: #666;
+    cursor: pointer;
+}
+/* wallet css */
+/* popup css */
+.modal-backdrop.show {
+    opacity: .9 !important;
+}
+.modal-backdrop {
+    background-color: #000 !important;
+}
+.close {
+    text-shadow: none !important;
+    color: #fff !important;
+    opacity: 1 !important;
+    outline: 0 !important;
+}
+.theme-popup .modal-content {
+    border: 0px;
+    border-radius: 15px;
+}
+.theme-popup .modal-header {
+    background-color: #001c71;
+    border-radius: 15px 15px 0px 0px;
+}
+.theme-popup .modal-header .modal-title {
+    font-size: 18px;
+    color: #fff;
+}
+.wallet-popup-box {
+    margin-bottom: 20px;
+    position: relative;
+}
+.wallet-popup-box:last-child {
+    margin-bottom: 0px;
+}
+.wallet-popup-box .theme-input {
+    width: 100%;
+    font-size: 15px;
+    color: #222;
+    padding: 12px 15px;
+    border-radius: 8px;
+    border: 1px solid #eee;
+    box-shadow: 0px 0px 8px #eee;
+    outline: 0;
+}
+.wallet-popup-box label {
+    font-size: 14px;
+    display: block;
+    margin: 0px 0px 4px;
+    font-weight: 500;
+    color: #001c71;
+}
+.wallet-popup-box select {
+    background-color: #eee;
+    border: 1px solid #eee;
+    padding: 6.5px 8px;
+    position: absolute;
+    bottom: 4.5px;
+    right: 5px;
+    font-weight: 500;
+    outline: 0;
+}
+/* tranfer coin css */
+.tranfer-coin-box {
+    padding: 0px 30px;
+}
+.tranfer-coin-box .wallet-transaction {
+    margin: 0px;
+}
+.transfer-coin-btn {
+    text-align: right;
+}
+.transfer-coin-btn a {
+    display: inline-block;
+    background-color: #96a1b7;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-left: 8px;
+    color: #fff;
+    font-size: 15px;
+    box-shadow: 0px 0px 15px #eee;
+    text-decoration: none !important;
+}
+.transfer-coin-btn a.active,
+.transfer-coin-btn a:hover {
+    background-color: #001c71;
+    color: #fff;
+}
+.transfer-coin-btn a:first-child{
+    margin-left: 0px;
+}
+.transfer-coin-btn a > i {
+    margin-right: 2px;
+    font-size: 18px;
+    vertical-align: middle;
+    position: relative;
+    top: -2px;
+}
+.transfer-coin-content-box {
+    background-color: #fff;
+    border-radius: 15px 15px;
+    padding: 30px 30px;
+    box-shadow: 0px 0px 8px #eee;
+    margin-top: 20px;
+    display: none;
+}
+.transfer-coin-content-box.active{
+    display: block;
+}
+.transfer-coin-input {
+    margin-bottom: 20px;
+    position: relative;
+}
+.transfer-coin-input .input-two > i,
+.transfer-coin-input.transfer-coin-select > i {
+    font-size: 18px;
+    color: #666;
+    position: absolute;
+    bottom: 14px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.transfer-coin-input .input-two {
+    margin:0;
+    padding: 0;
+    position: relative;
+}
+.transfer-coin-input .input-two .input-two-box {
+    width: calc(50% - 40px);
+    margin: 0px 20px;
+    float: left;
+    position: relative;
+}
+.transfer-coin-input .input-two .input-two-box span {
+    font-size: 15px;
+    color: #666;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 15px;
+}
+.transfer-coin-input .input-two .input-two-box input {
+    padding: 10px 56px 10px 15px;
+}
+.transfer-coin-input label {
+    font-size: 14px;
+    display: block;
+    margin: 0px 0px 4px;
+    font-weight: 500;
+    color: #001c71;
+}
+.transfer-coin-input input {
+    width: 100%;
+    background-color: #fff;
+    border: 1px solid #eee;
+    box-shadow: 0px 0px 8px #eee;
+    padding: 12px 15px;
+    outline: 0;
+    border-radius: 6px;
+    font-size: 15px;
+    color: #444;
+}
+.transfer-coin-input.transfer-coin-select {
+    margin: 0px -15px 20px;
+}
+.transfer-coin-input .dropdown {
+    width: calc(50% - 40px);
+    background-color: #fff;
+    border: 1px solid #eee;
+    box-shadow: 0px 0px 8px #eee;
+    padding: 12px 15px;
+    outline: 0;
+    border-radius: 6px;
+    color: #001c71;
+    font-size: 15px;
+    margin: 0px 20px;
+    float: left;
+    cursor: pointer;
+}
+.transfer-coin-input .dropdown .select {
+    cursor: pointer;
+    display: block;
+}
+.transfer-coin-input .dropdown .select span img,
+.transfer-coin-input .dropdown .dropdown-menu li img {
+    max-width: 20px;
+    vertical-align: text-bottom;
+    margin-right: 4px;
+}
+.transfer-coin-input .dropdown .select > i {
+    font-size: 13px;
+    color: #888;
+    cursor: pointer;
+    float: right;
+    line-height: 20px
+}
+.transfer-coin-input .dropdown.active .select > i {
+    transform: rotate(-90deg)
+}
+.transfer-coin-input .dropdown .dropdown-menu {
+    position: absolute;
+    background-color: #fff;
+    width: 100%;
+    left: 0;
+    margin-top: 4px;
+    border: 1px solid #eee;
+    box-shadow: 0px 0px 8px #eee;
+    overflow: hidden;
+    display: none;
+    max-height: 260px;
+    overflow-y: auto;
+    z-index: 9;
+    border-radius: 6px;
+}
+.transfer-coin-input .dropdown .dropdown-menu li {
+    padding: 10px 15px;
+    cursor: pointer;
+    border-bottom: 1px solid #eee;
+}
+.transfer-coin-input .dropdown .dropdown-menu {
+    padding: 0;
+    list-style: none
+}
+.transfer-coin-input .dropdown .dropdown-menu li:last-child{
+    border-bottom: 0px;
+}
+.transfer-coin-input .dropdown .dropdown-menu li:hover {
+    background-color: #f2f2f2
+}
+.transfer-coin-input .dropdown .dropdown-menu li:active {
+    background-color: #e2e2e2
+}
+.transfer-coin-button .theme-btn {
+    width: 75%;
+    margin: 0px auto;
+    display: block;
+}
+/* tranfer coin css */
+/* invoice css */
+.invoice-warning {
+    padding: 0px 0px 15px;
+    text-align: center;
+}
+.invoice-warning p {
+    margin: 0px;
+    font-size: 15px;
+    line-height: 1.4;
+    color: #555;
+}
+.invoice-warning p .invoice-text {
+    margin-right: 2px;
+}
+.invoice-qr-img {
+    margin-bottom: 15px;
+    text-align: center;
+}
+.invoice-qr-img img {
+    max-width: 100%;
+    display: block;
+    max-height: 180px;
+    margin: 0px auto;
+    background-color: #fff !important;
+    padding: 10px;
+    box-shadow: 0px 0px 6px #eee;
+    cursor: pointer;
+    outline: 0;
+    border: 0px !important;
+}
+.invoice-qr-ammount-box {
+    margin: 0px 0px 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    border: 1px solid #eee;
+    box-shadow: 0px 0px 15px #eee;
+}
+.invoice-qr-ammount-box .invoice-ammount-box {
+    padding: 25px 20px;
+    border-bottom: 1px solid #eee;
+    position: relative;
+}
+.invoice-qr-ammount-box .invoice-ammount-box::before {
+    content: "";
+    border: solid #eee;
+    border-width: 0 1px 1px 0;
+    display: inline-block;
+    padding: 5px;
+    transform: rotate(45deg) translate(-50%);
+    -webkit-transform: rotate(45deg) translate(-50%);
+    position: absolute;
+    bottom: -10px;
+    background-color: #fff;
+    left: 50%;
+}
+.invoice-qr-ammount-box .invoice-ammount-box label {
+    display: block;
+    font-size: 16px;
+    color: #666;
+    text-align: center;
+}
+.invoice-qr-ammount-box .invoice-ammount-box h2 {
+    font-size: 28px;
+    font-weight: 500;
+    margin: 10px 0px 0px;
+    text-align: center;
+    cursor: pointer;
+    color: #001c71;
+}
+.invoice-qr-ammount-box .invoice-qr-box {
+    padding: 25px 20px;
+    text-align: center;
+}
+.invoice-qr-ammount-box .invoice-qr-box .invoice-payment-url {
+    position: relative;
+}
+.invoice-qr-ammount-box .invoice-qr-box .invoice-payment-url input {
+    background-color: #f5f5f5;
+    border: 1px solid #f5f5f5;
+    padding: 12px 60px 12px 15px;
+    font-size: 15px;
+    width: 100%;
+}
+.invoice-qr-ammount-box .invoice-qr-box .invoice-payment-url > i {
+    font-size: 18px;
+    color: #666;
+    position: absolute;
+    height: 30px;
+    top: 50%;
+    transform: translateY(-50%);
+    line-height: 30px;
+    right: 0px;
+    border-left: 2px solid #ccc;
+    padding: 0px 14px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+/* invoice css */
+/* remove theme pupup css */
+.remove-theme-popup .modal-dialog {
+    max-width: 420px;
+}
+.remove-theme-popup .modal-body {
+    padding: 40px 20px 0px;
+    text-align: center;
+}
+.remove-theme-popup .close {
+    color: #666 !important;
+    float: none;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    font-size: 18px;
+    outline: 0;
+}
+.remove-popup h3 {
+    font-size: 20px;
+    font-weight: 500;
+    margin: 0px 0px 40px;
+}
+.remove-popuo-btn .remove-btn {
+    width: 50%;
+    float: left;
+    display: block;
+    border: 0px;
+    background-color: #ff0000;
+    padding: 12px 15px;
+    cursor: pointer;
+    outline: 0;
+    color: #fff;
+    font-size: 16px;
+}
+.remove-popuo-btn .cancel-btn {
+    background-color: #eee;
+    color: #222;
+}
+.remove-popuo-btn {
+    margin: 0px -20px;
+}
+.modal .modal-dialog {
+    margin: 15px auto 0px;
+}
+/* remove theme pupup css */
+/* profile css */
+.profile-page-area {
+    padding: 0px 30px;
+}
+.profile-page-area-main {
+    background-color: #fff;
+    border-radius: 15px 15px;
+    padding: 30px 30px;
+    box-shadow: 0px 0px 8px #eee;
+    display: table;
+    width: 100%;
+}
+.profile-page-area-main .profile-information,
+.profile-page-area-main .profile-information-right {
+    display: table-cell;
+    vertical-align: middle;
+}
+.profile-page-area-main .profile-information {
+    width: 30%;
+}
+.profile-page-area-main .profile-information-right {
+    width: 70%;
+    padding-left: 30px;
+}
+.editprofile-images .edit-images img {
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin: 0px auto;
+    border-radius: 100%;
+}
+.profile-page-area-main .profile-information-right .profile-information-box {
+    margin: 0px -15px;
+}
+.profile-information-box .theme-input-box {
+    width: calc(50% - 30px);
+    margin: 0px 15px 20px;
+    float: left;
+}
+.theme-input-box label {
+    font-size: 14px;
+    display: block;
+    margin: 0px 0px 4px;
+    font-weight: 500;
+    color: #001c71;
+}
+.theme-input-box .theme-input {
+    width: 100%;
+    background-color: #fff;
+    border: 1px solid #eee;
+    box-shadow: 0px 0px 8px #eee;
+    padding: 12px 15px;
+    outline: 0;
+    border-radius: 6px;
+    font-size: 15px;
+    color: #444;
+}
+.profile-information-box .profile-btn {
+    padding-left: 15px;
+}
+.editprofile-images {
+    text-align: center;
+}
+.edit-images {
+    display: inline-block;
+    position: relative;
+}
+.edit-images .edit-label {
+    height: 45px;
+    width: 45px;
+    background-color: #001c71;
+    display: block;
+    border-radius: 100%;
+    font-size: 18px;
+    color: #fff;
+    position: absolute;
+    bottom: 8px;
+    right: 10px;
+    cursor: pointer;
+    border: 3px solid #fff;
+}
+.edit-images .edit-label > i {
+    line-height: 38px;
+}
+.profile-reset-password .profile-information-box {
+    background-color: #fff;
+    border-radius: 15px 15px;
+    padding: 30px 15px;
+    box-shadow: 0px 0px 8px #eee;
+    display: table;
+    width: 100%;
+    margin-top: 30px;
+}
+.profile-reset-password .profile-information-box .dashboard-title {
+    padding-left: 15px;
+}
+/* profile css */
+/* color swittcher css */
+.color-switcher .toggle-button {
+    line-height: 50px;
+    text-align: center;
+    width: 48px;
+    color: #fff;
+    display: block;
+    height: 49px;
+    background: #001c71;
+    float: left;
+    cursor: pointer;
+    display: none;
+    font-size: 24px;
+}
+.color-theme-menu {
+    float: none;
+    width: 100%;
+}
+.color-switcher {
+    border-top: 1px solid #eee;
+    margin-top: 20px;
+    padding-top: 10px;
+}
+.color-switcher .color-theme-menu h4 {
+    font-size: 16px;
+    margin: 0px;
+    padding: 4px 15px 0px;
+    text-align: left;
+    font-weight: 600;
+    color: #001c71;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+.color-switcher .color-theme-menu ul {
+    margin: 0px 8px;
+}
+.color-theme-menu ul li {
+    padding: 0px;
+    width: 16.66%;
+    float: left;
+}
+.color-theme-menu ul li > a {
+    height: 25px;
+    width: 25px;
+    display: block;
+    margin: 0 7px 8px;
+    background: #f7921a;
+    border-radius: 100%;
+}
+.color-theme-menu .theme-defalt {
+    background: #001c71 !important;
+}
+.color-theme-menu .theme-orrange {
+    background: #d47707 !important;
+}
+.color-theme-menu .theme-cyan {
+    background: #1a8edf !important;
+}
+.color-theme-menu .theme-green {
+    background: #0d653d !important;
+}
+.color-theme-menu .theme-purple {
+    background: #6c20f7 !important;
+}
+.color-theme-menu .purple-pink {
+    background: #862b6a !important;
+}
+h3{
+    font-size: 16px !important;
+}
+/* color swittcher css */
+
+.ftco-section {
+    padding: 7em 0; }
+
+.ftco-no-pt {
+    padding-top: 0; }
+
+.ftco-no-pb {
+    padding-bottom: 0; }
+
+.heading-section {
+    font-size: 28px;
+    color: #000; }
+.heading-section small {
+    font-size: 18px; }
+
+.img {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center; }
+
+ul.ks-cboxtags {
+    list-style: none;
+    padding: 20px; }
+ul.ks-cboxtags li {
+    display: inline; }
+ul.ks-cboxtags li label {
+    display: inline-block;
+    background-color: rgba(255, 255, 255, 0.9);
+    border: 1px solid rgba(139, 139, 139, 0.3);
+    color: #adadad;
+    border-radius: 25px;
+    white-space: nowrap;
+    margin: 3px 0px;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-transition: all .2s;
+    -o-transition: all .2s;
+    transition: all .2s;
+    font-weight: 400;
+    width: 220px}
+
+ul.ks-cboxtags li label {
+    padding: 8px 12px;
+    cursor: pointer; }
+ul.ks-cboxtags li label::before {
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    font-family: "FontAwesome";
+    font-weight: 400;
+    font-size: 12px;
+    padding: 2px 6px 2px 2px;
+    content: "\f067";
+    -webkit-transition: -webkit-transform .3s ease-in-out;
+    transition: -webkit-transform .3s ease-in-out;
+    -o-transition: transform .3s ease-in-out;
+    transition: transform .3s ease-in-out;
+    transition: transform .3s ease-in-out, -webkit-transform .3s ease-in-out;
+}
+
+ul.ks-cboxtags li input[type="checkbox"]:checked + label::before {
+    content: "\f00c";
+    -webkit-transform: rotate(-360deg);
+    -ms-transform: rotate(-360deg);
+    transform: rotate(-360deg);
+    -webkit-transition: -webkit-transform .3s ease-in-out;
+    transition: -webkit-transform .3s ease-in-out;
+    -o-transition: transform .3s ease-in-out;
+    transition: transform .3s ease-in-out;
+    transition: transform .3s ease-in-out, -webkit-transform .3s ease-in-out; }
+
+ul.ks-cboxtags li input[type="checkbox"]:checked + label {
+    border: 1px solid #89a5bc;
+    background-color: #89a5bc;
+    color: #fff;
+    -webkit-transition: all .2s;
+    -o-transition: all .2s;
+    transition: all .2s; }
+
+ul.ks-cboxtags li input[type="checkbox"] {
+    display: absolute; }
+
+ul.ks-cboxtags li input[type="checkbox"] {
+    position: absolute;
+    opacity: 0; }
+
+.transfer{
+    background-image: url("/org_assets/dist/img/depositbg.jpg")
+}

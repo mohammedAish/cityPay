@@ -1,0 +1,4972 @@
+msgid ""
+msgstr ""                   
+"Project-Id-Version: v1.0 \n"
+"POT-Creation-Date: 2016-10-29 01:29+0600\n"
+"PO-Revision-Date: 2016-10-29 01:29+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: UTF-8\n"
+"Language: ru-RU\n"
+"X-Generator: AppsBD Translator App\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+msgid "!! You need to click save button to complete"
+msgstr "!! Вам нужно нажать кнопку «Сохранить», чтобы завершить"
+
+
+msgid "%s Popular Knowledge"
+msgstr "%s Популярные знания"
+
+
+msgid "%s Settings"
+msgstr "Настройки %s"
+
+
+msgid "%s is required"
+msgstr "Требуется %s"
+
+
+msgid "ADMIN MENU"
+msgstr "ADMIN MENU"
+
+
+msgid "API Based"
+msgstr "Основанный на API"
+
+
+msgid "API Description"
+msgstr "Описание API"
+
+
+msgid "API Setting"
+msgstr "Настройка API"
+
+
+msgid "API Settings"
+msgstr "Настройки API"
+
+
+msgid "API Token"
+msgstr "Значок API"
+
+
+msgid "API Type"
+msgstr "Тип API"
+
+
+msgid "APP User"
+msgstr "Пользователь APP"
+
+
+msgid "About Support System"
+msgstr "О системе поддержки"
+
+
+msgid "Action"
+msgstr "действие"
+
+
+msgid "Action Required"
+msgstr "Необходимое действие"
+
+
+msgid "Active"
+msgstr "активный"
+
+
+msgid "Active Members"
+msgstr "Активные участники"
+
+
+msgid "Active Paid Ticket"
+msgstr "Активный платный билет"
+
+
+msgid "Active Paid Tickets"
+msgstr "Активные платные билеты"
+
+
+msgid "Active Tickets"
+msgstr "Активные билеты"
+
+
+msgid "Add New"
+msgstr "Добавить новое"
+
+
+msgid "Added By"
+msgstr "Добавлено"
+
+
+msgid "Added On"
+msgstr "Добавлено"
+
+
+msgid "Address"
+msgstr "Адрес"
+
+
+msgid "Address is required"
+msgstr "Требуется адрес"
+
+
+msgid "Admin Dashboard"
+msgstr "Панель управления администратора"
+
+
+msgid "Admin Report"
+msgstr "Отчет администратора"
+
+
+msgid "Admin Setting"
+msgstr "Настройка администратора"
+
+
+msgid "Admin Settings"
+msgstr "Настройки администратора"
+
+
+msgid "Admin User"
+msgstr "Пользователь Admin"
+
+
+msgid "Admin User Login Security"
+msgstr "Безопасность входа в систему администратора"
+
+
+msgid "Agent"
+msgstr "агент"
+
+
+msgid "Agent replied, needs your action"
+msgstr "Агент ответил, нужно ваше действие"
+
+
+msgid "All Active Tickets"
+msgstr "Все активные билеты"
+
+
+msgid "All Closed Tickets"
+msgstr "Все закрытые билеты"
+
+
+msgid "All Paid Tickets"
+msgstr "Все платные билеты"
+
+
+msgid "All Unassigned Tickets"
+msgstr "Все неназванные билеты"
+
+
+msgid "Amount"
+msgstr "Количество"
+
+
+msgid "Amount must be between %.2f and %.2f"
+msgstr "Сумма должна быть между %.2f и %.2f"
+
+
+msgid "Announcements"
+msgstr "Объявления"
+
+
+msgid "Announcements List"
+msgstr "Список объявлений"
+
+
+msgid "App Information"
+msgstr "Информация о приложении"
+
+
+msgid "App Logo"
+msgstr "Логотип приложения"
+
+
+msgid "App Update"
+msgstr "Обновление приложения"
+
+
+msgid "App White Logo"
+msgstr "Логотип приложения White"
+
+
+msgid "App update information"
+msgstr "Информация об обновлении приложения"
+
+
+msgid "Application Security Settings"
+msgstr "Настройки безопасности приложения"
+
+
+msgid "Application Theme Settings"
+msgstr "Настройки темы приложения"
+
+
+msgid "Are you sure to change?"
+msgstr "Вы обязательно изменились?"
+
+
+msgid "Are you sure to delete?"
+msgstr "Вы уверены, что хотите удалить?"
+
+
+msgid "Assigned"
+msgstr "назначенный"
+
+
+msgid "Assigned On"
+msgstr "Назначено вкл."
+
+
+msgid "Assigned Tickets"
+msgstr "Назначенные билеты"
+
+
+msgid "Attach File"
+msgstr "Прикрепить файл"
+
+
+msgid "Best size is 400px x 400px"
+msgstr "Наилучший размер - 400px x 400px"
+
+
+msgid "Birthday"
+msgstr "день рождения"
+
+
+msgid "Birthday is required"
+msgstr "День рождения требуется"
+
+
+msgid "Body"
+msgstr "тело"
+
+
+msgid "Body is required"
+msgstr "Тело требуется"
+
+
+msgid "Cancel"
+msgstr "Отмена"
+
+
+msgid "Canned Message Fields"
+msgstr "Поля для запрещенных сообщений"
+
+
+msgid "Canned Message List"
+msgstr "Список заблокированных сообщений"
+
+
+msgid "Canned Messages"
+msgstr "Консервированные сообщения"
+
+
+msgid "Canned Msg"
+msgstr "Консервированный Msg"
+
+
+msgid "Canned Msg is required"
+msgstr "Требуется Canned Msg"
+
+
+msgid "Canned_msg"
+msgstr "Canned_msg"
+
+
+msgid "Categories"
+msgstr "категории"
+
+
+msgid "Category"
+msgstr "категория"
+
+
+msgid "Category List"
+msgstr "Список категорий"
+
+
+msgid "Category is required"
+msgstr "Категория обязательна"
+
+
+msgid "Change"
+msgstr "+ Изменить"
+
+
+msgid "Change Password"
+msgstr "Изменить пароль"
+
+
+msgid "Change password of %s"
+msgstr "Изменить пароль %s"
+
+
+msgid "Choose Homepage"
+msgstr "Выберите главную страницу"
+
+
+msgid "Choose Theme"
+msgstr "Выберите тему"
+
+
+msgid "City"
+msgstr "город"
+
+
+msgid "City is required"
+msgstr "Город требуется"
+
+
+msgid "Click here"
+msgstr "кликните сюда"
+
+
+msgid "Click on the Image to change"
+msgstr "Нажмите на изображение, чтобы изменить"
+
+
+msgid "Click on the Image to change or upload."
+msgstr "Нажмите на изображение, чтобы изменить или загрузить."
+
+
+msgid "Click on the Image to change. Best size hight is 40px"
+msgstr "Нажмите на изображение, чтобы изменить его. Наилучшая высота - 40 пикселей"
+
+
+msgid "Click on the Image to change. Best size is 75px x 75px"
+msgstr "Нажмите на изображение, чтобы изменить его. Наилучший размер - 75px x 75px"
+
+
+msgid "Click to see details"
+msgstr "Нажмите, чтобы просмотреть детали"
+
+
+msgid "Client"
+msgstr "клиент"
+
+
+msgid "Client List"
+msgstr "Список клиентов"
+
+
+msgid "Close"
+msgstr "Закрыть"
+
+
+msgid "Close Tickets"
+msgstr "Закрыть билеты"
+
+
+msgid "Closed Tickets"
+msgstr "Закрытые билеты"
+
+
+msgid "Contact Number"
+msgstr "Контактный номер"
+
+
+msgid "Controller Title"
+msgstr "Название контроллера"
+
+
+msgid "Copy Cron Link"
+msgstr "Скопировать ссылку Cron"
+
+
+msgid "Copy callback url"
+msgstr "Копировать URL-адрес обратного вызова"
+
+
+msgid "Country"
+msgstr "Страна"
+
+
+msgid "Country Code"
+msgstr "Код страны"
+
+
+msgid "Country Name"
+msgstr "Имя страны"
+
+
+msgid "Country is required"
+msgstr "Страна обязательна"
+
+
+msgid "Create Date"
+msgstr "Создать дату"
+
+
+msgid "Create Ticket"
+msgstr "Создать билет"
+
+
+msgid "Create Time"
+msgstr "Создать время"
+
+
+msgid "Created By"
+msgstr "Сделано"
+
+
+msgid "Cron Job Command"
+msgstr "Команда задания Cron"
+
+
+msgid "Current Ticket Status"
+msgstr "Текущий статус билета"
+
+
+msgid "Current version is : %s"
+msgstr "Текущая версия: %s"
+
+
+msgid "Custom Field List"
+msgstr "Пользовательский список полей"
+
+
+msgid "Custom Fields"
+msgstr "Настраиваемые поля"
+
+
+msgid "Dashboard"
+msgstr "Панель приборов"
+
+
+msgid "Date of Birth"
+msgstr "Дата рождения"
+
+
+msgid "Debug Log"
+msgstr "Журнал отладки"
+
+
+msgid "Debug Log List"
+msgstr "Список журналов отладки"
+
+
+msgid "Delete"
+msgstr "Удалить"
+
+
+msgid "Description"
+msgstr "Описание"
+
+
+msgid "Description is required"
+msgstr "Требуется описание"
+
+
+msgid "Details"
+msgstr "Детали"
+
+
+msgid "Details Debug Log"
+msgstr "Подробнее Отладочный журнал"
+
+
+msgid "Details Log"
+msgstr "Журнал сведений"
+
+
+msgid "Details info of IP(192.168.10.71)"
+msgstr "Подробная информация о IP (192.168.10.71)"
+
+
+msgid "Disable this if you want real payment"
+msgstr "Отключите это, если вы хотите получить реальный платеж"
+
+
+msgid "DoS Attack Security"
+msgstr "Безопасность DoS-атаки"
+
+
+msgid "Don't upload if you don't want"
+msgstr "Не загружайте, если вы не хотите"
+
+
+msgid "Edit"
+msgstr "редактировать"
+
+
+msgid "Edit Announcements"
+msgstr "Редактировать объявления"
+
+
+msgid "Edit Canned Message"
+msgstr "Редактировать запрещенное сообщение"
+
+
+msgid "Edit Category"
+msgstr "Изменить категорию"
+
+
+msgid "Edit Client"
+msgstr "Изменить клиент"
+
+
+msgid "Edit IP"
+msgstr "Изменить IP-адрес"
+
+
+msgid "Edit Knowledge"
+msgstr "Редактировать знания"
+
+
+msgid "Edit Role"
+msgstr "Изменить роль"
+
+
+msgid "Email"
+msgstr "Эл. адрес"
+
+
+msgid "Email Address"
+msgstr "Адрес электронной почты"
+
+
+msgid "Email Outgoing Settings"
+msgstr "Исходящие настройки электронной почты"
+
+
+msgid "Email Settings"
+msgstr "Настройки электронной почты"
+
+
+msgid "Email Templates"
+msgstr "Шаблоны для электронной почты"
+
+
+msgid "Email Templates List"
+msgstr "Список шаблонов электронной почты"
+
+
+msgid "Email To Ticket Settings"
+msgstr "Настройки рассылки по электронной почте"
+
+
+msgid "Email is required"
+msgstr "Требуется электронная почта"
+
+
+msgid "Email to Ticket Settings Form"
+msgstr "Электронная почта в форму настроек билетов"
+
+
+msgid "Enable Auto Reload (every %d min)"
+msgstr "Включить автоматический перезапуск (каждый %d мин)"
+
+
+msgid "Enable Email To Ticket/Reply"
+msgstr "Включить электронную почту для подачи заявки / ответа"
+
+
+msgid "Enable it if your protocol is secure"
+msgstr "Включите его, если ваш протокол защищен"
+
+
+msgid "Enable it to secure admin/staff user"
+msgstr "Включите его для защиты администратора / пользователя"
+
+
+msgid "Enable this to enable paypal payment"
+msgstr "Включите это, чтобы включить оплату платежа"
+
+
+msgid "Enable to convert email to ticket"
+msgstr "Включить конвертацию электронной почты в билет"
+
+
+msgid "End Date"
+msgstr "Дата окончания"
+
+
+msgid "End Date is required"
+msgstr "Требуется дата окончания"
+
+
+msgid "Entry Time"
+msgstr "Время входа"
+
+
+msgid "Entry Type"
+msgstr "Тип записи"
+
+
+msgid "Envato"
+msgstr "Envato"
+
+
+msgid "Envato Setting"
+msgstr "Настройка Envato"
+
+
+msgid "Envato Username"
+msgstr "Имя пользователя Envato"
+
+
+msgid "Ex. 192.168.10.1"
+msgstr "Ex. 192.168.10.1"
+
+
+msgid "Example: Temporary lock admin or staff user if attempts 5 miss login in 30 minutes"
+msgstr "Пример: временный администратор блокировки или пользователь штата, если попытки 5 пропустить логин за 30 минут"
+
+
+msgid "Example: if request more then 5 in 5 second then show captcha or block ip"
+msgstr "Пример: если запрос более 5 секунд за 5 секунд, тогда отобразите captcha или block ip"
+
+
+msgid "Featured Image"
+msgstr "Популярные изображения"
+
+
+msgid "File Attached"
+msgstr "Прикрепленный файл"
+
+
+msgid "File Type"
+msgstr "Тип файла"
+
+
+msgid "First Name"
+msgstr "Имя"
+
+
+msgid "First Name is required"
+msgstr "Имя требуется"
+
+
+msgid "From"
+msgstr "Из"
+
+
+msgid "From Email"
+msgstr "От электронной почты"
+
+
+msgid "From Email is required"
+msgstr "От электронной почты требуется"
+
+
+msgid "From Name"
+msgstr "От имени"
+
+
+msgid "From Name is required"
+msgstr "От имени требуется"
+
+
+msgid "Gender"
+msgstr "Пол"
+
+
+msgid "General Settings"
+msgstr "общие настройки"
+
+
+msgid "Generate an API key in your envato account and enter here"
+msgstr "Создайте ключ API в своей учетной записи envato и введите здесь"
+
+
+msgid "Has Super Power"
+msgstr "Имеет Super Power"
+
+
+msgid "Hello, %s"
+msgstr "Привет, %s"
+
+
+msgid "Helpfull"
+msgstr "ПОЛЕЗНЫЕ"
+
+
+msgid "Home"
+msgstr "Главная"
+
+
+msgid "Host"
+msgstr "хозяин"
+
+
+msgid "Host & Port"
+msgstr "Хост и порт"
+
+
+msgid "Host is required"
+msgstr "Требуется хост"
+
+
+msgid "IMAP Help"
+msgstr "Справка по IMAP"
+
+
+msgid "IMAP Settings"
+msgstr "Настройки IMAP"
+
+
+msgid "IP"
+msgstr "IP"
+
+
+msgid "IP List"
+msgstr "Список IP-адресов"
+
+
+msgid "IP is required"
+msgstr "Требуется IP-адрес"
+
+
+msgid "If request more than"
+msgstr "Если запрос больше, чем"
+
+
+msgid "If you don't choose the white logo then primary logo will be displayed in site header"
+msgstr "Если вы не выбрали белый логотип, первичный логотип будет отображаться в заголовке сайта"
+
+
+msgid "If you enable it then app prevent DoS Attack."
+msgstr "Если вы включите его, приложение предотвратит DoS Attack."
+
+
+msgid "If you enable this then logo only show in site header"
+msgstr "Если вы включите это, тогда логотип будет отображаться только в заголовке сайта"
+
+
+msgid "If you enable this, then all payment will be in test mode. Don't do this if you want real payment"
+msgstr "Если вы включите это, то вся оплата будет в тестовом режиме. Не делайте этого, если хотите реальный платеж"
+
+
+msgid "If you want to remove license form this site then click"
+msgstr "Если вы хотите удалить лицензию на этот сайт, затем нажмите"
+
+
+msgid "Inactive"
+msgstr "Неактивный"
+
+
+msgid "Invalid Information"
+msgstr "Неверная информация"
+
+
+msgid "Invalid data"
+msgstr "Неверные данные"
+
+
+msgid "Is Secure Protocol (SSL)"
+msgstr "Безопасный протокол (SSL)"
+
+
+msgid "Is Sticky/Pinned ?"
+msgstr "Является ли Sticky / Pinned?"
+
+
+msgid "Is it helpfull?"
+msgstr "Это полезно?"
+
+
+msgid "It won't show any where, It is just for track"
+msgstr "Он не будет показывать, где, это просто для трека"
+
+
+msgid "Join : %s"
+msgstr "Присоединиться: %s"
+
+
+msgid "Join Date"
+msgstr "Дате вступления"
+
+
+msgid "Key is already exists"
+msgstr "Ключ уже существует"
+
+
+msgid "Knowledge"
+msgstr "Знание"
+
+
+msgid "Knowledge List"
+msgstr "Список знаний"
+
+
+msgid "L.Reply Time"
+msgstr "L.Reply Time"
+
+
+msgid "Label"
+msgstr "метка"
+
+
+msgid "Last Name"
+msgstr "Фамилия"
+
+
+msgid "Last Name is required"
+msgstr "Требуется фамилия"
+
+
+msgid "Last Replied"
+msgstr "Последний ответ"
+
+
+msgid "Last Reply"
+msgstr "Последний ответ"
+
+
+msgid "Last Reply Time"
+msgstr "Последний ответ Время"
+
+
+msgid "Last updated on"
+msgstr "Последнее обновление:"
+
+
+msgid "Latitude"
+msgstr "широта"
+
+
+msgid "License"
+msgstr "Лицензия"
+
+
+msgid "License Domain"
+msgstr "Домен лицензии"
+
+
+msgid "License Info"
+msgstr "Информация о лицензии"
+
+
+msgid "License Information"
+msgstr "Информация о лицензии"
+
+
+msgid "License Key"
+msgstr "Лицензионный ключ"
+
+
+msgid "License Title"
+msgstr "Название лицензии"
+
+
+msgid "Link"
+msgstr "Ссылка"
+
+
+msgid "Locked User"
+msgstr "Закрытый пользователь"
+
+
+msgid "Locked User List"
+msgstr "Список заблокированных пользователей"
+
+
+msgid "Log Type"
+msgstr "Тип журнала"
+
+
+msgid "Login"
+msgstr "Авторизоваться"
+
+
+msgid "Logout"
+msgstr "Выйти"
+
+
+msgid "Longitude"
+msgstr "долгота"
+
+
+msgid "MENU"
+msgstr "МЕНЮ"
+
+
+msgid "Max file size is  %s MB"
+msgstr "Максимальный размер файла - %s MB"
+
+
+msgid "Max file size is %s MB"
+msgstr "Максимальный размер файла - %s MB"
+
+
+msgid "Menu List"
+msgstr "Список меню"
+
+
+msgid "Message"
+msgstr "Сообщение"
+
+
+msgid "Message Details"
+msgstr "Информация о сообщении"
+
+
+msgid "Method"
+msgstr "метод"
+
+
+msgid "Miss Login Tried"
+msgstr "Мисс Вход в систему"
+
+
+msgid "More homepage will be come in next version"
+msgstr "Больше главной страницы будет в следующей версии"
+
+
+msgid "More theme will be come in next version"
+msgstr "Еще одна тема будет приведена в следующей версии"
+
+
+msgid "Most Helpful Articles"
+msgstr "Самые полезные статьи"
+
+
+msgid "My Active Paid Tickets"
+msgstr "Мои активные платные билеты"
+
+
+msgid "My Active Tickets"
+msgstr "Мои активные билеты"
+
+
+msgid "My Assigned Tickets"
+msgstr "Мои назначенные билеты"
+
+
+msgid "My Closed Tickets"
+msgstr "Мои закрытые билеты"
+
+
+msgid "My Dashboard"
+msgstr "Мой Dashboard"
+
+
+msgid "My Menu"
+msgstr "Мое меню"
+
+
+msgid "My Message"
+msgstr "Мое сообщение"
+
+
+msgid "N"
+msgstr "N"
+
+
+msgid "Name"
+msgstr "имя"
+
+
+msgid "New Announcements"
+msgstr "Новые объявления"
+
+
+msgid "New Canned Message"
+msgstr "Новое Canned Message"
+
+
+msgid "New Category"
+msgstr "Новая категория"
+
+
+msgid "New Client"
+msgstr "Новый клиент"
+
+
+msgid "New Knowledge"
+msgstr "Новые знания"
+
+
+msgid "New Role"
+msgstr "Новая роль"
+
+
+msgid "New Ticket"
+msgstr "Новый билет"
+
+
+msgid "New Ticket Form"
+msgstr "Форма нового билета"
+
+
+msgid "New Window"
+msgstr "Новое окно"
+
+
+msgid "No"
+msgstr "нет"
+
+
+msgid "No active ticket found"
+msgstr "Не найдено активного билета"
+
+
+msgid "No closed ticket found"
+msgstr "Не найдено ни одного закрытого билета"
+
+
+msgid "Not Helpfull"
+msgstr "Не полезно"
+
+
+msgid "Notice For"
+msgstr "Уведомление для"
+
+
+msgid "Notice Text"
+msgstr "Текст уведомления"
+
+
+msgid "Notice text is required"
+msgstr "Текст для уведомления"
+
+
+msgid "Notification"
+msgstr "уведомление"
+
+
+msgid "Old Password"
+msgstr "Старый пароль"
+
+
+msgid "Open Ticket"
+msgstr "Открытый билет"
+
+
+msgid "Open Time"
+msgstr "Время открытия"
+
+
+msgid "Opened"
+msgstr "открытый"
+
+
+msgid "Opened Time"
+msgstr "Открытое время"
+
+
+msgid "Options"
+msgstr "Опции"
+
+
+msgid "Order"
+msgstr "порядок"
+
+
+msgid "Page Name"
+msgstr "Название страницы"
+
+
+msgid "Parent Category"
+msgstr "родительская категория"
+
+
+msgid "Parent Category is required"
+msgstr "Требуется родительская категория"
+
+
+msgid "Password"
+msgstr "пароль"
+
+
+msgid "Password is required"
+msgstr "необходим пароль"
+
+
+msgid "Password reset"
+msgstr "Восстановление пароля"
+
+
+msgid "Payer Email"
+msgstr "Электронная почта плательщика"
+
+
+msgid "Payment Amount"
+msgstr "К оплате"
+
+
+msgid "Payment Amount is required"
+msgstr "Требуется сумма платежа"
+
+
+msgid "Payment Description"
+msgstr "Описание платежа"
+
+
+msgid "Payment Details"
+msgstr "Детали оплаты"
+
+
+msgid "Payment List"
+msgstr "Список платежей"
+
+
+msgid "Payment Method Status"
+msgstr "Статус способа оплаты"
+
+
+msgid "Paypal Setting"
+msgstr "Настройка Paypal"
+
+
+msgid "Paypal Settings"
+msgstr "Настройки Paypal"
+
+
+msgid "Permission"
+msgstr "разрешение"
+
+
+msgid "Pinned Articles"
+msgstr "Связанные статьи"
+
+
+msgid "Popular Articles"
+msgstr "Популярные статьи"
+
+
+msgid "Port"
+msgstr "порт"
+
+
+msgid "Port is required"
+msgstr "Требуется порт"
+
+
+msgid "Posted By"
+msgstr "Сообщение от"
+
+
+msgid "Priroty"
+msgstr "приоритет"
+
+
+msgid "Priroty is required"
+msgstr "Приоритет необходим"
+
+
+msgid "Process Date"
+msgstr "Дата процесса"
+
+
+msgid "Process Log"
+msgstr "Журнал процессов"
+
+
+msgid "Process Time"
+msgstr "Время процесса"
+
+
+msgid "Processing"
+msgstr "обработка"
+
+
+msgid "Profile"
+msgstr "Профиль"
+
+
+msgid "Property"
+msgstr "Имущество"
+
+
+msgid "Re-Check Update"
+msgstr "Повторное обновление"
+
+
+msgid "Re-Open"
+msgstr "Re-Open"
+
+
+msgid "Read article to provide best support"
+msgstr "Прочтите статью, чтобы обеспечить лучшую поддержку"
+
+
+msgid "Recent Articles"
+msgstr "Последние статьи"
+
+
+msgid "Register"
+msgstr "регистр"
+
+
+msgid "Remove"
+msgstr "Удалить"
+
+
+msgid "Remove License"
+msgstr "Удалить лицензию"
+
+
+msgid "Replay"
+msgstr "переигровка"
+
+
+msgid "Reply"
+msgstr "Ответить"
+
+
+msgid "Reply To Ticket"
+msgstr "Ответить на комментарий"
+
+
+msgid "Reply is required"
+msgstr "Ответ обязателен"
+
+
+msgid "Reply text is required"
+msgstr "Ответить с цитированием"
+
+
+msgid "Reply user group"
+msgstr "Ответ группы пользователей"
+
+
+msgid "Reply user name"
+msgstr "Ответить имя пользователя"
+
+
+msgid "Request Count is required"
+msgstr "Требуется счетчик запросов"
+
+
+msgid "Required"
+msgstr "необходимые"
+
+
+msgid "Reset"
+msgstr "Сброс"
+
+
+msgid "Reset link has been sent to the user"
+msgstr "Ссылка сброса была отправлена ​​пользователю"
+
+
+msgid "Role"
+msgstr "Роль"
+
+
+msgid "Role  List"
+msgstr "Список ролей"
+
+
+msgid "Role Access"
+msgstr "Доступ к ролям"
+
+
+msgid "Role List"
+msgstr "Список ролей"
+
+
+msgid "Role is required"
+msgstr "Роль требуется"
+
+
+msgid "SMTP Settings"
+msgstr "Настройки SMTP"
+
+
+msgid "STAFF MENU"
+msgstr "МЕНЮ ПЕРСОНАЛА"
+
+
+msgid "Save"
+msgstr "Сохранить"
+
+
+msgid "Schedule"
+msgstr "График"
+
+
+msgid "Search"
+msgstr "Поиск"
+
+
+msgid "Seconds is required"
+msgstr "Требуются секунды"
+
+
+msgid "Security Settings"
+msgstr "Настройки безопасности"
+
+
+msgid "Select"
+msgstr "Выбрать"
+
+
+msgid "Send"
+msgstr "послать"
+
+
+msgid "Sendmail Path"
+msgstr "Путь Sendmail"
+
+
+msgid "Sendmail Path is required"
+msgstr "Требуется sendmail-путь"
+
+
+msgid "Sendmail or SMTP"
+msgstr "Sendmail или SMTP"
+
+
+msgid "Sent Message"
+msgstr "Отправленное сообщение"
+
+
+msgid "Set Status"
+msgstr "Установить статус"
+
+
+msgid "Set this cron command into your server cron list, otherwise email to ticket won't work"
+msgstr "Установите эту команду cron в список серверов cron, иначе электронная почта для билета не будет работать"
+
+
+msgid "Show IP List"
+msgstr "Показать список IP-адресов"
+
+
+msgid "Show List"
+msgstr "Показать список"
+
+
+msgid "Show Locked User List"
+msgstr "Показать заблокированный список пользователей"
+
+
+msgid "Show On"
+msgstr "Покажи"
+
+
+msgid "Show only logo in header"
+msgstr "Показывать только логотип в заголовке"
+
+
+msgid "Site Menu"
+msgstr "Меню сайта"
+
+
+msgid "Site Security"
+msgstr "Безопасность сайта"
+
+
+msgid "Social Setting"
+msgstr "Социальная обстановка"
+
+
+msgid "Social Settings"
+msgstr "Социальные настройки"
+
+
+msgid "Start Date"
+msgstr "Дата начала"
+
+
+msgid "Start Date is required"
+msgstr "Дата начала требуется"
+
+
+msgid "Status"
+msgstr "Положение дел"
+
+
+msgid "Status is required"
+msgstr "Статус требуется"
+
+
+msgid "Sticky/Pinned"
+msgstr "Липкий / Закрепленные"
+
+
+msgid "Still Need Support?"
+msgstr "Все еще нужна поддержка?"
+
+
+msgid "Sub Title"
+msgstr "Подзаголовок"
+
+
+msgid "Subject"
+msgstr "Предмет"
+
+
+msgid "Successfully Updated"
+msgstr "Успешно обновлено"
+
+
+msgid "Suggested Knowledge"
+msgstr "Предлагаемые знания"
+
+
+msgid "Super Admin"
+msgstr "Супер администратор"
+
+
+msgid "Supervisor"
+msgstr "Руководитель"
+
+
+msgid "Support System"
+msgstr "Система поддержки"
+
+
+msgid "System Update"
+msgstr "Обновление системы"
+
+
+msgid "Tag"
+msgstr "Тег"
+
+
+msgid "Tag is required"
+msgstr "Требуется тег"
+
+
+msgid "Temporary lock admin or staff user, if attempts"
+msgstr "Временный администратор блокировки или пользователь персонала, если попытки"
+
+
+msgid "Text must be less then %d characters length"
+msgstr "Длина текста должна быть меньше %d"
+
+
+msgid "Thank you for being with us"
+msgstr "Спасибо, что вы с нами"
+
+
+msgid "The time is base on %s timezone"
+msgstr "Время зависит от часовой пояс %s"
+
+
+msgid "The user who has opened ticket"
+msgstr "Пользователь, открывший билет"
+
+
+msgid "Theme Settings"
+msgstr "Настройки темы"
+
+
+msgid "This email address is already exist"
+msgstr "Этот адрес электронной почты уже существует"
+
+
+msgid "Ticket"
+msgstr "Билет"
+
+
+msgid "Ticket Body"
+msgstr "Билетное тело"
+
+
+msgid "Ticket Body is required"
+msgstr "Тело Билета требуется"
+
+
+msgid "Ticket Category"
+msgstr "Тип билета"
+
+
+msgid "Ticket Details"
+msgstr "Информация о билете"
+
+
+msgid "Ticket Feedback"
+msgstr "Обратная связь с билетами"
+
+
+msgid "Ticket Feedback List"
+msgstr "Обратная связь"
+
+
+msgid "Ticket History"
+msgstr "История билетов"
+
+
+msgid "Ticket Information"
+msgstr "Информация о билетах"
+
+
+msgid "Ticket Payment Details"
+msgstr "Детали оплаты билетов"
+
+
+msgid "Ticket Payment List"
+msgstr "Список платежей по билетам"
+
+
+msgid "Ticket Priroty"
+msgstr "Приоритет билетов"
+
+
+msgid "Ticket Status"
+msgstr "Статус билета"
+
+
+msgid "Ticket Subject"
+msgstr "Тематика билета"
+
+
+msgid "Ticket Title"
+msgstr "Название билета"
+
+
+msgid "Ticket Track ID"
+msgstr "Идентификатор дорожной карты"
+
+
+msgid "Ticket User"
+msgstr "Пользователь Ticket"
+
+
+msgid "Ticket closed do you want to re-open?"
+msgstr "Билет закрыт, вы хотите снова открыть?"
+
+
+msgid "Ticket subject is required"
+msgstr "Необходимо указать тему"
+
+
+msgid "Tickets"
+msgstr "Билеты"
+
+
+msgid "Time"
+msgstr "Время"
+
+
+msgid "Timezone"
+msgstr "Часовой пояс"
+
+
+msgid "Title"
+msgstr "заглавие"
+
+
+msgid "Title is required"
+msgstr "Требуется название"
+
+
+msgid "To"
+msgstr "к"
+
+
+msgid "Today's"
+msgstr "Сегодняшние"
+
+
+msgid "Topbar Icon"
+msgstr "Иконка Topbar"
+
+
+msgid "Topbar Icon List"
+msgstr "Список значков Topbar"
+
+
+msgid "Total"
+msgstr "Всего"
+
+
+msgid "Total Closed Ticket"
+msgstr "Полный закрытый билет"
+
+
+msgid "Total Closed Tickets"
+msgstr "Всего закрытых билетов"
+
+
+msgid "Transction ID"
+msgstr "ID транзакции"
+
+
+msgid "Type"
+msgstr "Тип"
+
+
+msgid "Tzone is required"
+msgstr "Требуется Tzone"
+
+
+msgid "USER MENU"
+msgstr "МЕНЮ ПОЛЬЗОВАТЕЛЯ"
+
+
+msgid "Unassigned Tickets"
+msgstr "Неназначенные билеты"
+
+
+msgid "Update"
+msgstr "Обновить"
+
+
+msgid "Update User"
+msgstr "Обновить пользователя"
+
+
+msgid "Uploaded file is not  supported"
+msgstr "Загруженный файл не поддерживается"
+
+
+msgid "Use this as your callback url into facebook developer panel"
+msgstr "Используйте это как свой URL-адрес обратного вызова в панели разработчиков facebook"
+
+
+msgid "Use this as your callback url into twitter developer panel"
+msgstr "Используйте это как свой URL-адрес обратного вызова в панели разработчиков Twitter"
+
+
+msgid "Use this as your callback url into your google developer console"
+msgstr "Используйте это как ваш URL-адрес обратного вызова в консоли разработчика Google"
+
+
+msgid "User"
+msgstr "пользователь"
+
+
+msgid "User (Email)"
+msgstr "Пользователь (электронная почта)"
+
+
+msgid "User (Email) is required"
+msgstr "Требуется пользователь (электронная почта)"
+
+
+msgid "User Id"
+msgstr "Идентификатор пользователя"
+
+
+msgid "User List"
+msgstr "Список пользователей"
+
+
+msgid "User Panel"
+msgstr "Панель пользователя"
+
+
+msgid "User Settings"
+msgstr "Пользовательские настройки"
+
+
+msgid "User is required"
+msgstr "Пользователь обязателен"
+
+
+msgid "Username"
+msgstr "имя пользователя"
+
+
+msgid "Value"
+msgstr "Стоимость"
+
+
+msgid "Verified"
+msgstr "проверенный"
+
+
+msgid "View Details"
+msgstr "Посмотреть детали"
+
+
+msgid "View Knowledge"
+msgstr "Просмотр знаний"
+
+
+msgid "View Site"
+msgstr "Просмотр сайта"
+
+
+msgid "View all"
+msgstr "Посмотреть все"
+
+
+msgid "Views"
+msgstr "Просмотры"
+
+
+msgid "Write here.."
+msgstr "Пишите здесь.."
+
+
+msgid "Write reply here.."
+msgstr "Написать ответ здесь .."
+
+
+msgid "Yes"
+msgstr "да"
+
+
+msgid "You think it is helpfull"
+msgstr "Вы думаете, что это полезно"
+
+
+msgid "You think it is not helpfull"
+msgstr "Вы считаете, что это не полезно"
+
+
+msgid "Your Site URL"
+msgstr "URL вашего сайта"
+
+
+msgid "Your application is up to date"
+msgstr "Ваше приложение обновлено"
+
+
+msgid "Your closed ticket list"
+msgstr "Ваш закрытый список билетов"
+
+
+msgid "Your current ticket status"
+msgstr "Текущий статус билета"
+
+
+msgid "Your envato(CodeCanyon, Themeforest,etc) username"
+msgstr "Ваше имя пользователя envato (CodeCanyon, Themeforest и т. Д.)"
+
+
+msgid "Your site name"
+msgstr "Название вашего сайта"
+
+
+msgid "Your total active tickets"
+msgstr "Всего активных билетов"
+
+
+msgid "Youtube Accounts"
+msgstr "Youtube Accounts"
+
+
+msgid "Zip"
+msgstr "застежка-молния"
+
+
+msgid "Zip is required"
+msgstr "Требуется Zip"
+
+
+msgid "by"
+msgstr "от"
+
+
+msgid "ex.5"
+msgstr "ex.5"
+
+
+msgid "is required"
+msgstr "необходимо"
+
+
+msgid "minuites"
+msgstr "минут"
+
+
+msgid "miss login in"
+msgstr "пропустить вход в систему"
+
+
+msgid "on"
+msgstr "на"
+
+
+msgid "seconds, then"
+msgstr "секунд, затем"
+
+
+msgid "setup for Social Login"
+msgstr "настройка для социального входа"
+
+
+msgid "to get custom payment"
+msgstr "получить индивидуальный платеж"
+
+
+msgid "Already registered?"
+msgstr "Уже зарегистрирован?"
+
+
+msgid "E-mail"
+msgstr "Эл. почта"
+
+
+msgid "Email address is alreay exists"
+msgstr "Адрес электронной почты уже существует"
+
+
+msgid "Forgot password?"
+msgstr "Забыли пароль?"
+
+
+msgid "Guest Ticket"
+msgstr "Билеты на гостя"
+
+
+msgid "Low Priroty"
+msgstr "Низкий приоритет"
+
+
+msgid "Not member yet ?"
+msgstr "Не зарегистрированы?"
+
+
+msgid "Open Ticket With Less Priroty"
+msgstr "Открытый билет с меньшим приоритетом"
+
+
+msgid "Open ticket after login"
+msgstr "Открыть билет после входа в систему"
+
+
+msgid "Open ticket after register"
+msgstr "Открыть билет после регистрации"
+
+
+msgid "Or Login Using"
+msgstr "Или Войти"
+
+
+msgid "Or Register Using"
+msgstr "Или зарегистрируйся"
+
+
+msgid "Or open ticket using"
+msgstr "Или открыть билет, используя"
+
+
+msgid "Submit"
+msgstr "Отправить"
+
+
+msgid "Top Priroty"
+msgstr "Высший приоритет"
+
+
+msgid "User Login"
+msgstr "Логин пользователя"
+
+
+msgid "User Registration"
+msgstr "Регистрация пользователя"
+
+
+msgid "You are not logged in. What would you like do now?"
+msgstr "Вы не авторизованы. Что бы вы хотели сделать сейчас?"
+
+
+msgid "fields are required"
+msgstr "поля обязательны для заполнения"
+
+
+msgid "Confirm Password"
+msgstr "Подтвердите Пароль"
+
+
+msgid "Back"
+msgstr "назад"
+
+
+msgid "%s is not same"
+msgstr "%s не одинаково"
+
+
+msgid "Captcha"
+msgstr "Защитный код"
+
+
+msgid "Invalid email address."
+msgstr "Неверный адрес электронной почты."
+
+
+msgid "New Password"
+msgstr "новый пароль"
+
+
+msgid "The email address is already registered. To login"
+msgstr "Адрес электронной почты уже зарегистрирован. Чтобы залогиниться"
+
+
+msgid "The value is not a valid %s"
+msgstr "Значение не является допустимым %s"
+
+
+msgid "Uncategories"
+msgstr "Uncategories"
+
+
+msgid "Assigned & Closed"
+msgstr "Назначение и закрытие"
+
+
+msgid "CSV Downloaded"
+msgstr "Загружено CSV"
+
+
+msgid "Change Timezone"
+msgstr "Изменить часовой пояс"
+
+
+msgid "Change padssword of %s"
+msgstr "Изменить пароль %s"
+
+
+msgid "Change password of Admin User"
+msgstr "Изменить пароль администратора"
+
+
+msgid "Day Report"
+msgstr "Дневной отчет"
+
+
+msgid "Member since"
+msgstr "Участник с"
+
+
+msgid "Month Report"
+msgstr "Отчет за месяц"
+
+
+msgid "New User"
+msgstr "Новый пользователь"
+
+
+msgid "Opened & Closed"
+msgstr "Открыто & Закрыто"
+
+
+msgid "Timezone is required"
+msgstr "Требуется часовой пояс"
+
+
+msgid "Tzone"
+msgstr "Tzone"
+
+
+msgid "Sign out"
+msgstr "выход"
+
+
+msgid "Please login to set priroty"
+msgstr "Войдите, чтобы установить приоритет"
+
+
+msgid "email address"
+msgstr "адрес электронной почты"
+
+
+msgid "Allowed File Types"
+msgstr "Допустимые типы файлов"
+
+
+msgid "Any Staff Can Reply"
+msgstr "Любой персонал может ответить"
+
+
+msgid "App Email"
+msgstr "Электронная почта приложения"
+
+
+msgid "App Language"
+msgstr "Язык приложения"
+
+
+msgid "App Title"
+msgstr "Заголовок приложения"
+
+
+msgid "Application General Settings"
+msgstr "Общие настройки приложения"
+
+
+msgid "Application Layout"
+msgstr "Макет приложения"
+
+
+msgid "Auto Others Color"
+msgstr "Авто Другое Цвет"
+
+
+msgid "Basic Settings"
+msgstr "Базовые настройки"
+
+
+msgid "CSS ( Style)"
+msgstr "CSS (стиль)"
+
+
+msgid "Captcha Length"
+msgstr "Длина Captcha"
+
+
+msgid "Captcha Settings"
+msgstr "Настройки Captcha"
+
+
+msgid "Captcha String Type"
+msgstr "Тип строчки Captcha"
+
+
+msgid "Captcha Type"
+msgstr "Тип Captcha"
+
+
+msgid "Charecter Lenght of default captcha"
+msgstr "Персонаж Длина по умолчанию captcha"
+
+
+msgid "Choose HTML Editor"
+msgstr "Выберите Редактор HTML"
+
+
+msgid "Client ID"
+msgstr "ID клиента"
+
+
+msgid "Client Photo Upload"
+msgstr "Фото клиента"
+
+
+msgid "Copyright Text"
+msgstr "Текст авторского права"
+
+
+msgid "Custom CSS & JavaScript"
+msgstr "Пользовательский CSS и JavaScript"
+
+
+msgid "Custom JavaScript"
+msgstr "Пользовательский JavaScript"
+
+
+msgid "Date Format"
+msgstr "Формат даты"
+
+
+msgid "Disable Registration"
+msgstr "Отключить регистрацию"
+
+
+msgid "Email Footer Text"
+msgstr "Текст нижнего колонтитула"
+
+
+msgid "Email Reply Start Text"
+msgstr "Отправить ответ"
+
+
+msgid "Enable Force SSL"
+msgstr "Включить принудительный SSL"
+
+
+msgid "Enable Guest Ticket"
+msgstr "Включить гостевой билет"
+
+
+msgid "Enable HTML Input"
+msgstr "Включить ввод HTML"
+
+
+msgid "Enable Public Ticket"
+msgstr "Включить публичный билет"
+
+
+msgid "Enable Ticket Feedback"
+msgstr "Включить обратную связь с билетами"
+
+
+msgid "Enable User Online Check"
+msgstr "Включить проверку онлайн-пользователей"
+
+
+msgid "Ex. Google analytics code, Do not add any tag  like %s"
+msgstr "Ex. Код аналитики Google. Не добавляйте теги, такие как %s"
+
+
+msgid "Feedback Email Title"
+msgstr "Обратная связь"
+
+
+msgid "Field"
+msgstr "поле"
+
+
+msgid "File Upload Settings"
+msgstr "Настройки загрузки файлов"
+
+
+msgid "Footer Background"
+msgstr "Нижний колонтитул"
+
+
+msgid "Footer Text"
+msgstr "Нижний колонтитул"
+
+
+msgid "Header Color"
+msgstr "Цвет заголовка"
+
+
+msgid "Header Gradient"
+msgstr "Градиент заголовка"
+
+
+msgid "If enable this then other color will be auto generate based on main color"
+msgstr "Если включить это, тогда другой цвет будет автоматически генерироваться на основе основного цвета"
+
+
+msgid "If enable this then the header background will be gradient"
+msgstr "Если включить это, тогда фон заголовка будет градиентом"
+
+
+msgid "If you disable this then your will get normal text area box insted of html editor"
+msgstr "Если вы отключите это, вместо этого вы получите текстовое поле вместо текстового редактора"
+
+
+msgid "If you enable it a feedback email will be sent to ticket user email address after closing ticket"
+msgstr "Если вы включите его, электронное письмо с обратной связью будет отправлено на адрес электронной почты пользователя по электронной почте ?"
+
+
+msgid "If you enable it then any visitor can open ticket without registration"
+msgstr "Если вы включите его, любой посетитель может открыть билет без регистрации"
+
+
+msgid "If you enable it then captcha will show in admin login form"
+msgstr "Если вы включите его, тогда captcha будет отображаться в форме входа администратора"
+
+
+msgid "If you enable it then captcha will show in client login form"
+msgstr "Если вы включите его, то captcha будет отображаться в форме входа в систему"
+
+
+msgid "If you enable it then captcha will show in client registration form"
+msgstr "Если вы включите его, то captcha будет отображаться в форме регистрации клиента"
+
+
+msgid "If you enable it then captcha will show in guest ticket opening form"
+msgstr "Если вы включите его, то captcha будет отображаться в форме открытия гостевого билета"
+
+
+msgid "If you enable it then user can open their ticket as public mode. Where any user can replay"
+msgstr "Если вы включите его, пользователь может открыть свой билет в режиме общего доступа. Где любой пользователь может воспроизвести"
+
+
+msgid "If you enable it then user can upload file when they open ticket and reply any ticket"
+msgstr "Если вы включите его, пользователь может загрузить файл, когда он откроет билет и ответит на любой билет"
+
+
+msgid "If you enable it, then any staff can reply on any ticket, if disable then only assigned staff can reply."
+msgstr "Если вы включите его, любой персонал может ответить на любой билет, если отключить, тогда только назначенный персонал может ответить."
+
+
+msgid "If you enable it, then you can able to upload their profile photo"
+msgstr "Если вы включите его, вы сможете загрузить свою фотографию профиля"
+
+
+msgid "If you enable this then this app will check SSL Request, if not then it will redirect to SSL URL."
+msgstr "Если вы включите это, это приложение проверит SSL-запрос, если он не будет перенаправлен на URL-адрес SSL."
+
+
+msgid "If you enable this then this app will check and show user online status."
+msgstr "Если вы включите это, это приложение будет проверять и показывать онлайн-статус пользователя."
+
+
+msgid "It will effect in next reload. If you want to now then refresh after save."
+msgstr "Это будет действовать при следующей перезагрузке. Если вы хотите сейчас обновить после сохранения."
+
+
+msgid "It's background color of footer. Empty value will be auto from main color"
+msgstr "Это цвет фона нижнего колонтитула. Пустое значение будет автоматически от основного цвета"
+
+
+msgid "It's background color of menu bar. Empty value will be auto from main color"
+msgstr "Это цвет фона в строке меню. Пустое значение будет автоматически от основного цвета"
+
+
+msgid "It's background color of menu text color when active. Empty value will be auto from main color"
+msgstr "Это цвет фона цвета текста меню, когда он активен. Пустое значение будет автоматически от основного цвета"
+
+
+msgid "It's text color of footer. Empty value will be auto from main color"
+msgstr "Это текстовый цвет нижнего колонтитула. Пустое значение будет автоматически от основного цвета"
+
+
+msgid "It's the background color of welcome message. But you can choose any text color on any text of welcome message using editor. Empty value will be auto from main color"
+msgstr "Это цвет фона приветственного сообщения. Но вы можете выбрать любой цвет текста для любого текста приветственного сообщения, используя ре?"
+
+
+msgid "It's the color of anchor link and heading(h1,h2,h3,h4) Color. Empty value will be auto from main color"
+msgstr "Это цвет привязки и заголовка (h1, h2, h3, h4) Цвет. Пустое значение будет автоматически от основного цвета"
+
+
+msgid "Its background color of header"
+msgstr "Его цвет фона заголовка"
+
+
+msgid "Keep empty if you don't want to show any footer"
+msgstr "Держите пустым, если вы не хотите показывать нижний колонтитул"
+
+
+msgid "Keep empty if you don't want to show any footer on email"
+msgstr "Держите пустым, если вы не хотите показывать нижний колонтитул по электронной почте"
+
+
+msgid "Keep empty if you don't want to show any footer on site copy write text"
+msgstr "Держите пустым, если вы не хотите показывать какой-либо нижний колонтитул на сайте."
+
+
+msgid "Keep empty if you don't want to show any message"
+msgstr "Держите пустым, если вы не хотите показывать какое-либо сообщение"
+
+
+msgid "Layout & Color Settings"
+msgstr "Настройки макета и цвета"
+
+
+msgid "Link And Heading Text"
+msgstr "Ссылка и текст заголовка"
+
+
+msgid "Main Color"
+msgstr "Основной цвет"
+
+
+msgid "Main site color is defined for application main color of client site."
+msgstr "Цвет основного сайта определяется для основного цвета приложения клиента."
+
+
+msgid "Max Upload File Size"
+msgstr "Максимальный размер файла загрузки"
+
+
+msgid "Menu Active Text Color"
+msgstr "Меню Активный цвет текста"
+
+
+msgid "Menu Background"
+msgstr "Фон меню"
+
+
+msgid "Nagative Feedback Message"
+msgstr "Отрицательное обратное сообщение"
+
+
+msgid "Nagative Message"
+msgstr "Отрицательное сообщение"
+
+
+msgid "On Admin Login"
+msgstr "Вход в систему администратора"
+
+
+msgid "On Client Login"
+msgstr "Вход клиента"
+
+
+msgid "On Client Registration"
+msgstr "О регистрации клиента"
+
+
+msgid "On Guest Ticket"
+msgstr "О гостевом билете"
+
+
+msgid "Only enter css code. Do not add any tag like %s"
+msgstr "Введите код css. Не добавляйте теги как %s"
+
+
+msgid "Positive Feedback Message"
+msgstr "Положительное сообщение обратной связи"
+
+
+msgid "Positive Message"
+msgstr "Положительное сообщение"
+
+
+msgid "Registration  of visitor. If you disable this then visitor can't register. Only registered client can open ticket after login"
+msgstr "Регистрация посетителя. Если вы отключите это, посетитель не сможет зарегистрироваться. Только зарегистрированный клиент может открыть б?"
+
+
+msgid "Site Copyright Text"
+msgstr "Текст авторского права на сайт"
+
+
+msgid "Site Key"
+msgstr "Ключ сайта"
+
+
+msgid "The value is not a numeric"
+msgstr "Значение не является числовым"
+
+
+msgid "Ticket File Upload"
+msgstr "Загрузка файла билета"
+
+
+msgid "Ticket Settings"
+msgstr "Настройки билета"
+
+
+msgid "Time Format"
+msgstr "Формат времени"
+
+
+msgid "Value must be between 1 to 99"
+msgstr "Значение должно быть от 1 до 99"
+
+
+msgid "Welcome & Footer Text"
+msgstr "Текст приветствия и нижнего колонтитула"
+
+
+msgid "Welcome Background"
+msgstr "Добро пожаловать"
+
+
+msgid "Welcome Message"
+msgstr "Приветственное сообщение"
+
+
+msgid "Welcome Text"
+msgstr "Приветственный текст"
+
+
+msgid "ex. 2"
+msgstr "ех. 2"
+
+
+msgid "Successfully updated"
+msgstr "Успешно обновлено"
+
+
+msgid "Language changed. Reloading"
+msgstr "Язык изменен. перезарядка"
+
+
+msgid "Download CSV"
+msgstr "Загрузить CSV"
+
+
+msgid "No Record Found"
+msgstr "Нет записей"
+
+
+msgid "Reload"
+msgstr "перезагружать"
+
+
+msgid "Sign In"
+msgstr "Войти в систему"
+
+
+msgid "Sign in to start your session"
+msgstr "Войдите, чтобы начать сеанс"
+
+
+msgid "Admin Panel"
+msgstr "Панель администратора"
+
+
+msgid "%s is invalid"
+msgstr "Недопустимый %s"
+
+
+msgid "A ticket email has been sent to your email. Please check that"
+msgstr "Письмо с билетом отправлено на ваш адрес электронной почты. Проверьте, что"
+
+
+msgid "Admin Notification Settings"
+msgstr "Настройки уведомления администратора"
+
+
+msgid "Are you sure to assign yourself?"
+msgstr "Вы уверены, что назначили себя?"
+
+
+msgid "Are you sure to assign?"
+msgstr "Вы уверены, что хотите назначить?"
+
+
+msgid "Assign Me"
+msgstr "Назначить меня"
+
+
+msgid "Captcha Success"
+msgstr "Успех Captcha"
+
+
+msgid "Content"
+msgstr "содержание"
+
+
+msgid "Controller"
+msgstr "контроллер"
+
+
+msgid "Email Field Details"
+msgstr "Детали поля электронной почты"
+
+
+msgid "Email Notification Settings"
+msgstr "Настройки уведомления по электронной почте"
+
+
+msgid "Email Notification Settions"
+msgstr "Настройки уведомления по электронной почте"
+
+
+msgid "Email Template updated successfully"
+msgstr "Шаблон электронной почты успешно обновлен"
+
+
+msgid "Email template for  ANR"
+msgstr "Шаблон электронной почты для ANR"
+
+
+msgid "Enable Admin Notificaiton"
+msgstr "Включить уведомление администратора"
+
+
+msgid "File Size"
+msgstr "Размер файла"
+
+
+msgid "If you enable this then admin will get notification"
+msgstr "Если вы включите это, администратор получит уведомление"
+
+
+msgid "If you enable this then admin will get notification on ticket open"
+msgstr "Если вы включите это, тогда администратор получит уведомление об открытии билета"
+
+
+msgid "If you enable this then admin will get notification on ticket user reply"
+msgstr "Если вы включите это, тогда администратор получит уведомление о ответе пользователя билета"
+
+
+msgid "Logging in.."
+msgstr "Вход в систему.."
+
+
+msgid "Name of ticket user"
+msgstr "Имя пользователя билета"
+
+
+msgid "New Ticket Opened"
+msgstr "Открыт новый билет"
+
+
+msgid "Notification Email"
+msgstr "Уведомление по электронной почте"
+
+
+msgid "Notification Settings"
+msgstr "Настройки уведомлений"
+
+
+msgid "Notification Settions"
+msgstr "Настройки уведомлений"
+
+
+msgid "On Admin/staff Reply"
+msgstr "О пользователе Admin / staff Ответить"
+
+
+msgid "On Screen Notificaiton Settings"
+msgstr "Настройки экранного уведомления"
+
+
+msgid "On Ticket Open"
+msgstr "Открыт билет"
+
+
+msgid "On Ticket User Reply"
+msgstr "Ответить"
+
+
+msgid "Page List"
+msgstr "Список страниц"
+
+
+msgid "Please wait"
+msgstr "пожалуйста, подождите"
+
+
+msgid "Replied Text"
+msgstr "Ответный текст"
+
+
+msgid "Reply text"
+msgstr "Ответить Текст"
+
+
+msgid "Resource"
+msgstr "Ресурс"
+
+
+msgid "Set Assign"
+msgstr "Set Assign"
+
+
+msgid "Successfully added"
+msgstr "Успешно добавлено"
+
+
+msgid "Template List"
+msgstr "Список шаблонов"
+
+
+msgid "Thank you, your ticket has been opened successfully"
+msgstr "Спасибо, ваш билет был успешно открыт"
+
+
+msgid "Ticket Open By Guest"
+msgstr "Билет открыт для гостей"
+
+
+msgid "Ticket Other's Info"
+msgstr "Билеты"
+
+
+msgid "Ticket Replied by : %s"
+msgstr "Билет Отвечено: %s"
+
+
+msgid "Ticket cateroty"
+msgstr "Билетная катера"
+
+
+msgid "Ticket link"
+msgstr "Ссылка на билет"
+
+
+msgid "Ticket open or reply notification settings"
+msgstr "Настройки уведомлений об открытии или ответе билетов"
+
+
+msgid "Update Email Template"
+msgstr "Обновление шаблона электронной почты"
+
+
+msgid "User Ticket"
+msgstr "Пользовательский билет"
+
+
+msgid "User who replied"
+msgstr "Пользователь, который ответил"
+
+
+msgid "View Ticket Details"
+msgstr "Просмотр информации о билетах"
+
+
+msgid "ex. email@domain.com"
+msgstr "ех. email@domain.com"
+
+
+msgid "updated"
+msgstr "обновленный"
+
+
+msgid "%s is not a valid URL"
+msgstr "%s не является допустимым URL-адресом"
+
+
+msgid "Admin Panel Language"
+msgstr "Язык панели управления"
+
+
+msgid "Admin will hear tone on notification if enabled"
+msgstr "Администратор будет слышать тон уведомления, если он включен"
+
+
+msgid "App Settings"
+msgstr "Настройки приложения"
+
+
+msgid "Application All Settings"
+msgstr "Все настройки приложения"
+
+
+msgid "Are you sure to dismiss?"
+msgstr "Вы действительно уволились?"
+
+
+msgid "Authentication failed!. May be remote server rejected."
+msgstr "Ошибка аутентификации !. Может быть удален удаленный сервер."
+
+
+msgid "Button Color"
+msgstr "Цвет кнопки"
+
+
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+
+msgid "Button Text Color"
+msgstr "Цвет текста кнопки"
+
+
+msgid "Button Txt"
+msgstr "Текст кнопки"
+
+
+msgid "Button View"
+msgstr "Просмотр кнопки"
+
+
+msgid "Button image updated successfully"
+msgstr "Изображение кнопки успешно обновлено"
+
+
+msgid "Captcha is required"
+msgstr "Требуется защитный код"
+
+
+msgid "Closed On"
+msgstr "Закрыто"
+
+
+msgid "Current Status"
+msgstr "Текущее состояние"
+
+
+msgid "Custom %s"
+msgstr "Таможня"
+
+
+msgid "Default login system form won't not show if it enabled"
+msgstr "Форма входа в систему по умолчанию не будет отображаться, если она включена"
+
+
+msgid "Default login system form won't not show if it enabled, but Remote Login & Social login will show if those are enabled"
+msgstr "Системная форма входа в систему по умолчанию не будет отображаться, если она включена, но удаленный вход и социальный вход будут отображат?"
+
+
+msgid "Disable Default Login"
+msgstr "Отключить вход по умолчанию"
+
+
+msgid "Disable Guest Open Popup"
+msgstr "Отключить гостевой открытый всплывающий"
+
+
+msgid "Edit Remote Login"
+msgstr "Изменить удаленный вход"
+
+
+msgid "Email to Ticket"
+msgstr "Отправить по почте"
+
+
+msgid "Enable Tone (Sound)"
+msgstr "Включить тон (звук)"
+
+
+msgid "Featured Video"
+msgstr "Продвигаемое Видео"
+
+
+msgid "File Upload"
+msgstr "Файл загружен"
+
+
+msgid "If you enable this then admin will hear tone on notification"
+msgstr "Если вы включите это, администратор услышит тон при уведомлении"
+
+
+msgid "If you enable this then guest user also get all priroty as dropdown option"
+msgstr "Если вы включите этот параметр, тогда гостевой пользователь также получит все приоритеты в качестве раскрывающегося списка"
+
+
+msgid "It is your remote server login URL. You can add extra parameter to detect, %s"
+msgstr "Это ваш адрес входа в удаленный сервер. Вы можете добавить дополнительный параметр для обнаружения, %s"
+
+
+msgid "It is your remote server login URL. You can add extra parameter to detect, ex. %s"
+msgstr "Это ваш адрес входа в удаленный сервер. Вы можете добавить дополнительный параметр для обнаружения, например.  %s"
+
+
+msgid "It is your remote server login URL. You can add extra parameter to detect, ex. http://zyz.com?from=support-system"
+msgstr "Это ваш адрес входа в удаленный сервер. Вы можете добавить дополнительный параметр для обнаружения, например. http://zyz.com?from=support-system"
+
+
+msgid "It will redirect to home page within"
+msgstr "Он будет перенаправляться на домашнюю страницу внутри"
+
+
+msgid "It will send this key in verification process as param"
+msgstr "Он отправит этот ключ в процессе проверки как параметр"
+
+
+msgid "Keep empty if you don't want show any video"
+msgstr "Держите пустым, если вы не хотите показывать какое-либо видео"
+
+
+msgid "Last Replied On"
+msgstr "Последний ответ"
+
+
+msgid "Layout & Color"
+msgstr "Макет и цвет"
+
+
+msgid "Log uploaded"
+msgstr "Загружен журнал"
+
+
+msgid "Login Email"
+msgstr "Логин (Email"
+
+
+msgid "Login Link"
+msgstr "Вход в систему"
+
+
+msgid "Login URL"
+msgstr "URL входа"
+
+
+msgid "Login Using"
+msgstr "Использование"
+
+
+msgid "NB. %s will be your server's api key, by this we validate the response"
+msgstr "NB.  %s будет ключом api вашего сервера, тем самым мы проверяем ответ"
+
+
+msgid "NB. %s will be your server's login token, by this it can validated the user"
+msgstr "NB.  %s будет маркером входа вашего сервера, тем самым он может проверить пользователя"
+
+
+msgid "New Remote Login"
+msgstr "Новый удаленный вход"
+
+
+msgid "Normally visitor will show a popup it s/he doesn't logged in. If you don't want to show that then enable it"
+msgstr "Обычно посетитель покажет всплывающее окно, в которое он / она не вошли. Если вы не хотите показывать, что тогда включите его"
+
+
+msgid "Notification Tone (Sound)"
+msgstr "Тональный сигнал уведомления (звук)"
+
+
+msgid "Opened On"
+msgstr "Открыто вкл."
+
+
+msgid "Our server will post to this URL with the response token.%s Post paramater will be look like %s"
+msgstr "Наш сервер отправит на этот URL с токеном ответа.  %s Параметр Post будет выглядеть как %s"
+
+
+msgid "Pay Now"
+msgstr "Заплатить сейчас"
+
+
+msgid "Payment Added"
+msgstr "Добавлена ​​оплата"
+
+
+msgid "Preview"
+msgstr "предварительный просмотр"
+
+
+msgid "Private Key"
+msgstr "Закрытый ключ"
+
+
+msgid "Remote Login"
+msgstr "Удаленный вход"
+
+
+msgid "Remote Login Error"
+msgstr "Ошибка удаленного входа в систему"
+
+
+msgid "Remote Login List"
+msgstr "Удаленный список входа"
+
+
+msgid "Remote Server Login"
+msgstr "Вход удаленного сервера"
+
+
+msgid "Remote_server"
+msgstr "Удаленный сервер"
+
+
+msgid "Request Count"
+msgstr "Количество запросов"
+
+
+msgid "Response Data Error"
+msgstr "Ошибка данных ответа"
+
+
+msgid "Response URL"
+msgstr "URL-адрес ответа"
+
+
+msgid "Same As Admin"
+msgstr "То же, что и администратор"
+
+
+msgid "Seconds"
+msgstr "секунд"
+
+
+msgid "Select icon"
+msgstr "Выберите значок"
+
+
+msgid "Server Type"
+msgstr "Тип сервера"
+
+
+msgid "Show all priroty on Guest Ticket"
+msgstr "Показать все приоритеты в гостевом билете"
+
+
+msgid "Site Language"
+msgstr "Язык сайта"
+
+
+msgid "Site Theme Settings"
+msgstr "Настройки темы сайта"
+
+
+msgid "Social Login Setting"
+msgstr "Настройка социального входа"
+
+
+msgid "Successfully Dismissed"
+msgstr "Успешно уволен"
+
+
+msgid "Successfully deleted"
+msgstr "Успешно удалено"
+
+
+msgid "Successfully logged in"
+msgstr "Успешно зарегистрирован"
+
+
+msgid "Successfully saved"
+msgstr "Успешно сохранено"
+
+
+msgid "Thank you for registering with us"
+msgstr "Спасибо, что зарегистрировались у нас"
+
+
+msgid "Theme"
+msgstr "тема"
+
+
+msgid "This account has been temporary locked for 30 minutes, try again later or contact with admin to unlock"
+msgstr "Эта учетная запись временно заблокирована на 30 минут, повторите попытку позже или свяжитесь с администратором, чтобы разблокировать"
+
+
+msgid "This servers's configuration"
+msgstr "Конфигурация этих серверов"
+
+
+msgid "Ticket Email"
+msgstr "Электронная почта"
+
+
+msgid "Ticket Re-Opened"
+msgstr "Билет повторно открыт"
+
+
+msgid "Unknown"
+msgstr "неизвестный"
+
+
+msgid "User Login Using"
+msgstr "Использование пользователя"
+
+
+msgid "Valid Url"
+msgstr "Действительный URL"
+
+
+msgid "Validation URL"
+msgstr "URL-адрес проверки"
+
+
+msgid "Video"
+msgstr "видео"
+
+
+msgid "View Update Details"
+msgstr "Просмотр обновлений"
+
+
+msgid "Welcome to"
+msgstr "Добро пожаловать в"
+
+
+msgid "Your server's redirect URL"
+msgstr "URL-адрес перенаправления вашего сервера"
+
+
+msgid "View All"
+msgstr "Посмотреть все"
+
+
+msgid "%s replied a message"
+msgstr "%s ответил сообщение"
+
+
+msgid "API Name"
+msgstr "Имя API"
+
+
+msgid "About Support System-help"
+msgstr "О системе поддержки"
+
+
+msgid "Agent Welcome Text"
+msgstr "Текст приветствия агента"
+
+
+msgid "All Paid Ticket"
+msgstr "Все Платные билеты"
+
+
+msgid "Analytics Gtag ID"
+msgstr "Аналитика Gtag ID"
+
+
+msgid "App User Details"
+msgstr "Сведения о приложении приложения"
+
+
+msgid "Archive"
+msgstr "Архив"
+
+
+msgid "Are you sure to archive?"
+msgstr "Вы обязательно запишете архив?"
+
+
+msgid "Are you sure to archive? Archive is like Delete. You can inactive for temporary basis"
+msgstr "Вы обязательно запишете архив? Архив похож на «Удалить». Вы можете бездействовать на временной основе"
+
+
+msgid "Are you sure to archive? Archive is like as delete. If you want to do it for temporary, then set inactive status instead of archive. You cann&#96;t revert if you process it."
+msgstr "Вы обязательно запишете архив? Архив выглядит как delete. Если вы хотите сделать это для временного, установите вместо него неактивный статус."
+
+
+msgid "Are you sure to archive? Archive is like as delete. If you want to do it for temporary, then you can inactive this user."
+msgstr "Вы обязательно запишете архив? Архив выглядит как delete. Если вы хотите сделать это временно, вы можете бездействовать этого пользователя."
+
+
+msgid "Are you sure to archive? Archive is like as delete. It you want do it for temporary then you can inactive this user."
+msgstr "Вы обязательно запишете архив? Архив выглядит как delete. Это вы хотите сделать это для временного, тогда вы можете неактивным этого пользоват"
+
+
+msgid "Are you sure to archive? Archive is like as delete. You can inactive for temporary basis"
+msgstr "Вы обязательно запишете архив? Архив выглядит как delete. Вы можете бездействовать на временной основе"
+
+
+msgid "Are you sure to change chat status?"
+msgstr "Вы действительно изменили статус чата?"
+
+
+msgid "Are you sure to unlock?"
+msgstr "Вы действительно хотите разблокировать?"
+
+
+msgid "Asigned By"
+msgstr "Назначено"
+
+
+msgid "Authentication failed!. May be you didn't authenticate."
+msgstr "Ошибка аутентификации !. Может быть, вы не аутентифицировались."
+
+
+msgid "Best Ranker Wordpress tool"
+msgstr "Лучший инструмент Wordpress"
+
+
+msgid "Browser"
+msgstr "браузер"
+
+
+msgid "Canned Message"
+msgstr "Консервированное сообщение"
+
+
+msgid "Change Profile Photo"
+msgstr "Изменить фотографию профиля"
+
+
+msgid "Chat Canned Message"
+msgstr "Чат-сообщение"
+
+
+msgid "Chat Canned Msg List"
+msgstr "Чат с CMS Msg List"
+
+
+msgid "Chat Online Status"
+msgstr "Чат в Интернете"
+
+
+msgid "Chat Opening Text"
+msgstr "Текст для открытия чата"
+
+
+msgid "Chat Panel"
+msgstr "Чат-панель"
+
+
+msgid "Chat Receive Status"
+msgstr "Статус получения чата"
+
+
+msgid "Chat Settings"
+msgstr "настройки чата"
+
+
+msgid "Chat Status"
+msgstr "Статус чата"
+
+
+msgid "Check On Submit"
+msgstr "Проверка на Submit"
+
+
+msgid "Choose API"
+msgstr "Выберите API"
+
+
+msgid "Choose API from available APIs"
+msgstr "Выберите API из доступных API"
+
+
+msgid "Choose Chat Type"
+msgstr "Выберите тип чата"
+
+
+msgid "Choose Type or Category"
+msgstr "Выберите тип или категорию"
+
+
+msgid "Click here to watch the video tutorial"
+msgstr "Нажмите здесь, чтобы посмотреть видеоурок."
+
+
+msgid "Click on the Image to change. Best size is 250px x 200px"
+msgstr "Нажмите на изображение, чтобы изменить его. Лучший размер - 250px x 200px"
+
+
+msgid "Client Profile"
+msgstr "Профиль клиента"
+
+
+msgid "Close Chat Status"
+msgstr "Закрыть статус чата"
+
+
+msgid "Closed Chat List"
+msgstr "Список закрытых чатов"
+
+
+msgid "Closed Failed"
+msgstr "Закрыто сбой"
+
+
+msgid "Closed Successfully"
+msgstr "Закрыто успешно"
+
+
+msgid "Color Settings"
+msgstr "Настройки цвета"
+
+
+msgid "Comma( , ) separated. Ex: OptionA,OptionB,OptionC"
+msgstr "Разделенные запятой. Пример: OptionA, OptionB, OptionC"
+
+
+msgid "Do you want to take?"
+msgstr "Вы хотите взять?"
+
+
+msgid "Download"
+msgstr "Скачать"
+
+
+msgid "Edit Ticket Reply"
+msgstr "Редактировать ответ на вопрос"
+
+
+msgid "Email Password Reset Link"
+msgstr "Email Password Reset Link"
+
+
+msgid "Enable"
+msgstr "включить"
+
+
+msgid "Enable API Validation"
+msgstr "Включить проверку API"
+
+
+msgid "End Time"
+msgstr "Время окончания"
+
+
+msgid "Enter License Info"
+msgstr "Введите информацию о лицензии"
+
+
+msgid "Entry Date"
+msgstr "Дата ввода"
+
+
+msgid "Envato Settings"
+msgstr "Настройки Envato"
+
+
+msgid "Facebook Chat"
+msgstr "Общение"
+
+
+msgid "Facebook Chat Settings"
+msgstr "Настройки чата Facebook"
+
+
+msgid "Facebook Page ID"
+msgstr "Идентификатор страницы Facebook"
+
+
+msgid "Failed to assigning you on this chat"
+msgstr "Не удалось назначить вас в этом чате"
+
+
+msgid "Failed to update"
+msgstr "Не удалось обновить"
+
+
+msgid "Field Label"
+msgstr "Полевая метка"
+
+
+msgid "File Settings"
+msgstr "Настройки файла"
+
+
+msgid "GUEST USER"
+msgstr "ГОСТЕВАЯ ПОЛЬЗУ"
+
+
+msgid "Genaral"
+msgstr "Генеральная"
+
+
+msgid "Google Analytics"
+msgstr "Гугл Аналитика"
+
+
+msgid "Google Analytics Gtag ID"
+msgstr "Идентификатор Gtag Google Analytics"
+
+
+msgid "Google Analytics Settings"
+msgstr "Настройки Google Analytics"
+
+
+msgid "Gtag ID"
+msgstr "Идентификатор Gtag"
+
+
+msgid "Help Text"
+msgstr "Текст справки"
+
+
+msgid "How to use all feature of this support system"
+msgstr "Как использовать всю функцию этой системы поддержки"
+
+
+msgid "IMAP module is not activated in you php"
+msgstr "Модуль IMAP не активирован в php"
+
+
+msgid "If you choose this then this field will be displayed on choosen category only"
+msgstr "Если вы выберете это, то это поле будет отображаться только по выбранной категории"
+
+
+msgid "If you enable this then the field will be check using selected API"
+msgstr "Если вы включите это, тогда поле будет проверяться с помощью выбранного API"
+
+
+msgid "If you enable this then the value of this field is always be private"
+msgstr "Если вы включите это, значение этого поля всегда будет приватным"
+
+
+msgid "If you enable this, the field value need to be valid on form submission. Otherwise you will get a button to check manually"
+msgstr "Если вы включите это, значение поля должно быть действительным при отправке формы. В противном случае вы получите кнопку для проверки вруч?"
+
+
+msgid "If you want to set %s. Then please go to %s or  %s"
+msgstr "Если вы хотите установить %s. Затем перейдите на страницу %s или %s"
+
+
+msgid "Is Private"
+msgstr "Частный"
+
+
+msgid "It set a limit,how many chat a agent(Admin User) can take  simultaneously"
+msgstr "Он устанавливает предел, сколько чатов агент (Admin User) может принимать одновременно"
+
+
+msgid "It will show when a agent start a chat session."
+msgstr "Он покажет, когда агент начинает сеанс чата."
+
+
+msgid "It will show when a agent start a chat session. You can use some property which is given bello:"
+msgstr "Он покажет, когда агент начинает сеанс чата. Вы можете использовать какое-либо свойство, которое дано bello:"
+
+
+msgid "It will show when a agent start a chat session. You can use some property which is given bellow:"
+msgstr "Он покажет, когда агент начинает сеанс чата. Вы можете использовать некоторое свойство, которое приведено ниже:"
+
+
+msgid "It will show when a user want to start chat"
+msgstr "Он покажет, когда пользователь хочет начать чат"
+
+
+msgid "It will show when all user are offline"
+msgstr "Он покажет, когда все пользователи отключены"
+
+
+msgid "It will show when all user busy,"
+msgstr "Он покажет, когда весь пользователь занят,"
+
+
+msgid "Item Purchase Code"
+msgstr "Код покупки товара"
+
+
+msgid "Its the field label"
+msgstr "Его полевая метка"
+
+
+msgid "Knowledge Search"
+msgstr "Поиск знаний"
+
+
+msgid "Last 5 Closed Chat"
+msgstr "Последние 5 закрытых чатов"
+
+
+msgid "Last Change Date"
+msgstr "Дата последнего изменения"
+
+
+msgid "Last Date"
+msgstr "Последнее свидание"
+
+
+msgid "Latest Knowledge"
+msgstr "Последние знания"
+
+
+msgid "Load More"
+msgstr "Загрузи больше"
+
+
+msgid "Loading Chat Data Please wait.."
+msgstr "Загрузка данных чата Пожалуйста, подождите .."
+
+
+msgid "Locked_user_confirm"
+msgstr "Locked_user_confirm"
+
+
+msgid "Login using social"
+msgstr "Войти с использованием социальных"
+
+
+msgid "Low Priority"
+msgstr "Низкий приоритет"
+
+
+msgid "Max chat count"
+msgstr "Максимальное количество чатов"
+
+
+msgid "Max. Chat Per Agent"
+msgstr "Максимум. Чат на агента"
+
+
+msgid "Max. Chat Per Agent %s"
+msgstr "Максимум. Чат за агентом %s"
+
+
+msgid "Max. Chat Per Agent(simultaneously)"
+msgstr "Максимум. Чат за агентом (одновременно)"
+
+
+msgid "Message List"
+msgstr "Список сообщений"
+
+
+msgid "Missing chat id"
+msgstr "Отсутствует идентификатор чата"
+
+
+msgid "My Closed Ticket"
+msgstr "Мой закрытый билет"
+
+
+msgid "My Paid Tickets"
+msgstr "Мои платные билеты"
+
+
+msgid "Name of user"
+msgstr "Имя пользователя"
+
+
+msgid "Need Support? Create a Ticket."
+msgstr "Нужна поддержка? Создайте билет."
+
+
+msgid "New Chat Canned Message"
+msgstr "Новый чат Canned Message"
+
+
+msgid "New Chat Canned Msg"
+msgstr "Новый чат Canned Msg"
+
+
+msgid "New Chat Request"
+msgstr "Новый запрос чата"
+
+
+msgid "New Custom Field"
+msgstr "Новое пользовательское поле"
+
+
+msgid "New Product"
+msgstr "Новый продукт"
+
+
+msgid "No result found"
+msgstr "Результатов не найдено"
+
+
+msgid "Offline Text"
+msgstr "Не в сети"
+
+
+msgid "On Screeen Notification Settings"
+msgstr "Настройки экранного уведомления"
+
+
+msgid "On Screeen Notification Settions"
+msgstr "Настройки экранного уведомления"
+
+
+msgid "Only profile image updated"
+msgstr "Обновлено только изображение профиля"
+
+
+msgid "Open Text"
+msgstr "Открыть текст"
+
+
+msgid "Open Ticket With Less Priority"
+msgstr "Открытый билет с меньшим приоритетом"
+
+
+msgid "Page Builder"
+msgstr "Редактор страниц"
+
+
+msgid "Page Editor"
+msgstr "Редактор страниц"
+
+
+msgid "Password 18DDC9E196"
+msgstr "Пароль 18DDC9E196"
+
+
+msgid "Password Successfully Updated"
+msgstr "Пароль успешно обновлен"
+
+
+msgid "Please Rate it !!"
+msgstr "Пожалуйста, оцените!"
+
+
+msgid "Please put this into your facebook page settings"
+msgstr "Поместите это в свои настройки страницы на facebook"
+
+
+msgid "Priority"
+msgstr "приоритет"
+
+
+msgid "Products"
+msgstr "Продукты"
+
+
+msgid "Profile Photo"
+msgstr "Аватар"
+
+
+msgid "Queue Text"
+msgstr "Текст очереди"
+
+
+msgid "Rate it"
+msgstr "Оценить"
+
+
+msgid "Replied"
+msgstr "Ответил"
+
+
+msgid "Replied By"
+msgstr "Ответов"
+
+
+msgid "Replied By Type"
+msgstr "Ответ под типом"
+
+
+msgid "Replied Successfully"
+msgstr "Отвечено успешно"
+
+
+msgid "Reply Time"
+msgstr "Ответить"
+
+
+msgid "Reset Password"
+msgstr "Сброс пароля"
+
+
+msgid "Screen Notificaiton Settings"
+msgstr "Настройки уведомлений экрана"
+
+
+msgid "Search Result"
+msgstr "Результат поиска"
+
+
+msgid "Seen by ticket owner"
+msgstr "Визит владельца билета"
+
+
+msgid "Set Category"
+msgstr "Установить категорию"
+
+
+msgid "Set New Password"
+msgstr "Установить новый пароль"
+
+
+msgid "Set Passowrd"
+msgstr "Установка пароля"
+
+
+msgid "Set Password"
+msgstr "Установка пароля"
+
+
+msgid "Set User Password"
+msgstr "Установить пароль пользователя"
+
+
+msgid "Site Info"
+msgstr "Информация о сайте"
+
+
+msgid "Social Login Error"
+msgstr "Ошибка социального входа"
+
+
+msgid "Start Time"
+msgstr "Время начала"
+
+
+msgid "Successfully Archived"
+msgstr "Успешно архивировано"
+
+
+msgid "Successfully assign"
+msgstr "Успешно назначить"
+
+
+msgid "Successfully assigned you"
+msgstr "Успешно назначен вам"
+
+
+msgid "Successfully closed"
+msgstr "Успешно закрыто"
+
+
+msgid "Successfully unlocked"
+msgstr "Успешно разблокирована"
+
+
+msgid "The text will be show like this text after the field"
+msgstr "Текст будет показан как этот текст после поля"
+
+
+msgid "The user is already archived. You can't active or inactive"
+msgstr "Пользователь уже архивирован. Вы не можете активировать или неактивно"
+
+
+msgid "The user who replaied last"
+msgstr "Пользователь, который перепродал последний"
+
+
+msgid "This chat request has been accepted by %s"
+msgstr "Этот запрос чата был принят %s"
+
+
+msgid "This chat request has been accepted by Sarwar Hasan"
+msgstr "Этот запрос чата был принят Сарваром Хасаном"
+
+
+msgid "Ticket Form Category"
+msgstr "Тип формы билета"
+
+
+msgid "Ticket Opened"
+msgstr "Открыт билет"
+
+
+msgid "Ticket Payment"
+msgstr "Оплата билетов"
+
+
+msgid "Ticket Priority"
+msgstr "Приоритет билетов"
+
+
+msgid "Ticket open time in app timezone (UTC)"
+msgstr "Время открытия билетов в часовом поясе приложения (UTC)"
+
+
+msgid "Ticket owner doesn't seen"
+msgstr "Владелец билета не видел"
+
+
+msgid "Ticket owner seen"
+msgstr "Владелец билета видел"
+
+
+msgid "Ticket reply saved error"
+msgstr "Ошибка ответа на купюру"
+
+
+msgid "Ticket_confirm"
+msgstr "Подтверждение билета"
+
+
+msgid "To enable chat"
+msgstr "Чтобы включить чат"
+
+
+msgid "To enable facebook messenger chat"
+msgstr "Чтобы включить чат-чат facebook"
+
+
+msgid "Top Priority"
+msgstr "Высший приоритет"
+
+
+msgid "Unlock"
+msgstr "отпереть"
+
+
+msgid "Unseened by ticket owner"
+msgstr "Невидимый владельцем билета"
+
+
+msgid "Updated successfully"
+msgstr "Успешно Обновлено"
+
+
+msgid "Use this as your confirmation url into your envato app register page."
+msgstr "Используйте это как ваш URL-адрес подтверждения на странице регистрации приложения envato."
+
+
+msgid "User Info"
+msgstr "Информация о пользователе"
+
+
+msgid "User Password"
+msgstr "Пользовательский пароль"
+
+
+msgid "User login information"
+msgstr "Информация для входа пользователя"
+
+
+msgid "View"
+msgstr "Посмотреть"
+
+
+msgid "WP Best Ranker"
+msgstr "WP Best Ranker"
+
+
+msgid "WP Rank Ninja"
+msgstr "WP Rank Ninja"
+
+
+msgid "Web Chat"
+msgstr "Веб-чат"
+
+
+msgid "Web Chat Settings"
+msgstr "Настройки веб-чата"
+
+
+msgid "Would You Please Rate it?"
+msgstr "Не могли бы вы оценить его?"
+
+
+msgid "Write here"
+msgstr "Пишите здесь"
+
+
+msgid "YYYY-MM-DD"
+msgstr "YYYY-MM-DD"
+
+
+msgid "You can use some property which is given bellow:"
+msgstr "Вы можете использовать некоторое свойство, которое приведено ниже:"
+
+
+msgid "You can't set pro version now. Pro version is coming soon. Please choose default chat now"
+msgstr "Вы не можете установить про версию сейчас. Версия Pro скоро появится. Выберите чат по умолчанию."
+
+
+msgid "You have no notifications right now"
+msgstr "У вас нет уведомлений прямо сейчас"
+
+
+msgid "Your Domain URL"
+msgstr "URL вашего домена"
+
+
+msgid "[GUEST USER]"
+msgstr "[ГОСТЕВОЙ ПОЛЬЗОВАТЕЛЬ]"
+
+
+msgid "agent_welcome_text"
+msgstr "agent_welcome_text"
+
+
+msgid "e"
+msgstr "е"
+
+
+msgid "ex. 5"
+msgstr "ех. 5"
+
+
+msgid "snippets"
+msgstr "обрывки"
+
+
+msgid "to see the video tutorial"
+msgstr "посмотреть видеоурок"
+
+
+msgid "typing"
+msgstr "типирование"
+
+
+msgid "%.2f"
+msgstr "%.2f"
+
+
+msgid "%s is already exists"
+msgstr "%s уже существует"
+
+
+msgid "A  ticket reply has been received from ticket user"
+msgstr "Ответ на билет был получен от пользователя билета"
+
+
+msgid "A new ticket is assigned to you"
+msgstr "Вам назначается новый билет"
+
+
+msgid "A new ticket is received please assign"
+msgstr "Получается новый билет, пожалуйста, назначьте"
+
+
+msgid "A reset link has been sent to your email address. Please check that"
+msgstr "На ваш адрес электронной почты была отправлена ​​ссылка для сброса. Проверьте, что"
+
+
+msgid "Add"
+msgstr "Добавить"
+
+
+msgid "Add Another File"
+msgstr "Добавить другой файл"
+
+
+msgid "Add Note"
+msgstr "Добавить заметку"
+
+
+msgid "Admin Notes"
+msgstr "Заметки администратора"
+
+
+msgid "Admin ticket creation"
+msgstr "Создание билета администратора"
+
+
+msgid "All Categories"
+msgstr "все категории"
+
+
+msgid "All Category"
+msgstr "Все категории"
+
+
+msgid "Application"
+msgstr "заявка"
+
+
+msgid "Are you sure to delete attached file (%s)?"
+msgstr "Вы действительно хотите удалить прикрепленный файл ( %s)?"
+
+
+msgid "Are you sure to delete attached file?"
+msgstr "Вы действительно хотите удалить прикрепленный файл?"
+
+
+msgid "Are you sure to delete feature image?"
+msgstr "Вы действительно хотите удалить функциональное изображение?"
+
+
+msgid "Assign On Ticket"
+msgstr "Назначить билет"
+
+
+msgid "Attach more file"
+msgstr "Прикрепить дополнительный файл"
+
+
+msgid "Attached"
+msgstr "приложенный"
+
+
+msgid "Attached file"
+msgstr "Прикрепленный файл"
+
+
+msgid "Authentication Error"
+msgstr "Ошибка аутентификации"
+
+
+msgid "Auto Closing Rule"
+msgstr "Правило автоматического закрытия"
+
+
+msgid "Auto assign equally based on current month assigning"
+msgstr "Автоматически назначать поровну в соответствии с назначением текущего месяца"
+
+
+msgid "Based on ticket assigning rule"
+msgstr "Исходя из правила присвоения билета"
+
+
+msgid "Button Icon"
+msgstr "Иконка кнопки"
+
+
+msgid "Cat Ids"
+msgstr "Идентификаторы кошек"
+
+
+msgid "Change Category"
+msgstr "Изменить категорию"
+
+
+msgid "Change Category of ticket: T6DD28E9B-012-1P9"
+msgstr "Изменить Категория билета: T6DD28E9B-012-1P9"
+
+
+msgid "Change Category of ticket: T84B12BAE-001-ZCO"
+msgstr "Изменить Категория билета: T84B12BAE-001-ZCO"
+
+
+msgid "Chat Auto Close"
+msgstr "Чат Авто Закрыть"
+
+
+msgid "Chat Auto Close Interval"
+msgstr "Автоматический интервал чата"
+
+
+msgid "Chat Background Pattern"
+msgstr "Фоновый шаблон чата"
+
+
+msgid "Chat Button Icon"
+msgstr "Иконка кнопки чата"
+
+
+msgid "Chat Closing Text"
+msgstr "Текст закрытия чата"
+
+
+msgid "Chat Logo"
+msgstr "Логотип чата"
+
+
+msgid "Chat Tag Line"
+msgstr "Линия чата"
+
+
+msgid "Chat Title"
+msgstr "Название чата"
+
+
+msgid "Chat Window and Button Color"
+msgstr "Цвет чата и цвет кнопки"
+
+
+msgid "Chat closing interval"
+msgstr "Интервал закрытия чата"
+
+
+msgid "Chat has been auto closed by system"
+msgstr "Чат был автоматически закрыт системой"
+
+
+msgid "Chat main color"
+msgstr "Основной цвет чата"
+
+
+msgid "Chat will be closed which is inactive for entered value. Enter 0 to disable auto close"
+msgstr "Чат будет закрыт, который неактивен для введенного значения. Введите 0, чтобы отключить автоматическое закрытие"
+
+
+msgid "Choose Category"
+msgstr "Выберите категорию"
+
+
+msgid "Choose Pattern"
+msgstr "Выберите шаблон"
+
+
+msgid "Choose Staff"
+msgstr "Выберите Персонал"
+
+
+msgid "Choose chat button icon"
+msgstr "Выберите значок кнопки чата"
+
+
+msgid "Close ticket which has been inactive for"
+msgstr "Закрыть билет, который неактивен для"
+
+
+msgid "Close ticket which is inactivated for"
+msgstr "Закрыть билет, который инактивирован для"
+
+
+msgid "Closing Message"
+msgstr "Закрывающее сообщение"
+
+
+msgid "Closing Rule"
+msgstr "Правило закрытия"
+
+
+msgid "Closing Text"
+msgstr "Закрывающий текст"
+
+
+msgid "Currency"
+msgstr "валюта"
+
+
+msgid "Custom_field"
+msgstr "Custom_field"
+
+
+msgid "Delete failed"
+msgstr "Ошибка удаления"
+
+
+msgid "Demo Mode"
+msgstr "Демонстрационный режим"
+
+
+msgid "Disable Knowledge Stat In Homepage"
+msgstr "Отключить стат знаний на главной странице"
+
+
+msgid "Disable knowledge statistics in home page"
+msgstr "Отключить статистику знаний на главной странице"
+
+
+msgid "Edit Ticket Assign Rule"
+msgstr "Изменить правило назначения билетов"
+
+
+msgid "Email template for  AAT"
+msgstr "Шаблон электронной почты для AAT"
+
+
+msgid "Email template for  TAC"
+msgstr "Шаблон электронной почты для TAC"
+
+
+msgid "Enable Auto Close"
+msgstr "Включить автоматическое закрытие"
+
+
+msgid "Enable this to disable %s,%s,%s in homepage"
+msgstr "Включить это, чтобы отключить %s, %s, %s на главной странице"
+
+
+msgid "Files:"
+msgstr "файлы:"
+
+
+msgid "Forgot Password"
+msgstr "Забыли пароль"
+
+
+msgid "Go to Login"
+msgstr "Перейти в Вход"
+
+
+msgid "Hour"
+msgstr "Час"
+
+
+msgid "If you don't know how you will configure the Facebook Page settings then"
+msgstr "Если вы не знаете, как настроить параметры страницы Facebook,"
+
+
+msgid "If you enable it, then inactive ticket will be closed automatically by auto closing rule"
+msgstr "Если вы включите его, то неактивный билет будет автоматически закрыт с помощью правила автоматического закрытия"
+
+
+msgid "If you enable this then assigned user will get notification on ticket assigning"
+msgstr "Если вы включите это, тогда назначенный пользователь получит уведомление о назначении билета"
+
+
+msgid "Inactive Interval"
+msgstr "Неактивный интервал"
+
+
+msgid "Inactive Interval min"
+msgstr "Неактивный интервал мин."
+
+
+msgid "It set a limit,how many chat per agent(Admin User) can take  simultaneously"
+msgstr "Он устанавливает предел, сколько чатов на одного агента (Admin User) может принимать одновременно"
+
+
+msgid "It will display in chat window"
+msgstr "Он будет отображаться в окне чата"
+
+
+msgid "It will redirect within"
+msgstr "Он будет перенаправлен внутри"
+
+
+msgid "It will show when all agent close the chat,"
+msgstr "Он покажет, когда весь агент закрывает чат,"
+
+
+msgid "Knowledge Categories"
+msgstr "Категории знаний"
+
+
+msgid "Knowledge attached file"
+msgstr "Файл с прикрепленным файлом"
+
+
+msgid "Knowledge feature image"
+msgstr "Изображение функции знаний"
+
+
+msgid "Main color of chat window."
+msgstr "Основной цвет окна чата."
+
+
+msgid "N B. If you select Facebook Chat then you have to reply form Facebook Page Manager App or from Facebook. You can't reply from this app"
+msgstr "N B. Если вы выберете Facebook Chat, вам необходимо ответить в форме Facebook Page Manager App или из Facebook. Вы не можете ответить из этого приложения"
+
+
+msgid "Name of ticket assigned user"
+msgstr "Имя назначенного билета пользователя"
+
+
+msgid "New Admin Note"
+msgstr "Новая заметка администратора"
+
+
+msgid "New Ticket Assign Rule"
+msgstr "Новое правило назначения билетов"
+
+
+msgid "New message or chat"
+msgstr "Новое сообщение или чат"
+
+
+msgid "New ticket assigned"
+msgstr "Назначен новый билет"
+
+
+msgid "New ticket assigned by you"
+msgstr "Новый билет, назначенный вами"
+
+
+msgid "New ticket received"
+msgstr "Полученный новый билет"
+
+
+msgid "No note founds"
+msgstr "Нет комментариев"
+
+
+msgid "No ticket open by %s"
+msgstr "Никакой билет открыт %s"
+
+
+msgid "Note"
+msgstr "Заметка"
+
+
+msgid "Note On"
+msgstr "Примечание."
+
+
+msgid "Notification List"
+msgstr "Список уведомлений"
+
+
+msgid "On Ticket Assign"
+msgstr "О присвоении билетов"
+
+
+msgid "Password changed successfully"
+msgstr "Пароль успешно изменен"
+
+
+msgid "Password info"
+msgstr "Информация о пароле"
+
+
+msgid "Payment Amount (%s)"
+msgstr "Сумма платежа ( %s)"
+
+
+msgid "Payment Amount(%s)"
+msgstr "Сумма платежа ( %s)"
+
+
+msgid "Permission Denied or logged out."
+msgstr "Разрешение Отказано или вышло из системы."
+
+
+msgid "Please read it first"
+msgstr "Сначала прочтите"
+
+
+msgid "Popular Knowledge"
+msgstr "Популярные знания"
+
+
+msgid "Recover Password"
+msgstr "Восстановить пароль"
+
+
+msgid "Ref Id"
+msgstr "Код ссылки"
+
+
+msgid "Ref Type"
+msgstr "Тип ссылки"
+
+
+msgid "Reset failed try again"
+msgstr "Сброс не удался"
+
+
+msgid "Rule Id"
+msgstr "Идентификатор правила"
+
+
+msgid "Rule Type"
+msgstr "Тип правила"
+
+
+msgid "SYSTEM"
+msgstr "СИСТЕМА"
+
+
+msgid "Select Category"
+msgstr "выберите категорию"
+
+
+msgid "Select Role"
+msgstr "Выберите роль"
+
+
+msgid "Select User"
+msgstr "Выберите пользователя"
+
+
+msgid "Select User/Agent/Supervisor"
+msgstr "Выберите «Пользователь / Агент / Супервизор»"
+
+
+msgid "Selected agent/supervisor/admin will be notified on new ticket"
+msgstr "Выбранный агент / руководитель / администратор будет уведомлен о новом билете"
+
+
+msgid "Selected agent/supervisor/admin will be notified on new ticket assigning"
+msgstr "Выбранный агент / диспетчер / администратор будет уведомлен о назначении нового билета"
+
+
+msgid "Successfully assigned"
+msgstr "Успешно присвоено"
+
+
+msgid "Test Knowledge"
+msgstr "Тестовые знания"
+
+
+msgid "Test attachedxcx"
+msgstr "Проверка прилагаетсяxcx"
+
+
+msgid "The ticket will be close which is inactive for client response"
+msgstr "Билет будет закрыт, который неактивен для ответа клиента"
+
+
+msgid "The update has been disabled in DEMO MODE"
+msgstr "Обновление было отключено в DEMO MODE"
+
+
+msgid "The user who reopen this ticket"
+msgstr "Пользователь, который повторно открывает этот билет"
+
+
+msgid "This user can be agent/supervisor/admin"
+msgstr "Этот пользователь может быть агентом / супервизором / администратором"
+
+
+msgid "Ticket Assign Rule"
+msgstr "Правило назначения билетов"
+
+
+msgid "Ticket Assign Rule List"
+msgstr "Список назначений билетов"
+
+
+msgid "Ticket Closing Message"
+msgstr "Закрытие"
+
+
+msgid "Ticket Closing Message defined in Ticket settings"
+msgstr "Сообщение о закрытии билетов, определенное в настройках билета"
+
+
+msgid "Ticket Feedback Buttons"
+msgstr "Кнопки обратной связи с билетами"
+
+
+msgid "Ticket Open By Admin"
+msgstr "Билет открыт администратором"
+
+
+msgid "Ticket Payment Process"
+msgstr "Процесс оплаты билетов"
+
+
+msgid "Ticket user  replied"
+msgstr "Пользователь Ticket ответил"
+
+
+msgid "Ticket_assign_rule"
+msgstr "Ticket_assign_rule"
+
+
+msgid "Timezone updated successfully"
+msgstr "Временная зона обновлена ​​успешно"
+
+
+msgid "Title :"
+msgstr "Заглавие :"
+
+
+msgid "To see all settings effect on site, Please logout this session or try with other bowser. If admin logged in then you won't see the chat button"
+msgstr "Чтобы увидеть эффект всех настроек на сайте, выйдите из этого сеанса или попробуйте с другим баузером. Если администратор зарегистрировал?"
+
+
+msgid "To see all settings effect on site, please logout admin user or try with other browser. If admin logged in then you won't see the chat button"
+msgstr "Чтобы увидеть эффект всех настроек на сайте, выйдите из системы администратора или попробуйте в другом браузере. Если администратор зарег?"
+
+
+msgid "User Or Role"
+msgstr "Пользователь или роль"
+
+
+msgid "View Closing Email Template"
+msgstr "Просмотр закрывающего шаблона электронной почты"
+
+
+msgid "You have assigned self to a ticket"
+msgstr "Вы присвоили себе билет"
+
+
+msgid "You have been replied a ticket"
+msgstr "Вам ответили на билет"
+
+
+msgid "You replied a ticket"
+msgstr "Вы ответили на билет"
+
+
+msgid "Your password has been changed successfully"
+msgstr "Ваш пароль был успешно изменен"
+
+
+msgid "hours"
+msgstr "часов"
+
+
+msgid "second(s)"
+msgstr "секунд (ы)"
+
+
+msgid "to view the ticket assigning rule"
+msgstr "для просмотра правила назначения билета"
+
+
+msgid "Assign user"
+msgstr "Назначить пользователя"
+
+
+msgid "Bad, dissatisfied"
+msgstr "Плохо, неудовлетворенно"
+
+
+msgid "Both"
+msgstr "И то и другое"
+
+
+msgid "Closed"
+msgstr "Закрыто"
+
+
+msgid "DB Query"
+msgstr "Запрос БД"
+
+
+msgid "Edit Chat Canned Message"
+msgstr "Редактировать чат Canned Message"
+
+
+msgid "Edit Menu"
+msgstr "Меню редактирования"
+
+
+msgid "Ex. http://xyz.com"
+msgstr "Ex. http://xyz.com"
+
+
+msgid "Failed"
+msgstr "Не смогли"
+
+
+msgid "Feedback message"
+msgstr "Обратная связь"
+
+
+msgid "Guest"
+msgstr "гость"
+
+
+msgid "Guest Ticket User"
+msgstr "Пользователь гостя"
+
+
+msgid "High"
+msgstr "Высокая"
+
+
+msgid "Icon"
+msgstr "Значок"
+
+
+msgid "In Progress"
+msgstr "В ходе выполнения"
+
+
+msgid "Is New Window"
+msgstr "Новое окно"
+
+
+msgid "Leave as Current"
+msgstr "Оставить как текущий"
+
+
+msgid "Loading"
+msgstr "загрузка"
+
+
+msgid "Low"
+msgstr "Низкий"
+
+
+msgid "Medium"
+msgstr "средний"
+
+
+msgid "My Assigned All Tickets"
+msgstr "Мои назначенные билеты на все"
+
+
+msgid "New"
+msgstr "новый"
+
+
+msgid "New Menu"
+msgstr "Новое меню"
+
+
+msgid "No search result found"
+msgstr "Поиск не найден"
+
+
+msgid "Not Found"
+msgstr "не обнаружена"
+
+
+msgid "Notice_confirm"
+msgstr "Notice_confirm"
+
+
+msgid "Only On Knowledge"
+msgstr "Только по знанию"
+
+
+msgid "Only on Ticket"
+msgstr "Только на Билете"
+
+
+msgid "Page %s of %s"
+msgstr "Страница %s %s"
+
+
+msgid "Paid"
+msgstr "оплаченный"
+
+
+msgid "Pending"
+msgstr "в ожидании"
+
+
+msgid "Please write a comment on us here"
+msgstr "Пожалуйста, напишите нам"
+
+
+msgid "Refunded"
+msgstr "Возвращено"
+
+
+msgid "Show Ticket"
+msgstr "Показать билет"
+
+
+msgid "Staff"
+msgstr "Сотрудники"
+
+
+msgid "Text Icon"
+msgstr "Текстовый значок"
+
+
+msgid "Thank you for your feedback"
+msgstr "Спасибо за ваш отзыв"
+
+
+msgid "Thank you for your feedback. It will help us."
+msgstr "Спасибо за ваш отзыв. Это поможет нам."
+
+
+msgid "The website address is not valid"
+msgstr "Адрес веб-сайта недействителен"
+
+
+msgid "URL"
+msgstr "URL"
+
+
+msgid "Urgent"
+msgstr "неотложный"
+
+
+msgid "View %s - %s of %s"
+msgstr "Просмотреть %s - %s %s"
+
+
+msgid "Well, satisfied"
+msgstr "Ну, довольный"
+
+
+msgid "Would you please share your experience with us?"
+msgstr "Не могли бы вы поделиться с нами своим опытом?"
+
+
+msgid "You are not authorizse to see this ticket"
+msgstr "У вас нет разрешения на просмотр этого билета"
+
+
+msgid "day"
+msgstr "день"
+
+
+msgid "days"
+msgstr "дней"
+
+
+msgid "minute"
+msgstr "минут"
+
+
+msgid "minutes"
+msgstr "минут"
+
+
+msgid "month"
+msgstr "месяц"
+
+
+msgid "months"
+msgstr "месяцы"
+
+
+msgid "second"
+msgstr "второй"
+
+
+msgid "week"
+msgstr "неделю"
+
+
+msgid "weeks"
+msgstr "недель"
+
+
+msgid "year"
+msgstr "год"
+
+
+msgid "years"
+msgstr "лет"
+
+
+msgid "ago"
+msgstr "тому назад"
+
+
+msgid "Ticket user(%s) replied"
+msgstr "Пользователь билета ( %s) ответил"
+
+
+msgid "No category found"
+msgstr "Категория не найдена"
+
+
+msgid "Ticket Reply"
+msgstr "Ответить Ответить"
+
+
+msgid "Invalid Information"
+msgstr "Неверная информация"
+
+
+msgid "Captcha Error"
+msgstr "Ошибка Captcha"
+
+
+msgid "Assign self"
+msgstr "Назначить себя"
+
+
+msgid "Assign user %s"
+msgstr "Назначить пользователю %s"
+
+
+msgid "Choose country block rule"
+msgstr "Выберите правило блока страны"
+
+
+msgid "Choose.."
+msgstr "Выберите.."
+
+
+msgid "Country Block Rule"
+msgstr "Правило блочного блока"
+
+
+msgid "Country Block Settings"
+msgstr "Настройки национального блока"
+
+
+msgid "Country List"
+msgstr "Список стран"
+
+
+msgid "Enter 2 digit Country Code(ex. US,CA,BD), Separated by comma"
+msgstr "Введите 2-значный код страны (например, US, CA, BD), разделенный запятой"
+
+
+msgid "If you enable it then app check country for allow or block."
+msgstr "Если вы включите его, проверьте приложение для проверки или блокировки."
+
+
+msgid "No user found with this email address"
+msgstr "Не найдено ни одного пользователя с этим адресом электронной почты"
+
+
+msgid "Separated by comma"
+msgstr "Разделяется запятой"
+
+
+msgid "Seperated by comma"
+msgstr "Разделяется запятой"
+
+
+msgid "simultaneously"
+msgstr "одновременно"
+
+
+msgid "%d MIN"
+msgstr "%d MIN"
+
+
+msgid "Accept"
+msgstr "принимать"
+
+
+msgid "Access denied for hacking attempts"
+msgstr "Доступ запрещен для попыток взлома"
+
+
+msgid "Admin Work Log"
+msgstr "Журнал работы администратора"
+
+
+msgid "Allow User Own Account Delete Option"
+msgstr "Разрешить возможность удаления учетной записи пользователя"
+
+
+msgid "Allow User To Download Their User Data"
+msgstr "Разрешить пользователю загружать данные пользователя"
+
+
+msgid "Are you sure to delete your account?"
+msgstr "Вы действительно хотите удалить свою учетную запись?"
+
+
+msgid "Are you sure to reset?"
+msgstr "Вы действительно хотите сбросить настройки?"
+
+
+msgid "Assign"
+msgstr "приписывать"
+
+
+msgid "Auto"
+msgstr "Авто"
+
+
+msgid "Auto Assigned"
+msgstr "Автопризнано"
+
+
+msgid "Background Color"
+msgstr "Фоновый цвет"
+
+
+msgid "Background Opacity"
+msgstr "Непрозрачность фона"
+
+
+msgid "Background Opacity is required"
+msgstr "Фоновая непрозрачность"
+
+
+msgid "Choose Bar Close Animation"
+msgstr "Выберите «Барная анимация»"
+
+
+msgid "Choose Bar Open Animation"
+msgstr "Выберите Bar Open Animation"
+
+
+msgid "Choose Display Event"
+msgstr "Выберите событие отображения"
+
+
+msgid "Choose Policy Page"
+msgstr "Выберите страницу политики"
+
+
+msgid "Cookie Bar Background Color"
+msgstr "Цвет фона для печенья"
+
+
+msgid "Cookie Message"
+msgstr "Сообщение cookie"
+
+
+msgid "Cookie bar text color"
+msgstr "Цвет текста в печенье"
+
+
+msgid "Copy Link"
+msgstr "Копировать ссылку"
+
+
+msgid "Date"
+msgstr "Дата"
+
+
+msgid "Default Value"
+msgstr "Значение по умолчанию"
+
+
+msgid "Delete my account"
+msgstr "Удалите мой аккаунт"
+
+
+msgid "Deleted"
+msgstr "удаленный"
+
+
+msgid "Download this account data"
+msgstr "Загрузить данные учетной записи"
+
+
+msgid "Dropdown"
+msgstr "Падать"
+
+
+msgid "Edit Custom Field"
+msgstr "Изменить пользовательское поле"
+
+
+msgid "Edit Page"
+msgstr "Отредактировать страницу"
+
+
+msgid "Error"
+msgstr "ошибка"
+
+
+msgid "Field Validation"
+msgstr "Проверка поля"
+
+
+msgid "GDPR Settings"
+msgstr "Настройки ВВП"
+
+
+msgid "General"
+msgstr "Генеральная"
+
+
+msgid "Go Home Page"
+msgstr "Перейти на главную страницу"
+
+
+msgid "If you enable it, then app will show a notification bar for cookie message"
+msgstr "Если вы включите его, приложение отобразит панель уведомлений для сообщения cookie"
+
+
+msgid "If you enable it, then site user or visitor can delete their account from their panel"
+msgstr "Если вы включите его, пользователь или посетитель сайта могут удалить свою учетную запись с панели"
+
+
+msgid "If you enable it, then site user or visitor can download their account data from their panel"
+msgstr "Если вы включите его, пользователь сайта или посетитель могут загрузить данные своей учетной записи с их панели"
+
+
+msgid "If you enable it, then when visitor click the privacy policy then that will be show in lighbox window"
+msgstr "Если вы включите его, то когда посетитель нажмет на политику конфиденциальности, то это будет показано в окне lighbox"
+
+
+msgid "If you enable this then it field show in All Ticket list as column in admin panel"
+msgstr "Если вы включите это, это поле появится в списке «Все билеты» в качестве столбца в панели администратора"
+
+
+msgid "In Form"
+msgstr "Поставить в известность"
+
+
+msgid "Is Api Based"
+msgstr "Основано на Api"
+
+
+msgid "Is On Grid"
+msgstr "Вкл. Сетка"
+
+
+msgid "It is the cookie bar background color"
+msgstr "Это цвет фона панели cookie"
+
+
+msgid "It will control the opacity or background transparency of cookie bar background"
+msgstr "Он будет управлять прозрачностью или фоновой прозрачностью фона панели cookie"
+
+
+msgid "Locked"
+msgstr "запертый"
+
+
+msgid "Locked(Hack)"
+msgstr "Закрытая (Hack)"
+
+
+msgid "Login Server"
+msgstr "Вход в систему"
+
+
+msgid "Malicious Attempt on attached file. Attached file(s) has been skipped"
+msgstr "Вредоносная попытка вложенного файла. Прикрепленный файл (ы) был пропущен"
+
+
+msgid "Manual"
+msgstr "Руководство"
+
+
+msgid "New IP"
+msgstr "Новый IP-адрес"
+
+
+msgid "New Page"
+msgstr "Новая страница"
+
+
+msgid "New Work Log"
+msgstr "Новый рабочий журнал"
+
+
+msgid "No work log founds"
+msgstr "Не найдено ни одного журнала работы"
+
+
+msgid "Normal"
+msgstr "Нормальный"
+
+
+msgid "Notifiy"
+msgstr "Поставить в известность"
+
+
+msgid "Numeric"
+msgstr "числовой"
+
+
+msgid "On Submit Api Check"
+msgstr "Оставить отзыв Api Check"
+
+
+msgid "On Ticket Opening Form Category"
+msgstr "В форме открытия билетов"
+
+
+msgid "Others"
+msgstr "другие"
+
+
+msgid "Page"
+msgstr "страница"
+
+
+msgid "Page Body"
+msgstr "Тело страницы"
+
+
+msgid "Pages"
+msgstr "страницы"
+
+
+msgid "Policy Page is required"
+msgstr "Требуется страница политики"
+
+
+msgid "Published"
+msgstr "опубликованный"
+
+
+msgid "Radio"
+msgstr "Радио"
+
+
+msgid "Read"
+msgstr "Читать"
+
+
+msgid "Reset IP"
+msgstr "Сбросить IP-адрес"
+
+
+msgid "Select page"
+msgstr "Выберите страницу"
+
+
+msgid "Show on Table Data List"
+msgstr "Показать список данных таблицы"
+
+
+msgid "Slag Title"
+msgstr "Название Slag"
+
+
+msgid "Success"
+msgstr "успех"
+
+
+msgid "Suspicious : Malicious attempt  on attached file: %s"
+msgstr "Подозрительный: Вредоносная попытка вложенного файла: %s"
+
+
+msgid "Suspicious: Malicious File Upload Attempts. If you tried to upload again then your ip will be blocked automatically"
+msgstr "Подозрительный: попытки загрузки вредоносных файлов. Если вы попытаетесь загрузить снова, ваш ip будет заблокирован автоматически"
+
+
+msgid "Switch"
+msgstr "переключатель"
+
+
+msgid "Textbox"
+msgstr "Текстовое окно"
+
+
+msgid "This key is already used in another site. contact support team"
+msgstr "Этот ключ уже используется на другом сайте. контактная группа поддержки"
+
+
+msgid "Ticket Id"
+msgstr "Идентификатор билета"
+
+
+msgid "Ticket Re-Open"
+msgstr "Перепродажа билетов"
+
+
+msgid "Ticket user has been data deleted"
+msgstr "Пользователь билета был удален"
+
+
+msgid "Undefined page"
+msgstr "Неопределенная страница"
+
+
+msgid "Unpublished"
+msgstr "неопубликованный"
+
+
+msgid "View Cookie Notification Bar"
+msgstr "Показать панель уведомлений cookie"
+
+
+msgid "View Page"
+msgstr "Просмотр страницы"
+
+
+msgid "View Policy In POP UP window(Lightbox)"
+msgstr "Просмотр политики в окне POP UP (лайтбоксы)"
+
+
+msgid "Viewed"
+msgstr "Рассматриваемый"
+
+
+msgid "Work Time"
+msgstr "Рабочее время"
+
+
+msgid "Write %s for Policy Link and %s for only policy URL"
+msgstr "Напишите %s для ссылки на политику и %s только для URL-адреса политики"
+
+
+msgid "Write {{PolicyLink}} for Policy Link and {{PolicyURL}} for only policy URL"
+msgstr "Напишите {{PolicyLink}} для ссылки на политику и {{PolicyURL}} только для URL-адреса политики"
+
+
+msgid "You can create many page in page menu. Go to Admin Settings > Pages or %s"
+msgstr "Вы можете создать много страниц в меню страницы. Перейдите в Настройки администратора> Страницы или %s"
+
+
+msgid "You logged in using %s"
+msgstr "Вы вошли в систему, используя %s"
+
+
+msgid "Disable Counter Icon"
+msgstr "Отключить значок счетчика"
+
+
+msgid "Disable Knowledge Like/Dislike Button"
+msgstr "Отключить кнопку «Мне нравится» / «Не нравится»"
+
+
+msgid "Disable knowledge like and dislike button"
+msgstr "Отключить знания как и не нравится кнопку"
+
+
+msgid "Do Not Show Last Update Date"
+msgstr "Не показывать дату последнего обновления"
+
+
+msgid "Do Not Show Last Update Date on Knowledge Details"
+msgstr "Не показывать дату последнего обновления в деталях знаний"
+
+
+msgid "Do Not Show counter icon with knowledge"
+msgstr "Не показывать значок счетчика со знанием"
+
+
+msgid "Do Not Show counter with knowledge"
+msgstr "Не показывать счетчик со знанием"
+
+
+msgid "If you enable this then it won't show the like or dislike button on knowledge details."
+msgstr "Если вы включите это, то не будет показывать кнопку «Нравится» или «Не нравится» в деталях знаний."
+
+
+msgid "If you enable this then, it won't show the last update date on knowledge details."
+msgstr "Если вы включите это, то не будет отображаться дата последнего обновления сведений о знаниях"
+
+
+msgid "If you enable this then, it won't show the view/rate counter."
+msgstr "Если вы включите это тогда, он не будет показывать счетчик просмотров / скорости."
+
+
+msgid "Last Update Date"
+msgstr "Дата последнего обновления"
+
+
+msgid "Login Required, Please login"
+msgstr "Требуется вход в систему, пожалуйста, войдите"
+
+
+msgid "OR"
+msgstr "ИЛИ ЖЕ"
+

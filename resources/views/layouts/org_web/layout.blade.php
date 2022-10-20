@@ -1,0 +1,6 @@
+@include('layouts.org_web.header')
+@include('layouts.org_web.social_media')
+@include('layouts.org_web.navbar')
+@yield('content')
+@include('layouts.org_web.footer')
+@include('layouts.org_web.script')

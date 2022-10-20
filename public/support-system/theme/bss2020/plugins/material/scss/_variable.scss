@@ -1,0 +1,23 @@
+$md-radio-checked-color: rgb(31, 101, 152);
+$md-radio-border-color: rgba(29, 88, 133, 0.85);
+$md-radio-size: 20px;
+$md-radio-checked-size: 10px;
+$md-radio-ripple-size: 15px;
+$md-disabled-color:rgba(0, 0, 0, 0.26);
+// for check box
+$md-checkbox-checked-color: $md-radio-checked-color;
+$md-checkbox-border-color: $md-radio-border-color;
+$md-checkbox-border-color-disabled: $md-disabled-color;
+$md-checkbox-checked-color-disabled: rgba(0, 0, 0, 0.14);
+
+$md-checkbox-margin:0 0.4rem;
+$md-checkbox-size: 1.35em;
+$md-checkbox-padding: .25em;
+$md-checkbox-border-width: 2px;
+$md-checkbox-border-radius: 0.125em;
+$md-checkmark-width: 0.125em;
+$md-checkmark-color: #fff;
+$md-checkbox-label-padding: .75em;
+
+//for switch
+$md-switch:$md-radio-checked-color;

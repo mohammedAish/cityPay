@@ -1,0 +1,22 @@
+body{
+    direction: rtl;
+    text-align: right;
+}
+
+
+
+
+.btns{
+    margin-right: 140px !important;
+
+}
+.margin{
+    margin-right: 150px !important;
+}
+.accordion-wrapper .card .card-header a:after{
+    margin-right: 320px;
+}
+.wallet-top-header-box{
+    margin-right: 150px !important;
+}
+

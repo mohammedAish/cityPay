@@ -1,0 +1,107 @@
+body.live-edit-mode {
+  .bss2020_style_chooser {
+
+    .app-box-radio {
+      font-size: 12px;
+      .i-container {
+        > img {
+          max-width: 80px;
+        }
+      }
+    }
+  }
+}
+#live-site-color-picker {
+  $live_width: 450px;
+  position: fixed !important;
+  top: 110px;
+  right: -$live_width;
+  transition: all 0.5s ease;
+
+  input, label {
+    font-size: 12px;
+  }
+
+  &.open {
+    right: -2px;
+  }
+
+  @media (max-width: 767.98px) {
+    width: 300px;
+  }
+  width: $live_width;
+  z-index: 9999999;
+  .form-group .sp-colorize-container {
+    background: #ffffff;
+  }
+  .btn-picker-opener {
+    left: -42px;
+    position: absolute;
+    top: 20px;
+    background: $app_base_color;
+    height: 40px;
+    width: 50px;
+    color: #fff;
+    -webkit-border-top-left-radius: 10px;
+    -webkit-border-bottom-left-radius: 10px;
+    -moz-border-radius-topleft: 10px;
+    -moz-border-radius-bottomleft: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    display: grid;
+    text-align: center;
+    -webkit-box-shadow: -6px 1px 5px -4px #dad7d7;
+    -moz-box-shadow: -6px 1px 5px -4px #dad7d7;
+    box-shadow: -6px 1px 5px -4px #dad7d7;
+  }
+
+  .card {
+    -webkit-box-shadow: -6px 1px 5px -4px #dad7d7;
+    -moz-box-shadow: -6px 1px 5px -4px #dad7d7;
+    box-shadow: -6px 1px 5px -4px #dad7d7;
+
+    .card-header, .card-footer {
+      background: #ffffff;
+    }
+
+    .card-body {
+      .form-group {
+        width: 100%;
+
+        > label {
+          font-size: 12px;
+        }
+
+        > .sp-colorize-container {
+          width: unset !important;
+
+          .sp-colorize {
+            position: unset !important;
+          }
+        }
+      }
+    }
+  }
+
+  .sp-container {
+    border-radius: 0 0px 0px 4px !important;
+  }
+
+  .sp-replacer {
+    width: 5rem;
+    height: 2.5rem;
+
+
+    .sp-dd {
+      position: absolute;
+      font-size: 10px;
+      right: 0;
+      top: -1px;
+      bottom: 0;
+      padding: 0 6px;
+      line-height: 2.6rem;
+      background-color: #fff;
+    }
+  }
+
+}

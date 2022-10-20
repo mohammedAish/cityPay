@@ -1,0 +1,604 @@
+@import '_variables.scss';
+
+.courses{
+    #nav-tab{
+        .nav-link{
+            color: $black;
+            border: none;
+            &:hover{
+                font-weight: normal;
+            }
+            &.active{
+                color: $blue;
+                font-weight: bold;
+                border-bottom: 2px solid $blue;
+            }
+        }
+    }
+
+    .course-card{
+        margin: 0 0.5rem;
+        border-radius: 5px;
+        border: 1px solid rgba(11, 72, 121, 0.15);
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        figure{
+            width: 100%;
+            height: 200px;
+            margin: 0;
+            img{
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+                border-top-right-radius: 5px;
+                border-top-left-radius: 5px;
+            }
+        }
+        .course-card-content{
+            padding: 0.5rem 1rem;
+            background-color: $white;
+            border-bottom-right-radius: 5px;
+            border-bottom-left-radius: 5px;
+
+            p{
+                span{
+                    &:first-child{
+                        color: $blue;
+                        font-weight: bold;
+                    }
+                    &:last-child{
+                        text-decoration-line: line-through;
+                    }
+                }
+
+                &.badge{
+                    background-color: #efcc54;
+                    padding: 0.2rem 0.5rem;
+                }
+            }
+
+        }
+    }
+
+    .course-recommendation{
+        background:
+            linear-gradient(
+                to bottom,
+                rgba(11, 72, 121, 0.25),
+                rgba(11, 72, 121, 0.75)
+            ),
+            url(../img/1.jpg)
+        ;
+        background-size: cover;
+        // background-position: bottom;
+
+        .section-heading{
+            color: $white;
+        }
+
+        .col-2{
+            .category-card{
+                display: block;
+            }
+        }
+    }
+
+    .category-card{
+        border-radius: 5px;
+        margin: 1rem 0;
+        figure{
+            width: 100%;
+            height: 50%;
+            img{
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+                border-top-right-radius: 5px;
+                border-top-left-radius: 5px;
+            }
+        }
+        h5{
+            margin: 0;
+            background-color: $white;
+        }
+    }
+}
+
+
+.coursePage{
+    height: auto;
+    position: relative;
+    video{
+        position: absolute;
+        left: 0;
+        right: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .section-heading{
+        padding: 3rem !important;
+        position: relative;
+        z-index: 10;
+        background-color: rgba(11, 72, 121, 0.45);
+        left: 0;
+        right: 0;
+        width: 100%;
+        height: 100%;
+
+        .feature{
+            color: $black;
+            text-shadow: none;
+            padding: 2px 10px;
+            margin-left: 10px;
+            border-radius: 20px;
+            background-color: #efcc54;
+        }
+
+        .btn{
+            font-weight: bold;
+            &.favourite{
+                color: #0b4879;
+                border-color: white;
+                background-color: white;
+                &:hover{
+                    box-shadow: 0px 0px 10px rgba(255,255,255,0.3);
+                }
+            }
+        }
+
+
+        .video-play{
+            .vp-btn{
+                display: block;
+                width: 70px;
+                height: 70px;
+                background-color: rgba(0, 0, 0, 0.5);
+                margin: 0 auto;
+                border-radius: 100%;
+                
+                .fa-play{
+                    font-size: 35px;
+                    line-height: 70px;
+                    margin-left: 7px;
+                }
+
+                &:hover{
+                    box-shadow: 0 0 10px rgba(255, 255, 255, 0.35);
+                }
+            }
+        }
+    }
+
+}
+
+
+.courseContent{
+    color: $black;
+    top: 0 !important;
+    margin-bottom: 0;
+    // padding: 3.5rem 0;
+
+    .list-group{
+        .list-group-item{
+            padding: 0;
+            border: none;
+            background-color: transparent;
+        }
+    }
+
+    .container{
+        .card-col{
+            .card{
+                position: sticky;
+                top: 50px;
+                border: 1px solid rgba(0,0,0,0.07);
+                box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+                .list-group{
+                    .list-group-item{
+                        border: none;
+                        background-color: transparent;
+
+                        &.price{
+                            span{
+                                font-size: 1.2rem;
+                                margin: 0 5px;
+                                &.current{
+                                    color: $green;
+                                    font-weight: bold;
+                                    font-size: 2.5rem;
+                                }
+                                &.past{
+                                    text-decoration: line-through;
+                                }
+                                // &.discount{
+                                // }
+                            }
+                        }
+                    }
+                    &:first-child{
+                        .list-group-item{
+                            &:nth-child(2){
+                                font-size: 12px;
+                            }
+                        }
+                    }
+                    &:last-child{
+                        .list-group-item{
+                            padding: 5px 0;
+                            i{
+                                width: 35px;
+                                text-align: center;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        .content-col{
+            .nav{
+                // margin-bottom: 30px;
+                &.nav-tabs{
+                    border-bottom: 1px solid $black;
+                    .nav-item{
+                        .nav-link{
+                            color: $black;
+                            border: none;
+                            border-bottom: 1px solid $black;
+                            &.active{
+                                color: $blue;
+                                font-weight: bold;
+                            }
+                        }
+                    }
+                }
+            }
+            section{
+                margin: 30px 0;
+                &:first-child{
+                    margin-top: 0;
+                }
+                h4{
+                    color: $blue;
+                    font-weight: 900;
+                    margin-bottom: 20px;
+                    i{
+                        opacity: 0.5;
+                        color: $blue !important;
+                    }
+                }
+                &#learn{
+                    .list-group{
+                        .list-group-item{
+                            padding: 7px 0;
+                            .fa{
+                                font-size: 12px;
+                                margin-left: 10px;
+                            }
+                            span{
+                                font-size: 0.9rem;
+                            }
+                        }
+                    }
+                }
+                &#target,
+                &#require{
+                    .list-group{
+                        .list-group-item{
+                            padding: 7px 0;
+                            .fa{
+                                font-size: 7px;
+                                margin-top: -5px;
+                                margin-left: 10px;
+                            }
+                        }
+                    }
+                }
+
+                &#desc{
+                    font-size: 1rem;
+                    p{
+                        line-height: 1.7;
+                        margin-bottom: 15px;
+                    }
+                    .list-group{
+                        margin-right: 10px;
+                        margin-bottom: 15px;
+                        .list-group-item{
+                            padding: 7px 0;
+                            .fa{
+                                font-size: 7px;
+                                margin-left: 10px;
+                            }
+                        }
+                    }
+                }
+
+                .reviewCard{
+                    figure{
+                        width: 75px;
+                        height: 75px;
+                        img{
+                            width: 100%;
+                            height: 100%;
+
+                        }
+                    }
+
+                    .rating-stars{
+                        display: flex;
+                        align-items: center;
+                        > .star{
+                            &.hover{
+                                > .fa-star{
+                                    color:#FFCC36;
+                                }
+                            }
+                            &.selected{
+                                > .fa-star{
+                                    color:#FF912C;
+                                }
+                            }
+                            .fa-star{
+                                color:#bbb;
+                            }
+                        }
+                    }
+                    
+
+                    .fa-star{
+                        color: #efcc54;
+                    }
+
+                    // &:last-child{
+                    //     margin-bottom: 0;
+                    // }
+
+                    
+                }
+
+                .actionRequired{
+                    background-color: $light-blue;
+                    padding: 30px;
+                    form{
+                        overflow: auto;
+                        .btn{
+                            float: left;
+                            width: 100px;
+                            font-size: 14px;
+                            padding: 3px;
+                            margin: 0;
+                        }
+                    }
+                }
+
+                &#content{
+                    .accordion{
+                        .card{
+                            .card-header{
+                                h2{
+                                    .btn{
+                                        width: auto;
+                                        padding: 0;
+                                        text-align: right !important;
+                                        text-decoration: none;
+                                        font-weight: bold;
+                                        color: $black;
+                                        border: none;
+                                        background-color: transparent;
+                                        &:hover{
+                                            border: none;
+                                            box-shadow: none;
+                                        }
+                                        span{
+                                            margin-right: 20px
+                                        }
+                                        &.collapsed{
+                                            .fa-angle-up{
+                                                transform: rotate(180deg);
+                                            }
+                                        }
+                                    }
+                                    .duration{
+                                        white-space: nowrap;
+                                        // width: 150px;
+                                        font-size: 12px;
+                                        text-align: left;
+                                        .fa-circle{
+                                            font-size: 4px;
+                                            padding: 0 5px;
+                                        }
+                                    }
+                                }
+                            }
+                            .card-body{
+                                .list-group{
+                                    .list-group-item{
+                                        padding: 10px 0;
+                                        .lesson_title{
+                                            color: $blue;
+                                            cursor: pointer;
+                                            &:hover{
+                                                text-decoration: underline;
+                                            }
+                                        }
+                                        .fa-play-circle{
+                                            font-size: 14px;
+                                            margin-left: 15px;
+                                        }
+                                    }
+
+                                }
+                            }
+                        }
+                    }
+                }
+
+                &#comments{
+                    .post-comment-section{
+                        .comments{
+                            .list{
+                                .comment-card{
+                                    padding: 1rem;
+                                    margin-bottom: 0;
+                                }
+                                .nested-comment{
+                                    display: none;
+                                    .action{
+                                        .btn{
+                                            color: $blue;
+                                            border: 1px solid $blue;
+                                            background-color: $white;
+                                            &:hover{
+                                                border-color: $blue;
+                                                box-shadow: 0px 0px 10px rgba(11, 72, 121, 0.7);
+                                            }
+                                        }
+                                    }
+                                    .nested{
+                                        // display: none;
+                                        form{
+                                            background-color: $light-blue;
+                                            overflow: auto;
+                                        }
+                                    }
+                                }
+                                #loadMore{
+                                    display: block;
+                                    color: $blue;
+                                    border: 1px solid $blue;
+                                    background-color: $white;
+                                    &:hover{
+                                        border-color: $blue;
+                                        // background-color: $blue;
+                                        box-shadow: 0px 0px 10px rgba(11, 72, 121, 0.7);
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            
+        }
+    }
+
+}
+
+
+#previewVideo{
+    .modal-dialog{
+        .modal-content{
+            .modal-header{
+                position: relative;
+                .close{
+                    position: absolute;
+                    top: -30px;
+                    color: $white;
+                }
+            }
+            .modal-body{
+                .video-js{
+                    width: 100%;
+                }
+            }
+        }
+    }
+}
+
+.section-heading{
+    .search-input{
+        max-width: 80%;
+        margin: 0 auto;
+        .btn{
+            width: 120px;
+            margin-top: 1rem;
+        }
+    }
+}
+
+.filters{
+    .filter{
+        padding: 0.5rem 0;
+        border-bottom: 1px solid #ccc;
+        .btn{
+            display: block;
+            width: 100%;
+            color: $black;
+            font-weight: bold;
+            background-color: $white;
+            border: none;
+            border-radius: 0;
+            &:active{
+                color: $black;
+                background-color: $white;
+            }
+            &:hover{
+                box-shadow: none;
+                border: none;
+            }
+            &.collapsed{
+                .fa-angle-down{
+                    transform: rotate(180deg);
+                }
+            }
+        }
+        &:first-child{
+            border-top: 1px solid #ccc;
+        }
+
+        .collapse{
+            .card-body{
+                border: none;
+                .form-check{
+                    padding: 0 1.25rem;
+                    .form-check-input{
+                        margin: 0.3rem -1.25rem;
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+.results{
+    .course-card{
+        margin: 1rem 0;
+        display: flex;
+        flex-direction: column;
+        figure{
+            width: 100%;
+            height: 150px;
+        }
+        &:first-child{
+            margin-top: 0;
+        }
+        .course-card-content{
+            width: 100%;
+        }
+    }
+}
+.featured-course-slider{
+    .course-card{
+        margin: 1rem 0;
+        figure{
+            width: 500px;
+            height: 300px;
+        }
+        &:first-child{
+            margin-top: 0;
+        }
+        .course-card-content{
+            flex-grow: 1;
+        }
+    }
+}
+
+
+
+// @import '_icons.scss';
+// @import '_navbars.scss';
+// @import '_headers.scss';
+// @import '_footer.scss'; 
+// @import '_responsive.scss';

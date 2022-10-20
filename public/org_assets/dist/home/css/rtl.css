@@ -1,0 +1,46 @@
+body{
+    direction: rtl;
+}
+.hero-section .hero-area .single-hero .hero-sub .table-cell .hero-left .account-form form input, .hero-section .hero-area .single-hero .hero-sub .table-cell .hero-left .account-form form select{
+    padding-right: 15px;
+    text-align: right;
+}
+.cl-black p{
+    text-align: right;
+}
+
+.about-content-inner-2 p  ,.section-title h4{
+    text-align: right;
+}
+.hero-section .hero-area .single-hero .hero-sub .table-cell .hero-left .account-form form label{
+    float: right;
+}
+
+.custom-option{
+    text-align: right ;
+}
+.about-area{
+    direction: rtl;
+}
+#how-it-work{
+    direction: rtl;
+}
+.gradient-overlay.review-area .testimonials{
+    direction: ltr;
+}
+.faq-contents .accordion li a.active{
+    text-align: right;
+}
+.faq-contents .accordion li p{
+    text-align: right;
+}
+.faq-contents .accordion li a{
+    text-align: right;
+}
+.faq-contents .accordion li a::after{
+    left: 20px;
+    right: unset;
+}
+.owl-carousel .owl-stage-outer{
+    direction: ltr;
+}

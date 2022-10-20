@@ -1,0 +1,36 @@
+.dark-mode.theme-purple .theme-btn{
+    background-color: #8c65d4;
+    border: 1px solid #8c65d4;
+}
+.dark-mode.theme-purple .theme-color-swith input:checked + .slider {
+    background-color: #8c65d4 !important;
+}
+.dark-mode.theme-purple .wallet-transaction-ico,
+.dark-mode.theme-purple .color-switcher .toggle-button{
+    background-color: #8c65d4;   
+}
+.dark-mode.theme-purple .wallet-top-header-box .header-wallet-ico,
+.dark-mode.theme-purple .wallet-top-header-box h3 {
+    color: #fff !important;
+}
+.dark-mode.theme-purple .wallet-top-header-right .notification-box-area .notification-box .notification-active {
+    background-color: #fff;
+}
+.dark-mode.theme-purple .color-switcher .color-theme-menu h4,
+.dark-mode.theme-purple .wallet-bradcrumb h2,
+.dark-mode.theme-purple .header-nav-menu ul li.active > a, 
+.dark-mode.theme-purple .header-nav-menu ul li a:hover,
+.dark-mode.theme-purple .dashboard-title,
+.dark-mode.theme-purple .wallet-balance-box .wallet-balance-name h3, 
+.dark-mode.theme-purple .wallet-balance-box .wallet-balance-amount h3,
+.dark-mode.theme-purple .wallet-transaction-box .wallet-transaction-name h3, 
+.dark-mode.theme-purple .wallet-transaction-balance h3,
+.dark-mode.theme-purple .theme-input-box label,
+.dark-mode.theme-purple .notification-header h3,
+.dark-mode.theme-purple .wallet-top-header-box.user-top-detail ul li a,
+.dark-mode.theme-purple .wallet-language-box .dropdown-menu li > a{
+    color: #8c65d4;
+}
+.dark-mode.theme-purple .header-nav-menu ul li.active{
+    border-left-color: #8c65d4;
+}

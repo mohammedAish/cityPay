@@ -1,0 +1,9 @@
+@CHARSET "ISO-8859-1";
+#notify-holster {
+  bottom: 20px;
+  max-width: 350px;
+  position: fixed;
+  right: 15px;
+  width: 100%;
+  z-index: 99999998;
+}

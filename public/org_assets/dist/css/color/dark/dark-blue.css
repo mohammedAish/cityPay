@@ -1,0 +1,37 @@
+.dark-mode.theme-defalt .theme-btn{
+    background-color: #5a78d2;
+    border: 1px solid #5a78d2;
+}
+.dark-mode.theme-defalt .theme-color-swith input:checked + .slider,
+.dark-mode.theme-defalt .color-theme-menu .theme-defalt {
+    background-color: #5a78d2 !important;
+}
+.dark-mode.theme-defalt .wallet-transaction-ico,
+.dark-mode.theme-defalt .color-switcher .toggle-button{
+    background-color: #5a78d2;   
+}
+.dark-mode.theme-defalt .wallet-top-header-box .header-wallet-ico,
+.dark-mode.theme-defalt .wallet-top-header-box h3 {
+    color: #fff !important;
+}
+.dark-mode.theme-defalt .wallet-top-header-right .notification-box-area .notification-box .notification-active {
+    background-color: #fff;
+}
+.dark-mode.theme-defalt .color-switcher .color-theme-menu h4,
+.dark-mode.theme-defalt .wallet-bradcrumb h2,
+.dark-mode.theme-defalt .header-nav-menu ul li.active > a, 
+.dark-mode.theme-defalt .header-nav-menu ul li a:hover,
+.dark-mode.theme-defalt .dashboard-title,
+.dark-mode.theme-defalt .wallet-balance-box .wallet-balance-name h3, 
+.dark-mode.theme-defalt .wallet-balance-box .wallet-balance-amount h3,
+.dark-mode.theme-defalt .wallet-transaction-box .wallet-transaction-name h3, 
+.dark-mode.theme-defalt .wallet-transaction-balance h3,
+.dark-mode.theme-defalt .theme-input-box label,
+.dark-mode.theme-defalt .notification-header h3,
+.dark-mode.theme-defalt .wallet-top-header-box.user-top-detail ul li a,
+.dark-mode.theme-defalt .wallet-language-box .dropdown-menu li > a{
+    color: #5a78d2;
+}
+.dark-mode.theme-defalt .header-nav-menu ul li.active{
+    border-left-color: #5a78d2;
+}
