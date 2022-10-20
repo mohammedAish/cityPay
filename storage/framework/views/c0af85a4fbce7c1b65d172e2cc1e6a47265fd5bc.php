@@ -12,11 +12,11 @@
 
             <nav id="navbar" class="navbar ">
                 <ul>
-                    <li><a class="nav-link scrollto active" href="#hero">{{ __('site.Home') }}</a></li>
+                    <li><a class="nav-link scrollto active" href="#hero"><?php echo e(__('site.Home')); ?></a></li>
                     <li><a class="nav-link scrollto" href="#Aboutus">About</a></li>
-                    <li><a class="nav-link scrollto" href="#services">{{ __('site.services') }}</a></li>
+                    <li><a class="nav-link scrollto" href="#services"><?php echo e(__('site.services')); ?></a></li>
                     <li><a class="nav-link scrollto " href="#howsysteme">Evidence</a></li>
-                    <li><a class="nav-link scrollto" href="#Whychooseus">{{ __('site.whyUs') }}</a></li>
+                    <li><a class="nav-link scrollto" href="#Whychooseus"><?php echo e(__('site.whyUs')); ?></a></li>
                     <li><a class="nav-link scrollto" href="#paymant">Paymant</a></li>
 
                     <li><a class="nav-link scrollto" href="#contact">Contact us</a></li>
@@ -30,12 +30,12 @@
 
 
                             <li class="navLang">
-                                <a href="{{ LaravelLocalization::getLocalizedURL('ar') }}">
+                                <a href="<?php echo e(LaravelLocalization::getLocalizedURL('ar')); ?>">
                                     <img src="assets_v3/assets/img/icons/Language.png" /> AR
                                 </a>
                             </li>
                             <li class="navLang">
-                                <a href="{{ LaravelLocalization::getLocalizedURL('en') }}">
+                                <a href="<?php echo e(LaravelLocalization::getLocalizedURL('en')); ?>">
                                     <img src="assets_v3/assets/img/icons/Engilsh.png" /> EN
                                 </a>
                             </li>
@@ -55,3 +55,4 @@
 
 
 
+<?php /**PATH /Users/mac/Documents/GitHub/cityPay/resources/views/layouts/home/navbar.blade.php ENDPATH**/ ?>
